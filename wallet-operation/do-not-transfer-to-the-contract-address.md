@@ -1,0 +1,14 @@
+# Why can’t I transfer my assets to the contract address?
+
+A smart contract is a self-executing contract with the terms of the agreement written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized blockchain network. Taking Ethereum network as an example, issuing ERC20 Tokens on Ethereum network is essentially creating the smart contract of a Token. The code of the smart contract determines all information of the Token in this address.
+
+Since the smart contract doesn’t have private key, once transferred Tokens to the contract address, they may never be returned. In addition, Some contracts have reserved codes that can transfer Tokens, but people believe that "back door" left by anonymous projects is a hidden danger.
+
+Therefore, **please be sure to confirm whether the transfer is valid and double check your transfer information before transferring;** 
+
+**Don't transfer Tokens directly to the contract address!** 
+
+**Don't transfer Tokens directly to the contract address!** 
+
+**Don't transfer Tokens directly to the contract address!**
+

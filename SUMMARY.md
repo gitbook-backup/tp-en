@@ -1,0 +1,160 @@
+# Table of contents
+
+* [Help Center](README.md)
+
+## DeFi Series
+
+* [BSC](defi-series/bsc/README.md)
+  * [Beefy.finance Tutorial \(BSC\)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
+  * [Equator Tutorial](defi-series/bsc/equator-tutorial.md)
+  * [Ellipsis Tutorial \(BSC\)](defi-series/bsc/ellipsis-tutorial-bsc.md)
+  * [BakerySwap Tutorial \(BSC\)](defi-series/bsc/bakeryswap-tutorial-bsc.md)
+  * [How to Use DODO](defi-series/bsc/how-to-use-dodo.md)
+  * [Venus User Guide \(BSC\)](defi-series/bsc/venus-user-guide-bsc.md)
+  * [How to use PancakeSwap in TokenPocket Wallet](defi-series/bsc/how-to-use-pancakeswap-in-tokenpocket-wallet.md)
+
+## Tutorial Series
+
+* [FTM](tutorial-series/ftm/README.md)
+  * [Use TokenPocket wallet to participate in the operations of FTM mainnet](tutorial-series/ftm/use-tokenpocket-wallet-to-participate-in-the-operations-of-ftm-mainnet.md)
+* [Binance Smart Chain](tutorial-series/bsc/README.md)
+  * [How to exchange Binance's BTCB to the wallet for using](tutorial-series/bsc/how-to-convert-btc-to-btcb.md)
+  * [How to withdraw BNB to Binance Smart Chain](tutorial-series/bsc/take-money-from-bnb-to-tokenpocket-wallet.md)
+  * [Export "key" on Binance smart chain wallet](tutorial-series/bsc/export-key-on-binance-smart-chain-wallet.md)
+  * [Binance Smart Chain \(BSC\) wallet registration](tutorial-series/bsc/binance-smart-chain-bsc-wallet-registration.md)
+  * [Master the authorization management authority of DApp \(BSC\)](tutorial-series/bsc/master-the-authorization-management-authority-of-dapp-bsc.md)
+* [OKEx](tutorial-series/okex/README.md)
+  * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
+  * [The Usage Tutorial of OKExChain Test \(OKEx\)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
+* [Xswap 2.0](tutorial-series/xswap-2.0/README.md)
+  * [A Tutorial for Xswap 2.0——A Multi-chain Aggregator Platform](tutorial-series/xswap-2.0/tutorial-for-xswap-2.0.md)
+
+## FAQ <a id="faq-en"></a>
+
+* [Polkadot Wallet](faq-en/dot/README.md)
+  * [What are Transaction Tips?](faq-en/dot/tips.md)
+* [BTC Wallet](faq-en/btc-wallet/README.md)
+  * [Why is the fee so high for bitcoin transfer?](faq-en/btc-wallet/why-is-the-fee-so-high-for-bitcoin-transfer.md)
+  * [Why does my usdt prompt an address error when I want to transfer to a bitcoin address?](faq-en/btc-wallet/why-does-my-usdt-prompt-an-address-error-when-i-want-to-transfer-to-a-bitcoin-address.md)
+  * [Can usdt transfer to my bitcoin address?](faq-en/btc-wallet/can-usdt-transfer-to-my-bitcoin-address.md)
+  * [How many bitcoin addresses can you create in the TokenPocket wallet?](faq-en/btc-wallet/how-many-bitcoin-addresses-can-you-create-in-the-tokenpocket-wallet.md)
+  * [Can I create multiple BTC addresses?](faq-en/btc-wallet/can-i-create-multiple-btc-addresses.md)
+  * [My bitcoin has been transferred out but the receiver said did not receive, what should I do?](faq-en/btc-wallet/my-bitcoin-has-been-transferred-out-but-the-receiver-said-did-not-receive-what-should-i-do.md)
+  * [Can the TP wallet automatically collect bitcoins?](faq-en/btc-wallet/can-the-tp-wallet-automatically-collect-bitcoins.md)
+  * [How to choose the best miner's fee for bitcoin?](faq-en/btc-wallet/how-to-choose-the-best-miners-fee-for-bitcoin.md)
+  * [What are the advantages and disadvantages of the bitcoin lightning network?](faq-en/btc-wallet/what-are-the-advantages-and-disadvantages-of-the-bitcoin-lightning-network.md)
+  * [What is the relationship between USDT on BTC and BTC?](faq-en/btc-wallet/what-is-the-relationship-between-usdt-on-btc-and-btc.md)
+  * [What is the bitcoin lightning network?](faq-en/btc-wallet/what-is-the-bitcoin-lightning-network.md)
+  * [Does a bitcoin address have to start with a number?](faq-en/btc-wallet/does-a-bitcoin-address-have-to-start-with-a-number.md)
+  * [How many bits is the bitcoin address?](faq-en/btc-wallet/how-many-bits-is-the-bitcoin-address.md)
+  * [What is the smallest unit of bitcoin?](faq-en/btc-wallet/what-is-the-smallest-unit-of-bitcoin.md)
+  * [Will the miner's fee be deducted if the BTC transfer fails?](faq-en/btc-wallet/will-the-miners-fee-be-deducted-if-the-btc-transfer-fails.md)
+  * [How to export the BTC private key of TokenPocket wallet?](faq-en/btc-wallet/how-to-export-the-btc-private-key-of-tokenpocket-wallet.md)
+  * [What is BTC segwit?](faq-en/btc-wallet/what-is-btc-segwit.md)
+  * [Bitcoin transfer is slow, can it be accelerated?](faq-en/btc-wallet/bitcoin-transfer-is-slow-can-it-be-accelerated.md)
+  * [How to import the BTC private key into the wallet?](faq-en/btc-wallet/how-to-import-the-btc-private-key-into-the-wallet.md)
+  * [How to set the miner fee of BTC?](faq-en/btc-wallet/how-to-set-the-miner-fee-of-btc.md)
+  * [How to transfer BTC to exchange by wallet?](faq-en/btc-wallet/how-to-transfer-btc-to-exchange-by-wallet.md)
+  * [How to delete BTC wallet?](faq-en/btc-wallet/how-to-delete-btc-wallet.md)
+  * [What if you lose your password to your bitcoin wallet?](faq-en/btc-wallet/what-if-you-lose-your-password-to-your-bitcoin-wallet.md)
+  * [How to reset the password of bitcoin wallet?](faq-en/btc-wallet/how-to-reset-the-password-of-bitcoin-wallet.md)
+  * [What if the BTC private key is lost?](faq-en/btc-wallet/what-if-the-btc-private-key-is-lost.md)
+  * [How to backup bitcoin private key?](faq-en/btc-wallet/how-to-backup-bitcoin-private-key.md)
+  * [The page you were looking for doesn't exist – TokenPocket Help Center](faq-en/btc-wallet/the-page-you-were-looking-for-doesnt-exist-tokenpocket-help-center.md)
+  * [How to create a BTC wallet in TokenPocket?](faq-en/btc-wallet/untitled.md)
+  * [How to change the name of bitcoin \(BTC\) wallet in TokenPocket wallet?](faq-en/btc-wallet/how-to-change-the-name-of-bitcoin-btc-wallet-in-tokenpocket-wallet.md)
+  * [Is there a bitcoin browser in the TokenPocket wallet? How to use it?](faq-en/btc-wallet/is-there-a-bitcoin-browser-in-the-tokenpocket-wallet-how-to-use-it.md)
+  * [When my TokenPocket wallet APP was disconnected, someone transferred BTC bitcoin to me. Can I receiv](faq-en/btc-wallet/when-my-tokenpocket-wallet-app-was-disconnected-someone-transferred-btc-bitcoin-to-me.-can-i-receiv.md)
+  * [Will I lose my bitcoin stored in my TokenPocket wallet? Will my wallet steal my BTC?](faq-en/btc-wallet/will-i-lose-my-bitcoin-stored-in-my-tokenpocket-wallet-will-my-wallet-steal-my-btc.md)
+  * [What coins are on the BTC network?](faq-en/btc-wallet/what-coins-are-on-the-btc-network.md)
+  * [Can I mine BTC bitcoin with the TokenPocket wallet?](faq-en/btc-wallet/can-i-mine-btc-bitcoin-with-the-tokenpocket-wallet.md)
+  * [Will it give me interest if I deposit BTC in the TokenPocket wallet?](faq-en/btc-wallet/will-it-give-me-interest-if-i-deposit-btc-in-the-tokenpocket-wallet.md)
+  * [Where is the price of BTC in TokenPocket wallet displayed according to?](faq-en/btc-wallet/where-is-the-price-of-btc-in-tokenpocket-wallet-displayed-according-to.md)
+  * [Guía de ususario para BTC — billetera TokenPocket \[Traducción\]](faq-en/btc-wallet/guia-de-ususario-para-btc-billetera-tokenpocket-traduccion.md)
+  * [FAQs on Bitcoin Wallet](faq-en/btc-wallet/faqs-on-bitcoin-wallet.md)
+  * [What’s the change address](faq-en/btc-wallet/change-address.md)
+  * [What is OP\_RETURN？](faq-en/btc-wallet/op_return.md)
+  * [what is UTXO](faq-en/btc-wallet/utxo.md)
+  * [What’s the path](faq-en/btc-wallet/path.md)
+  * [What's the SegWit](faq-en/btc-wallet/segwit.md)
+* [ETH Wallet](faq-en/eth-wallet/README.md)
+  * [ETH 2.0 Staking Vault Service Agreement](faq-en/eth-wallet/eth-2.0-staking-vault-service-agreement.md)
+  * [Eth2.0 Staking Vault Rules](faq-en/eth-wallet/eth2.0-staking-vault.md)
+  * [How to retrieve the previous ETH wallet?](faq-en/eth-wallet/how-to-retrieve-the-previous-eth-wallet.md)
+  * [How to create ETH wallet?](faq-en/eth-wallet/how-to-create-eth-wallet.md)
+  * [TokenPocket Gas Station User Agreement](faq-en/eth-wallet/tokenpocket-gas-station-user-agreement.md)
+  * [Transaction Pending Forever? Here is How You Make it Successful Faster!](faq-en/eth-wallet/transaction-pending-forever-here-is-how-you-make-it-successful-faster.md)
+  * [FAQs on Ethereum](faq-en/eth-wallet/faqs-on-ethereum.md)
+  * [What is Token Transfer Approval, and What Risk Does it Involve?](faq-en/eth-wallet/what-is-token-transfer-approval-and-what-risk-does-it-involve.md)
+  * [DeFi with TokenPocket \| How to Claim Your UNI with TokenPocket](faq-en/eth-wallet/defi-with-tokenpocket-or-how-to-claim-your-uni-with-tokenpocket.md)
+  * [How to Use Watch Mode in TokenPocket to Check the Balance in ETH 2.0 Depositing Contract](faq-en/eth-wallet/how-to-use-watch-mode-in-tokenpocket-to-check-the-balance-in-eth-2.0-depositing-contract.md)
+  * [What is ETH Transaction Accelerator?](faq-en/eth-wallet/transaction-accelerator.md)
+  * [Manage the unpackaged transactions](faq-en/eth-wallet/unpackaged.md)
+  * [What is Token Approval and How to Grant Token Approval?](faq-en/eth-wallet/token-approval.md)
+* [OKT Wallet](faq-en/okt-wallet/README.md)
+  * [Upgrade of OKExChain Wallet](faq-en/okt-wallet/upgrade-of-okexchain-wallet.md)
+* [EOS Wallet](faq-en/eos-wallet/README.md)
+  * [Related News](faq-en/eos-wallet/untitled.md)
+  * [What Society Says?](faq-en/eos-wallet/untitled-1.md)
+  * [What Voice Team Says?](faq-en/eos-wallet/what-voice-team-says.md)
+  * [Apply for a free Voice Beta account](faq-en/eos-wallet/apply-for-a-free-voice-beta-account.md)
+  * [FAQs on Voice](faq-en/eos-wallet/faqs-on-voice.md)
+  * [What is Voice？](faq-en/eos-wallet/what-is-voice.md)
+  * [Register with the email/phone number.](faq-en/eos-wallet/register-with-the-email-phone-number..md)
+* [Multichain-wallet](faq-en/multichain-wallet/README.md)
+  * [what is Asset Collection？](faq-en/multichain-wallet/what-is-asset-collection.md)
+  * [Guide of Cold wallet](faq-en/multichain-wallet/coldwallet.md)
+  * [About sub-wallets](faq-en/multichain-wallet/sub-wallets.md)
+  * [What's the Mnemonic Phrase](faq-en/multichain-wallet/mnemonic-phrase.md)
+  * [What‘s the private key](faq-en/multichain-wallet/private-key.md)
+
+## wallet operation
+
+* [Use OKEx old chain for upgrading to OKEx mainnet \(EVM\)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
+* [What is Transaction ID \(Hash\) ?](wallet-operation/what-is-transaction-hash.md)
+* [Why can’t I transfer my assets to the contract address?](wallet-operation/do-not-transfer-to-the-contract-address.md)
+* [What if the assets cannot be recovered through guided self-help operation](wallet-operation/what-if-the-assets-cannot-be-recovered-through-guided-self-help-operation.md)
+* [How to add Custom Network](wallet-operation/how-to-add-custom-network.md)
+* [About Collection and Transfer](wallet-operation/about-public-chain-transfer.md)
+* [About Custom Token](wallet-operation/about-custom-token.md)
+* [How to Submit a Token Logo ?](wallet-operation/how-to-submit-a-token-logo.md)
+* [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
+
+## announcement
+
+* [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
+  * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
+* [APP Update](announcement/update/README.md)
+  * [Version update log \(June 11, 2021\):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
+  * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
+  * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
+
+## Contract Us
+
+* [Contact Us](contract-us/untitled.md)
+
+## Wallet Management
+
+* [How to Create a Wallet?](wallet-management/how-to-create-a-wallet.md)
+* [How to Import a Wallet?](wallet-management/how-to-import-a-wallet.md)
+* [How to Manage My Wallet?](wallet-management/how-to-manage-my-wallet.md)
+* [How to Switch My Wallet?](wallet-management/how-to-switch-my-wallet.md)
+* [How to use wallet sync function to find back my assets?](wallet-management/how-to-sync-the-wallet.md)
+
+## Token Management
+
+* [How to Search and Add Tokens?](token-management/how-to-search-and-add-tokens.md)
+* [How to Delete Tokens?](token-management/how-to-delete-tokens.md)
+* [How to Submit Tokens?](token-management/how-to-submit-a-token.md)
+
+## Transfer Tutorial
+
+* [How to Receive My Assets ?](transfer-tutorial/how-to-receive-my-assets.md)
+* [How to Transfer Assets to the Wallet/Exchange?](transfer-tutorial/how-to-transfer-assets-to-the-wallet-exchange.md)
+* [How to Cancel/Accelerate My Transaction?](transfer-tutorial/how-to-cancel-or-accelerate-my-transaction.md)
+* [How to Add Memo When Transferring?](transfer-tutorial/how-to-add-memo-when-transferring.md)
+
+## DeFi Tutorial
+
+* [What is DeFi ?](defi-tutorial/untitled.md)
+
