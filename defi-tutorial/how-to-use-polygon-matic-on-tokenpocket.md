@@ -92,7 +92,7 @@ We will take PoS Bridge as an example to show how to move funds from Ethereum to
 \*\*\*\*
 
 **Related Tutorials**  
-Ppolygon [FAQ](https://docs.matic.network/docs/faq/wallet-bridge-faq) and [Help](https://polygon.technology/contact-us/)  
+Polygon [FAQ](https://docs.matic.network/docs/faq/wallet-bridge-faq) and [Help](https://polygon.technology/contact-us/)  
 ****[How to sync the wallet from other chains to Polygon?](https://tphelp.gitbook.io/en/wallet-management/how-to-sync-the-wallet)
 
 
