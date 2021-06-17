@@ -63,7 +63,7 @@ We will take PoS Bridge as an example to show how to move funds from Ethereum to
 
 ![](../.gitbook/assets/br4.jpg)
 
-8. Confrim the transfer way is from Ethereum to Polygon, and then click \[Continue\];
+8. Double confirm that the transfer way is from Ethereum to Polygon, and then click \[Continue\];
 
 **Note: Delegation/Staking tokens are not supported.**
 
