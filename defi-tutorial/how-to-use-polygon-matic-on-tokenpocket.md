@@ -1,4 +1,4 @@
-# How to use Polygon \(Matic\) on TokenPocket
+# How to use Polygon \(Matic\) on TokenPocket?
 
 **About Polygon \(Matic\)**
 
@@ -89,7 +89,11 @@ We will take PoS Bridge as an example to show how to move funds from Ethereum to
 
 ![](../.gitbook/assets/jie-wei-en.jpg)
 
-**Related Tutorial**
+\*\*\*\*
 
-**How to sync the wallet from other chains to Polygon?**
+**Related Tutorials**  
+Ppolygon [FAQ](https://docs.matic.network/docs/faq/wallet-bridge-faq) and [Help](https://polygon.technology/contact-us/)  
+****[How to sync the wallet from other chains to Polygon?](https://tphelp.gitbook.io/en/wallet-management/how-to-sync-the-wallet)
+
+
 
