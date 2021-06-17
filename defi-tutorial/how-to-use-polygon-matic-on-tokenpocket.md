@@ -2,7 +2,7 @@
 
 **About Polygon \(Matic\)**
 
-TokenPocket has support Polygon mainnet \(previously Matic network\), so users can use Polygon through TokenPocket. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
+TokenPocket has supported Polygon mainnet \(previously Matic network\), so users can use Polygon through TokenPocket. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
 
 
