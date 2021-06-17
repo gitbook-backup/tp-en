@@ -22,7 +22,7 @@ TokenPocket has supported Polygon mainnet \(previously Matic network\), so users
 
 ![](../.gitbook/assets/hua-ban-1-kao-bei-4.png)
 
-4. Now, you need to fill in order your mnemonic to verify, and then clikc \[Confirm\]. At this moment, you have created Polygon \(Matic\) successfully !
+4. Now, you need to fill in order your mnemonic to verify, and then click \[Confirm\]. At this moment, you have created Polygon \(Matic\) successfully !
 
 ![](../.gitbook/assets/hua-ban-1-kao-bei-5.png)
 
