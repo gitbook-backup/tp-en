@@ -87,7 +87,7 @@ We will take PoS Bridge as an example to show how to move funds from Ethereum to
 
 **Tip:** You can set the miner fee to adjust Gas Price and Gas Limit on payment page by your own preference.
 
-![](../.gitbook/assets/jie-wei-en.jpg)
+![](../.gitbook/assets/b12.jpg)
 
 \*\*\*\*
 
