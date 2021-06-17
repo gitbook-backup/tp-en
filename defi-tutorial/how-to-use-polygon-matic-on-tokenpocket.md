@@ -10,19 +10,21 @@ TokenPocket has supported Polygon mainnet \(previously Matic network\), so users
 
 1.Open TokenPocket App, click the wallet name in the upper left corner to switch wallet, choose \[Polygon\], and then click \[Add Wallet\];
 
-
+![](../.gitbook/assets/hua-ban-1-kao-bei-2.png)
 
 2. Click \[Create\], and then click \[Create Wallet\];
 
-3.
+![](../.gitbook/assets/hua-ban-1-kao-bei-3.png)
 
+3. Set wallet name and password in order, and then tick \[Terms of Service and Privacy\], click \[Create Wallet\] to continue. Back up your mnemonic and then click \[Completed Backup, Verify it\]
 
+**Attention: Do not disclose mnemonic words to anyone!**
 
-4.
+![](../.gitbook/assets/hua-ban-1-kao-bei-4.png)
 
+4. Now, you need to fill in order your mnemonic to verify, and then clikc \[Confirm\]. At this moment, you have created Polygon \(Matic\) successfully !
 
-
-5.
+![](../.gitbook/assets/hua-ban-1-kao-bei-5.png)
 
 
 
