@@ -157,5 +157,6 @@
 ## DeFi Tutorial
 
 * [What is DeFi ?](defi-tutorial/untitled.md)
+* [What is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-use-polygon-matic-on-tokenpocket.md)
 
