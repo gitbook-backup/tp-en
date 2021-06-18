@@ -4,5 +4,5 @@ DeFi is short for "Decentralized Finance". Compared with traditional centralized
 
 The goal of DeFi is to establish a multi-level financial system to recreate and improve the existing financial system based on blockchain technology and cryptocurrency. 
 
-Currently, almost all DeFi projects are running on the Ethereum blockchain, and smart contracts are the main constructed blocks of DeFi. The most common types of DeFi Dapps today include Compound, MakerDAO, Synthetix, and decentralized exchanges \(such as Uniswap, PancakeSwap, etc.\)
+Currently, almost all DeFi projects are running on the Ethereum blockchain, and smart contracts are the main constructed blocks of DeFi. The most common types of DeFi Dapps today include Compound, MakerDAO, Synthetix, and decentralized exchanges \(Uniswap, PancakeSwap, etc.\)
 
