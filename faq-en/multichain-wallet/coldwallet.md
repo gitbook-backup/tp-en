@@ -15,11 +15,7 @@ What should we prepare？
 
 **Step 1: （online）Input your account to enter the Observe Mode**
 
-![Coldwallet01.png](https://help.mytokenpocket.vip/hc/article_attachments/360027772812/Coldwallet01.png)
-
 **Step 2:（offline） Input your PK to enter the Cold Wallet**
-
-![coldwallet02.png](https://help.mytokenpocket.vip/hc/article_attachments/360027763471/coldwallet02.png)
 
 How to use Cold Wallet？
 
