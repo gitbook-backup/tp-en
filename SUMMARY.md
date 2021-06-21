@@ -149,6 +149,10 @@
 * [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-use-polygon-matic-on-tokenpocket.md)
 * [How to Trade on DEX——Uniswap \(Ethereum\)](defi-tutorial/how-to-trade-on-dex-uniswap-ethereum.md)
 
+## Transfer FAQ
+
+* [Why can’t I transfer my assets to the contract address?](transfer-faq/why-cant-i-transfer-my-assets-to-the-contract-address.md)
+
 ## announcement
 
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
