@@ -120,19 +120,6 @@
 * [How to Submit a Token Logo ?](wallet-operation/how-to-submit-a-token-logo.md)
 * [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
 
-## announcement
-
-* [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
-  * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
-* [APP Update](announcement/update/README.md)
-  * [Version update log \(June 11, 2021\):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
-  * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
-  * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
-
-## Contract Us
-
-* [Contact Us](contract-us/untitled.md)
-
 ## Wallet Management
 
 * [How to Create a Wallet?](wallet-management/how-to-create-a-wallet.md)
@@ -161,4 +148,17 @@
 * [How to Submit DApp?](defi-tutorial/how-to-submit-dapp.md)
 * [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-use-polygon-matic-on-tokenpocket.md)
 * [How to Trade on DEX——Uniswap \(Ethereum\)](defi-tutorial/how-to-trade-on-dex-uniswap-ethereum.md)
+
+## announcement
+
+* [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
+  * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
+* [APP Update](announcement/update/README.md)
+  * [Version update log \(June 11, 2021\):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
+  * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
+  * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
+
+## Contract Us
+
+* [Contact Us](contract-us/untitled.md)
 
