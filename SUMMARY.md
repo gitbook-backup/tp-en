@@ -114,7 +114,6 @@
 * [What is Transaction ID \(Hash\) ?](wallet-operation/what-is-transaction-hash.md)
 * [What if the assets cannot be recovered through guided self-help operation](wallet-operation/what-if-the-assets-cannot-be-recovered-through-guided-self-help-operation.md)
 * [How to add Custom Network](wallet-operation/how-to-add-custom-network.md)
-* [About Collection and Transfer](wallet-operation/about-public-chain-transfer.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
 * [How to Submit a Token Logo ?](wallet-operation/how-to-submit-a-token-logo.md)
 * [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
@@ -151,7 +150,7 @@
 ## Transfer FAQ
 
 * [Why can’t I transfer my assets to the contract address?](transfer-faq/why-cant-i-transfer-my-assets-to-the-contract-address.md)
-* [Untitled](transfer-faq/untitled.md)
+* [Why can't transfer tokens between different chains?](transfer-faq/about-public-chain-transfer.md)
 
 ## announcement
 
