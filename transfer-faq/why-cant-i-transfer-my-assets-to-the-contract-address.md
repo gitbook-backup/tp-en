@@ -6,9 +6,9 @@ Since the smart contract doesn’t have a private key, once transferred tokens t
 
 Therefore, **please be sure to confirm whether the transfer is valid and double check your transfer information before transferring;** 
 
-**Don't transfer Tokens directly to the contract address!** 
+**Don't transfer tokens directly to the contract address!** 
 
-**Don't transfer Tokens directly to the contract address!** 
+**Don't transfer tokens directly to the contract address!** 
 
-**Don't transfer Tokens directly to the contract address!**
+**Don't transfer tokens directly to the contract address!**
 
