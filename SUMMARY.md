@@ -112,7 +112,6 @@
 
 * [Use OKEx old chain for upgrading to OKEx mainnet \(EVM\)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [What is Transaction ID \(Hash\) ?](wallet-operation/what-is-transaction-hash.md)
-* [Why can’t I transfer my assets to the contract address?](wallet-operation/do-not-transfer-to-the-contract-address.md)
 * [What if the assets cannot be recovered through guided self-help operation](wallet-operation/what-if-the-assets-cannot-be-recovered-through-guided-self-help-operation.md)
 * [How to add Custom Network](wallet-operation/how-to-add-custom-network.md)
 * [About Collection and Transfer](wallet-operation/about-public-chain-transfer.md)
@@ -152,6 +151,7 @@
 ## Transfer FAQ
 
 * [Why can’t I transfer my assets to the contract address?](transfer-faq/why-cant-i-transfer-my-assets-to-the-contract-address.md)
+* [Untitled](transfer-faq/untitled.md)
 
 ## announcement
 
