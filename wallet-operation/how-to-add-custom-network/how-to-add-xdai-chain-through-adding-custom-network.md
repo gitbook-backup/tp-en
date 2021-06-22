@@ -28,6 +28,8 @@
 
 ![](../../.gitbook/assets/xdai8.jpg)
 
+**Note:** TokenPocket cannot verify the custom network, please add your trusted networks.
+
 **Related tutorials**   
 [How to create a wallet?](https://tphelp.gitbook.io/en/wallet-management/how-to-create-a-wallet)
 
