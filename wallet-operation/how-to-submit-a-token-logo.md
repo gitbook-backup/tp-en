@@ -133,6 +133,8 @@ After completing the above information, you can add the token logo and informati
 
 5. In Commit changes box: Fill up the Token information in subject line and additional description you want to add in content field, and then click \[Commit changes\].
 
+**Note:** Please add the 100TPT transaction ID link in the content description, otherwise it will not pass the review.
+
 ![](../.gitbook/assets/github5.jpg)
 
   
