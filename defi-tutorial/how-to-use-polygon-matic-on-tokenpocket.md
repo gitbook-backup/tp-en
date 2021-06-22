@@ -28,13 +28,17 @@ TokenPocket has supported Polygon mainnet \(previously Matic network\), so users
 
 
 
-**How to use Polygon on TokenPocket ?**
+**How to use Polygon Bridge and xPollinate on TokenPocket ?**
 
 **About** [**Polygon Bridge**](https://wallet.matic.network/bridge/)  
-****If you want to move funds from Ethereum to Polygon, you must go through the so-called "bridge", and the "bridge" works through a locking and exit mechanism. On Polygon, users can choose to use two types of bridges: **Plasma Bridge** and **PoS Bridge**. Plasma ****provides advanced security with plasma exit mechanism. It will take **7 days** to transfer your funds back to Etnereum, while the PoS security will only take about **3 hours** back to Etnereum since it is provided by the PoS validators. 
+****If you want to move funds from **Ethereum** to Polygon, you must go through the so-called "bridge", and the "bridge" works through a locking and exit mechanism. On Polygon, users can choose to use two types of bridges: **Plasma Bridge** and **PoS Bridge**. Plasma ****provides advanced security with plasma exit mechanism. It will take **7 days** to transfer your funds back to Etnereum, while the PoS security will only take about **3 hours** back to Etnereum since it is provided by the PoS validators. 
 
-We will take PoS Bridge as an example to show how to move funds from Ethereum to Polygon.
+**About** [**xPollinate**](https://www.xpollinate.io/)  
+****xPollinate supports the mutual transfer of funds among the Polygon, BSC, and xDAI, which means that users can move  assets from BSC to Polygon and xDAI. Currently, only stable tokens are supported. 
 
+The following are the detailed steps for Polygon Bridge and xPollinate:
+
+**How to transfer founds from Ethereum to Polygon by Polygon Bridge?** \(Take PoS Bridge as an example\)  
 1.Click \[Discover\] on the bottom of TokenPocket, and then search \[Polygon Bridge\];
 
 ![](../.gitbook/assets/b1.jpg)
@@ -91,9 +95,36 @@ We will take PoS Bridge as an example to show how to move funds from Ethereum to
 
 \*\*\*\*
 
-**Related Tutorials**  
-Polygon [FAQ](https://docs.matic.network/docs/faq/wallet-bridge-faq) and [Help](https://polygon.technology/contact-us/)  
-****[How to sync the wallet from other chains to Polygon?](https://tphelp.gitbook.io/en/wallet-management/how-to-sync-the-wallet)
+**How to transfer founds from BSC to Polygon by xPollinate ?**   
+1. Search \[xPollinate\] on the \[Discover\] page and then enter the xPollinate page, click \[Connect\] to connect your wallet address; \(Take connecting BSC network as an example\) 
+
+![](../.gitbook/assets/op2.jpg)
+
+2. Select a mainnet that you need to transfer out/to founds; \(Take cross BSC chain to Matic chain as an example here\)
+
+![](../.gitbook/assets/op02.jpg)
+
+3. Select the token you need to transfer; \(Currently, only stable tokens are supported.\)
+
+![](../.gitbook/assets/op3.jpg)
+
+4. After approving, enter the token amount, and then the receiving token will be filled in automatically, click \[Swap\] after confirming the receiver address.
+
+![](../.gitbook/assets/op5.jpg)
+
+5. After entering the wallet password, your transaction will be processed.
+
+![](../.gitbook/assets/op7.png)
+
+**Note:** This beta software, use at your own risk.
+
+
+
+**Related Tutorials**
+
+1\) Polygon [FAQ](https://docs.matic.network/docs/faq/wallet-bridge-faq) and [Help](https://polygon.technology/contact-us/)
+
+[2\) How to sync the wallet from other chains to Polygon?](https://tphelp.gitbook.io/en/wallet-management/how-to-sync-the-wallet)
 
 
 
