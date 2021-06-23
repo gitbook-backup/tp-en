@@ -2,7 +2,7 @@
 
 **About** [**Polygon \(Matic\)**](https://polygon.technology/)\*\*\*\*
 
-TokenPocket has supported Polygon mainnet \(previously Matic network\), so users can use Polygon through TokenPocket. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
+TokenPocket has supported Polygon mainnet \(Matic before\), so users can use Polygon through TokenPocket. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
 
 
@@ -95,12 +95,12 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 
 \*\*\*\*
 
-**How to transfer founds from BSC to Polygon by xPollinate ?**   
+**How to transfer funds from BSC to Polygon by xPollinate ?**   
 1. Search \[xPollinate\] on the \[Discover\] page and then enter the xPollinate page, click \[Connect\] to connect your wallet address; \(Take connecting BSC network as an example\) 
 
 ![](../.gitbook/assets/op2.jpg)
 
-2. Select a mainnet that you need to transfer out/to founds; \(Take cross BSC chain to Matic chain as an example here\)
+2. Select a mainnet that you need to transfer out/to funds; \(Take cross BSC chain to Matic chain as an example here\)
 
 ![](../.gitbook/assets/op02.jpg)
 
