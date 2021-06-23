@@ -1,8 +1,8 @@
 # Why did I not receive my funds from the wallet to the exchange?
 
-First of all, transfer on the blockchain is divided into three steps: **Transfer out from the wallet Confirmation on the blockchain - Transfer into the exchange.** 
+First of all, transfer on the blockchain is divided into three steps: **Transfer from the wallet - Confirmation on the blockchain - Transfer into the exchange.** 
 
-If you transfer tokens from TokenPocket but didn't receive it on the exchange, please follow the steps below to check: 
+If you've transferred tokens from TokenPocket but didn't receive it on the exchange, please follow the steps below: 
 
 **1. Check whether the transaction has been transferred out:**  
 After submitting a withdrawal on TokenPocket, the withdrawal record will be displayed on the \[Transfer\] page. Once the transaction ID is generated, it means that the withdrawal is already on the chain, and the wallet withdrawal process is completed. At this time, you need to click Transaction ID to view the details on the chain. \(The way of viewing details on blockchain is on the last section of the page\) 
