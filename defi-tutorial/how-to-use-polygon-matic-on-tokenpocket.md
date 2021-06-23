@@ -108,7 +108,7 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 
 ![](../.gitbook/assets/op3.jpg)
 
-4. After approving, enter the token amount, and then the receiving token will be filled in automatically, click \[Swap\] after confirming the receiver address.
+4. After approving, enter the token amount, and then the receiving token will be filled in automatically, click \[Swap\] to proceed.
 
 ![](../.gitbook/assets/op5.jpg)
 
