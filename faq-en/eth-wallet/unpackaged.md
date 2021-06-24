@@ -8,5 +8,3 @@ If a transfer or in-DApp payment is initiated when there exists an unsuccessful 
 
 \[Cover the Earliest Unapproved Transaction\] means to cancel the previous transaction, and you will need to confirm if the unapproved transaction has important data.
 
-![\_\_\_\_\_20200828200119.jpg](https://help.mytokenpocket.vip/hc/article_attachments/900003256426/_____20200828200119.jpg)
-
