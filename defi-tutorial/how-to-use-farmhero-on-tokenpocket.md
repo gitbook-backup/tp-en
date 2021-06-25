@@ -1,10 +1,6 @@
 # How to transfer my assets from BSC to Polygon?
 
-**About** [**Farmhero**](https://polygon.farmhero.io/)\*\*\*\*
-
-FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.
-
-**How to transfer your hero assets from BSC to Polygon?**
+**How to transfer your assets on FarmHero from BSC to Polygon?**
 
 1.Open TokenPocket App, search \[xPollinate\] on the \[Discover\] page, and then click \[Connect\] to connect your wallet address;
 
@@ -48,7 +44,13 @@ Note: Currently, xPollinate only supports stable tokens. If you need to transfer
 
 
 
+**About FarmHero**
 
+FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.
+
+**About TokenPocket**
+
+TokenPocket is the world’s leading decentralized wallet, which supports mainstream public chains including BTC, ETH, BSC, HECO, TRX, Polygon, OEC, HSC, Polkadot, Kusama, EOS, etc., and has provided reliable services for over 10 million users around the world. The number of monthly active users exceeds 3 million and the users of TokenPocket are located in more than 200 countries and regions around the world. 
 
 
 
