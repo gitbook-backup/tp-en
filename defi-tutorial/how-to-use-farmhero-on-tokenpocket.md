@@ -4,7 +4,7 @@
 
 1.Open TokenPocket App, search \[xPollinate\] on the \[Discover\] page, and then click \[Connect\] to connect your wallet address;
 
-Note: Currently, xPollinate only supports stable tokens. If you need to transfer your assets from BSC to Polygon, please exchange your assets to stable tokens such as USDT first.
+Note: Currently, xPollinate only supports stable tokens. If you need to transfer your assets from BSC to Polygon, please exchange to stable tokens such as USDT first.
 
 ![](../.gitbook/assets/op2%20%281%29.jpg)
 
