@@ -145,8 +145,8 @@
 * [What is DeFi ?](defi-tutorial/untitled.md)
 * [What is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to Submit DApp?](defi-tutorial/how-to-submit-dapp.md)
-* [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-use-polygon-matic-on-tokenpocket.md)
-* [Guide To Transfer Assets From BSC To Polygon](defi-tutorial/how-to-use-farmhero-on-tokenpocket.md)
+* [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-use-polygon-matic-on-tokenpocket/README.md)
+  * [Guide To Transfer Assets From BSC To Polygon](defi-tutorial/how-to-use-polygon-matic-on-tokenpocket/how-to-use-farmhero-on-tokenpocket.md)
 * [How to Trade on DEX——Uniswap \(Ethereum\)](defi-tutorial/how-to-trade-on-dex-uniswap-ethereum.md)
 
 ## Transfer FAQ
