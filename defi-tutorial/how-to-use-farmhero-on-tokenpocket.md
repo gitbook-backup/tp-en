@@ -1,49 +1,52 @@
-# How to use Farmhero on TokenPocket?
+# How to transfer my assets from BSC to Polygon?
 
 **About** [**Farmhero**](https://polygon.farmhero.io/)\*\*\*\*
 
 FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.
 
-**How to play Farmhero on TokenPocket?**
+**How to transfer your hero assets from BSC to Polygon?**
 
-1.Open TokenPocket App, and then select Polygon wallet;
+1.Open TokenPocket App, search \[xPollinate\] on the \[Discover\] page, and then click \[Connect\] to connect your wallet address;
 
-2. Search \[Farmhero\] on the \[Discover\] page;
+Note: Currently, xPollinate only supports stable tokens. If you need to transfer your assets from BSC to Polygon, please exchange your assets to stable tokens such as USDT first.
 
-3. After entering Farmhero page, select \[Matic\] network;
+![](../.gitbook/assets/op2%20%281%29.jpg)
 
-4. You can click the address in the upper right corner to check your \[heroes\];
+2. Select the way from BSC mainnet to Matic; 
 
-5. You can click the button to view the navigation bar.
+![](../.gitbook/assets/op02%20%281%29.jpg)
 
-**About buying NFT**
+3. Select the token you need to transfer; \(Take USDT as an example here\)
 
-1.Click NFT on the navigation bar, select the GENESIS NFT;
+![](../.gitbook/assets/op3%20%281%29.jpg)
 
-Note: Loot Box series will be launched by the end of July 202. Please stay tuned.
+4. After approving, enter the token amount, and then the receiving token will be filled in automatically, click \[Swap\] to proceed.
 
-2. After entering the NFT page, you can choose the NFT you want to buy, and then you can view the NFT information below, enter the amount and then click \[Buy\].
+![](../.gitbook/assets/op5%20%281%29.jpg)
 
-**About Staking and Vesting**
+5. After entering the wallet password, your transaction will be processed.
 
-1.Click \[Staking + Vesting\] on the navigation bar;
+**Note:** This beta software, use at your own risk.
 
-2. Drag down to the bottom of the page after entering and then choose a mode to stake $HONOR for earning fee-sharing dividends; \(Take \[Stake $HONOR\] as an example\)
+![](../.gitbook/assets/op7%20%281%29.png)
 
-**Note:** Users can deposit designated tokens to earn $HONOR;
+6. After successfully transferring, you can create/import Polygon wallet by creating or importing your private key/mnemonic on TokenPocket.
 
-3. After that, you can slide up the page to check the vesting and staking $HONOR;
+![](../.gitbook/assets/matic.jpg)
 
-4. You can click \[Withdraw Staking\] or \[Claim Rewards\] on this page.
+![](../.gitbook/assets/matic2.jpg)
 
-Attention: Please read the rules carefully before you make any operations.
+7. Add your tokens by clicking \[+\], and then your assets will be shown;
 
-More funs such as \[FARM\] and \[GAME\] are waiting for you to experience ！  
+![](../.gitbook/assets/tian-jia-dai-bi-.jpg)
+
+2. Search \[Farmhero\] on the \[Discover\] page, and then you can select \[Matic\] network to use Farmhero;
+
+![](../.gitbook/assets/hero.jpg)
+
+![](../.gitbook/assets/hero1.jpg)
 
 
-**About TokenPocket**
-
-TokenPocket is the world’s leading decentralized wallet, which supports mainstream public chains including BTC, ETH, BSC, HECO, TRX, OEC, HSC, Polygon, Polkadot, Kusama, EOS, etc., and has provided reliable services for over 10 million users around the world. The number of monthly active users exceeds 3 million and the users of TokenPocket are located in more than 200 countries and regions around the world. 
 
 
 
