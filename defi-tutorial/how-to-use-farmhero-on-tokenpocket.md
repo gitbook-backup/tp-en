@@ -1,4 +1,4 @@
-# How to transfer my assets from BSC to Polygon?
+# Guide To Transfer Assets From BSC to Polygon
 
 **How to transfer your assets on FarmHero from BSC to Polygon?**
 
