@@ -32,7 +32,7 @@ Note: Currently, xPollinate only supports stable tokens. If you need to transfer
 
 ![](../.gitbook/assets/matic2.jpg)
 
-7. Add your tokens by clicking \[+\], and then your assets will be shown;
+7. Add your tokens by clicking \[+\], and then your assets will be shown on the page;
 
 ![](../.gitbook/assets/tian-jia-dai-bi-.jpg)
 
