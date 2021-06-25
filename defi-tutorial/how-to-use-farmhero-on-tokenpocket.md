@@ -44,7 +44,7 @@ Note: Currently, xPollinate only supports stable tokens. If you need to transfer
 
 
 
-**About FarmHero**
+**About** [**FarmHero**](https://bsc.farmhero.io/)\*\*\*\*
 
 FarmHero is a novel protocol that mixes NFT, gaming and DEFI concepts.
 
