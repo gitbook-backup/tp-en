@@ -1,4 +1,4 @@
-# How to Trade on DEX——Uniswap \(Ethereum\)
+# Guide To Use Uniswap on Ethereum
 
 **About** [**Uniswap**](https://uniswap.org/)  
 ****Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all. Currently, Uniswap supports **Ethereum network**.
