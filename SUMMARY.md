@@ -156,6 +156,7 @@
 * [Why did I not receive my funds from the wallet to the exchange?](transfer-faq/why-did-i-not-receive-my-funds-from-the-wallet-to-the-exchange.md)
 * [Why did I not receive my funds from the exchange to the wallet?](transfer-faq/why-did-i-not-receive-my-funds-from-the-exchange-to-the-wallet.md)
 * [Why does the transfer always show pending status?](transfer-faq/why-does-the-transfer-always-show-pending-status.md)
+* [Why can't I return the funds when failed to transfer?](transfer-faq/why-cant-i-return-the-funds-when-failed-to-transfer.md)
 
 ## announcement
 
