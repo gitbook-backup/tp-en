@@ -1,11 +1,11 @@
 # How to Use Wallet Sync Function?
 
-"**Wallet Sync"** is designed to help users quickly synchronize wallets on this network to other networks. When you transferred assets by a wrong network protocol \(chain\), this function can get your assets back. 
+"**Wallet Sync"** is designed to help users quickly synchronize wallets on this network to other networks. When you transferred assets by the wrong network protocol \(chain\), this function can get your assets back. 
 
 For example, if you've transferred USDT to Ethereum wallet address by HECO chain, you won't receive your USDT in Ethereum wallet. In this case, your USDT will be in HECO chain, so, what you need to do is syncing HECO network, which means that a receiving address of heco network will be generated in your other wallets, and then your assets can be found. \(If the token was still not shown on your wallet, please add the token manually\)
 
 **Steps:**  
-1.Open TokenPocket App, click on the wallet name in the upper left corner of the \[Asset\] page. If your wallet is HD wallet, you need to click \[Details\];
+1.Open TokenPocket App, click on the wallet name in the upper left corner of the \[Asset\] page. If your wallet is HD wallet, you need to click \[Details\]; \(Take syncing ETH network wallet to another network as an example\)
 
 ![](../.gitbook/assets/tong-bu-01.jpg)
 
