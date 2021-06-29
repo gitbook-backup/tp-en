@@ -4,7 +4,7 @@ description: Tutorial of a token logo submission in GitHub
 
 # How to Submit a Token Logo ?
 
-Please select the corresponding link on [Github ](https://github.com/TP-Lab/tokens)according to the token type when submitting a token logo/info. It will be regard as invalid if the token information file is not included.
+Please select the corresponding link on [Github ](https://github.com/TP-Lab/tokens)according to the token type when submitting a token logo/info. It will be regarded as invalid if the token information file is not included.
 
 Ethereum：[https://github.com/TP-Lab/tokens/tree/master/eth](https://github.com/TP-Lab/tokens/tree/master/eth)​‌
 
@@ -34,9 +34,9 @@ Background: transparent is recommanded.
 {% endcode %}
 
 **Tip:**   
-There are two online services recommanded to edit your image:
+There are two online services recommended to edit your image:
 
-* [onlinepngtools](https://onlinepngtools.com/resize-png), to resize image to 256 x 256
+* [onlinepngtools](https://onlinepngtools.com/resize-png), to resize the image to 256 x 256
 
 ![](../.gitbook/assets/1.jpg)
 
@@ -82,30 +82,30 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 \*\*\*\*
 
 **Fees for Submissions**  
-Please be noted that there will be 100 TPT for every token logo/info submission. So, please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
+Please be noted that there will be 1000 TPT for every token logo/info submission. So, please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
 
-1.Open TokenPocket App, click \[Assets\] on the bottom, choose TPT Token, and then click \[Transfer\] to procceed.
+1.Open TokenPocket App, click \[Assets\] on the bottom, choose TPT Token, and then click \[Transfer\] to proceed.
 
 ![](../.gitbook/assets/wechatimg9.png) ![](../.gitbook/assets/wechatimg10.png) 
 
-2. Click \[Transfer\], enter receiving address and 100 TPT amount, Click \[Confirm\] after choosing fee, and then click \[Transfer\] after confirming the information.
+2. Click \[Transfer\], enter receiving address and 1000 TPT amount, Click \[Confirm\] after choosing fee, and then click \[Transfer\] after confirming the information.
 
-**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** \(Also can scan QR code below to get receiving address\). **Only support to receive TPT in BSC, HECO and Ethereum chain.** Please double confirm your transfer information ! 
+**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** \(Also can scan QR code below to get receiving address\). **Only support to receive TPT in BSC, HECO and Ethereum chain.** Please double confirm your transfer information! 
 
-![](../.gitbook/assets/code.jpeg) ![](../.gitbook/assets/wechatimg11.png) 
+![](../.gitbook/assets/code.jpeg)  
 
-3. Back to \[Assets\] after transferring 100 TPT successfully, choose BNB Token, click \[Transfer\] to procceed.
+3. Back to \[Assets\] after transferring 1000 TPT successfully, choose BNB Token, click \[Transfer\] to proceed.
 
 ![](../.gitbook/assets/wechatimg9-1.png)
 
-4. Enter receiving address \(same as above\) and 0 BNB \( If 0 BNB transfer is not supported, you may enter a very small amount \), choose fees and then click \[Advance\] - \[Plain\] in the bottom right corner to enter the text required on \[Chain Data\] according to the format.
+4. Enter receiving address \(same as above\) and 0 BNB \( If 0 BNB transfer is not supported, you can enter a very small amount and try it again\), choose fees and then click \[Advanced\] - \[Plain\] in the bottom right corner to enter the text required on \[Chain Data\] according to the format.
 
-\(Format requirement: The chain of the Token submission - Smart contract of the Token submission - Transaction ID for 100 TPT. \)  
+\(Format requirement: The chain of the Token submission - Smart contract of the Token submission - Transaction ID for 1000 TPT. \)  
 For example: BSC - TPT - 0xeca41\*\*\*168a372c2b8645af45092 - [https://bscscan.com/tx/0xe\*\*\*a99411774b48d8c40a71fb35220b42fa505aa5dd](https://bscscan.com/tx/0xe6e7be7680ea438a36eb5463a99411774b48d8c40a71fb35220b42fa505aa5dd)
 
 ![](../.gitbook/assets/wechatimg18.png)
 
-5. Click \[Transfer\] after comfirming the transaction detail.
+5. Click \[Transfer\] after confirming the transaction detail.
 
 ![](../.gitbook/assets/wechatimg19.png)
 
@@ -113,7 +113,7 @@ For example: BSC - TPT - 0xeca41\*\*\*168a372c2b8645af45092 - [https://bscscan.c
 
 ### **Steps of Adding a Token Logo/Info**
 
-After completing the above information, you can add the token logo and information file on [GitHub](https://github.com/TP-Lab/tokens). Please refer to steps as following:
+After completing the above information, you can add the token logo and information file on [GitHub](https://github.com/TP-Lab/tokens). Please refer to the steps as following:
 
 1. Create a folder with the token contract name**\(checksum format\)**. Drag both `info.json` and `logo.png` inside the folder.
 
@@ -131,9 +131,9 @@ After completing the above information, you can add the token logo and informati
 
 ![](../.gitbook/assets/github4.jpg)
 
-5. In Commit changes box: Fill up the Token information in subject line and additional description you want to add in content field, and then click \[Commit changes\].
+5. In the \[Commit changes\] box: Fill up the Token information in the subject line and additional description you want to add in the content field, and then click \[Commit changes\].
 
-**Note:** Please add the 100TPT transaction ID link in the content description, otherwise it will not pass the review.
+**Note:** Please add the 1000 TPT transaction ID link in the content description, otherwise it will not pass the review.
 
 ![](../.gitbook/assets/github5.jpg)
 
@@ -143,7 +143,7 @@ After completing the above information, you can add the token logo and informati
 ![](../.gitbook/assets/github6.jpg)
 
   
-7. Click \[Create a pull request\] to procceed.
+7. Click \[Create a pull request\] to proceed.
 
 ![](../.gitbook/assets/github7.jpg)
 
@@ -163,9 +163,9 @@ After completing the above information, you can add the token logo and informati
 
 ### **How to Get Approved? ‌** 
 
-Pull requests will be verified before being added to the Token reposiory. Therefore, please check whether the Token files you submitted meets the following requirements:‌ 
+Pull requests will be verified before being added to the Token repository. Therefore, please check whether the Token files you submitted meets the following requirements:‌ 
 
-* Fees of 100 TPT are paid
+* Fees of 1000 TPT are paid
 * Projects have no counterfeit or fraudulent behavior
 * Detailed token information 
 
@@ -177,7 +177,7 @@ TokenPocket team allows anyone to submit a token request to this repository. But
 
 ### When Will the Token Logo/Info be Added? <a id="when-will-the-asset-be-added"></a>
 
-After further verification, the admin will merge the pull request within 5 business days. If there are any additional needs or errors need to be corrected, we will correct information based on chain. ‌
+After further verification, the admin will merge the pull request within 5 business days. If there are any additional needs or errors that need to be corrected, we will correct information based on the chain. ‌
 
- After the admin merges the Pull request, the token logo can be updated. **And please do not send the same request repeatedly. You patience will be appreciated.**
+ After the admin merges the Pull request, the token logo can be updated. **And please do not send the same request repeatedly. Your patience will be appreciated.**
 
