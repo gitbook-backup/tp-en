@@ -8,3 +8,8 @@
 
 4. Reconfirm whether the assets are transferred out \(whether the assets have been deducted\).
 
+**Related Link:**  
+[How to find my assets back when transferring by a wrong chain?](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=en#/)
+
+
+
