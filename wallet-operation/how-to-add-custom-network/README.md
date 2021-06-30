@@ -2,7 +2,7 @@
 
 **About Custom Network**
 
-Custom network means that the user can directly add a chain to the wallet through configuring related parameters of the chain on TokenPocket wallet to achieve the experience of the original support from wallet, including but not limited to DApp access, token adding, transaction records checking, etc.
+Custom network means that the user can directly add a chain to the wallet through configuring related parameters of the chain on TokenPocket wallet to achieve the experience of the original support from a wallet, including but not limited to DApp access, token adding, transaction records checking, etc.
 
 **How to add Custom Network?**
 
