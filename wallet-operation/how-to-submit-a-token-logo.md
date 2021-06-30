@@ -4,7 +4,7 @@ description: Tutorial of a token logo submission in GitHub
 
 # How to Submit a Token Logo ?
 
-Please select the corresponding link on [Github ](https://github.com/TP-Lab/tokens)according to the token type when submitting a token logo/info. It will be regarded as invalid if the token information file is not included.
+Please select the corresponding link on [GitHub ](https://github.com/TP-Lab/tokens)according to the token type when submitting a token logo/info. It will be regarded as invalid if the token information file is not included.
 
 Ethereum：[https://github.com/TP-Lab/tokens/tree/master/eth](https://github.com/TP-Lab/tokens/tree/master/eth)​‌
 
@@ -82,7 +82,7 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 \*\*\*\*
 
 **Fees for Submissions**  
-Please be noted that there will be 1000 TPT for every token logo/info submission. So, please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
+Please be noted that there will be **1000 TPT** for **every token logo/info** submission. So, please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
 
 1.Open TokenPocket App, click \[Assets\] on the bottom, choose TPT Token, and then click \[Transfer\] to proceed.
 
@@ -115,7 +115,7 @@ For example: BSC - TPT - 0xeca41\*\*\*168a372c2b8645af45092 - [https://bscscan.c
 
 After completing the above information, you can add the token logo and information file on [GitHub](https://github.com/TP-Lab/tokens). Please refer to the steps as following:
 
-1. Create a folder with the token contract name**\(checksum format\)**. Drag both `info.json` and `logo.png` inside the folder.
+1. Create a folder with the token contract name**\(Checksum format\)**. Drag both `info.json` and `logo.png` inside the folder.
 
 ![](../.gitbook/assets/github1.jpg)
 
