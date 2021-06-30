@@ -1,8 +1,12 @@
 # How to add Custom Network
 
-How to add Custom Network:
+**About Custom Network**
 
-1. Open the wallet, click on the first icon in the upper right corner \[Add Wallet\] to pull the list to the bottom, you can see the \[Add custom network\] entry, click to enter.
+Custom network means that the user can directly add a chain to the wallet through configuring related parameters of the chain on TokenPocket wallet to achieve the experience of the original support from a wallet, including but not limited to DApp access, token adding, transaction records checking, etc.
+
+**How to add Custom Network?**
+
+1.Open TokenPocket, click on the first icon in the upper right corner \[Add Wallet\] to pull the list to the bottom, you can see the \[Add custom network\] entry, click to enter.
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619518074212.jpg)
 
