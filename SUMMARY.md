@@ -30,7 +30,6 @@
 * [OKEx](tutorial-series/okex/README.md)
   * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
   * [The Usage Tutorial of OKExChain Test \(OKEx\)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
-* [Xswap 2.0](tutorial-series/xswap-2.0.md)
 
 ## FAQ <a id="faq-en"></a>
 
