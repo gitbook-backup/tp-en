@@ -1,4 +1,4 @@
-# What is DEX ?
+# What Is DEX ?
 
 There are two types of cryptocurrency trading——centralized exchanges and decentralized exchanges. At present, centralized exchanges play an dominant role in the trading market. However, the development of decentralized exchanges cannot be ignored, which is commonly known as **DEX**. Its main feature is the exchange that provide swap services without KYC, registration and login.
 

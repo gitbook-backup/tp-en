@@ -140,7 +140,7 @@
 ## DeFi Tutorial
 
 * [What Is DeFi ?](defi-tutorial/untitled.md)
-* [What is DEX ?](defi-tutorial/what-is-dex.md)
+* [What Is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to Submit DApp?](defi-tutorial/how-to-submit-dapp.md)
 * [How to Trade on Dex?](defi-tutorial/how-to-trade-on-dex/README.md)
   * [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-trade-on-dex/how-to-use-polygon-matic-on-tokenpocket.md)
