@@ -128,5 +128,9 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 
 
 
+{% hint style="info" %}
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
+{% endhint %}
+
+\_\_
 
