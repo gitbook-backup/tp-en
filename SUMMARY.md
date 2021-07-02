@@ -19,7 +19,8 @@
 
 ## Security Knowledge
 
-* [Fake Customer Service Scam](security-knowledge/untitled.md)
+* [Common Fraud Cases](security-knowledge/common-fraud-cases/README.md)
+  * [Fake Customer Service Scam](security-knowledge/common-fraud-cases/untitled.md)
 
 ## Tutorial Series
 
