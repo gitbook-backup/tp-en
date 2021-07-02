@@ -1,4 +1,4 @@
-# A Tutorial for Xswap 2.0——A Multi-chain Aggregator Platform
+# Guide to Use Xswap 2.0
 
 
 

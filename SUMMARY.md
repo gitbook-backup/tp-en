@@ -13,6 +13,10 @@
   * [Venus User Guide \(BSC\)](defi-series/bsc/venus-user-guide-bsc.md)
   * [How to use PancakeSwap in TokenPocket Wallet](defi-series/bsc/how-to-use-pancakeswap-in-tokenpocket-wallet.md)
 
+## Blockchain Basics
+
+* [Untitled](blockchain-basics/untitled.md)
+
 ## Tutorial Series
 
 * [FTM](tutorial-series/ftm/README.md)
@@ -27,7 +31,7 @@
   * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
   * [The Usage Tutorial of OKExChain Test \(OKEx\)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
 * [Xswap 2.0](tutorial-series/xswap-2.0/README.md)
-  * [A Tutorial for Xswap 2.0——A Multi-chain Aggregator Platform](tutorial-series/xswap-2.0/tutorial-for-xswap-2.0.md)
+  * [Guide to Use Xswap 2.0](tutorial-series/xswap-2.0/tutorial-for-xswap-2.0.md)
 
 ## FAQ <a id="faq-en"></a>
 
@@ -170,8 +174,4 @@
 ## Contract Us
 
 * [Contact Us](contract-us/untitled.md)
-
-## Blockchain Basics
-
-* [Untitled](blockchain-basics/untitled.md)
 
