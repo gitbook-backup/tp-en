@@ -30,8 +30,7 @@
 * [OKEx](tutorial-series/okex/README.md)
   * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
   * [The Usage Tutorial of OKExChain Test \(OKEx\)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
-* [Xswap 2.0](tutorial-series/xswap-2.0/README.md)
-  * [Guide to Use Xswap 2.0](tutorial-series/xswap-2.0/tutorial-for-xswap-2.0.md)
+* [Xswap 2.0](tutorial-series/xswap-2.0.md)
 
 ## FAQ <a id="faq-en"></a>
 
@@ -150,6 +149,7 @@
   * [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-trade-on-dex/how-to-use-polygon-matic-on-tokenpocket.md)
   * [Guide To Use Uniswap on Ethereum](defi-tutorial/how-to-trade-on-dex/how-to-trade-on-dex-uniswap-ethereum.md)
   * [Guide To Use PancakeSwap on BSC](defi-tutorial/how-to-trade-on-dex/guide-to-use-pancakeswap-bsc.md)
+* [Guide to Use Xswap 2.0](defi-tutorial/tutorial-for-xswap-2.0.md)
 
 ## Transfer FAQ
 
