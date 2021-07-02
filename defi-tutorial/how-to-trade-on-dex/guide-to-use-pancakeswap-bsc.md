@@ -1,4 +1,4 @@
-# Guide To Use PancakeSwap \(BSC\)
+# Guide To Use PancakeSwap on BSC
 
 **About** [**PancakeSwap**](https://pancakeswap.info/)  
 PancakeSwap is a decentralized exchange on **Binance Smart Chain** with many functions such as \[Trade\], \[Farm\], \[Pools\] and so on.
@@ -32,5 +32,7 @@ Note: You can adjust the gas fee by clicking the \[Miner Fee\] to speed up your 
 
 **Contact:** [https://docs.pancakeswap.finance/contact-us](https://docs.pancakeswap.finance/contact-us)
 
-
+{% hint style="info" %}
+_This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
+{% endhint %}
 

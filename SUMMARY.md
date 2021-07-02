@@ -145,7 +145,7 @@
 * [How to Trade on Dex?](defi-tutorial/how-to-trade-on-dex/README.md)
   * [How to use Polygon \(Matic\) on TokenPocket?](defi-tutorial/how-to-trade-on-dex/how-to-use-polygon-matic-on-tokenpocket.md)
   * [Guide To Use Uniswap on Ethereum](defi-tutorial/how-to-trade-on-dex/how-to-trade-on-dex-uniswap-ethereum.md)
-  * [Guide To Use PancakeSwap \(BSC\)](defi-tutorial/how-to-trade-on-dex/guide-to-use-pancakeswap-bsc.md)
+  * [Guide To Use PancakeSwap on BSC](defi-tutorial/how-to-trade-on-dex/guide-to-use-pancakeswap-bsc.md)
 
 ## Transfer FAQ
 
