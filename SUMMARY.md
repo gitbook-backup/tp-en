@@ -19,7 +19,7 @@
 
 ## Security Knowledge
 
-* [Untitled](security-knowledge/untitled.md)
+* [Fake Customer Service Scam](security-knowledge/untitled.md)
 
 ## Tutorial Series
 
