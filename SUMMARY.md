@@ -17,6 +17,10 @@
 
 * [Untitled](blockchain-basics/untitled.md)
 
+## Security Knowledge
+
+* [Untitled](security-knowledge/untitled.md)
+
 ## Tutorial Series
 
 * [FTM](tutorial-series/ftm/README.md)
@@ -173,8 +177,4 @@
 ## Contract Us
 
 * [Contact Us](contract-us/untitled.md)
-
-## Security Knowledge
-
-* [Untitled](security-knowledge/untitled.md)
 
