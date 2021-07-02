@@ -21,6 +21,7 @@
 
 * [Common Fraud Cases](security-knowledge/common-fraud-cases/README.md)
   * [Fake Customer Service Scam](security-knowledge/common-fraud-cases/untitled.md)
+  * [Fake Airdrop/Giveaway Scam](security-knowledge/common-fraud-cases/fake-airdrop-giveaway-scam.md)
 
 ## Tutorial Series
 
