@@ -82,7 +82,7 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 \*\*\*\*
 
 **Fees for Submissions**  
-Please be noted that there will be **1000 TPT** for **every token logo/info** submission. So, please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
+Please be noted that there will be **1000 TPT** for **every token logo/info** submission, and this transfer is **irreversible**. Please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
 
 1.Open TokenPocket App, click \[Assets\] on the bottom, choose TPT Token, and then click \[Transfer\] to proceed.
 
