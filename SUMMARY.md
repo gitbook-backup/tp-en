@@ -139,7 +139,7 @@
 
 ## DeFi Tutorial
 
-* [What is DeFi ?](defi-tutorial/untitled.md)
+* [What Is DeFi ?](defi-tutorial/untitled.md)
 * [What is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to Submit DApp?](defi-tutorial/how-to-submit-dapp.md)
 * [How to Trade on Dex?](defi-tutorial/how-to-trade-on-dex/README.md)

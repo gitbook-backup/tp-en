@@ -1,4 +1,4 @@
-# What is DeFi ?
+# What Is DeFi ?
 
 DeFi is short for "Decentralized Finance". Compared with traditional centralized finance, it refers to applications in various financial fields established in an decentralized network. Users no longer need to participate in the financial market through centralized institutions, but can use the decentralized network to acquire, trade, and lend assets. Simply speaking, it is to establish a new financial system that is open to everyone without the need for intermediaries such as banks.
 
