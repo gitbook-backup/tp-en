@@ -16,6 +16,7 @@
 ## Blockchain Basics
 
 * [What Is Blockchain?](blockchain-basics/untitled.md)
+* [What Is a Decentralised Wallet?](blockchain-basics/what-is-a-decentralised-wallet.md)
 
 ## Security Knowledge
 
