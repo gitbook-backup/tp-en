@@ -26,6 +26,7 @@
   * [Fake Customer Service Scam](security-knowledge/common-fraud-cases/untitled.md)
   * [Fake Airdrop/Giveaway Scam](security-knowledge/common-fraud-cases/fake-airdrop-giveaway-scam.md)
   * [Phishing App Scam](security-knowledge/common-fraud-cases/phishing-app-scam.md)
+  * [Phishing Website Scam](security-knowledge/common-fraud-cases/phishing-website-scam.md)
 
 ## Tutorial Series
 
