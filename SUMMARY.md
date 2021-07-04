@@ -17,6 +17,7 @@
 
 * [What Is Blockchain?](blockchain-basics/untitled.md)
 * [What Is a Decentralised Wallet?](blockchain-basics/what-is-a-decentralised-wallet.md)
+* [What Is the Private key, Mnemonic and Wallet Password](blockchain-basics/what-is-the-private-key-mnemonic-and-wallet-password.md)
 
 ## Security Knowledge
 
