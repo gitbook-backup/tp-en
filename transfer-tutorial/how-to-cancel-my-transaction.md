@@ -19,7 +19,7 @@ Note: The principle of canceling a transaction is to re-initiate a transfer of t
 
 4. After entering wallet password, your transaction will be canceled successfully.
 
-Related Tutorial:  
+**Related Tutorial:**  
 [How to accelerate my transaction?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-accelerate-my-transaction)  
 
 
