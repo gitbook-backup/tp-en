@@ -2,7 +2,7 @@
 description: Tutorial of a token logo submission in GitHub
 ---
 
-# How to Submit a Token Logo ?
+# How to Submit a Token Logo?
 
 Please select the corresponding link on [GitHub ](https://github.com/TP-Lab/tokens)according to the token type when submitting a token logo/info. It will be regarded as invalid if the token information file is not included.
 
@@ -54,6 +54,8 @@ File Name：info.json
 {% endcode %}
 
 The following information must be included in the _info.json_ file. Please make sure that the details are correct and follow the format requirements. The contract address should follow the checksum address format. \(Please refer to the sample below\)
+
+Note: Your request will not be allowed if there is wrong info or formate in your files.
 
 ```text
 {
