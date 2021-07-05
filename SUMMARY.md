@@ -190,4 +190,5 @@
 ## Fraud Prevention
 
 * [Assets Loss Prevention](fraud-prevention/untitled.md)
+* [Assets Theft Prevention](fraud-prevention/assets-theft-prevention.md)
 
