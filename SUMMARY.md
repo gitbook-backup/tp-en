@@ -141,7 +141,7 @@
 
 ## Token Management
 
-* [How to Search and Add Tokens?](token-management/how-to-search-and-add-tokens.md)
+* [How to Search Tokens?](token-management/how-to-search-and-add-tokens.md)
 * [How to Add Tokens?](token-management/how-to-add-tokens.md)
 * [How to Delete Tokens?](token-management/how-to-delete-tokens.md)
 * [How to Submit Tokens?](token-management/how-to-submit-a-token.md)

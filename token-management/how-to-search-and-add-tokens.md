@@ -1,6 +1,6 @@
-# How to Search and Add Tokens?
+# How to Search Tokens?
 
-1.Open TokenPocket, select a wallet you need to search and add tokens, click search bar can search tokens in your assets, click \[+\] can add new tokens;
+1.Open TokenPocket, select a wallet you need to search, click search bar to search tokens in your \[Assets\] page;
 
 ![](../.gitbook/assets/tian-jia-dai-bi-1.jpg)
 
