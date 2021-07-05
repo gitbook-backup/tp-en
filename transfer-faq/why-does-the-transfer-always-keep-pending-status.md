@@ -1,4 +1,4 @@
-# Why does the transfer always show pending status?
+# Why does the transfer always keep pending status?
 
 There are probably two reasons. **One** is that there are congested transactions on the blockchain. At this time, you can increase the gas fee to speed up your transaction, or wait the blocks to pack your transaction. **Second** is that you choose a low miner fee when you transfer. The miner will prioritize the transaction with high gas fees, therefore, your transfer will show pending status. At this time, increasing the gas fee to speed you up transactions is recommended. 
 
