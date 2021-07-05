@@ -1,9 +1,9 @@
-# Guide To Use Uniswap on Ethereum
+# Uniswap on Ethereum Guide
 
 **About** [**Uniswap**](https://uniswap.org/)  
 ****Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all. Currently, Uniswap supports **Ethereum network**.
 
-**How to swap tokens ?**  
+**How to swap tokens?**  
 1. Open TokenPocket, click \[Discover\] and then search Uniswap on the top of search bar; \(Take Uniswap V3 as an example here\)
 
 ![](../../.gitbook/assets/b1%20%281%29.jpg)
