@@ -23,8 +23,8 @@
 ## Security Knowledge
 
 * [Common Fraud Cases](security-knowledge/common-fraud-cases/README.md)
-  * [Fake Customer Service Scam](security-knowledge/common-fraud-cases/untitled.md)
   * [Fake Airdrop/Giveaway Scam](security-knowledge/common-fraud-cases/fake-airdrop-giveaway-scam.md)
+  * [Fake Customer Service Scam](security-knowledge/common-fraud-cases/untitled.md)
   * [Phishing App Scam](security-knowledge/common-fraud-cases/phishing-app-scam.md)
   * [Phishing Website Scam](security-knowledge/common-fraud-cases/phishing-website-scam.md)
   * [Fake Token Scam](security-knowledge/common-fraud-cases/fake-token-scam.md)
