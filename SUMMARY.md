@@ -155,7 +155,8 @@
 
 * [How to Receive My Assets ?](transfer-tutorial/how-to-receive-my-assets.md)
 * [How to Transfer Assets to the Wallet/Exchange?](transfer-tutorial/how-to-transfer-assets-to-the-wallet-exchange.md)
-* [How to Cancel/Accelerate My Transaction?](transfer-tutorial/how-to-cancel-or-accelerate-my-transaction.md)
+* [How to Cancel My Transaction?](transfer-tutorial/how-to-cancel-or-accelerate-my-transaction.md)
+* [How to Accelerate My Transaction?](transfer-tutorial/how-to-accelerate-my-transaction.md)
 * [How to Add Memo When Transferring?](transfer-tutorial/how-to-add-memo-when-transferring.md)
 
 ## DeFi Tutorial
