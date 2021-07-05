@@ -1,4 +1,4 @@
-# What Is a Decentralised Wallet?
+# What Is a Decentralized Wallet?
 
 
 
