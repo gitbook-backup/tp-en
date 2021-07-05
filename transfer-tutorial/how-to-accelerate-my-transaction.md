@@ -27,7 +27,7 @@ In general, transactions on the Ethereum chain are relatively congested, and tra
 6. Enter your wallet password, and then click \[Confirm\] to complete the acceleration.
 
 **Related Tutorial:**  
-How to cancel my transaction?
+[How to cancel my transaction?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-cancel-my-transaction)
 
 
 
