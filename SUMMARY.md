@@ -19,7 +19,6 @@
 * [What Is a Decentralised Wallet?](blockchain-basics/what-is-a-decentralised-wallet.md)
 * [What Is the Private key, Mnemonic and Wallet Password](blockchain-basics/what-is-the-private-key-mnemonic-and-wallet-password.md)
 * [What Is Miner Fee?](blockchain-basics/what-is-miner-fee.md)
-* [DApp Approval Scam](blockchain-basics/dapp-approval-scam.md)
 
 ## Security Knowledge
 
@@ -29,6 +28,7 @@
   * [Phishing App Scam](security-knowledge/common-fraud-cases/phishing-app-scam.md)
   * [Phishing Website Scam](security-knowledge/common-fraud-cases/phishing-website-scam.md)
   * [Fake Token Scam](security-knowledge/common-fraud-cases/fake-token-scam.md)
+  * [DApp Approval Scam](security-knowledge/common-fraud-cases/dapp-approval-scam.md)
 
 ## Tutorial Series
 
