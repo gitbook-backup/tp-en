@@ -36,5 +36,6 @@ Note: You may custom the miner fee to adjust gas price and gas limit.
 
 **Related contents**  
 1\) [Why can't I transfer my assets to the contract address?](https://tphelp.gitbook.io/en/wallet-operation/do-not-transfer-to-the-contract-address)  
-2\) [What should I do if I transferred my assets through a wrong chain?](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=en#/)
+2\) [What should I do if I transfer my assets through the wrong chain?](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=en#/)  
+3\) [Why did I not receive my assets from the wallet to the exchange?](https://tphelp.gitbook.io/en/transfer-faq/why-did-i-not-receive-my-funds-from-the-wallet-to-the-exchange)
 
