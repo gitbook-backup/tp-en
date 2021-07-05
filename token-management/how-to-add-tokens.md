@@ -1,6 +1,6 @@
 # How to Add Tokens?
 
-1.Open TokenPocket, select a wallet you need to search and add tokens, click \[+\] to add new tokens;
+1.Open TokenPocket, select a wallet you need to add tokens, click \[+\] to add new tokens;
 
 ![](../.gitbook/assets/tian-jia-dai-bi-01.jpg)
 
