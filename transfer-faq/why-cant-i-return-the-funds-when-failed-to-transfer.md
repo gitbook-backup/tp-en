@@ -1,6 +1,6 @@
-# Why can't I return the funds when failed to transfer?
+# Why can't I get my funds back when the transfer was failed?
 
-When a transfer shows failed on TokenPocket, it is usually caused by the following three reasons: 
+When the transfer was failed on TokenPocket wallet, it is usually caused by the following three reasons: 
 
 1. Out of gas
 2.  Bad instruction 
