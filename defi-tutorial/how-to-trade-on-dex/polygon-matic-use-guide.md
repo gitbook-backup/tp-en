@@ -1,4 +1,4 @@
-# How to use Polygon \(Matic\) on TokenPocket?
+# Polygon \(Matic\) Use Guide
 
 **About** [**Polygon \(Matic\)**](https://polygon.technology/)\*\*\*\*
 
