@@ -1,4 +1,4 @@
-# Assets Theft Prevention
+# Theft Prevention
 
 The root of anti-theft is the protection of private keys, mnemonics or DApp permissions. Therefore, please protect security information such as private keys and mnemonics and comply with the following principles: 
 
