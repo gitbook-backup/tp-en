@@ -32,8 +32,8 @@
 
 ## Fraud Prevention
 
-* [Loss Prevention](fraud-prevention/assets-loss-prevention.md)
-* [Theft Prevention](fraud-prevention/assets-theft-prevention.md)
+* [Loss Prevention](fraud-prevention/loss-prevention.md)
+* [Theft Prevention](fraud-prevention/theft-prevention.md)
 
 ## Tutorial Series
 
