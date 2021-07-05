@@ -142,7 +142,7 @@
 * [How to Import a Wallet?](wallet-management/how-to-import-a-wallet.md)
 * [How to Manage My Wallet?](wallet-management/how-to-manage-my-wallet.md)
 * [How to Switch My Wallet?](wallet-management/how-to-switch-my-wallet.md)
-* [How to Use Wallet Sync Function?](wallet-management/how-to-sync-the-wallet.md)
+* [How to Sync a Wallet?](wallet-management/how-to-sync-a-wallet.md)
 
 ## Token Management
 

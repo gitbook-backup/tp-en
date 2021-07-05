@@ -1,4 +1,4 @@
-# How to Use Wallet Sync Function?
+# How to Sync a Wallet?
 
 "**Wallet Sync"** is designed to help users quickly synchronize wallets on this network to other networks. When you transferred assets by the wrong network protocol \(chain\), this function can get your assets back. 
 
