@@ -30,6 +30,11 @@
   * [Fake Token Scam](security-knowledge/common-fraud-cases/fake-token-scam.md)
   * [DApp Approval Scam](security-knowledge/common-fraud-cases/dapp-approval-scam.md)
 
+## Fraud Prevention
+
+* [Assets Loss Prevention](fraud-prevention/untitled.md)
+* [Assets Theft Prevention](fraud-prevention/assets-theft-prevention.md)
+
 ## Tutorial Series
 
 * [FTM](tutorial-series/ftm/README.md)
@@ -187,9 +192,4 @@
 ## Contract Us
 
 * [Contact Us](contract-us/untitled.md)
-
-## Fraud Prevention
-
-* [Assets Loss Prevention](fraud-prevention/untitled.md)
-* [Assets Theft Prevention](fraud-prevention/assets-theft-prevention.md)
 
