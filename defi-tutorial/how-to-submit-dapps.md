@@ -1,4 +1,4 @@
-# How to Submit DApp?
+# How to Submit DApps?
 
 1. Open TokenPocket website, click \[Submit Project\] and then click \[DApp\];
 
