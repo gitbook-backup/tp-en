@@ -18,7 +18,7 @@
 * [What Is Blockchain?](blockchain-basics/blockchain-definition.md)
 * [What Is a Decentralized Wallet?](blockchain-basics/what-is-a-decentralised-wallet.md)
 * [What Is the Private key, Mnemonic and Wallet Password](blockchain-basics/what-is-the-private-key-mnemonic-and-wallet-password.md)
-* [What Is Miner Fee?](blockchain-basics/what-is-miner-fee.md)
+* [What Is the Miner Fee?](blockchain-basics/what-is-the-miner-fee.md)
 
 ## Security Knowledge
 

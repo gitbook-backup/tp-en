@@ -1,4 +1,4 @@
-# What Is Miner Fee?
+# What Is the Miner Fee?
 
 Miner fees, commonly known as transfer fees as an incentive for miners to mine.
 
