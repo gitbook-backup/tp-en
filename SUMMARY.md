@@ -170,6 +170,7 @@
   * [Polygon \(Matic\) Use Guide](defi-tutorial/how-to-trade-on-dex/polygon-matic-use-guide.md)
   * [Uniswap on Ethereum Guide](defi-tutorial/how-to-trade-on-dex/uniswap-ethereum.md)
   * [PancakeSwap on BSC Guide](defi-tutorial/how-to-trade-on-dex/pancakeswap-bsc.md)
+  * [MDEX on HECO Guide](defi-tutorial/how-to-trade-on-dex/mdex-on-heco-guide.md)
 
 ## Transfer FAQ
 
