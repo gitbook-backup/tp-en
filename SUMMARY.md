@@ -172,6 +172,7 @@
   * [PancakeSwap on BSC Guide](defi-tutorial/how-to-trade-on-dex/pancakeswap-bsc.md)
   * [MDEX on HECO Guide](defi-tutorial/how-to-trade-on-dex/mdex-on-heco-guide.md)
   * [JustSwap on Tron Gudie](defi-tutorial/how-to-trade-on-dex/justswap-on-tron-gudie.md)
+  * [PuddingSwap on HSC Guide](defi-tutorial/how-to-trade-on-dex/puddingswap-on-hsc-guide.md)
 
 ## Transfer FAQ
 
