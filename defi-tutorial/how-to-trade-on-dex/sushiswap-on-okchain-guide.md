@@ -1,4 +1,4 @@
-# SushiSwap on OKChain
+# SushiSwap on OKChain Guide
 
 **About** [**SushiSwap**](https://sushi.com/)\*\*\*\*
 
