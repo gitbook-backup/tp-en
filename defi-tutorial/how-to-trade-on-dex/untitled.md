@@ -2,9 +2,9 @@
 
 **About** [**SushiSwap**](https://sushi.com/)\*\*\*\*
 
-SushiSwap ****is a community-driven DeFi platform based on OKChain.
+SushiSwap ****is a community-driven DeFi platform based on OKChain, with features of Swap, Pool, etc.
 
-**How to Swap on SushiSwap OKChain?**
+**How to Swap on SushiSwap through OKChain?**
 
 1.Open TokenPocket App, choose OKChain wallet, click \[Discover\] at the bottom, and then search \[SushiSwap\] to enter;
 
