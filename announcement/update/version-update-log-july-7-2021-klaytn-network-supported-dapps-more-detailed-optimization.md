@@ -1,4 +1,4 @@
-# Version update log \(July 7, 2021\): Klaytn network supported DApps, more detailed optimization
+# Version update log \(July 7, 2021\): Klaytn network supported custom token, more detailed optimization
 
 ![](../../.gitbook/assets/version-update.png)
 

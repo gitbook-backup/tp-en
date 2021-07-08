@@ -188,7 +188,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
-  * [Version update log \(July 7, 2021\): Klaytn network supported DApps, more detailed optimization](announcement/update/version-update-log-july-7-2021-klaytn-network-supported-dapps-more-detailed-optimization.md)
+  * [Version update log \(July 7, 2021\): Klaytn network supported custom token, more detailed optimization](announcement/update/version-update-log-july-7-2021-klaytn-network-supported-dapps-more-detailed-optimization.md)
   * [Version update log \(June 11, 2021\):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
   * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
   * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
