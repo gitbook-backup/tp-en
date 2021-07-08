@@ -26,7 +26,7 @@
 
 **Note:** You can adjust the gas fee by clicking the \[Miner Fee\] to speed up your transaction.
 
-**Please clicK** [**Here**](https://t.me/MdexEN) **to contact MDEX** 
+**Please click** [**Here**](https://t.me/MdexEN) **to contact MDEX** 
 
 {% hint style="info" %}
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
