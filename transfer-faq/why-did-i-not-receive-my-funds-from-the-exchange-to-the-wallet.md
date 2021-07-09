@@ -10,7 +10,7 @@ If you didn't receive your assets when depositing tokens/coins from the exchange
 
 **How to view transaction details on the blockchain?** 
 
-1\) Open TokenPocket, select the receiving token, click the token link after enterring the \[Token Dtails\], and enter the \[Transaction Detail\] page, you can scan the code or click the icon on the below to view the details on the blockchain.
+1\) Open TokenPocket, select the receiving token, click the token link after entering the \[Token Details\], and enter the \[Transaction Detail\] page, you can scan the code or click the icon below to view the details on the blockchain.
 
 ![](../.gitbook/assets/cha-kan-lian-.png)
 
@@ -18,7 +18,7 @@ If you didn't receive your assets when depositing tokens/coins from the exchange
 
 ![](../.gitbook/assets/lian-success.png)
 
-3. If the status is success but the asset has not arrived, you should manually add the token on the wallet asset page. If the token assets are still displayed as zero, there are three possibilities:
+3. If the status is "success" but the asset has not arrived, you should manually add the token on the wallet asset page. If the token assets are still displayed as zero, there are three possibilities:
 
 1\) The token has the same name. Please confirm the contract address of the token, add the corresponding token address, and the assets will be displayed;
 
