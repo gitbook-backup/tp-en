@@ -165,7 +165,7 @@
 * [What Is DeFi ?](defi-tutorial/what-is-defi.md)
 * [What Is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to Submit DApps?](defi-tutorial/how-to-submit-dapps.md)
-* [How to Trade on Dex?](defi-tutorial/how-to-trade-on-dex/README.md)
+* [How to Trade on DEX?](defi-tutorial/how-to-trade-on-dex/README.md)
   * [Xswap 2.0 Guide](defi-tutorial/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
   * [Polygon \(Matic\) Use Guide](defi-tutorial/how-to-trade-on-dex/polygon-matic-use-guide.md)
   * [Uniswap on Ethereum Guide](defi-tutorial/how-to-trade-on-dex/uniswap-ethereum.md)
@@ -196,7 +196,7 @@
   * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
   * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
 
-## Contract Us
+## Contact Us
 
-* [Contact Us](contract-us/untitled.md)
+* [Contact Us](contact-us/untitled.md)
 

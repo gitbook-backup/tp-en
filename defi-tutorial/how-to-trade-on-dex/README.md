@@ -1,2 +1,2 @@
-# How to Trade on Dex?
+# How to Trade on DEX?
 
