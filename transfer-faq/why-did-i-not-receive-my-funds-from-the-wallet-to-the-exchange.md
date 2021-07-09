@@ -16,19 +16,19 @@ According to the characteristics of different blocks, each transfer will take a 
 
 According to the characteristics of different blocks, each transfer will take a certain amount of time to be confirmed by the block and sent to the receiving platform. The "number of confirmations" required for different tokens/coins will also be different. For example, depositing BTC requires 1 block confirmation to arrive, while ETH requires 12 confirmations. Moreover, different exchanges have different regulations for block confirmations, so this needs to be based on the exchange. 
 
-**How to view my transaction on the blockchain ?** 
+**How to view my transaction on the blockchain?** 
 
-1. After withdrawing tokens from TokenPocket, click the transaction ID in the \[Transfer\] record, and then scan the code or click the icon of the bottom of the page to check on the chain; 
+1. After withdrawing tokens from TokenPocket, click the transaction ID in the \[Transfer\] record, and then scan the code or click the icon at the bottom of the page to check on the chain; 
 
 ![](../.gitbook/assets/zhuan-zhang-dao-jiao-yi-suo-.png)
 
 2. After entering the blockchain page, check the \[Status\].
 
-1\) If it displays \[Success\], it means that the withdrawal has been completed in the block. If the asset is not received, you need to contact customer service of the exchange for processing.
+1\) If it displays \[Success\], it means that the withdrawal has been completed in the block. If the asset is not received, you need to contact the customer service of the exchange for processing.
 
 ![](../.gitbook/assets/cheng-gong-lian-.jpg)
 
-2\) If it shows \[Fail\], it means that the withdrawal has failed. A large part of the reason is due to insufficient gas fees. You can check whether the asset has been deducted in TokenPocket. If not, you can resend a withdrawal with higher gas fee. 
+2\) If it shows \[Fail\], it means that the withdrawal has failed. A large part of the reason is due to insufficient gas fees. You can check whether the asset has been deducted in TokenPocket. If not, you can resend a withdrawal with a higher gas fee. 
 
 Note: Even if the transaction fails, the paid Gas will not be refunded.
 
@@ -38,7 +38,7 @@ Note: Even if the transaction fails, the paid Gas will not be refunded.
 
 ![](../.gitbook/assets/pending.jpg)
 
-**Attention:** Due to the irreversibility of blockchain transfers, TokenPocket cannot cancel or refund successful transaction. Only the recipient \(Exchange\) can help you retrieve the assets.
+**Attention:** Due to the irreversibility of blockchain transfers, TokenPocket cannot cancel or refund successful transactions. Only the recipient \(Exchange\) can help you retrieve the assets.
 
 **Common Blockchain Explorers**  
 [Ethereum](https://cn.etherscan.com/)  
