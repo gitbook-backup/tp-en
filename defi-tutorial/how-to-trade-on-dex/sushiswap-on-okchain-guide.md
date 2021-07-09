@@ -14,6 +14,24 @@ SushiSwap ****is a community-driven DeFi platform based on OKChain, with feature
 
 ![](../../.gitbook/assets/sushiswap.png)
 
+3. Select the swap token on the \[Swap\] page, enter the amount, and select the receiving token, then the receiving amount will be filled in automatically. Click \[Swap\] to proceed. \(Take exchanging OKT for USDT as an example here\)
+
+**Tip: You can find a token by searching for its name or symbol or by pasting its address.**
+
+![](../../.gitbook/assets/sushi1.jpg)
+
+4. Click \[Confirm Swap\] after you double confirm the swap information.
+
+![](../../.gitbook/assets/sushi2.jpg)
+
+5. Click \[Transfer\] and then verify your wallet password to complete the transfer.
+
+**Note:** You can adjust the gas fee by clicking the \[Miner Fee\] to speed up your transaction.
+
+![](../../.gitbook/assets/sushi3.jpg)
+
+**Please click** [**Here**](https://twitter.com/SushiSwap) **to contact SushiSwap**
+
 {% hint style="info" %}
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
 {% endhint %}
