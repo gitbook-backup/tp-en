@@ -3,7 +3,7 @@
 When the transfer was failed on TokenPocket wallet, it is usually caused by the following three reasons: 
 
 1. Out of gas
-2.  Bad instruction 
+2. Bad instruction 
 3. Reverted 
 
 If a transfer fails, TokenPocket will not deduct your assets, and you can check your assets on the \[Assets\] page.
