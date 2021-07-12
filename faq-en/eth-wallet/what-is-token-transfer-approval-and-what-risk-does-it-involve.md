@@ -16,7 +16,7 @@ Then, account B needs to be logged in and run transferFrom\(A,C,100\). Account B
 
 **In conclusion, this is how a transfer is made from A to C through B.** 
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/approval.jpg)
 
 ## The risks may be involved in the process <a id="fcf9"></a>
 
