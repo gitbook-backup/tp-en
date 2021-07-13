@@ -196,7 +196,7 @@
   * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
   * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
 
-## Contact Us
+## Contact Us <a id="contract-us"></a>
 
-* [Contact Us](contact-us/untitled.md)
+* [Contact Us](contract-us/untitled.md)
 
