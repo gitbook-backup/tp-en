@@ -168,6 +168,7 @@
 * [How to Trade on DEX?](defi-tutorial/how-to-trade-on-dex/README.md)
   * [Xswap 2.0 Guide](defi-tutorial/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
   * [Polygon \(Matic\) Use Guide](defi-tutorial/how-to-trade-on-dex/polygon-matic-use-guide.md)
+  * [Klaytn Use Guide](defi-tutorial/how-to-trade-on-dex/klaytn-use-guide.md)
   * [Uniswap on Ethereum Guide](defi-tutorial/how-to-trade-on-dex/uniswap-ethereum.md)
   * [PancakeSwap on BSC Guide](defi-tutorial/how-to-trade-on-dex/pancakeswap-bsc.md)
   * [MDEX on HECO Guide](defi-tutorial/how-to-trade-on-dex/mdex-on-heco-guide.md)
