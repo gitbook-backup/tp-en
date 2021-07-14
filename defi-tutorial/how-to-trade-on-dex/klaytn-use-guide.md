@@ -12,5 +12,15 @@ Kakao’s global public blockchain project Klaytn is an enterprise-grade, servic
 
 2. Tap \[Create Wallet\] to create a Klaytn wallet;
 
+**Attention: Do not disclose your mnemonic words to anyone and keep them safe!**
+
+![](../../.gitbook/assets/en1.jpg)
+
+**How to Transfer Assets from ETH chain to Klaytn Chain through** [**OrbitBridge**](https://bridge.orbitchain.io/)**?**
+
+1.Open OrbitBridge website: [https://bridge.orbitchain.io/](https://bridge.orbitchain.io/) \(conversion function is currently not supported on mobile devices\), click \[Select Coin\] first;
+
+2. Click a token you need to transfer, and then click \[OK\]; \(Transfer ETH to Klaytn as an example here）
+
 
 
