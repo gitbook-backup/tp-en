@@ -52,7 +52,7 @@ Kakao’s global public blockchain project Klaytn is an enterprise-grade, servic
 
 **Notes:  
  1\) Please check your recipient address carefully;  
-2\)  A certain of transfer/tax fee is required when transferring.**
+2\)  A certain amount of transfer/tax fee is required when transferring.**
 
 ![](../../.gitbook/assets/o4.png)
 
@@ -62,7 +62,7 @@ Kakao’s global public blockchain project Klaytn is an enterprise-grade, servic
 
 9. The \[Transfer Complete\] notification will pop up after few seconds. You may click \[Tx History\] to view your transaction status.
 
-After transferring successfully, you may check your assets on Klaytn wallt and start to experience projects on Klaytn Chain.
+After transferring successfully, you may check your assets on Klaytn wallet and start to experience projects on Klaytn Chain.
 
 ![](../../.gitbook/assets/o7.png)
 
