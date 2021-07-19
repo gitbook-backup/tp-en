@@ -132,7 +132,7 @@
 ## wallet operation
 
 * [Use OKEx old chain for upgrading to OKEx mainnet \(EVM\)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
-* [How to add Custom Network](wallet-operation/how-to-add-custom-network.md)
+* [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
 * [How to Submit a Token Logo?](wallet-operation/how-to-submit-a-token-logo.md)
 * [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
