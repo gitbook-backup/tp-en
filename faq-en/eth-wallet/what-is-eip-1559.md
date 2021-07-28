@@ -6,7 +6,7 @@ EIP-1559 stands for “**Ethereum Improvement Proposal**”. It will change the 
 
 It will include a tip from the sender to motivate miners to package the transaction during periods of high congestion and a base fee which is then burned.
 
-![](../.gitbook/assets/kuang-gong-fei-.png)
+![](../../.gitbook/assets/kuang-gong-fei-.png)
 
 **Why is EIP-1559 being released?**
 

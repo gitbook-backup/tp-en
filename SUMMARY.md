@@ -99,6 +99,7 @@
   * [What’s the path](faq-en/btc-wallet/path.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
 * [ETH Wallet](faq-en/eth-wallet/README.md)
+  * [What Is EIP-1559?](faq-en/eth-wallet/what-is-eip-1559.md)
   * [ETH 2.0 Staking Vault Service Agreement](faq-en/eth-wallet/eth-2.0-staking-vault-service-agreement.md)
   * [Eth2.0 Staking Vault Rules](faq-en/eth-wallet/eth2.0-staking-vault.md)
   * [How to retrieve the previous ETH wallet?](faq-en/eth-wallet/how-to-retrieve-the-previous-eth-wallet.md)
@@ -200,8 +201,4 @@
 ## Contact Us <a id="contract-us"></a>
 
 * [Contact Us](contract-us/untitled.md)
-
-## NFT SERIES
-
-* [What Is EIP-1559?](nft-series/what-is-eip-1559.md)
 
