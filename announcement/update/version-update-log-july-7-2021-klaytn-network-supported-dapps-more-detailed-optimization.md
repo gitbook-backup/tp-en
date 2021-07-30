@@ -1,4 +1,4 @@
-# Version update log \(July 7, 2021\): Klaytn network supported Dapps, more detailed optimization
+# Version update log \(July 7, 2021\): Klaytn network supports custom tokens
 
 ![](../../.gitbook/assets/version-update.png)
 
@@ -14,7 +14,7 @@ Android 1.2.9
 
 **\[Main update content\]** 
 
-1.Klaytn network supported DApp**s**, watch wallets/cold wallets, token price and custom tokens.
+1.Klaytn network supports watch wallets/cold wallets, token price and custom tokens, etc.
 
 2. Optimized Android node switching 
 
