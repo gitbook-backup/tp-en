@@ -28,7 +28,7 @@ For a better understanding, we will explain the following three cases ****based 
 
 3. When the tip paid by the user exceeds the Max Price, the exceeded part of the fee will be refunded to the user.
 
-**Why is EIP-1559 being released?**
+**Why release EIP-1559?**
 
 In order to solve the problem of low efficiency caused by the current congestion of Ethereum transactions, the EIP-1559 proposal adjusts the gas fee according to actual usage needs, and changes the fee ****structure and flow direction to ensure the utilization rate of the block. The idea is to make fees based on block demand more transparent for the user.
 
