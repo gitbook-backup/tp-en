@@ -8,6 +8,26 @@ It will include a tip from the sender to motivate miners to package the transact
 
 ![](../../.gitbook/assets/kuang-gong-fei-.png)
 
+
+
+In order to protect the rights and interests of users, complete the transfer within the maximum acceptable range, and improve the efficiency, EIP-1559 adopts the **Max Tip** and **Max Price** as well. 
+
+**Max Price** refers to the highest miner fee that a user is willing to pay.
+
+**Max Tip** refers to the upper limit of the tip that the user set. If the miner fee \(Base Fee + Tip\) exceeds the Max Price, the exceeded part of the fee will be refunded to the user; 
+
+
+
+For a better understanding, we will explain the following three cases ****based on the chart **** \(**under the condition that the basic fee remains unchanged**\):
+
+![](../../.gitbook/assets/eip1559.png)
+
+1.When the tip user set is insufficient to cover the miner fee required, the transfer might take a long time to complete ; 
+
+2, when the tip reaches the costs paid by users on the chain, but not exceeding the maximum tip, the required tip over the chain will not be refunded; 
+
+3. When the tip paid by the user exceeds the maximum tip value, the excess will be refunded to the user.
+
 **Why is EIP-1559 being released?**
 
 In order to solve the problem of low efficiency caused by the current congestion of Ethereum transactions, the EIP-1559 proposal adjusts the gas fee according to actual usage needs, and changes the fee ****structure and flow direction to ensure the utilization rate of the block. The idea is to make fees based on block demand more transparent for the user.

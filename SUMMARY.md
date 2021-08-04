@@ -193,6 +193,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
+  * [Version update log \(July 28, 2021\): Optimize the token list, Optimize network management](announcement/update/version-update-log-july-28-2021-optimize-the-token-list-optimize-network-management.md)
   * [Version update log \(July 7, 2021\): Klaytn network supports custom tokens](announcement/update/version-update-log-july-7-2021-klaytn-network-supported-dapps-more-detailed-optimization.md)
   * [Version update log \(June 11, 2021\):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
   * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
