@@ -22,11 +22,11 @@ For a better understanding, we will explain the following three cases ****based 
 
 ![](../../.gitbook/assets/eip1559.png)
 
-1.When the tip user set is insufficient to cover the miner fee required, the transfer might take a long time to complete ; 
+1.When the tip paid by the user is insufficient to cover the miner fee required, the transfer might take a long time to complete, or may not be completed; 
 
-2, when the tip reaches the costs paid by users on the chain, but not exceeding the maximum tip, the required tip over the chain will not be refunded; 
+2. When the tip paid by the user reaches the miner fee required but does not exceed the Max Price, then the tip that exceeds the miner fee required will not be refunded;
 
-3. When the tip paid by the user exceeds the maximum tip value, the excess will be refunded to the user.
+3. When the tip paid by the user exceeds the Max Price, the exceeded part of the fee will be refunded to the user.
 
 **Why is EIP-1559 being released?**
 
