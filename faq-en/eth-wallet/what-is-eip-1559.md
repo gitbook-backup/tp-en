@@ -12,9 +12,9 @@ It will include a tip from the sender to motivate miners to package the transact
 
 In order to protect the rights and interests of users, complete the transfer within the maximum acceptable range, and improve the efficiency, EIP-1559 adopts the **Max Tip** and **Max Price** as well. 
 
-**Max Price** refers to the highest miner fee that a user is willing to pay.
+**Max Price** refers to the highest miner fee that a user is willing to pay;
 
-**Max Tip** refers to the upper limit of the tip that the user set. If the miner fee \(Base Fee + Tip\) exceeds the Max Price, the exceeded part of the fee will be refunded to the user; 
+**Max Tip** refers to the upper limit of the tip that the user set. If the miner fee \(Base Fee + Tip\) exceeds the Max Price, the exceeded fee will be refunded to the user.
 
 
 
@@ -22,11 +22,11 @@ For a better understanding, we will explain the following three cases ****based 
 
 ![](../../.gitbook/assets/eip1559.png)
 
-1.When the tip paid by the user is insufficient to cover the miner fee required, the transfer might take a long time to complete, or may not be completed; 
+1.When the Max Tip paid by the user is insufficient to cover the miner fee required, the transfer might take a long time to complete, or may not be completed; 
 
-2. When the tip paid by the user reaches the miner fee required but does not exceed the Max Price, then the tip that exceeds the miner fee required will not be refunded;
+2. When the Max Tip paid by the user reaches the miner fee required but does not exceed the Max Price, then the tip that exceeds the miner fee required will not be refunded;
 
-3. When the tip paid by the user exceeds the Max Price, the exceeded part of the fee will be refunded to the user.
+3. When the Max Tip paid by the user exceeds the Max Price, the tip that exceeds the Max Price offered will be refunded to the user.
 
 **Why release EIP-1559?**
 
