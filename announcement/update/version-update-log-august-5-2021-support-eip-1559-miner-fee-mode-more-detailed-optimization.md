@@ -22,7 +22,11 @@ Android 1.3.1
 
 3. Add risk warning on approval operation
 
-‌
+‌**How to enable the EIP-1559 mode?**
+
+![](../../.gitbook/assets/eip1.png)
+
+![](../../.gitbook/assets/eip2.png)
 
 **\[Version update method\]**
 
