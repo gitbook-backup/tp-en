@@ -94,9 +94,11 @@ Please be noted that there will be **1000 TPT** for **every token logo/info** su
 
 2. Click \[Transfer\], enter receiving address and 1000 TPT amount, Click \[Confirm\] after choosing fee, and then click \[Transfer\] after confirming the information.
 
-**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** \(Also can scan QR code below to get receiving address\). **Only support to receive TPT in BSC, HECO and Ethereum chain.** Please double confirm your transfer information! 
+**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** \(Also can scan QR code below to get receiving address\). **Only support to receive TPT in BSC, HECO, and Ethereum chain.** Please double confirm your transfer information! 
 
-![](../.gitbook/assets/code.jpeg)  
+  
+
+![](../.gitbook/assets/code.jpeg)
 
 3. Back to \[Assets\] after transferring 1000 TPT successfully, choose BNB Token, click \[Transfer\] to proceed.
 
@@ -173,11 +175,11 @@ Pull requests will be verified before being added to the Token repository. There
 * Projects have no counterfeit or fraudulent behavior
 * Detailed token information 
 
-**Disclaimer** 
+### **Disclaimer** 
 
 TokenPocket team allows anyone to submit a token request to this repository. But, this does not mean that we have direct partnerships with all of the projects. ‌ After careful review, if any scam or fraudulent projects are found, TokenPocket team will reject submissions. Due to the changing market conditions, risk of fraud or any other factors we deem relevant, TokenPocket team reserves the right to change the terms of submission at any time.
 
-
+**It is the only officially designated channel to submit the token logo**, and the TokenPocket team is not responsible for any fraud caused by the token logo submitted through other channels.
 
 ### When Will the Token Logo/Info be Added? <a id="when-will-the-asset-be-added"></a>
 
