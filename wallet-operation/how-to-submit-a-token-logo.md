@@ -12,7 +12,7 @@ BSC：[https://github.com/TP-Lab/tokens/tree/master/bsc](https://github.com/TP-L
 
 HECO：[https://github.com/TP-Lab/tokens/tree/master/heco](https://github.com/TP-Lab/tokens/tree/master/heco)​‌
 
-TRON：[https://github.com/TP-Lab/tokens/tree/master/tron](https://github.com/TP-Lab/tokens/tree/master/tron)​‌
+TRON: Token logos on the Tron chain are unavailable for now.​‌
 
 EOS：[https://github.com/TP-Lab/tokens/tree/master/eos](https://github.com/TP-Lab/tokens/tree/master/eos)​‌
 
