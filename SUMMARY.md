@@ -160,6 +160,7 @@
 * [How to Cancel My Transaction?](transfer-tutorial/how-to-cancel-my-transaction.md)
 * [How to Accelerate My Transaction?](transfer-tutorial/how-to-accelerate-my-transaction.md)
 * [How to Add Memo When Transferring?](transfer-tutorial/how-to-add-memo-when-transferring.md)
+* [About Safe Transfer](transfer-tutorial/about-safe-transfer.md)
 
 ## DeFi Tutorial
 
