@@ -1,4 +1,4 @@
-# How to hide the Wallet Network?
+# How to hide the Wallet?
 
 1. Open TokenPocket App, click on the wallet name on the upper left corner of the \[Asset\] page;
 
