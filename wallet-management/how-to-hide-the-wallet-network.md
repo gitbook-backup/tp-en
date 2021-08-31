@@ -12,7 +12,7 @@
 
 ![](../.gitbook/assets/3.png)
 
-4. Click \[Mnage Network\];
+4. Click \[Manage Network\];
 
 ![](../.gitbook/assets/4.png)
 
