@@ -16,13 +16,13 @@
 
 ![](../.gitbook/assets/4.png)
 
-5. Choose a network, click \[—\] on the right, then you can hide the Wallet Network;
+5. Choose a wallet, click \[—\] on the right, then you can hide the Wallet ;
 
 ![](../.gitbook/assets/5%20%281%29.png)
 
 **Attention**: If the current network contains a no-deleted wallet, it cannot be hidden.
 
-6. The hidden network can be found on \[Hidden Network\] at the bottom of this page, click \[+\] on the right, then you can unhide the Wallet network.
+6. The hidden wallet can be found on \[Hidden Network\] at the bottom of this page, click \[+\] on the right, then you can unhide the Wallet.
 
 ![](../.gitbook/assets/6.png)
 
