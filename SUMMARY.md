@@ -140,6 +140,7 @@
 
 ## Wallet Management
 
+* [How to hide the Wallet Network?](wallet-management/how-to-hide-the-wallet-network.md)
 * [How to Create a Wallet?](wallet-management/how-to-create-a-wallet.md)
 * [How to Import a Wallet?](wallet-management/how-to-import-a-wallet.md)
 * [How to Manage My Wallet?](wallet-management/how-to-manage-my-wallet.md)
