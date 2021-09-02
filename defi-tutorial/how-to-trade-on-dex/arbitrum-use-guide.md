@@ -1,6 +1,8 @@
 # Arbitrum Use Guide!
 
-TokenPocket supports the highly anticipated Ethereum layer 2 platforms, Arbitrum One. Users in TokenPocket wallet can get Arbitrum wallet account creation, token transfer/deposit, DApps and other one-stop experience
+TokenPocket supports the highly anticipated Ethereum layer 2 platform, Arbitrum One. Users in TokenPocket wallet can get Arbitrum wallet account creation, token transfer/deposit, DApps ，and other one-stop experience
+
+\*\*\*\*
 
 **How to create an Arbitrum Wallet?**
 
