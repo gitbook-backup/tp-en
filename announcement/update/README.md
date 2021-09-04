@@ -4,7 +4,7 @@
 1. Assets page supports DeFi data display  
 2. Upgrade the security tips in the wallet  
 3. The Polkadot series: support to add custom networks  
-4. TORN: Supports to add custom token
+4. TRON: Supports to add custom token
 
   
 5. Support the resolution of DAS's domain name  
@@ -67,6 +67,14 @@ Note: Please describe the link risk information correctly, TokenPocket will chec
 ![](../../.gitbook/assets/group-18735.png)
 
 2\) If it is marked as \[Risk Link\] or \[Fraud Link\], it will be prompted on the link access page;
+
+
+
+**5、Upgrade sharing function**
+
+1\) Enter the third-party DApp, click \[...\] on the upper right, and click the \[Share\] button to share the DApp to your mobile phone.
+
+![](../../.gitbook/assets/wechatimg142.png)
 
 **【Version update method】**
 
