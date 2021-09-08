@@ -66,5 +66,5 @@ Note: Please describe the link risk information correctly, TokenPocket will chec
 
 2\) If it is marked as \[Risk Link\] or \[Fraud Link\], it will be prompted on the link access page;
 
-![](../../.gitbook/assets/group-18738.png)
+![](../../.gitbook/assets/wechatimg251.png)
 
