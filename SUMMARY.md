@@ -132,6 +132,7 @@
 
 ## wallet operation
 
+* [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
 * [Use OKEx old chain for upgrading to OKEx mainnet \(EVM\)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
