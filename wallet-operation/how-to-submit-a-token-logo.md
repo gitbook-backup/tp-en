@@ -183,7 +183,7 @@ TokenPocket team allows anyone to submit a token request to this repository. But
 
 ### When Will the Token Logo/Info be Added? <a id="when-will-the-asset-be-added"></a>
 
-After further verification, the admin will merge the pull request within 5 business days. If there are any additional needs or errors that need to be corrected, we will correct information based on the chain. ‌
+After further verification, the admin will merge the pull request. If there are any additional needs or errors that need to be corrected, we will correct information based on the chain. ‌
 
  After the admin merges the Pull request, the token logo can be updated. **And please do not send the same request repeatedly. Your patience will be appreciated.**
 
