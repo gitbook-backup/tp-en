@@ -32,7 +32,7 @@ Click \[Send\], enter the page of \[Transfer\], enter the receiving address and 
 
 **Function 3 - Add Custom NFT**
 
-Click the \[+\] in the upper right, enter the page of \[Add Custom NFT\], enter the contract address, and check the information, click \[Confirm\]. At this point, you have added the custom NFT successfully.
+Click the \[+\] in the upper right corner, enter the page of \[Add Custom NFT\], enter the contract address, and check the information, click \[Confirm\]. At this point, you have added the custom NFT successfully.
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
