@@ -1,4 +1,4 @@
-# Version update log \(September 18, 2021\): Added "NFT" section in "Assets" page,
+# Version update log \(September 18, 2021\): Support NFT display
 
 **\[Version Update\]**
 
