@@ -200,6 +200,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
+  * [Version update log \(September 18, 2021\): Added "NFT" section in "Assets" page,](announcement/update/version-update-log-september-18-2021-added-nft-section-in-assets-page.md)
   * [Version update log \(September 3, 2021\): Assets page supports DeFi data display, upgrade the security](announcement/update/version-update-log-september-3-2021-assets-page-supports-defi-data-display-upgrade-the-security.md)
   * [Version update log \(August 5, 2021\): Support EIP-1559 miner fee mode, more detailed optimization](announcement/update/version-update-log-august-5-2021-support-eip-1559-miner-fee-mode-more-detailed-optimization.md)
   * [Version update log \(July 28, 2021\): Optimize the token list, Optimize network management](announcement/update/version-update-log-july-28-2021-optimize-the-token-list-optimize-network-management.md)
