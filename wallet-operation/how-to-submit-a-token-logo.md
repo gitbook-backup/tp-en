@@ -86,13 +86,13 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 \*\*\*\*
 
 **Fees for Submissions**  
-Please be noted that there will be **1000 TPT** for **every token logo/info** submission, and this transfer is **irreversible**. Please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
+Please be noted that there will be **3000 TPT** for **every token logo/info** submission as a donation, and this transfer is **irreversible**. Please follow the steps below to transfer after the above preparation is completed \(BSC chain is taken as an example here\): ‌
 
-1.Open TokenPocket App, click \[Assets\] on the bottom, choose TPT Token, and then click \[Transfer\] to proceed.
+1. Open TokenPocket App, click \[Assets\] on the bottom, choose TPT Token, and then click \[Transfer\] to proceed.
 
 ![](../.gitbook/assets/wechatimg9.png) ![](../.gitbook/assets/wechatimg10.png) 
 
-2. Click \[Transfer\], enter receiving address and 1000 TPT amount, Click \[Confirm\] after choosing fee, and then click \[Transfer\] after confirming the information.
+2. Click \[Transfer\], enter receiving address and 3000 TPT amount, Click \[Confirm\] after choosing fee, and then click \[Transfer\] after confirming the information.
 
 **Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** \(Also can scan QR code below to get receiving address\). **Only support to receive TPT in BSC, HECO, and Ethereum chain.** Please double confirm your transfer information! 
 
@@ -100,13 +100,13 @@ Please be noted that there will be **1000 TPT** for **every token logo/info** su
 
 ![](../.gitbook/assets/code.jpeg)
 
-3. Back to \[Assets\] after transferring 1000 TPT successfully, choose BNB Token, click \[Transfer\] to proceed.
+3. Back to \[Assets\] after transferring 3000 TPT successfully, choose BNB Token, click \[Transfer\] to proceed.
 
 ![](../.gitbook/assets/wechatimg9-1.png)
 
 4. Enter receiving address \(same as above\) and 0 BNB \( If 0 BNB transfer is not supported, you can enter a very small amount and try it again\), choose fees and then click \[Advanced\] - \[Plain\] in the bottom right corner to enter the text required on \[Chain Data\] according to the format.
 
-\(Format requirement: The chain of the Token submission - Smart contract of the Token submission - Transaction ID for 1000 TPT. \)  
+\(Format requirement: The chain of the Token submission - Smart contract of the Token submission - Transaction ID for 3000 TPT. \)  
 For example: BSC - TPT - 0xeca41\*\*\*168a372c2b8645af45092 - [https://bscscan.com/tx/0xe\*\*\*a99411774b48d8c40a71fb35220b42fa505aa5dd](https://bscscan.com/tx/0xe6e7be7680ea438a36eb5463a99411774b48d8c40a71fb35220b42fa505aa5dd)
 
 ![](../.gitbook/assets/wechatimg18.png)
@@ -139,7 +139,7 @@ After completing the above information, you can add the token logo and informati
 
 5. In the \[Commit changes\] box: Fill up the Token information in the subject line and additional description you want to add in the content field, and then click \[Commit changes\].
 
-**Note:** Please add the 1000 TPT transaction ID link in the content description, otherwise it will not pass the review.
+**Note:** Please add the 3000 TPT transaction ID link in the content description, otherwise it will not pass the review.
 
 ![](../.gitbook/assets/github5.jpg)
 
@@ -171,7 +171,7 @@ After completing the above information, you can add the token logo and informati
 
 Pull requests will be verified before being added to the Token repository. Therefore, please check whether the Token files you submitted meets the following requirements:‌ 
 
-* Fees of 1000 TPT are paid
+* Fees of 3000 TPT are paid
 * Projects have no counterfeit or fraudulent behavior
 * Detailed token information 
 
