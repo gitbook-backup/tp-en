@@ -54,6 +54,7 @@
 
 ## FAQ <a id="faq-en"></a>
 
+* [Solana Wallet](faq-en/solana-wallet.md)
 * [Polkadot Wallet](faq-en/dot/README.md)
   * [What are Transaction Tips?](faq-en/dot/tips.md)
 * [BTC Wallet](faq-en/btc-wallet/README.md)
