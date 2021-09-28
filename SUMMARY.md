@@ -55,7 +55,7 @@
 ## FAQ <a id="faq-en"></a>
 
 * [Solana Wallet](faq-en/solana-wallet/README.md)
-  * [Associated account](faq-en/solana-wallet/associated-account.md)
+  * [Associated account of Solana](faq-en/solana-wallet/associated-account.md)
 * [Polkadot Wallet](faq-en/dot/README.md)
   * [What are Transaction Tips?](faq-en/dot/tips.md)
 * [BTC Wallet](faq-en/btc-wallet/README.md)
