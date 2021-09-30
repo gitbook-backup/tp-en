@@ -204,6 +204,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
+  * [Version update log \(September 29, 2021\): Support Solana；Optimize user experience](announcement/update/version-update-log-september-29-2021-support-solana-optimize-user-experience.md)
   * [Version update log \(September 18, 2021\): Support NFT display](announcement/update/version-update-log-september-18-2021-added-nft-section-in-assets-page.md)
   * [Version update log \(September 3, 2021\): Assets page supports DeFi data display, upgrade the security](announcement/update/version-update-log-september-3-2021-assets-page-supports-defi-data-display-upgrade-the-security.md)
   * [Version update log \(August 5, 2021\): Support EIP-1559 miner fee mode, more detailed optimization](announcement/update/version-update-log-august-5-2021-support-eip-1559-miner-fee-mode-more-detailed-optimization.md)
