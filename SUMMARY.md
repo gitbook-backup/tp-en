@@ -5,12 +5,12 @@
 ## DeFi Series
 
 * [BSC](defi-series/bsc/README.md)
-  * [Beefy.finance Tutorial \(BSC\)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
+  * [Beefy.finance Tutorial (BSC)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
   * [Equator Tutorial](defi-series/bsc/equator-tutorial.md)
-  * [Ellipsis Tutorial \(BSC\)](defi-series/bsc/ellipsis-tutorial-bsc.md)
-  * [BakerySwap Tutorial \(BSC\)](defi-series/bsc/bakeryswap-tutorial-bsc.md)
+  * [Ellipsis Tutorial (BSC)](defi-series/bsc/ellipsis-tutorial-bsc.md)
+  * [BakerySwap Tutorial (BSC)](defi-series/bsc/bakeryswap-tutorial-bsc.md)
   * [How to Use DODO](defi-series/bsc/how-to-use-dodo.md)
-  * [Venus User Guide \(BSC\)](defi-series/bsc/venus-user-guide-bsc.md)
+  * [Venus User Guide (BSC)](defi-series/bsc/venus-user-guide-bsc.md)
   * [How to use PancakeSwap in TokenPocket Wallet](defi-series/bsc/how-to-use-pancakeswap-in-tokenpocket-wallet.md)
 
 ## Blockchain Basics
@@ -46,13 +46,13 @@
   * [How to exchange Binance's BTCB to the wallet for using](tutorial-series/bsc/how-to-convert-btc-to-btcb.md)
   * [How to withdraw BNB to Binance Smart Chain](tutorial-series/bsc/take-money-from-bnb-to-tokenpocket-wallet.md)
   * [Export "key" on Binance smart chain wallet](tutorial-series/bsc/export-key-on-binance-smart-chain-wallet.md)
-  * [Binance Smart Chain \(BSC\) wallet registration](tutorial-series/bsc/binance-smart-chain-bsc-wallet-registration.md)
-  * [Master the authorization management authority of DApp \(BSC\)](tutorial-series/bsc/master-the-authorization-management-authority-of-dapp-bsc.md)
+  * [Binance Smart Chain (BSC) wallet registration](tutorial-series/bsc/binance-smart-chain-bsc-wallet-registration.md)
+  * [Master the authorization management authority of DApp (BSC)](tutorial-series/bsc/master-the-authorization-management-authority-of-dapp-bsc.md)
 * [OKEx](tutorial-series/okex/README.md)
   * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
-  * [The Usage Tutorial of OKExChain Test \(OKEx\)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
+  * [The Usage Tutorial of OKExChain Test (OKEx)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
 
-## FAQ <a id="faq-en"></a>
+## FAQ <a href="faq-en" id="faq-en"></a>
 
 * [Solana Wallet](faq-en/solana-wallet/README.md)
   * [Associated account of Solana](faq-en/solana-wallet/associated-account.md)
@@ -87,7 +87,7 @@
   * [How to backup bitcoin private key?](faq-en/btc-wallet/how-to-backup-bitcoin-private-key.md)
   * [The page you were looking for doesn't exist – TokenPocket Help Center](faq-en/btc-wallet/the-page-you-were-looking-for-doesnt-exist-tokenpocket-help-center.md)
   * [How to create a BTC wallet in TokenPocket?](faq-en/btc-wallet/untitled.md)
-  * [How to change the name of bitcoin \(BTC\) wallet in TokenPocket wallet?](faq-en/btc-wallet/how-to-change-the-name-of-bitcoin-btc-wallet-in-tokenpocket-wallet.md)
+  * [How to change the name of bitcoin (BTC) wallet in TokenPocket wallet?](faq-en/btc-wallet/how-to-change-the-name-of-bitcoin-btc-wallet-in-tokenpocket-wallet.md)
   * [Is there a bitcoin browser in the TokenPocket wallet? How to use it?](faq-en/btc-wallet/is-there-a-bitcoin-browser-in-the-tokenpocket-wallet-how-to-use-it.md)
   * [When my TokenPocket wallet APP was disconnected, someone transferred BTC bitcoin to me. Can I receiv](faq-en/btc-wallet/when-my-tokenpocket-wallet-app-was-disconnected-someone-transferred-btc-bitcoin-to-me.-can-i-receiv.md)
   * [Will I lose my bitcoin stored in my TokenPocket wallet? Will my wallet steal my BTC?](faq-en/btc-wallet/will-i-lose-my-bitcoin-stored-in-my-tokenpocket-wallet-will-my-wallet-steal-my-btc.md)
@@ -98,7 +98,7 @@
   * [Guía de ususario para BTC — billetera TokenPocket \[Traducción\]](faq-en/btc-wallet/guia-de-ususario-para-btc-billetera-tokenpocket-traduccion.md)
   * [FAQs on Bitcoin Wallet](faq-en/btc-wallet/faqs-on-bitcoin-wallet.md)
   * [What’s the change address](faq-en/btc-wallet/change-address.md)
-  * [What is OP\_RETURN？](faq-en/btc-wallet/op_return.md)
+  * [What is OP_RETURN？](faq-en/btc-wallet/op_return.md)
   * [what is UTXO](faq-en/btc-wallet/utxo.md)
   * [What’s the path](faq-en/btc-wallet/path.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
@@ -112,7 +112,7 @@
   * [Transaction Pending Forever? Here is How You Make it Successful Faster!](faq-en/eth-wallet/transaction-pending-forever-here-is-how-you-make-it-successful-faster.md)
   * [FAQs on Ethereum](faq-en/eth-wallet/faqs-on-ethereum.md)
   * [What is Token Transfer Approval, and What Risk Does it Involve?](faq-en/eth-wallet/what-is-token-transfer-approval-and-what-risk-does-it-involve.md)
-  * [DeFi with TokenPocket \| How to Claim Your UNI with TokenPocket](faq-en/eth-wallet/defi-with-tokenpocket-or-how-to-claim-your-uni-with-tokenpocket.md)
+  * [DeFi with TokenPocket | How to Claim Your UNI with TokenPocket](faq-en/eth-wallet/defi-with-tokenpocket-or-how-to-claim-your-uni-with-tokenpocket.md)
   * [How to Use Watch Mode in TokenPocket to Check the Balance in ETH 2.0 Depositing Contract](faq-en/eth-wallet/how-to-use-watch-mode-in-tokenpocket-to-check-the-balance-in-eth-2.0-depositing-contract.md)
   * [What is ETH Transaction Accelerator?](faq-en/eth-wallet/transaction-accelerator.md)
   * [Manage the unpackaged transactions](faq-en/eth-wallet/unpackaged.md)
@@ -137,7 +137,7 @@
 ## wallet operation
 
 * [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
-* [Use OKEx old chain for upgrading to OKEx mainnet \(EVM\)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
+* [Use OKEx old chain for upgrading to OKEx mainnet (EVM)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
 * [How to Submit a Token Logo?](wallet-operation/how-to-submit-a-token-logo.md)
@@ -179,7 +179,7 @@
   * [Fantom Use Guide!](defi-tutorial/how-to-trade-on-dex/fantom-use-guide.md)
   * [Arbitrum Use Guide!](defi-tutorial/how-to-trade-on-dex/arbitrum-use-guide.md)
   * [Xswap 2.0 Guide](defi-tutorial/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
-  * [Polygon \(Matic\) Use Guide](defi-tutorial/how-to-trade-on-dex/polygon-matic-use-guide.md)
+  * [Polygon (Matic) Use Guide](defi-tutorial/how-to-trade-on-dex/polygon-matic-use-guide.md)
   * [Klaytn Use Guide](defi-tutorial/how-to-trade-on-dex/klaytn-use-guide.md)
   * [Uniswap on Ethereum Guide](defi-tutorial/how-to-trade-on-dex/uniswap-ethereum.md)
   * [PancakeSwap on BSC Guide](defi-tutorial/how-to-trade-on-dex/pancakeswap-bsc.md)
@@ -190,7 +190,7 @@
 
 ## Transfer FAQ
 
-* [What is Transaction ID \(Hash\) ?](transfer-faq/what-is-transaction-hash.md)
+* [What is Transaction ID (Hash) ?](transfer-faq/what-is-transaction-hash.md)
 * [What if the assets cannot be recovered through guided self-help operation](transfer-faq/what-if-the-assets-cannot-be-recovered-through-guided-self-help-operation.md)
 * [Why can’t I transfer my assets to the contract address?](transfer-faq/why-cant-i-transfer-my-assets-to-the-contract-address.md)
 * [Why can't transfer tokens between different chains?](transfer-faq/about-public-chain-transfer.md)
@@ -204,17 +204,17 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
-  * [Version update log \(September 29, 2021\): Support Solana；Optimize user experience](announcement/update/version-update-log-september-29-2021-support-solana-optimize-user-experience.md)
-  * [Version update log \(September 18, 2021\): Support NFT display](announcement/update/version-update-log-september-18-2021-added-nft-section-in-assets-page.md)
-  * [Version update log \(September 3, 2021\): Assets page supports DeFi data display, upgrade the security](announcement/update/version-update-log-september-3-2021-assets-page-supports-defi-data-display-upgrade-the-security.md)
-  * [Version update log \(August 5, 2021\): Support EIP-1559 miner fee mode, more detailed optimization](announcement/update/version-update-log-august-5-2021-support-eip-1559-miner-fee-mode-more-detailed-optimization.md)
-  * [Version update log \(July 28, 2021\): Optimize the token list, Optimize network management](announcement/update/version-update-log-july-28-2021-optimize-the-token-list-optimize-network-management.md)
-  * [Version update log \(July 7, 2021\): Klaytn network supports custom tokens](announcement/update/version-update-log-july-7-2021-klaytn-network-supported-dapps-more-detailed-optimization.md)
-  * [Version update log \(June 11, 2021\):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
-  * [Version update log \(March 18, 2021\): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
-  * [Version Update \(Oct. 30, 2020\) \| TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
+  * [Version update log (October 14, 2021): Upgrade Polkadot wallet; Compatible with sollet extension, su](announcement/update/version-update-log-october-14-2021-upgrade-polkadot-wallet-compatible-with-sollet-extension-su.md)
+  * [Version update log (September 29, 2021): Support Solana；Optimize user experience](announcement/update/version-update-log-september-29-2021-support-solana-optimize-user-experience.md)
+  * [Version update log (September 18, 2021): Support NFT display](announcement/update/version-update-log-september-18-2021-added-nft-section-in-assets-page.md)
+  * [Version update log (September 3, 2021): Assets page supports DeFi data display, upgrade the security](announcement/update/version-update-log-september-3-2021-assets-page-supports-defi-data-display-upgrade-the-security.md)
+  * [Version update log (August 5, 2021): Support EIP-1559 miner fee mode, more detailed optimization](announcement/update/version-update-log-august-5-2021-support-eip-1559-miner-fee-mode-more-detailed-optimization.md)
+  * [Version update log (July 28, 2021): Optimize the token list, Optimize network management](announcement/update/version-update-log-july-28-2021-optimize-the-token-list-optimize-network-management.md)
+  * [Version update log (July 7, 2021): Klaytn network supports custom tokens](announcement/update/version-update-log-july-7-2021-klaytn-network-supported-dapps-more-detailed-optimization.md)
+  * [Version update log (June 11, 2021):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
+  * [Version update log (March 18, 2021): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
+  * [Version Update (Oct. 30, 2020) | TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
 
-## Contact Us <a id="contract-us"></a>
+## Contact Us <a href="contract-us" id="contract-us"></a>
 
 * [Contact Us](contract-us/untitled.md)
-
