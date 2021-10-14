@@ -2,7 +2,7 @@
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618457069175.jpeg)
 
-\*\*\*\*
+****
 
 **How to convert BTC to BTCB**
 
@@ -12,7 +12,7 @@ BTCB is actually converted into coin safety smart chain format through coin safe
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458248885.jpg)
 
-\*\*\*\*
+****
 
 After the wallet is created, click Receipt to be the receiving address of the Binance Smart Chain. Fill in the address when withdrawing BTC on the Binance Exchange. The main network selects the second BSC Smart Chain.
 
@@ -28,7 +28,7 @@ After the withdrawal is successful, if the wallet does not see BTCB, you can man
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458368905.jpg)
 
-\*\*\*\*
+****
 
 
 
@@ -59,4 +59,3 @@ For some of the DeFi tutorials, check out the DeFi feature article in the TokenP
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
 
 ![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)
-

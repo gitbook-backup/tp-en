@@ -16,13 +16,12 @@ The transaction fee in Polkadot and Kusama network are decided by the following 
 
 Byte length fee is the product of the fee per byte and the size of the transaction. 
 
- **b.Weight fee** 
+ **b.Weight fee **
 
-Weight is a fixed number designed to manage the time it takes to verify the block. Each transaction includes basic weight and dispatches weight. The basic weight describes the cost involved in the transaction \(such as signature verification\), and the dispatch weight describes the time to execute the transaction. The weight fee of a transaction is the product of the total weight of a transaction and the price per weight. 
+Weight is a fixed number designed to manage the time it takes to verify the block. Each transaction includes basic weight and dispatches weight. The basic weight describes the cost involved in the transaction (such as signature verification), and the dispatch weight describes the time to execute the transaction. The weight fee of a transaction is the product of the total weight of a transaction and the price per weight. 
 
-**c.Tips \(optional\)**
+**c.Tips (optional)**
 
 Tips are a type of optional transaction fee. Users are allowed to pay tips to accelerate the approval of the transaction.
 
 The transaction is composed of the three above-mentioned fees and is deducted from the user’s account before the execution of the transaction. A certain portion of the fee belongs to the block producer and the remaining part goes to the Treasury. In the Genesis of Polkadot, 20% goes to the block producer and 80% goes to the Treasury.
-

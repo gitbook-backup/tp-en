@@ -20,17 +20,16 @@ After creation, we only need to enter the wallet account in the process of SPL t
 
 **How to check the associated account?**
 
-1. Enter the Solana Explorer
+1\. Enter the Solana Explorer
 
-[https://solscan.io/](https://solscan.io/)
+[https://solscan.io/](https://solscan.io)
 
-[http://solanabeach.io/](http://solanabeach.io/)
+[http://solanabeach.io/](http://solanabeach.io)
 
-[http://explorer.solana.com/](http://explorer.solana.com/)
+[http://explorer.solana.com/](http://explorer.solana.com)
 
-2. Enter your wallet address and click \[SPL Token TXs\], 「DESTINATION」will show the associated account of the transfer.
+2\. Enter your wallet address and click \[SPL Token TXs], 「DESTINATION」will show the associated account of the transfer.
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](<../../.gitbook/assets/image (39).png>)
 
 **ATTENTION:** "Associated account" is only required for SPL transfer/receipt, and for Solana native currency SOL transfer/receipt, "Assoc
-

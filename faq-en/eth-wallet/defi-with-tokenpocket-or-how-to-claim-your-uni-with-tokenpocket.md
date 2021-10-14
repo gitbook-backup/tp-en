@@ -1,24 +1,24 @@
-# DeFi with TokenPocket \| How to Claim Your UNI with TokenPocket
+# DeFi with TokenPocket | How to Claim Your UNI with TokenPocket
 
-![Image for post](https://miro.medium.com/max/1000/1*3mqoCuzYQyMeK4nrehrXXA.png)
+![Image for post](https://miro.medium.com/max/1000/1\*3mqoCuzYQyMeK4nrehrXXA.png)
 
 Uniswap launched its native token UNI last week and create an instant party among Uniswap holders. The smart contract of UNI is as follows: 0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
 
-## Not Every User is Eligible <a id="b84d"></a>
+## Not Every User is Eligible <a href="b84d" id="b84d"></a>
 
 According to Uniswap, 15% of the total supply of UNI, which is 150,000,000 UNI, will be distributed to liquidity providers up until 12:00, September 1, UTC based on Uniswap’s snapshots.
 
-## How to Claim Your UNI Rewards with TokenPocket <a id="d19d"></a>
+## How to Claim Your UNI Rewards with TokenPocket <a href="d19d" id="d19d"></a>
 
-1. Open TokenPocket, tap on \[Discover\] and search for \[Uniswap\].
+1. Open TokenPocket, tap on \[Discover] and search for \[Uniswap].
 
-![Image for post](https://miro.medium.com/max/1492/0*yo_gATNLa9WxSjPL)
+![Image for post](https://miro.medium.com/max/1492/0\*yo_gATNLa9WxSjPL)
 
-2. The Claim page is simple. You just need to put your ETH recipient address and the system will automatically detect if you have UNI to claim and its amount. Tap on \[Claim UNI\] and grant approval. \(The Gas fee is insanely high now, please make sure you offer enough Gas\). 
+2\. The Claim page is simple. You just need to put your ETH recipient address and the system will automatically detect if you have UNI to claim and its amount. Tap on \[Claim UNI] and grant approval. (The Gas fee is insanely high now, please make sure you offer enough Gas). 
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](<../../.gitbook/assets/image (13).png>)
 
-## Liquid Mining in Uniswap <a id="70ff"></a>
+## Liquid Mining in Uniswap <a href="70ff" id="70ff"></a>
 
 The first round of liquid mining program on Uniswap was launched at 12:00, Sep 18, 2020, UTC, and will last until 12:00, Nov 17, 2020, UTC. The first round includes the following four liquidity pools:
 
@@ -36,5 +36,4 @@ These UNI are not subject to vesting or lock up. After 30 days, governance will 
 
 You can also participate in the Uniswap liquidity mining with TokenPocket. See the following steps. 
 
-![](../../.gitbook/assets/image%20%282%29.png)
-
+![](<../../.gitbook/assets/image (2).png>)

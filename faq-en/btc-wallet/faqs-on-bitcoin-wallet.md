@@ -6,7 +6,7 @@ Because bitcoin is only one megabyte in each block, and can only handle five tra
 
 **2. Why does my USDT prompt an address error when I want to transfer to a bitcoin address?**
 
-The bitcoin-based USDT \(issued under the Omni protocol\) and ethereum-based USDT \(issued under the erc-20 protocol\) cannot transfer to each other.
+The bitcoin-based USDT (issued under the Omni protocol) and ethereum-based USDT (issued under the erc-20 protocol) cannot transfer to each other.
 
 When transferring USDT, you can tell whether the USDTs are based on the same protocol by their address starting numbers: the USDT issued under Omni protocol starts with "1", and the USDT issued under erc-20 protocol starts with “0x".
 
@@ -32,13 +32,13 @@ This function will be designed later, welcome to give valuable advice.
 
 **8. How to choose the best miner's fee for bitcoin?**
 
-Bitcoin miners fee calculation: = Fees \(satoshi/byte\) \* Site \(byte\) \(\* satoshi = sat, 1 bitcoin = 100 million satoshi\), you can go to https://bitcoinfees.earn.com to view the data to get the best miner's fee.
+Bitcoin miners fee calculation: = Fees (satoshi/byte) \* Site (byte) (\* satoshi = sat, 1 bitcoin = 100 million satoshi), you can go to https://bitcoinfees.earn.com to view the data to get the best miner's fee.
 
-For ordinary users, we generally use the default recommended miner's fee in the wallet \(such as TokenPocket\), of course, we can also flexibly turn on the advanced mode to make free settings.
+For ordinary users, we generally use the default recommended miner's fee in the wallet (such as TokenPocket), of course, we can also flexibly turn on the advanced mode to make free settings.
 
-**8. What is the proof of work \(POW\)?**
+**8. What is the proof of work (POW)?**
 
-The most commonly used technical principle for POW is the hash function. Since any value n of the input hash function h\(\) will correspond to an h\(n\) result, and as long as n changes one bit, it will cause an avalanche effect, so it is almost impossible to push back from h\(n\) to n, so by specifying to find the characteristics of h\(n\), let the user do a lot of exhaustive operations, can achieve proof of work. In short, it is through a certain amount of work \(mining\) to get the corresponding reward \(Token\).
+The most commonly used technical principle for POW is the hash function. Since any value n of the input hash function h() will correspond to an h(n) result, and as long as n changes one bit, it will cause an avalanche effect, so it is almost impossible to push back from h(n) to n, so by specifying to find the characteristics of h(n), let the user do a lot of exhaustive operations, can achieve proof of work. In short, it is through a certain amount of work (mining) to get the corresponding reward (Token).
 
 **9. What are the advantages and disadvantages of the bitcoin lightning network?**
 
@@ -60,7 +60,7 @@ The security of lightning network payment may make the lightning network not sui
 
 **10. What is the relationship between USDT on BTC and BTC?**
 
-USDT \(full name Tether USD\). It is a stablecoin issued by Tether, formerly known as Realcoin, which is registered in the isle of man and Hong Kong. USDT is the stable currency with the highest market share on the market. It was originally issued as a cryptocurrency based on the Omni protocol, which can be simply understood as the USDT based on bitcoin.
+USDT (full name Tether USD). It is a stablecoin issued by Tether, formerly known as Realcoin, which is registered in the isle of man and Hong Kong. USDT is the stable currency with the highest market share on the market. It was originally issued as a cryptocurrency based on the Omni protocol, which can be simply understood as the USDT based on bitcoin.
 
 Omni-USDT is stored on the bitcoin address, so the type of fee to be paid for each transfer is bitcoin. The address is 1 or 3 at the beginning, for example, 1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz. It is important that to successfully transfer Omni-USDT on the blockchain, there must be at least 0.0002 bitcoins in the address. At the same time, for each Omni-USDT transfer, a small amount of BTC transfer will be generated accordingly. In other words, when we made an Omni-USDT transfer on the blcokchain, two transfers "Omni-USDT and small BTC" actually took place.
 
@@ -74,9 +74,9 @@ Lightning network is a distributed network that enables instant payment across t
 
 No, there are 1, 3, and bc1, which represent the following:
 
-The address at the beginning of 1 is P2PKH\(pay-to-public-key-hash\) address, which is the original address, and is called ordinary BTC address;
+The address at the beginning of 1 is P2PKH(pay-to-public-key-hash) address, which is the original address, and is called ordinary BTC address;
 
-The address at the beginning of 3 is P2SH\(pay-to-script-hash\) address, and the internal address also needs to be segwit, that is, the segwit address.
+The address at the beginning of 3 is P2SH(pay-to-script-hash) address, and the internal address also needs to be segwit, that is, the segwit address.
 
 The address at the beginning of bc1 is a BECH32 encoded address, an address format developed specifically for segwit, and an segwit address.
 
@@ -88,9 +88,9 @@ The length of a typical BTC address is 26-34 bits. It's worth noting that the ad
 
 Tips：
 
-The address at the beginning of 1 is P2PKH\(pay-to-public-key-hash\) address, which is the original address, and is called ordinary BTC address;
+The address at the beginning of 1 is P2PKH(pay-to-public-key-hash) address, which is the original address, and is called ordinary BTC address;
 
-The address at the beginning of 3 is P2SH\(pay-to-script-hash\) address, and the internal address also needs to be segwit, that is, the segwit address.
+The address at the beginning of 3 is P2SH(pay-to-script-hash) address, and the internal address also needs to be segwit, that is, the segwit address.
 
 The address at the beginning of bc1 is a BECH32 encoded address, an address format developed specifically for segwit, and an segwit address.
 
@@ -106,13 +106,13 @@ In October 2019 satoshi, bitcoin's smallest unit, was added to the Oxford Englis
 
 **14. Will the miner's fee be deducted if the BTC transfer fails?**
 
-In the bitcoin network, the transfer requires the miner to package the transaction. But if the deal fails for reasons such as a lack of miners' fee, since the deal has been packaged by the miners, the miner's fee will be deducted and not refunded to the user's account. This is also a feature of the consensus algorithm of POW \(Proof Of Work\).
+In the bitcoin network, the transfer requires the miner to package the transaction. But if the deal fails for reasons such as a lack of miners' fee, since the deal has been packaged by the miners, the miner's fee will be deducted and not refunded to the user's account. This is also a feature of the consensus algorithm of POW (Proof Of Work).
 
-15. How to export the BTC private key of TokenPocket wallet?
+15\. How to export the BTC private key of TokenPocket wallet?
 
-The public key in the BTC is used as a collection address. The private key is known only to you, if it is public or lost means that your assets will be lost. Therefore, the private key plays an important role in our assets. Although the registration of the TokenPocket wallet started as a reminder of backup and verification mnemonic\(equally important\), the backup of the private key means that we can have more controllable keys. If one of the two is lost, the asset will not be lost.
+The public key in the BTC is used as a collection address. The private key is known only to you, if it is public or lost means that your assets will be lost. Therefore, the private key plays an important role in our assets. Although the registration of the TokenPocket wallet started as a reminder of backup and verification mnemonic(equally important), the backup of the private key means that we can have more controllable keys. If one of the two is lost, the asset will not be lost.
 
-The steps to export the private key through TP wallet are as follows: open the wallet -- click the blank at the top of the receipt -- select export the private key in the pop-up menu -- enter the password for authorization to record and save the private key \(the QR code is for convenient transfer through different devices, please be sure to use it in a safe environment\).
+The steps to export the private key through TP wallet are as follows: open the wallet -- click the blank at the top of the receipt -- select export the private key in the pop-up menu -- enter the password for authorization to record and save the private key (the QR code is for convenient transfer through different devices, please be sure to use it in a safe environment).
 
 **16. What is BTC segwit?**
 
@@ -172,7 +172,7 @@ There are two options, you can choose to reset the password on the wallet detail
 
 **23. How to reset the password of the bitcoin wallet?**
 
-Step 1: on the wallet list page, click on the pinion \(to go to the wallet details page\). You can also click on the assets home page, the blue banner to enter the details page.
+Step 1: on the wallet list page, click on the pinion (to go to the wallet details page). You can also click on the assets home page, the blue banner to enter the details page.
 
 Step 2: on the wallet details page, select modify password.
 
@@ -208,7 +208,7 @@ Step 6: click the backup mnemonic words in order, click all finished, click "fin
 
 Now the BTC wallet is created.
 
-**27. How to change the name of bitcoin \(BTC\) wallet in the TokenPocket wallet?**
+**27. How to change the name of bitcoin (BTC) wallet in the TokenPocket wallet?**
 
 Step 1: click "mine" to go to the personal center page and click "manage wallets".
 
@@ -222,7 +222,7 @@ Yes. The method is as simple as clicking on the "blockchair" at the top of the w
 
 **29. When my TokenPocket wallet APP was disconnected, someone transferred BTC bitcoin to me. Can I receive it?**
 
-Yes. Bitcoin \(BTC\) will appear in your account the next time you open the wallet program after connecting to the Internet. Bitcoins are not actually received by the wallet software, they are added to a public ledger shared by all the devices on the network.
+Yes. Bitcoin (BTC) will appear in your account the next time you open the wallet program after connecting to the Internet. Bitcoins are not actually received by the wallet software, they are added to a public ledger shared by all the devices on the network.
 
 If someone transfers BTC to you when your wallet is not running, the wallet will download the block data and update any unrecorded transactions when you open your wallet later, and the BTC record of the transfer will appear in the wallet.
 
@@ -232,7 +232,7 @@ No. Strictly speaking, whether you lose your bitcoin in your wallet depends on w
 
 **31. What coins are on the BTC network?**
 
-Unlike ETH, EOS and other public blockchains which support the development of smart contracts, the bitcoin network currently only have BTC and USDT. The USDT is known as OMNI \(if you see it on an exchange\). Some users may mention fork coins such as BCH, but they are not part of the bitcoin network.
+Unlike ETH, EOS and other public blockchains which support the development of smart contracts, the bitcoin network currently only have BTC and USDT. The USDT is known as OMNI (if you see it on an exchange). Some users may mention fork coins such as BCH, but they are not part of the bitcoin network.
 
 **32. Can I mine BTC bitcoin with the TokenPocket wallet?**
 
@@ -244,5 +244,4 @@ TokenPocket as a decentralized wallet, your BTC assets are stored on the blockch
 
 **34. Where is the price of BTC in the TokenPocket wallet displayed according to?**
 
-According to the market site CoinMarketCap \(https://coinmarketcap.com/\) real-time BTC display price.
-
+According to the market site CoinMarketCap (https://coinmarketcap.com/) real-time BTC display price.

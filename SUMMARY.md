@@ -204,7 +204,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
-  * [Version update log (October 14, 2021): Upgrade Polkadot wallet; Compatible with sollet extension, su](announcement/update/version-update-log-october-14-2021-upgrade-polkadot-wallet-compatible-with-sollet-extension-su.md)
+  * [Version update log (October 14, 2021): Upgrade Polkadot wallet; Compatible with sollet extension.](announcement/update/version-update-log-october-14-2021-upgrade-polkadot-wallet-compatible-with-sollet-extension..md)
   * [Version update log (September 29, 2021): Support Solana；Optimize user experience](announcement/update/version-update-log-september-29-2021-support-solana-optimize-user-experience.md)
   * [Version update log (September 18, 2021): Support NFT display](announcement/update/version-update-log-september-18-2021-added-nft-section-in-assets-page.md)
   * [Version update log (September 3, 2021): Assets page supports DeFi data display, upgrade the security](announcement/update/version-update-log-september-3-2021-assets-page-supports-defi-data-display-upgrade-the-security.md)

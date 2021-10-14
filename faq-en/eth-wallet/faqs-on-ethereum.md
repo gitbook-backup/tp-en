@@ -20,39 +20,39 @@ The ETH network is a different economic model. In the ETH development smart cont
 
 **5. What are the ETH transfer fee and gas?**
 
-Gas, gasoline, is a kind of fuel. ETH transfer fees are calculated based on gas consumption \(ETH miner fee = Gas Limit \* Gas Price\). Like BTC, ETH transfers also pay for blockchain miners.
+Gas, gasoline, is a kind of fuel. ETH transfer fees are calculated based on gas consumption (ETH miner fee = Gas Limit \* Gas Price). Like BTC, ETH transfers also pay for blockchain miners.
 
-ETH transfers are said to consume gas. This value is determined by Gas Price \(unit Price\) and consumed Gas Limit \(quantity\). The amount of Gas Limit is generally determined by the ETH smart contract content. Therefore, the higher the Gas Price set by the initiator, the faster the transaction can be packaged. However, ETH can be returned if it has more Gas than it needs.
+ETH transfers are said to consume gas. This value is determined by Gas Price (unit Price) and consumed Gas Limit (quantity). The amount of Gas Limit is generally determined by the ETH smart contract content. Therefore, the higher the Gas Price set by the initiator, the faster the transaction can be packaged. However, ETH can be returned if it has more Gas than it needs.
 
 **6. How to transfer/receive ETH from others?**
 
-Take TokenPocket wallet as an example, click "transfer", enter the transfer address of others, enter the amount and password; On the contrary, click "receive" and send receiving address to others. \(note that if the ETH is transferred to the contract account or the address of the exchange, you need to fill in the Memo. ETH transfer needs to consume a small amount of miner fee, namely gas fee\)
+Take TokenPocket wallet as an example, click "transfer", enter the transfer address of others, enter the amount and password; On the contrary, click "receive" and send receiving address to others. (note that if the ETH is transferred to the contract account or the address of the exchange, you need to fill in the Memo. ETH transfer needs to consume a small amount of miner fee, namely gas fee)
 
 **7. How does ETH in the wallet sell for cash?**
 
 For sale for cash, we need to withdraw ETH to the exchange and sell them through legal currency trading. However, there is a more convenient way for the TokenPocket wallet to convert ETH into EOS through the swap function of the TP wallet, and then sell EOS through CoinMyDex.
 
-\(1\)Open ETH wallet, click swap, select EOS, enter the amount of exchange, enter EOS address, and click to start the exchange \(swap function has a small amount of handling fee\).
+(1)Open ETH wallet, click swap, select EOS, enter the amount of exchange, enter EOS address, and click to start the exchange (swap function has a small amount of handling fee).
 
-\(2\) After the exchange for EOS, open the CoinMyDex（Currently, this function only supports Chinese users）, choose to trade EOS to sell \(the first time to use CoinMyDex needs to click on my account to improve the information\).
+(2) After the exchange for EOS, open the CoinMyDex（Currently, this function only supports Chinese users）, choose to trade EOS to sell (the first time to use CoinMyDex needs to click on my account to improve the information).
 
 **8. How to transfer ETH（in the exchange）to wallet?**
 
 Take Huobi to TP wallet for example:
 
-\(1\)Click "Receive", copy the address or QR code
+(1)Click "Receive", copy the address or QR code
 
-\(2\)Open my assets in Huobi, click to withdraw, select the ETH, paste the address or scan the QR code, enter the amount of withdrawing, click to withdraw \(note that there will be a handling fee and the minimum amount of withdrawing\)
+(2)Open my assets in Huobi, click to withdraw, select the ETH, paste the address or scan the QR code, enter the amount of withdrawing, click to withdraw (note that there will be a handling fee and the minimum amount of withdrawing)
 
 **9. How to purchase ETH assets?**
 
 You can buy it from digital currency exchange such as Huobi.
 
-\(1\)Register/log in the Huobi account and click trade.
+(1)Register/log in the Huobi account and click trade.
 
-\(2\) click Fiat, choose to buy, choose ETH, click buy \(you can click on the filter, choose the right for your payment method and transaction limit\)
+(2) click Fiat, choose to buy, choose ETH, click buy (you can click on the filter, choose the right for your payment method and transaction limit)
 
-\(3\) click buy, there will be the order information, according to the requirements of payment, click I have paid successfully, the seller will send ETH after checking the funds.
+(3) click buy, there will be the order information, according to the requirements of payment, click I have paid successfully, the seller will send ETH after checking the funds.
 
 **10. How to retrieve the previous ETH wallet?**
 
@@ -86,9 +86,9 @@ Tap on ETH in TokenPocket and select the pending transaction, copy the receiver�
 
 Take a quick look into the transaction’s details in one of the Explorers.
 
-2. Redo the transaction and set a higher Gas Price. \(Here we use ETH as an example due to its low GAS Price.\)
+2\. Redo the transaction and set a higher Gas Price. (Here we use ETH as an example due to its low GAS Price.)
 
-3. After a while, you will be able to see the successful transaction. In terms of the old pending transaction, you will see a ‘’Dropped & Replaced” in Status and a new transaction hash, which means that the old transaction has been replaced by the new hash.
+3\. After a while, you will be able to see the successful transaction. In terms of the old pending transaction, you will see a ‘’Dropped & Replaced” in Status and a new transaction hash, which means that the old transaction has been replaced by the new hash.
 
 The above shows how to redo the transaction, but is it possible to cancel the pending transaction and refund the transfer?
 
@@ -101,4 +101,3 @@ You may want to know
 Gas refers to the fee, or pricing value, required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform. A transaction fee is determined by Gas Limit and Gas Price, which can be demonstrated as follows: Transaction fee = Gas Limit \* Gas Price. Actually, the real amount of transaction fee is lower than this as the Gas Limit is the maximum value. However, if the Gas Limit is set too low, the transaction will be rejected but the Gas won’t be refunded. So users normally set a relatively high Gas Limit.
 
 The unit of Gas Price is Gwei, and 1 ETH equals 1 billion Gwei. Normally, Gas Price is about several Gweis. When you set a high Gas Price for a transaction, miners are likely to process your transaction first, and hence, your transaction will be confirmed quickly.
-

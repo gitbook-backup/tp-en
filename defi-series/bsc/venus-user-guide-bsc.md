@@ -1,18 +1,18 @@
-# Venus User Guide \(BSC\)
+# Venus User Guide (BSC)
 
-**About Venus:** 
+**About Venus: **
 
-Venus is a complete algorithmic cryptocurrency marketplace protocol running on the Binance Smart chain \(BSC\), designed to provide platform users with a decentralized and secure marketplace to access loans, earn interest and mint synthetic stablecoin VAI. the protocol design is based on the architecture and fork of Compound and MarkerDAO and is synchronized to the Venus platform, combining the two systems’ advantages.
+Venus is a complete algorithmic cryptocurrency marketplace protocol running on the Binance Smart chain (BSC), designed to provide platform users with a decentralized and secure marketplace to access loans, earn interest and mint synthetic stablecoin VAI. the protocol design is based on the architecture and fork of Compound and MarkerDAO and is synchronized to the Venus platform, combining the two systems’ advantages.
 
-**About XVS:** 
+**About XVS: **
 
 XVS is the platform's native BEP-20 governance token, which is primarily used to participate in platform governance, such as voting on product upgrades, adding new collateral types, adjusting platform parameters, etc. XVS is issued through a fair launch mechanism, with no founder or team allocation, and is backed by a well-funded organization and Swipe's team. 20% of XVS's total $30 million is allocated to the Binance launch pool project, 1% to the Binance smart chain ecosystem, and the remaining 79% all based on liquidity mining, with 35% of the daily rewards allocated to borrowers, 35% to depositors and 30% to stablecoin minting users.
 
 
 
-**Tutorial:** 
+**Tutorial: **
 
-1: Launching Click the【Discover】in TokenPocket Wallet \(BSC\) and type Venus on the top of search bar to launch it.
+1: Launching Click the【Discover】in TokenPocket Wallet (BSC) and type Venus on the top of search bar to launch it.
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619159986805.png)
 
@@ -42,7 +42,7 @@ Click on ‘SAFE MAX’ and the system will automatically enter the maximum numb
 
 The higher the number of loans, the less secure it is and the more likely it is to be liquidated.
 
-Liquidation: A user's collateral may be liquidated if it falls below the threshold required for borrowing or stablecoin in a particular currency market. These liquidations entail payment of liquidation fees and repayment of outstanding debts, with the remaining collateral \(if any\) then reverting to the user. The main risk of liquidation arises from the total value of collateral assets and the total value of loan assets, the higher the risk of being liquidated when the total value of pledges falls \(falling prices of collateral currencies\) or the total value of loans increases \(rising prices of loan currencies\). **Liquidation risk can be reduced by increasing collateral or by early partial repayment.**
+Liquidation: A user's collateral may be liquidated if it falls below the threshold required for borrowing or stablecoin in a particular currency market. These liquidations entail payment of liquidation fees and repayment of outstanding debts, with the remaining collateral (if any) then reverting to the user. The main risk of liquidation arises from the total value of collateral assets and the total value of loan assets, the higher the risk of being liquidated when the total value of pledges falls (falling prices of collateral currencies) or the total value of loans increases (rising prices of loan currencies). **Liquidation risk can be reduced by increasing collateral or by early partial repayment.**
 
 
 
@@ -52,9 +52,9 @@ Open【Repay Borrow】 to make repayments. To make your first repayment, click o
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619160440996.png)
 
-\*\*\*\*
+****
 
-**5: Stake and Mint Stablecoin VAI** 
+**5: Stake and Mint Stablecoin VAI **
 
 The Venus protocol allows users to use v-tokens of the underlying collateral they previously provided to the protocol to mint and issue of VAI, which is a 1:1 on-chain pledge-based stablecoin anchored to USD. The concept that users can pledge assets in the Venus protocol to generate USDE is similar to a home mortgage. In this analogy, Venus is like a bank, the assets staked by users are like a property, and the VAI generated is like the fiat currency that the user loans away, which can be used to make loans and swap for other currencies. 
 
@@ -68,7 +68,7 @@ The minting of VAI creates debt and is also subject to the risk of liquidation, 
 
 
 
-**6: Repay VAI** 
+**6: Repay VAI **
 
 Click on Repay at the bottom of the page to make repayments. You will need to authorise your first repayment, then enter the number of VAI to be repaid and click on 【Repey VAI】 to make the repayment. Once the VAI has been repaid, you will receive the appropriate amount of credit.
 
@@ -92,11 +92,10 @@ Click 【Vote】 on the top right of page, you can see your XVS token balance, X
 
 You can see your 【Voting Weight】 at the bottom of the page, click on 【Get Started】to vote, there are 2 modes of voting: Mannual Voting is to vote for your own proposal; Delegate Voting is to let someone else vote by proxy, you only need to fill in the address of another person, no XVS transfer is involved. 
 
-**Proposal:** You can create your own proposal by clicking on **\[**Create Proposal**\]**. Proposers need to have at least 300,000 XVS and the proposal must have a minimum of 600,000 XVS to be approved.
+**Proposal:** You can create your own proposal by clicking on **\[**Create Proposal**]**. Proposers need to have at least 300,000 XVS and the proposal must have a minimum of 600,000 XVS to be approved.
 
-\_\_
+__
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
 
 ![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)
-

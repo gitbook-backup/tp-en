@@ -4,7 +4,7 @@ Recently, we have got several pieces of feedback from our users that it takes fo
 
 When encountering a similar situation, the user is advised to restart the transaction with a higher Gas Price and make the nounce value equal to the previous transaction, so that the old transaction will be replaced.
 
-### Here is how you do it step by step <a id="4c22"></a>
+### Here is how you do it step by step <a href="4c22" id="4c22"></a>
 
 1. Tap on ETH in TokenPocket and select the pending transaction, copy the receiver’s address.
 
@@ -14,11 +14,11 @@ Take a quick look into the transaction’s details in one of the Explorers.
 
 ![2.jpg](https://tokenpockethelpsupport.zendesk.com/hc/article_attachments/900002283103/2.jpg)
 
-2. Redo the transaction and set a higher Gas Price. \(Here we use ETH as an example due to its low GAS Price.\)
+2\. Redo the transaction and set a higher Gas Price. (Here we use ETH as an example due to its low GAS Price.)
 
 ![3.jpg](https://tokenpockethelpsupport.zendesk.com/hc/article_attachments/900002305626/3.jpg)
 
-3. After a while, you will be able to see the successful transaction. In terms of the old pending transaction, you will see a ‘’Dropped & Replaced” in Status and a new transaction hash, which means that the old transaction has been replaced by the new hash.
+3\. After a while, you will be able to see the successful transaction. In terms of the old pending transaction, you will see a ‘’Dropped & Replaced” in Status and a new transaction hash, which means that the old transaction has been replaced by the new hash.
 
 ![4.jpg](https://tokenpockethelpsupport.zendesk.com/hc/article_attachments/900002305646/4.jpg)
 
@@ -32,9 +32,8 @@ _Note: TokenPocket now supports Gas Station for Ethereum, so users do not have t
 
 ###  
 
-### You may want to know <a id="2ab5"></a>
+### You may want to know <a href="2ab5" id="2ab5"></a>
 
 Gas refers to the fee, or pricing value, required to successfully conduct a transaction or execute a contract on the Ethereum blockchain platform. A transaction fee is determined by Gas Limit and Gas Price, which can be demonstrated as follows: Transaction fee = Gas Limit \* Gas Price. Actually, the real amount of transaction fee is lower than this as the Gas Limit is the maximum value. However, if the Gas Limit is set too low, the transaction will be rejected but the Gas won’t be refunded. So users normally set a relatively high Gas Limit.
 
 The unit of Gas Price is Gwei, and 1 ETH equals 1 billion Gwei. Normally, Gas Price is about several Gweis. When you set a high Gas Price for a transaction, miners are likely to process your transaction first, and hence, your transaction will be confirmed quickly.
-
