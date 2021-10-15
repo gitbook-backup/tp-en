@@ -131,7 +131,7 @@
   * [what is Asset Collection？](faq-en/multichain-wallet/what-is-asset-collection.md)
   * [Guide of Cold wallet](faq-en/multichain-wallet/coldwallet.md)
   * [About sub-wallets](faq-en/multichain-wallet/sub-wallets.md)
-  * [What's the Mnemonic Phrase](faq-en/multichain-wallet/mnemonic-phrase.md)
+  * [What's the Mnemonic Phrase](faq-en/multichain-wallet/secret-recovery-phrase.md)
   * [What‘s the private key](faq-en/multichain-wallet/private-key.md)
 
 ## wallet operation
