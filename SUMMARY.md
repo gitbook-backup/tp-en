@@ -98,7 +98,7 @@
   * [Guía de ususario para BTC — billetera TokenPocket \[Traducción\]](faq-en/btc-wallet/guia-de-ususario-para-btc-billetera-tokenpocket-traduccion.md)
   * [FAQs on Bitcoin Wallet](faq-en/btc-wallet/faqs-on-bitcoin-wallet.md)
   * [What’s the change address](faq-en/btc-wallet/change-address.md)
-  * [What is OP_RETURN？](faq-en/btc-wallet/op_return.md)
+  * [What is OP\_RETURN？](faq-en/btc-wallet/op\_return.md)
   * [what is UTXO](faq-en/btc-wallet/utxo.md)
   * [What’s the path](faq-en/btc-wallet/path.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
@@ -136,6 +136,7 @@
 
 ## wallet operation
 
+* [How to collect DAPP and TP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tp-001-protocol.md)
 * [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
 * [Use OKEx old chain for upgrading to OKEx mainnet (EVM)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
