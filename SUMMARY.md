@@ -136,7 +136,7 @@
 
 ## wallet operation
 
-* [How to collect DAPP and TP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tp-001-protocol.md)
+* [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol.md)
 * [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
 * [Use OKEx old chain for upgrading to OKEx mainnet (EVM)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
