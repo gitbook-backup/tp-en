@@ -12,7 +12,7 @@ Take ETH Network as an example, since ETH is a native asset, it will carry the E
 
 The ordinary transfers won’t ask the Approve in the process of using the wallet; Only when it involves interacting with the contract (DApp, DeFi, etc.), the Approve operation will be performed when the contract needs to be approved. Therefore, when you are in the process of using the wallet, and the following interface appears, you are asked about the Approve. <mark style="color:red;">You must be more careful and confirm whether the current link you are visiting is safe and credible. If not, stop operating!!</mark>
 
-<mark style="color:red;"></mark>![](../../.gitbook/assets/en.jpg)<mark style="color:red;"></mark>
+<mark style="color:red;"></mark>![](<../../.gitbook/assets/en (1).jpg>)<mark style="color:red;"></mark>
 
 **How dangerous Approve is?**
 
