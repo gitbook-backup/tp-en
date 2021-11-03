@@ -1,6 +1,8 @@
-# Cancel malicious authorization, please act now!
+# Cancel the malicious Approval, please act now!
 
 Approve means authorization. It allows users who hold tokens to authorize a certain amount to a specified account by calling the Approve method, giving the account the right to freely spend the Token within the quota. If authorized to malicious accounts, then authorized assets will be extremely risky.
+
+[about-approve.md](about-approve.md "mention")
 
 **How to check whether the wallet address is** **authorized?**
 
