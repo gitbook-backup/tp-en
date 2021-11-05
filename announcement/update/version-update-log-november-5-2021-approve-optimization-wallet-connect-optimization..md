@@ -1,4 +1,4 @@
-# Version update log (November 5, 2021):
+# Version update log (November 5, 2021):Approve optimization; Wallet Connect optimization.
 
 **\[Version Update]**
 
@@ -8,9 +8,9 @@ Android：1.3.6
 
 **\[Details of version update]**
 
-1. Upgrade Polkadot wallet；
-
-2\.  Compatible with sollet extension, support more wallet connect options
+1. Approve optimization;
+2. Wallet Connect optimization;
+3. Fix bugs and optimize users' experience.
 
 &#x20;
 
