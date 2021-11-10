@@ -1,4 +1,4 @@
-# Cancel the malicious Approval, please act now!
+# How to check/cancel Approve?
 
 Approve means authorization. It allows users who hold tokens to authorize a certain amount to a specified account by calling the Approve method, giving the account the right to freely spend the Token within the quota. If authorized to malicious accounts, then authorized assets will be extremely risky.
 
@@ -10,7 +10,7 @@ At the beginning of this tutorial, please click the below link to know more abou
 
 **----APP OPERATE TUTORIAL----**
 
-1\. Open TokenPocket APP, choose the wallet network in the Assets page first, enter \[DeBank] or \[https://debank.com/?utm\_source=tp\&utm\_medium=wallet] in the search bar to get into DeBank DApp, choose the wallet address you need to connect, click the \[Approval] button below and enter the page of approval.
+1\. Open TokenPocket APP, choose the wallet network in the Assets page first, enter \[DeBank] or \[[https://debank.com/](https://debank.com)] in the search bar to get into DeBank DApp, choose the wallet address you need to connect, click the \[Approval] button below and enter the page of approval.
 
 <mark style="color:red;">**Attention: DeBank doesn’t support TRON Approve Management now, please refer to the tutorial on canceling TRON's malicious approval operation at the bottom of this article.**</mark>
 
@@ -36,7 +36,7 @@ At the beginning of this tutorial, please click the below link to know more abou
 
 **----TRON APPROVAL MANAGEMENT----**
 
-1\. Open \[https://tronscan.io/#/], and then enter your wallet address and enter the page of “Account”, click \[Approval] and you can check the approval;
+1\. Open \[[https://tronscan.io/#/](https://tronscan.io/#/)], and then enter your wallet address and enter the page of “Account”, click \[Approval] and you can check the approval;
 
 ![](<../../.gitbook/assets/1 拷贝 21.png>)
 
