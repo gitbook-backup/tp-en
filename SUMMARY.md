@@ -24,7 +24,7 @@
 
 * [Security Measure](security-knowledge/security-measure/README.md)
   * [About Approve](security-knowledge/security-measure/about-approve.md)
-  * [Cancel the malicious Approval, please act now!](security-knowledge/security-measure/cancel-malicious-authorization.md)
+  * [How to check/cancel Approve?](security-knowledge/security-measure/cancel-malicious-authorization.md)
 * [Common Fraud Cases](security-knowledge/common-fraud-cases/README.md)
   * [Fake Airdrop/Giveaway Scam](security-knowledge/common-fraud-cases/fake-airdrop-giveaway-scam.md)
   * [Fake QR Code Scam](security-knowledge/common-fraud-cases/fake-qr-code-scam.md)
