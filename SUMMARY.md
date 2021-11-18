@@ -222,3 +222,4 @@
 ## Contact Us <a href="contract-us" id="contract-us"></a>
 
 * [Contact Us](contract-us/contact-methods.md)
+* [Judicial Assistance Policy](contract-us/judicial-assistance-policy.md)
