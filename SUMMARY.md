@@ -204,6 +204,7 @@
 
 ## announcement
 
+* [Announcement](announcement/announcement.md)
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
