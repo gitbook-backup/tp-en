@@ -22,6 +22,8 @@ OKExChain: [https://github.com/TP-Lab/tokens/tree/master/okexchain](https://gith
 
 Polygon (Matic): [https://github.com/TP-Lab/tokens/tree/master/polygon(matic)](https://github.com/TP-Lab/tokens/tree/master/polygon\(matic\))
 
+IOST: [https://github.com/TP-Lab/tokens/tree/master/iost](https://github.com/TP-Lab/tokens/tree/master/iost)
+
 ### **Preparation**
 
 **1. Image of the Token Logo**
@@ -90,13 +92,13 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 
 1. Open TokenPocket App, click \[Assets] on the bottom, choose TPT Token, and then click \[Transfer] to proceed.
 
-![](../.gitbook/assets/wechatimg9.png) ![](../.gitbook/assets/wechatimg10.png) 
+![](../.gitbook/assets/wechatimg9.png) ![](../.gitbook/assets/wechatimg10.png)&#x20;
 
 2\. Click \[Transfer], enter receiving address and 3000 TPT amount, Click \[Confirm] after choosing fee, and then click \[Transfer] after confirming the information.
 
-**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9 **(Also can scan QR code below to get receiving address).** Only support to receive TPT in BSC, HECO, and Ethereum chain. **Please double confirm your transfer information! 
+**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9 **(Also can scan QR code below to get receiving address).** Only support to receive TPT in BSC, HECO, and Ethereum chain. **Please double confirm your transfer information!&#x20;
 
-  
+&#x20;&#x20;
 
 ![](../.gitbook/assets/code.jpeg)
 
@@ -125,7 +127,7 @@ After completing the above information, you can add the token logo and informati
 
 ![](../.gitbook/assets/github1.jpg)
 
-2\. Go to [GitHub](https://github.com/TP-Lab/tokens), click \[Fork] in the top right corner and wait to complete. 
+2\. Go to [GitHub](https://github.com/TP-Lab/tokens), click \[Fork] in the top right corner and wait to complete.&#x20;
 
 ![](../.gitbook/assets/github2.jpg)
 
@@ -157,7 +159,7 @@ After completing the above information, you can add the token logo and informati
 
 ![](../.gitbook/assets/github8.jpg)
 
-9\. Fill up the subject line and provide additional details about your request on the \[Open a pull request] screen, and then click \[Create pull request]. 
+9\. Fill up the subject line and provide additional details about your request on the \[Open a pull request] screen, and then click \[Create pull request].&#x20;
 
 ![](../.gitbook/assets/github9.jpg)
 
@@ -169,11 +171,11 @@ After completing the above information, you can add the token logo and informati
 
 ### **How to Get Approved? ‌ **
 
-Pull requests will be verified before being added to the Token repository. Therefore, please check whether the Token files you submitted meets the following requirements:‌ 
+Pull requests will be verified before being added to the Token repository. Therefore, please check whether the Token files you submitted meets the following requirements:‌&#x20;
 
 * Fees of 3000 TPT are paid
 * Projects have no counterfeit or fraudulent behavior
-* Detailed token information 
+* Detailed token information&#x20;
 
 ### **Disclaimer **
 
@@ -185,4 +187,4 @@ TokenPocket team allows anyone to submit a token request to this repository. But
 
 After further verification, the admin will merge the pull request. If there are any additional needs or errors that need to be corrected, we will correct information based on the chain. ‌
 
- After the admin merges the Pull request, the token logo can be updated. **And please do not send the same request repeatedly. Your patience will be appreciated.**
+&#x20;After the admin merges the Pull request, the token logo can be updated. **And please do not send the same request repeatedly. Your patience will be appreciated.**
