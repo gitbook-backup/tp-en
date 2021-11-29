@@ -64,7 +64,7 @@ Liquidity funds:  The platform will integrate industry resources and provide a c
 
 ● The commission for early redemption is related to the redemption time.
 
-● The total amount for the first phase of the liquidity fund is 5000 ETH, and a maximum of 10% of the total amount will be released each day.
+● The total amount for the first phase of the liquidity fund is 1000 ETH, and a maximum of 10% of the total amount will be released each day.
 
 On-exchange trading: The ETH staked by users and the rewards can be freely traded on the exchange. ETH participating in pending orders are not eligible.
 
