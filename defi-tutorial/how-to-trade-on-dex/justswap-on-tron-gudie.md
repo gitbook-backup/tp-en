@@ -1,6 +1,6 @@
 # JustSwap on Tron Gudie
 
-**About **[**JustSwap**](https://just.network)****\
+**About** [**JustSwap**](https://just.network)****\
 ****JustSwap is a TRON-based decentralized trading protocol for automated liquidity provision and an open financial market accessible to all. It holds many functions like Swap, LP Pools, etc.
 
 **How to Swap on JustSwap Through Tron?**
@@ -29,7 +29,7 @@ Tip: You can paste the contract address on the search bar to select token.
 
 ![](../../.gitbook/assets/justswap.jpg)
 
-1**) **Click \[Advanced Setting] can set slippage tolerance and swap deadline
+1**)** Click \[Advanced Setting] can set slippage tolerance and swap deadline
 
 ![](../../.gitbook/assets/justswap4.jpg)
 
@@ -39,7 +39,7 @@ Tip: You can paste the contract address on the search bar to select token.
 
 ****
 
-**Click **[**Here**](https://justswap.zendesk.com/hc/en-us)** to contact JustSwap **
+**Click** [**Here**](https://justswap.zendesk.com/hc/en-us) **to contact JustSwap**&#x20;
 
 ****
 

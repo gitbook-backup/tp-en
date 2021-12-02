@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/xswap2.png)
 
-**                            TokenPocket Official Website: **[**www.tokenpocket.pro**](https://www.tokenpocket.pro)****
+&#x20;                           **TokenPocket Official Website:** [**www.tokenpocket.pro**](https://www.tokenpocket.pro)****
 
 **About Xswap**\
 ****As a cross-chain swap aggregator platform powered by TokenPocket, Xswap integrates all functions in one including decentralized swap, aggregated transactions, and one-stop cross-chain. For users, decentralized instant trade and swap can be completed in multiple chains supported by TokenPocket. It expands multi-chain deployment including but not limited to ETH, BSC, HECO, Polygon (Matic), HSC, TRON, and its algorithm strategy will have more advantages in the market.
@@ -23,7 +23,7 @@ Xswap will open up the cross-chain liquidity channel of mainstream public chain 
 
 2\. Set the swap amount (Enough miner fee is required), and then the receiving amount will be automatically calculated, click on \[Confirm Swap] to proceed. After that, detailed information will be shown below. (A certain fee will be charged for using aggregator)
 
-Note: The receiving address is the current connecting wallet address by default. 
+Note: The receiving address is the current connecting wallet address by default.&#x20;
 
 ![](<../../.gitbook/assets/2 (1).jpg>)
 
@@ -47,7 +47,7 @@ Note: If the current public chain network is congested, you can custom the miner
 
 2\. Click \[Import] and then click \[Confirm Import] to proceed. After adding the token successfully, you can start to swap.
 
-**Note: **Please** **double check the token information before you add it to avoid adding the fake tokens.
+**Note:** Please **** double check the token information before you add it to avoid adding the fake tokens.
 
 ![](../../.gitbook/assets/1.2.png)
 

@@ -49,7 +49,7 @@ Background: transparent is recommanded.
 ```
 {% endcode %}
 
-**Tip: **\
+**Tip:** \
 ****There are two online services recommended to edit your image:
 
 * [onlinepngtools](https://onlinepngtools.com/resize-png), to resize the image to 256 x 256
@@ -89,7 +89,7 @@ Note: Your request will not be allowed if there is wrong info or formate in your
 
 
 
-**3. **[**Checksum Address** ](https://docs.ethers.io/v5/api/utils/address/#:\~:text=If%20the%20case%20is%20mixed,will%20return%20a%20Checksum%20Address.)
+**3.** [**Checksum Address** ](https://docs.ethers.io/v5/api/utils/address/#:\~:text=If%20the%20case%20is%20mixed,will%20return%20a%20Checksum%20Address.)
 
 For ERC20 tokens, you need to submit the checksum address that includes uppercase and lowercase characters. You can find the checksum address of a token by searching contract address on [Etherscan](https://etherscan.io). After searching, the checksum address will be shown in the upper left corner. For example, the checksum address of USDT is 0x6B175474E89094C44Da98b954 EedeAC495271d0F.
 
@@ -108,7 +108,7 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 
 2\. Click \[Transfer], enter receiving address and 3000 TPT amount, Click \[Confirm] after choosing fee, and then click \[Transfer] after confirming the information.
 
-**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9 **(Also can scan QR code below to get receiving address).** Only support to receive TPT in BSC, HECO, and Ethereum chain. **Please double confirm your transfer information!&#x20;
+**Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** (Also can scan QR code below to get receiving address). **Only support to receive TPT in BSC, HECO, and Ethereum chain.** Please double confirm your transfer information!&#x20;
 
 &#x20;&#x20;
 
@@ -181,7 +181,7 @@ After completing the above information, you can add the token logo and informati
 
 
 
-### **How to Get Approved? ‌ **
+### **How to Get Approved? ‌**&#x20;
 
 Pull requests will be verified before being added to the Token repository. Therefore, please check whether the Token files you submitted meets the following requirements:‌&#x20;
 
@@ -189,13 +189,13 @@ Pull requests will be verified before being added to the Token repository. There
 * Projects have no counterfeit or fraudulent behavior
 * Detailed token information&#x20;
 
-### **Disclaimer **
+### **Disclaimer**&#x20;
 
 TokenPocket team allows anyone to submit a token request to this repository. But, this does not mean that we have direct partnerships with all of the projects. ‌ After careful review, if any scam or fraudulent projects are found, TokenPocket team will reject submissions. Due to the changing market conditions, risk of fraud or any other factors we deem relevant, TokenPocket team reserves the right to change the terms of submission at any time.
 
 **It is the only officially designated channel to submit the token logo**, and the TokenPocket team is not responsible for any fraud caused by the token logo submitted through other channels.
 
-### When Will the Token Logo/Info be Added? <a href="when-will-the-asset-be-added" id="when-will-the-asset-be-added"></a>
+### When Will the Token Logo/Info be Added? <a href="#when-will-the-asset-be-added" id="when-will-the-asset-be-added"></a>
 
 After further verification, the admin will merge the pull request. If there are any additional needs or errors that need to be corrected, we will correct information based on the chain. ‌
 

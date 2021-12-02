@@ -1,6 +1,6 @@
 # Polygon (Matic) Use Guide
 
-**About **[**Polygon (Matic)**](https://polygon.technology)****
+**About** [**Polygon (Matic)**](https://polygon.technology)****
 
 TokenPocket has supported Polygon mainnet (Matic before), so users can use Polygon through TokenPocket. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
@@ -30,11 +30,11 @@ TokenPocket has supported Polygon mainnet (Matic before), so users can use Polyg
 
 **How to use Polygon Bridge and xPollinate on TokenPocket ?**
 
-**About **[**Polygon Bridge**](https://wallet.matic.network/bridge/)****\
-****If you want to move funds from **Ethereum** to Polygon, you must go through the so-called "bridge", and the "bridge" works through a locking and exit mechanism. On Polygon, users can choose to use two types of bridges: **Plasma Bridge** and **PoS Bridge**. Plasma** **provides advanced security with plasma exit mechanism. It will take **7 days** to transfer your funds back to Etnereum, while the PoS security will only take about **3 hours** back to Etnereum since it is provided by the PoS validators. 
+**About** [**Polygon Bridge**](https://wallet.matic.network/bridge/)****\
+****If you want to move funds from **Ethereum** to Polygon, you must go through the so-called "bridge", and the "bridge" works through a locking and exit mechanism. On Polygon, users can choose to use two types of bridges: **Plasma Bridge** and **PoS Bridge**. Plasma **** provides advanced security with plasma exit mechanism. It will take **7 days** to transfer your funds back to Etnereum, while the PoS security will only take about **3 hours** back to Etnereum since it is provided by the PoS validators.&#x20;
 
-**About **[**xPollinate**](https://www.xpollinate.io)****\
-****xPollinate supports the mutual transfer of funds among the Polygon, BSC, and xDAI, which means that users can move  assets from BSC to Polygon and xDAI. Currently, only stable tokens are supported. 
+**About** [**xPollinate**](https://www.xpollinate.io)****\
+****xPollinate supports the mutual transfer of funds among the Polygon, BSC, and xDAI, which means that users can move  assets from BSC to Polygon and xDAI. Currently, only stable tokens are supported.&#x20;
 
 The following are the detailed steps for Polygon Bridge and xPollinate:
 
@@ -79,7 +79,7 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 
 10\. Double confirm the transfer route and mode, and then click \[Continue] to procceed;
 
-**Note: **Using PoS Bridge mode will take approximately 3 hours if you need to transfer your funds back to Ethereum.
+**Note:** Using PoS Bridge mode will take approximately 3 hours if you need to transfer your funds back to Ethereum.
 
 ![](../../.gitbook/assets/br7.jpg)
 
@@ -87,7 +87,7 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 
 ![](../../.gitbook/assets/br10.jpg)
 
- 12\. Here is the last step, after confirming the transfer information, click \[Confirm] to transfer your funds and then wait patiently since the process will take 7-8 minutes for the deposit to get completed. After completion, your balance on Polygon will be updated.
+&#x20;12\. Here is the last step, after confirming the transfer information, click \[Confirm] to transfer your funds and then wait patiently since the process will take 7-8 minutes for the deposit to get completed. After completion, your balance on Polygon will be updated.
 
 **Tip:** You can set the miner fee to adjust Gas Price and Gas Limit on payment page by your own preference.
 
@@ -96,7 +96,7 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 ****
 
 **How to transfer funds from BSC to Polygon by xPollinate ?** \
-1\. Search \[xPollinate] on the \[Discover] page and then enter the xPollinate page, click \[Connect] to connect your wallet address; (Take connecting BSC network as an example) 
+1\. Search \[xPollinate] on the \[Discover] page and then enter the xPollinate page, click \[Connect] to connect your wallet address; (Take connecting BSC network as an example)&#x20;
 
 ![](../../.gitbook/assets/op2.jpg)
 

@@ -14,5 +14,5 @@ To mark the contract address as a risk is a measure to prevent some new users fr
 
 ![](<../.gitbook/assets/image (32).png>)
 
-For the above two safe transfer warnings, we recommend that you need to** stop related operations to avoid asset losses.**
+For the above two safe transfer warnings, we recommend that you need to **stop related operations to avoid asset losses.**
 

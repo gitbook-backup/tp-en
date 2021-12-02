@@ -6,4 +6,4 @@ In contrast to centralized wallets (exchanges) where the private key is in the h
 
 Therefore, decentralized wallets are difficult to be attacked by hackers centrally, and users do not have to worry about self-stealing or running away from the wallet service provider, because as long as you keep your private key safe when creating the wallet, your assets are still on the chain and can be displayed in a different wallet as well.
 
-**Note: **If a decentralized wallet is lost or stolen, it cannot be recovered without a backup of your private key or seed phrase, so be sure to back up your private key securely and correctly.
+**Note:** If a decentralized wallet is lost or stolen, it cannot be recovered without a backup of your private key or seed phrase, so be sure to back up your private key securely and correctly.

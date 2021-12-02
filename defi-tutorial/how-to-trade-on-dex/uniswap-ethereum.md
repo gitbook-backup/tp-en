@@ -1,6 +1,6 @@
 # Uniswap on Ethereum Guide
 
-**About **[**Uniswap**](https://uniswap.org)****\
+**About** [**Uniswap**](https://uniswap.org)****\
 ****Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all. Currently, Uniswap supports **Ethereum network**.
 
 **How to swap tokens?**\
@@ -14,7 +14,7 @@
 
 Tips: 1) Click the button of the bottom of left corner to check your connected wallet and receiving address.
 
-2\) Clik the button of the upper right corner to set the \[Slippage tolerance] and \[Transaction deadline]. 
+2\) Clik the button of the upper right corner to set the \[Slippage tolerance] and \[Transaction deadline].&#x20;
 
 ![](../../.gitbook/assets/uni3.png)
 
@@ -22,7 +22,7 @@ Tips: 1) Click the button of the bottom of left corner to check your connected w
 
 ![](../../.gitbook/assets/uni2.jpg)
 
-4\. Double check your transaction details and then click \[Transfer] after confirming. And then enter your wallet password to complete the transfer. 
+4\. Double check your transaction details and then click \[Transfer] after confirming. And then enter your wallet password to complete the transfer.&#x20;
 
 Note: You can click \[Miner Fee] to adjust the gas fee for avoding the transaction congested.
 

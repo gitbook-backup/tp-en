@@ -1,24 +1,24 @@
 # How to use PancakeSwap in TokenPocket Wallet
 
-**BSC (Binance Smart Chain) **
+**BSC (Binance Smart Chain)**&#x20;
 
 The Binance Smart Chain is an innovative solution to bring EVM-enabled programmability and cross-chain interoperability to the Binance Chain. It relies on 21 verifiers out of the block, and the system follows the POSA (Proof of Staked Authority) consensus algorithm. The speed is very fast, and it has low fees. Verifiers are selected based on the number of tokens they are bound to. The security and stability of on-chain transactions are also achieved by binding the verifier through penalty mechanisms such as preventing multiple signatures. BSC is fully compatible with the ETH ecosystem and natively supports cross-chain operation. Cross-chain transactions and information exchange can be done easily on BSC. Assets in both blockchains (ETH and BSC) can be traded on DEX. Users can either enjoy the high-performance aggregation engine of DEX or complete their own development on BSC.
 
-**PancakeSwap **
+**PancakeSwap**&#x20;
 
 PancakeSwap is the number one automated market maker (AMM) on Binance Smart Chain, which allows exchange two different tokens. It is fast, cheap, and everyone can participate.
 
-**Tutorial **
+**Tutorial**&#x20;
 
-The latest version of TP adds support for BSC, with the following major updates: 
+The latest version of TP adds support for BSC, with the following major updates:&#x20;
 
-1\. Support BSC 
+1\. Support BSC&#x20;
 
-2\. Support DeFi projects on BSC 
+2\. Support DeFi projects on BSC&#x20;
 
-3\. Support BSC wallet creation 
+3\. Support BSC wallet creation&#x20;
 
-4\. Support BNB and BEP20 Token storage and transfer 
+4\. Support BNB and BEP20 Token storage and transfer&#x20;
 
 There are many functions in pancakeswap, including【Swap】【Farm】【Staking】【Voting】and so on. The following lecture focuses on these 4 functions.
 
@@ -50,7 +50,7 @@ There are many functions in pancakeswap, including【Swap】【Farm】【Staking
 
 
 
-**Farm **
+**Farm**&#x20;
 
 1\. Pancakeswap adopts liquidity mining model, which means that LP (Liquidity Provider) can get rewards. First of all, users need to provide two different tokens for liquidity pool. Click【Pool】and use 【Add Liquidity】to select BNB and BUSD as an example to be a pair. Then, click 【Approve BUSD】to authorize.
 
@@ -76,7 +76,7 @@ There are many functions in pancakeswap, including【Swap】【Farm】【Staking
 
 
 
-**Staking **
+**Staking**&#x20;
 
 1\. 1 CAKE = 1 SYRUP, staking CAKE (pancake tokens) to get SYRUP, holding SYRUP will not only get you CAKE rewards, but will also be used for subsequent functions such as pancake exchange lottery and general governance. The first operation requires authorization 【Approve CAKE】, click the blue【+】to add CAKE tokens after authorization is complete.
 

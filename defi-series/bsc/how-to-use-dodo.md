@@ -1,6 +1,6 @@
 # How to Use DODO
 
-**Introduction **
+**Introduction**&#x20;
 
 DODO is a new generation of on-chain liquidity decentralized exchange platform. It is powered by the new protocol, which can realize a flexible on-chain market-making strategy. It mainly relies on Proactive market maker (PMM) algorithm to provide everyone with pure on-chain and fulfillable contract liquidity. So, DODO is a high-quality, sustainable and user-friendly DeFi product for the market.
 
@@ -8,7 +8,7 @@ DODO is one of the early supporters of Binance Smart Chain (BSC). It will bring 
 
 
 
-**Tutorial **
+**Tutorial**&#x20;
 
 Firstly, launch TokenPocket Wallet App and switch to the BSC wallet. Then, click【Discover】in the bottom to open【DODO】in the recommended position, or type ‘DODO’ in the top search bar to enter.
 

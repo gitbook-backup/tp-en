@@ -1,8 +1,8 @@
 # Beefy.finance Tutorial (BSC)
 
-**Introduction: **
+**Introduction:**&#x20;
 
-Beefy.finance is an income aggregator based on the BSC. Here is a brief overview of how to use Beefy.finance. 
+Beefy.finance is an income aggregator based on the BSC. Here is a brief overview of how to use Beefy.finance.&#x20;
 
 **Tutorial:**
 

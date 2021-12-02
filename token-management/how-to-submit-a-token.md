@@ -6,7 +6,7 @@
 
 2\. Fill in the token information in order, and then click \[Submit].
 
-**Note: **Admins will audit your token submission as soon as possible, so, your patience will be appreciated.
+**Note:** Admins will audit your token submission as soon as possible, so, your patience will be appreciated.
 
 ![](../.gitbook/assets/ti-jiao-token.jpg)
 

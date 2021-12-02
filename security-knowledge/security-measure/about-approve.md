@@ -25,5 +25,5 @@ Follow this tutorial:[**https://help.tokenpocket.pro/en/security-knowledge/secur
 **How to prevent Approve scams?**
 
 1. Don't play DApps from <mark style="color:red;">unknown sources</mark>, don’t play DApps have <mark style="color:red;">no open-sourced</mark>, don’t play DApps have <mark style="color:red;">no audit reports</mark> and <mark style="color:red;">not from trustable teams</mark>.
-2. Regularly use DeBank,** **Cointool and other tools to cancel the approval;
+2. Regularly use DeBank, **** Cointool and other tools to cancel the approval;
 3. Create a new wallet. After the approval and other operations are completed, transfer the Token to the new wallet address, which is relatively safe because there is no approval history (Attention: the cancel the approve doesn’t mean absolutely safe, there is no tools on the market that can guarantee a complete cleanup.)

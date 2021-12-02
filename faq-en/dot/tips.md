@@ -4,9 +4,9 @@ Tips are a transaction fee option. In Polkadot and Kusama network, users are all
 
 **Note:**
 
-1.Tips are optional. Users are allowed to choose to pay tips according to their own situation. 
+1.Tips are optional. Users are allowed to choose to pay tips according to their own situation.&#x20;
 
-2.Under the same conditions, minors will approve the transactions with tips first. 
+2.Under the same conditions, minors will approve the transactions with tips first.&#x20;
 
 ## How is the transaction fee calculated in Polkadot and Kusama?
 
@@ -14,11 +14,11 @@ The transaction fee in Polkadot and Kusama network are decided by the following 
 
 **a.Byte length fee**
 
-Byte length fee is the product of the fee per byte and the size of the transaction. 
+Byte length fee is the product of the fee per byte and the size of the transaction.&#x20;
 
- **b.Weight fee **
+&#x20;**b.Weight fee**&#x20;
 
-Weight is a fixed number designed to manage the time it takes to verify the block. Each transaction includes basic weight and dispatches weight. The basic weight describes the cost involved in the transaction (such as signature verification), and the dispatch weight describes the time to execute the transaction. The weight fee of a transaction is the product of the total weight of a transaction and the price per weight. 
+Weight is a fixed number designed to manage the time it takes to verify the block. Each transaction includes basic weight and dispatches weight. The basic weight describes the cost involved in the transaction (such as signature verification), and the dispatch weight describes the time to execute the transaction. The weight fee of a transaction is the product of the total weight of a transaction and the price per weight.&#x20;
 
 **c.Tips (optional)**
 

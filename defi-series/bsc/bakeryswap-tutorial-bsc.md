@@ -1,8 +1,8 @@
 # BakerySwap Tutorial (BSC)
 
-**Introduction: **
+**Introduction:**&#x20;
 
-BakerySwap is a DeFi platform based on BSC. 
+BakerySwap is a DeFi platform based on BSC.&#x20;
 
 **Tutorial:**
 

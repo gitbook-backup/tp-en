@@ -1,8 +1,8 @@
 # SushiSwap on OKChain Guide
 
-**About **[**SushiSwap**](https://sushi.com)****
+**About** [**SushiSwap**](https://sushi.com)****
 
-SushiSwap** **is a community-driven DeFi platform based on OKChain, with features of Swap, Pool, etc.
+SushiSwap **** is a community-driven DeFi platform based on OKChain, with features of Swap, Pool, etc.
 
 **How to Swap on SushiSwap through OKChain?**
 
@@ -30,7 +30,7 @@ SushiSwap** **is a community-driven DeFi platform based on OKChain, with feature
 
 ![](../../.gitbook/assets/sushi3.jpg)
 
-**Please click **[**Here**](https://twitter.com/SushiSwap)** to contact SushiSwap**
+**Please click** [**Here**](https://twitter.com/SushiSwap) **to contact SushiSwap**
 
 {% hint style="info" %}
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._

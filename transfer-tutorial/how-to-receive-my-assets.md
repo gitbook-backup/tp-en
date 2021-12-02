@@ -17,7 +17,7 @@
 ![](../.gitbook/assets/zhuan-zhang-3.jpg)
 
 **Related tutorials**\
-****[**1) **How to add tokens? ](https://tphelp.gitbook.io/en/token-management/how-to-add-tokens)\
+****[**1)** How to add tokens? ](https://tphelp.gitbook.io/en/token-management/how-to-add-tokens)\
 [2) How to transfer assets to the wallet/exchange?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-transfer-assets-to-the-wallet-exchange)\
 [3) Why can't I transfer tokens between different chains?](https://tphelp.gitbook.io/en/transfer-faq/about-public-chain-transfer)\
 [4) Why did I not receive my assets from the exchange to the wallet?](https://tphelp.gitbook.io/en/transfer-faq/why-did-i-not-receive-my-funds-from-the-exchange-to-the-wallet)****\

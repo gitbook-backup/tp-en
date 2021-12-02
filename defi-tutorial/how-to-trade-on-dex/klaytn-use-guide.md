@@ -1,6 +1,6 @@
 # Klaytn Use Guide
 
-**About **[**Klaytn**](https://www.klaytn.com)****
+**About** [**Klaytn**](https://www.klaytn.com)****
 
 Kakao’s global public blockchain project Klaytn is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions. It combines the best features of both public blockchains (decentralized data & control, distributed governance) and private blockchains (low latency, high scalability) via an efficient 'hybrid' design. Klaytn is secured by participation from numerous highly-reputable brands around the globe, working together to create a reliable business platform atop a robust system of decentralized trust. Klaytn enables businesses and entrepreneurs today to capture value using blockchain technology. Klaytn is the future, designed by GroundX.
 
@@ -22,7 +22,7 @@ Kakao’s global public blockchain project Klaytn is an enterprise-grade, servic
 
 ****
 
-**How to Transfer Assets from ETH chain to Klaytn Chain through **[**OrbitBridge**](https://bridge.orbitchain.io)**?**
+**How to Transfer Assets from ETH chain to Klaytn Chain through** [**OrbitBridge**](https://bridge.orbitchain.io)**?**
 
 1.Open OrbitBridge website: [https://bridge.orbitchain.io/](https://bridge.orbitchain.io) (conversion function is currently not supported on mobile devices), click \[Select Coin] in the upper right corner;
 
@@ -36,7 +36,7 @@ Kakao’s global public blockchain project Klaytn is an enterprise-grade, servic
 
 ![](../../.gitbook/assets/cha-ru-3.jpg)
 
-4\. Choose the \[From Chain]; (From Ethereum chain to Klaytn chain as an example here) 
+4\. Choose the \[From Chain]; (From Ethereum chain to Klaytn chain as an example here)&#x20;
 
 ![](../../.gitbook/assets/o2.png)
 
@@ -51,7 +51,7 @@ Kakao’s global public blockchain project Klaytn is an enterprise-grade, servic
 7\. Enter your Klaytn recipient address, and then click \[CONVERT NOW];
 
 **Notes:**\
-** 1) Please check your recipient address carefully;**\
+&#x20;**1) Please check your recipient address carefully;**\
 **2)  A certain amount of transfer/tax fee is required when transferring.**
 
 ![](../../.gitbook/assets/o4.png)

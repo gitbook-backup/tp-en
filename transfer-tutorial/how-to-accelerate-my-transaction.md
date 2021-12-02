@@ -8,7 +8,7 @@ In general, transactions on the Ethereum chain are relatively congested, and tra
 
 ![](<../.gitbook/assets/jia-su-1 (1).png>)
 
-2.** **Click \[After] to set the miner fee after entering the page, or remain the default status;
+2\. **** Click \[After] to set the miner fee after entering the page, or remain the default status;
 
 ![](<../.gitbook/assets/jia-su-02 (1).png>)
 

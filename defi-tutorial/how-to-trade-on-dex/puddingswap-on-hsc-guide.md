@@ -1,6 +1,6 @@
 # PuddingSwap on HSC Guide
 
-**About **[**PuddingSwap**](https://puddingswap.finance)****
+**About** [**PuddingSwap**](https://puddingswap.finance)****
 
 Pudding Finance is a decentralized exchange running on Hoo Smart Chain, with lots of features such as Exchange, Farm, Staking, etc.
 

@@ -17,7 +17,7 @@ Notes: 1) Click \[Address Book] for choosing a receiving address stored in book;
 
 4\. Enter \[Receiving address] and \[Amount], and then choose miner fee (Usually, Avg fee is recommended), click \[Confirm].
 
-**Notes: **\
+**Notes:** \
 1\) Please attach Memo/Tag if the platform of receiving address is required when you transfer.\
 2\) You may custom the miner fee to adjust gas price and gas limit.
 

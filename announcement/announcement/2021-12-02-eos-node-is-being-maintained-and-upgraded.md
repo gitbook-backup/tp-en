@@ -1,4 +1,4 @@
-# 2021/12/02
+# 2021/12/02 EOS node is being maintained and upgraded
 
 Dear TokenPocket users:&#x20;
 

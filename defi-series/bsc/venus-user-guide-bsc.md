@@ -1,16 +1,16 @@
 # Venus User Guide (BSC)
 
-**About Venus: **
+**About Venus:**&#x20;
 
 Venus is a complete algorithmic cryptocurrency marketplace protocol running on the Binance Smart chain (BSC), designed to provide platform users with a decentralized and secure marketplace to access loans, earn interest and mint synthetic stablecoin VAI. the protocol design is based on the architecture and fork of Compound and MarkerDAO and is synchronized to the Venus platform, combining the two systems’ advantages.
 
-**About XVS: **
+**About XVS:**&#x20;
 
 XVS is the platform's native BEP-20 governance token, which is primarily used to participate in platform governance, such as voting on product upgrades, adding new collateral types, adjusting platform parameters, etc. XVS is issued through a fair launch mechanism, with no founder or team allocation, and is backed by a well-funded organization and Swipe's team. 20% of XVS's total $30 million is allocated to the Binance launch pool project, 1% to the Binance smart chain ecosystem, and the remaining 79% all based on liquidity mining, with 35% of the daily rewards allocated to borrowers, 35% to depositors and 30% to stablecoin minting users.
 
 
 
-**Tutorial: **
+**Tutorial:**&#x20;
 
 1: Launching Click the【Discover】in TokenPocket Wallet (BSC) and type Venus on the top of search bar to launch it.
 
@@ -46,7 +46,7 @@ Liquidation: A user's collateral may be liquidated if it falls below the thresho
 
 
 
-**4: Repayment** 
+**4: Repayment**&#x20;
 
 Open【Repay Borrow】 to make repayments. To make your first repayment, click on【Enable】 to authorize, then enter the amount to be repaid and the interest rate, and click on 【Repay】
 
@@ -54,11 +54,11 @@ Open【Repay Borrow】 to make repayments. To make your first repayment, click o
 
 ****
 
-**5: Stake and Mint Stablecoin VAI **
+**5: Stake and Mint Stablecoin VAI**&#x20;
 
-The Venus protocol allows users to use v-tokens of the underlying collateral they previously provided to the protocol to mint and issue of VAI, which is a 1:1 on-chain pledge-based stablecoin anchored to USD. The concept that users can pledge assets in the Venus protocol to generate USDE is similar to a home mortgage. In this analogy, Venus is like a bank, the assets staked by users are like a property, and the VAI generated is like the fiat currency that the user loans away, which can be used to make loans and swap for other currencies. 
+The Venus protocol allows users to use v-tokens of the underlying collateral they previously provided to the protocol to mint and issue of VAI, which is a 1:1 on-chain pledge-based stablecoin anchored to USD. The concept that users can pledge assets in the Venus protocol to generate USDE is similar to a home mortgage. In this analogy, Venus is like a bank, the assets staked by users are like a property, and the VAI generated is like the fiat currency that the user loans away, which can be used to make loans and swap for other currencies.&#x20;
 
-Users issue VAI by staking deposits and also receive XVS rewards. 
+Users issue VAI by staking deposits and also receive XVS rewards.&#x20;
 
 First open【Mint/Repay VAI】 in the lending market and enter the number of VAI to be minted, there is also a safe value and a maximum value to be minted, same as the loan amount above, my previous deposit voucher was 50U, so the default safe value is 12U and the maximum can be minted is 30U. Minting is done for a small BNB gas fee.
 
@@ -68,7 +68,7 @@ The minting of VAI creates debt and is also subject to the risk of liquidation, 
 
 
 
-**6: Repay VAI **
+**6: Repay VAI**&#x20;
 
 Click on Repay at the bottom of the page to make repayments. You will need to authorise your first repayment, then enter the number of VAI to be repaid and click on 【Repey VAI】 to make the repayment. Once the VAI has been repaid, you will receive the appropriate amount of credit.
 
@@ -76,13 +76,13 @@ Click on Repay at the bottom of the page to make repayments. You will need to au
 
 
 
-**7: Voting** 
+**7: Voting**&#x20;
 
 Venus is designed for community autonomy, with no pre-determination by the team, developers or founders, the protocol will be executed by the proposal of those holding XVS tokens. Users holding XVS will receive votes corresponding to them, and these votes can be allocated to themselves, or they can fill in someone else's address to have someone else vote by proxy.
 
 
 
-**8: Collect Mining Rewards** 
+**8: Collect Mining Rewards**&#x20;
 
 Click 【Vote】 on the top right of page, you can see your XVS token balance, XVS earnings from borrow mining and from minting VAI. Use【Collect】 button to get XVS rewards.
 
@@ -90,7 +90,7 @@ Click 【Vote】 on the top right of page, you can see your XVS token balance, X
 
 
 
-You can see your 【Voting Weight】 at the bottom of the page, click on 【Get Started】to vote, there are 2 modes of voting: Mannual Voting is to vote for your own proposal; Delegate Voting is to let someone else vote by proxy, you only need to fill in the address of another person, no XVS transfer is involved. 
+You can see your 【Voting Weight】 at the bottom of the page, click on 【Get Started】to vote, there are 2 modes of voting: Mannual Voting is to vote for your own proposal; Delegate Voting is to let someone else vote by proxy, you only need to fill in the address of another person, no XVS transfer is involved.&#x20;
 
 **Proposal:** You can create your own proposal by clicking on **\[**Create Proposal**]**. Proposers need to have at least 300,000 XVS and the proposal must have a minimum of 600,000 XVS to be approved.
 

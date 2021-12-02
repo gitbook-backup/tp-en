@@ -1,7 +1,7 @@
 # PancakeSwap on BSC Guide
 
-**About **[**PancakeSwap**](https://pancakeswap.info)\
-PancakeSwap is a decentralized exchange on** Binance Smart Chain** with many functions such as \[Trade], \[Farm], \[Pools] and so on.
+**About** [**PancakeSwap**](https://pancakeswap.info)\
+PancakeSwap is a decentralized exchange on **Binance Smart Chain** with many functions such as \[Trade], \[Farm], \[Pools] and so on.
 
 **How to Trade on PancakeSwap?**\
 ****1.Open TokenPocket App, choose BSC wallet, click \[Discover] at the bottom, and then search \[PancakeSwap] to enter;
@@ -14,7 +14,7 @@ PancakeSwap is a decentralized exchange on** Binance Smart Chain** with many fun
 
 ![](../../.gitbook/assets/pancake-dao-hang-lan-.jpg)
 
-3\. The main functions are on the top of the page, and you need to connect the wallet address at the upper right corner before trading. 
+3\. The main functions are on the top of the page, and you need to connect the wallet address at the upper right corner before trading.&#x20;
 
 After connecting, click \[Swap], choose the trading pairs and the amount you need to swap, and then the receiving amount will be filled in automatically. Click \[Swap] to proceed. (Take BNB and TPT as an example here)
 

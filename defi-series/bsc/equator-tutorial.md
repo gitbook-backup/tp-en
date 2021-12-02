@@ -1,8 +1,8 @@
 # Equator Tutorial
 
-**Introduction: **
+**Introduction:**&#x20;
 
-Equator is a universal liquidity protocol based on BSC, using which custom pools can be built flexibly to complete any exchange between BEP20 assets. Unlike other Automated Market Makers (AMMs), Equator allows custom asset pools with more than 2 weights of 50/50. The following is a brief description of the use of Equator.finance. 
+Equator is a universal liquidity protocol based on BSC, using which custom pools can be built flexibly to complete any exchange between BEP20 assets. Unlike other Automated Market Makers (AMMs), Equator allows custom asset pools with more than 2 weights of 50/50. The following is a brief description of the use of Equator.finance.&#x20;
 
 **Tutorial:**
 

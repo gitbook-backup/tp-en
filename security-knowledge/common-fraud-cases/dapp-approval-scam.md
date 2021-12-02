@@ -1,11 +1,11 @@
 # DApp Approval Scam
 
-When it comes to currency exchange in the DEX platform, the approval step will be used. Only after the first operation of “Approve“ can the swap be performed, and this is only one of the application scenarios. 
+When it comes to currency exchange in the DEX platform, the approval step will be used. Only after the first operation of “Approve“ can the swap be performed, and this is only one of the application scenarios.&#x20;
 
 Since the "Approve" operation essentially grants the exercise authority of part of your token to another address or smart contract address, scammers will use codes or links to maliciously let users perform "Approve" operations. For example, users may receive airdrop tokens attached memo and link, noted that the airdropped tokens can be exchanged for other tokens. If the user opens the link and executes the exchange, they will fall into the trap that maliciously approves Dapp. As a result, the user's assets will be transferred by the Dapp easily.
 
 **How to judge whether the approved operation is safe?**\
-****1.** **Whether** **the approved product is open source\
+****1. **** Whether **** the approved product is open source\
 Open source code allows users to better know permissions of “approve”, that is, users will know the conditions to transfer assets.
 
 2\. Whether open sources for the approved product is audited\

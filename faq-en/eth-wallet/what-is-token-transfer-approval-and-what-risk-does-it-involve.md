@@ -1,6 +1,6 @@
 # What is Token Transfer Approval, and What Risk Does it Involve?
 
-## **What is ERC20 token approval?** <a href="43d0" id="43d0"></a>
+## **What is ERC20 token approval?** <a href="#43d0" id="43d0"></a>
 
 Most DApps on ETH involve contract operations, so the approval operations, that is, the user is actually allowing the contract to have access to a certain amount of tokens in the address.
 
@@ -14,11 +14,11 @@ Firstly, accounts A and B will have to establish a delegating relationship. The 
 
 Then, account B needs to be logged in and run transferFrom(A,C,100). Account B is the delegated sender, from which account the gas is deducted. So the amount of tokens sent must below the \_allowed\[A]\[B] level.
 
-**In conclusion, this is how a transfer is made from A to C through B. **
+**In conclusion, this is how a transfer is made from A to C through B.**&#x20;
 
 ![](../../.gitbook/assets/approval.jpg)
 
-## The risks may be involved in the process <a href="fcf9" id="fcf9"></a>
+## The risks may be involved in the process <a href="#fcf9" id="fcf9"></a>
 
 In the process, if the user approves the transfer to a malicious contract, it means that the contract is able to use the user’s tokens to make collateral or do other malicious things.
 

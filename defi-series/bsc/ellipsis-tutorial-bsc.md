@@ -1,8 +1,8 @@
 # Ellipsis Tutorial (BSC)
 
-**Advantages: **
+**Advantages:**&#x20;
 
-Ellipsis is primarily an inter-stable currency exchange with the advantages of low transaction slippage, high yields and single currency access. 
+Ellipsis is primarily an inter-stable currency exchange with the advantages of low transaction slippage, high yields and single currency access.&#x20;
 
 **Tutorial:**
 
