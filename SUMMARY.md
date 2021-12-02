@@ -54,7 +54,7 @@
   * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
   * [The Usage Tutorial of OKExChain Test (OKEx)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
 
-## FAQ <a href="faq-en" id="faq-en"></a>
+## FAQ <a href="#faq-en" id="faq-en"></a>
 
 * [Solana Wallet](faq-en/solana-wallet/README.md)
   * [Associated account of Solana](faq-en/solana-wallet/associated-account.md)
@@ -207,6 +207,7 @@
 ## announcement
 
 * [Announcement](announcement/announcement.md)
+* [2021/12/02](announcement/2021-12-02.md)
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
@@ -223,7 +224,7 @@
   * [Version update log (March 18, 2021): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
   * [Version Update (Oct. 30, 2020) | TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
 
-## Contact Us <a href="contract-us" id="contract-us"></a>
+## Contact Us <a href="#contract-us" id="contract-us"></a>
 
 * [Contact Us](contract-us/contact-methods.md)
 * [Judicial Assistance Policy](contract-us/judicial-assistance-policy.md)
