@@ -207,7 +207,7 @@
 ## announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [2021/12/02 EOS node is being maintained and upgraded](announcement/announcement/2021-12-02-eos-node-is-being-maintained-and-upgraded.md)
+  * [2021/12/02 EOS node is being maintained.](announcement/announcement/2021-12-02-eos-node-is-being-maintained..md)
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
