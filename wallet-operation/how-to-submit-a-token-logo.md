@@ -14,7 +14,7 @@ HECO：[https://github.com/TP-Lab/tokens/tree/master/heco](https://github.com/TP
 
 TRON: Token logo on the Tron chain is unavailable for now.​‌
 
-EOS：[https://github.com/TP-Lab/tokens/tree/master/eos](https://github.com/TP-Lab/tokens/tree/master/eos)​‌
+EOS: Token logo on the EOS chain is unavailable for now.​​‌
 
 HSC：[https://github.com/TP-Lab/tokens/tree/master/hsc](https://github.com/TP-Lab/tokens/tree/master/hsc)‌
 
