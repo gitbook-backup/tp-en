@@ -2,17 +2,6 @@
 
 * [Introduction](README.md)
 
-## DeFi Series
-
-* [BSC](defi-series/bsc/README.md)
-  * [Beefy.finance Tutorial (BSC)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
-  * [Equator Tutorial](defi-series/bsc/equator-tutorial.md)
-  * [Ellipsis Tutorial (BSC)](defi-series/bsc/ellipsis-tutorial-bsc.md)
-  * [BakerySwap Tutorial (BSC)](defi-series/bsc/bakeryswap-tutorial-bsc.md)
-  * [How to Use DODO](defi-series/bsc/how-to-use-dodo.md)
-  * [Venus User Guide (BSC)](defi-series/bsc/venus-user-guide-bsc.md)
-  * [How to use PancakeSwap in TokenPocket Wallet](defi-series/bsc/how-to-use-pancakeswap-in-tokenpocket-wallet.md)
-
 ## Blockchain Basics
 
 * [What Is Blockchain?](blockchain-basics/blockchain-definition.md)
@@ -53,6 +42,17 @@
 * [OKEx](tutorial-series/okex/README.md)
   * [How to create the OKEx Chain Test wallet](tutorial-series/okex/how-to-create-the-okex-chain-test-wallet.md)
   * [The Usage Tutorial of OKExChain Test (OKEx)](tutorial-series/okex/the-usage-tutorial-of-okexchain-test-okex.md)
+
+## DeFi Series
+
+* [BSC](defi-series/bsc/README.md)
+  * [Beefy.finance Tutorial (BSC)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
+  * [Equator Tutorial](defi-series/bsc/equator-tutorial.md)
+  * [Ellipsis Tutorial (BSC)](defi-series/bsc/ellipsis-tutorial-bsc.md)
+  * [BakerySwap Tutorial (BSC)](defi-series/bsc/bakeryswap-tutorial-bsc.md)
+  * [How to Use DODO](defi-series/bsc/how-to-use-dodo.md)
+  * [Venus User Guide (BSC)](defi-series/bsc/venus-user-guide-bsc.md)
+  * [How to use PancakeSwap in TokenPocket Wallet](defi-series/bsc/how-to-use-pancakeswap-in-tokenpocket-wallet.md)
 
 ## FAQ <a href="#faq-en" id="faq-en"></a>
 
