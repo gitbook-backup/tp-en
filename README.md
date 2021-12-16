@@ -22,5 +22,5 @@
 
 **Follow us**
 
-[Official Website](https://www.tokenpocket.pro)  |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://medium.com/@tokenpocket.gm)  |  [Github](https://help.tokenpocket.pro/en/) | [Discord](https://discord.gg/rHDeXvzrbw)
+[Official Website](https://www.tokenpocket.pro)  |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://medium.com/@tokenpocket.gm)  |  [Github](https://help.tokenpocket.pro/en/) | [Discord](https://discord.gg/rHDeXvzrbw)｜[YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A)
 
