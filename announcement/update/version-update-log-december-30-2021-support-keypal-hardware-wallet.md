@@ -50,3 +50,9 @@ Open TokenPocket APP, click\[Transfer], and enter the receiving address and the 
 
 And you need to check the receiving address, transfer amount, and the gas fee on your KeyPal. After you have confirmed the information below, the KeyPal will show \[Sign successfully], the transfer is successful.
 
+
+
+**【Version update method】**‌
+
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/)](https://tokenpocket.pro/\))
+
