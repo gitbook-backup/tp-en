@@ -38,7 +38,7 @@ When a DApp/contract address  for Approve, TokenPocket will remind you with a re
 
 <mark style="color:red;">Attention: Don't play DApps from unknown sources, don’t play DApps have no open-sourced, don’t play DApps have no audit reports and not from trustable teams.</mark>
 
-![](<../../.gitbook/assets/image (41) (1).png>)
+![](<../../.gitbook/assets/image (41) (1) (1).png>)
 
 
 
