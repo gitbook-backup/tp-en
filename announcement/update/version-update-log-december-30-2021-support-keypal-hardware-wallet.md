@@ -1,4 +1,4 @@
-# Version update log (December 30, 2021): Support KeyPal hardware wallet;
+# Version update log (December 31, 2021): Support KeyPal hardware wallet;
 
 **\[Version Update]**
 
@@ -51,6 +51,8 @@ Open TokenPocket APP, click\[Transfer], and enter the receiving address and the 
 And you need to check the receiving address, transfer amount, and the gas fee on your KeyPal. After you have confirmed the information below, the KeyPal will show \[Sign successfully], the transfer is successful.
 
 ![](<../../.gitbook/assets/image (54).png>)
+
+**Click** [**KeyPal Tutorial** ](https://keypal.gitbook.io/en/keypal-tutorial)**to know more about your** [**KeyPal**](https://www.keypal.pro/en/)**.**
 
 **【Version update method】**‌
 
