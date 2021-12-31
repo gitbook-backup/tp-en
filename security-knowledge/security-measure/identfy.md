@@ -19,3 +19,5 @@ Open and log in to your App Store. Search “TokenPocket” and see the results.
 Open and log in to your Google Play. Search “TokenPocket” and see the results. You can see \[TokenPocket Foundation] in the interface. Click \[Development contact], you can see the website, email,  and privacy policy of TokenPocket, click \[Website] and you can enter the only official website of TokenPocket\[<mark style="color:red;">**https://tokenpocket.pro/**</mark>], then it is the right “TokenPocket”.&#x20;
 
 ![](<../../.gitbook/assets/image (55).png>)
+
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/)](https://tokenpocket.pro/\))
