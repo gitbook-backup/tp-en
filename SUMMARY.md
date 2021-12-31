@@ -212,7 +212,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
-  * [Version update log (December 30, 2021): Support KeyPal hardware wallet;](announcement/update/version-update-log-december-30-2021-support-keypal-hardware-wallet.md)
+  * [Version update log (December 31, 2021): Support KeyPal hardware wallet;](announcement/update/version-update-log-december-31-2021-support-keypal-hardware-wallet.md)
   * [Version update log (November 26, 2021):Support Cold wallet and Watch wallet on Solana;](announcement/update/version-update-log-november-26-2021-support-cold-wallet-and-watch-wallet-on-solana.md)
   * [Version update log (November 5, 2021):Approve optimization; Wallet Connect optimization.](announcement/update/version-update-log-november-5-2021-approve-optimization-wallet-connect-optimization..md)
   * [Version update log (October 14, 2021): Upgrade Polkadot wallet; Compatible with sollet extension.](announcement/update/version-update-log-october-14-2021.md)
