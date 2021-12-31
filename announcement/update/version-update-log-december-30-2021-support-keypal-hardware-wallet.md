@@ -26,7 +26,7 @@ Follow the reminders and enter your secret recovery phrase. (Tips: Since KeyPal 
 
 After importing your wallet, you need to set the PIN code. (Attention: PIN code is the password of your KeyPal, please back up and save in a safe place.)
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (1).png>)
 
 2\. How to connect KeyPal with TokenPocket?
 
@@ -40,17 +40,17 @@ Click \[About]-\[Device Information] to view your Bluetooth name. And enter your
 
 After the device is successfully connected, the KeyPal Bluetooth connection pattern will be displayed in the upper right corner of the TokenPocket wallet.
 
+![](<../../.gitbook/assets/image (48).png>)
 
-
-3\. How to transfer through KeyPal?
+**3. How to transfer through KeyPal?**
 
 Open TokenPocket APP, click\[Transfer], and enter the receiving address and the amount, click \[Confirm], you need to enter the PIN code of your KeyPal in a one-to-one correspondence.
 
-
+![](<../../.gitbook/assets/image (43).png>)
 
 And you need to check the receiving address, transfer amount, and the gas fee on your KeyPal. After you have confirmed the information below, the KeyPal will show \[Sign successfully], the transfer is successful.
 
-
+![](<../../.gitbook/assets/image (54).png>)
 
 **【Version update method】**‌
 
