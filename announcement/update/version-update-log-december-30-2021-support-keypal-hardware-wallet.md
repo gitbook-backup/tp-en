@@ -22,11 +22,9 @@ Choose your native language first, now we only support Chinese and English. Pres
 
 Follow the reminders and enter your secret recovery phrase. (Tips: Since KeyPal supports the association function of the secret recovery phrase, select the number of digits of the secret recovery phrases that need to be imported and enter the phrases in the order of the prompts. After entering the letters, there will be an association function, which can be selected according to the up/down buttons. Press to confirm or right-click to enter the next letter to confirm. After successfully importing the secret recovery phrases and checking them, it will show successful import.)
 
-![](<../../.gitbook/assets/image (51).png>)
+After importing your wallet, you need to set the PIN code. (Attention: PIN code is the password of your KeyPal, please back up and save in a safe place.
 
-After importing your wallet, you need to set the PIN code. (Attention: PIN code is the password of your KeyPal, please back up and save in a safe place.)
-
-![](<../../.gitbook/assets/image (44) (1).png>)
+![](../../.gitbook/assets/Picture3.png)
 
 2\. How to connect KeyPal with TokenPocket?
 
