@@ -208,6 +208,8 @@
 
 ## announcement
 
+* [Product](announcement/product/README.md)
+  * [NFT application description](announcement/product/nft-application.md)
 * [Announcement](announcement/announcement/README.md)
   * [2021/12/02 EOS node is being maintained.](announcement/announcement/2021-12-02-eos-node-is-being-maintained..md)
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
