@@ -74,7 +74,7 @@ For issues not covered by this policy, please refer to the relevant laws and reg
 
 **Precautions:**
 
-(1) Please copy and send the address/document number/mobile phone number involved in the adjustment document, or send it in the form of a form, so that we can timely and accurately inquire and assist.
+(1) Please copy and send the address involved in the adjustment document, or send it in the form of a form, so that we can timely and accurately inquire and assist.
 
 (2) The information of up to 5 users can be queried at a time. The default query range is the data of the last 30 days. If it meets this query range, feedback can be given within 1 working day. If the query range exceeds th
 
