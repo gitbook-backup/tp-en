@@ -6,14 +6,16 @@ So, If you have any questions, please don't trust anyone who sends messages to y
 
 1\. Impersonating TokenPocket customer service in order to ask the user to pay the fee of solving the problem.
 
-![](../../.gitbook/assets/zha-pian-1.png)
+![](<../../.gitbook/assets/3 拷贝.png>)
 
 2\. **** Impersonating TokenPocket Telegram Community Admin to cheat‌.
 
-![](../../.gitbook/assets/zha-pian-2.png)
+![](<../../.gitbook/assets/3 拷贝 2.png>)
+
+
 
 3\. Impersonating TokenPocket for airdrop scams‌.
 
-![](../../.gitbook/assets/zha-pian-3.png)
+![](<../../.gitbook/assets/3 拷贝 3.png>)
 
 **In conclusion: Don’t give** your **private key/mnemonic** to anyone!

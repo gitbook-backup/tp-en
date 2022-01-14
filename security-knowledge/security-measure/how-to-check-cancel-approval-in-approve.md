@@ -26,7 +26,7 @@ At the beginning of this tutorial, please click the below link to know more abou
 
 3\. You can check the time when you performed the approval operation. Click the image to the right of the date, you can view the history of this approval.
 
-![](<../../.gitbook/assets/3 拷贝.png>)
+![](<../../.gitbook/assets/3 拷贝 (1).png>)
 
 4\. If your wallet didn’t perform any approval operation, it will show you \[No result].
 
