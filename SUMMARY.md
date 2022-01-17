@@ -180,6 +180,7 @@
 * [What Is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to Submit DApps?](defi-tutorial/how-to-submit-dapps.md)
 * [How to Trade on DEX?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [WAX Use Guide!](defi-tutorial/how-to-trade-on-dex/wax-use-guide.md)
   * [xDai Use Guide!](defi-tutorial/how-to-trade-on-dex/xdai-use-guide.md)
   * [Solana Use Guide!](defi-tutorial/how-to-trade-on-dex/solana-use-guide.md)
   * [Avalanche Use Guide!](defi-tutorial/how-to-trade-on-dex/avalanche-use-guide.md)
