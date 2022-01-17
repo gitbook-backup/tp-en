@@ -216,7 +216,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
-  * [Version update log (January 17, 2022): Support WAX; Support NFT use cases; etc.](announcement/update/version-update-log-january-17-2022-support-wax-support-nft-use-cases-etc..md)
+  * [Version update log (January 17, 2022): Support WAX; Support NFT use cases; etc.](announcement/update/version-update-log-january-17-2022.md)
   * [Version update log (December 31, 2021): Support KeyPal hardware wallet;](announcement/update/version-update-log-december-30-2021-support-keypal-hardware-wallet.md)
   * [Version update log (November 26, 2021):Support Cold wallet and Watch wallet on Solana;](announcement/update/version-update-log-november-26-2021-support-cold-wallet-and-watch-wallet-on-solana.md)
   * [Version update log (November 5, 2021):Approve optimization; Wallet Connect optimization.](announcement/update/version-update-log-november-5-2021-approve-optimization-wallet-connect-optimization..md)
