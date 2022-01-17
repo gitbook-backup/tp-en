@@ -1,6 +1,10 @@
 # How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?
 
-Open TokenPocket APP, click \[Details], click the skin pattern in the upper right corner to enter the setting page.
+1. Open TokenPocket APP, click \[NFT], and click the \[+] on the right. Enter the NFT contract address on the search bar or on the \[Add Custom NFT]. Click \[+] to add the NFT to your wallet.
+
+![](<../.gitbook/assets/nft7 en-1.png>)
+
+2\. Back to the \[Assets] page, click \[Details], click the skin pattern in the upper right corner to enter the setting page.
 
 ![](<../.gitbook/assets/nft1 en.png>)
 
