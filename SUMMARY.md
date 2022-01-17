@@ -115,7 +115,6 @@
   * [Transaction Pending Forever? Here is How You Make it Successful Faster!](faq-en/eth-wallet/transaction-pending-forever-here-is-how-you-make-it-successful-faster.md)
   * [FAQs on Ethereum](faq-en/eth-wallet/faqs-on-ethereum.md)
   * [What is Token Transfer Approval, and What Risk Does it Involve?](faq-en/eth-wallet/what-is-token-transfer-approval-and-what-risk-does-it-involve.md)
-  * [DeFi with TokenPocket | How to Claim Your UNI with TokenPocket](faq-en/eth-wallet/defi-with-tokenpocket-or-how-to-claim-your-uni-with-tokenpocket.md)
   * [How to Use Watch Mode in TokenPocket to Check the Balance in ETH 2.0 Depositing Contract](faq-en/eth-wallet/how-to-use-watch-mode-in-tokenpocket-to-check-the-balance-in-eth-2.0-depositing-contract.md)
   * [What is ETH Transaction Accelerator?](faq-en/eth-wallet/transaction-accelerator.md)
   * [Manage the unpackaged transactions](faq-en/eth-wallet/unpackaged.md)
@@ -139,6 +138,7 @@
 
 ## wallet operation
 
+* [How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?](wallet-operation/set-nft.md)
 * [How to use Watch Wallet and Cold Wallet?](wallet-operation/how-to-use-watch-wallet-and-cold-wallet.md)
 * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
 * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol.md)
