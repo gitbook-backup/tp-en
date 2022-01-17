@@ -50,6 +50,8 @@ Click NFT image and click the button on the right, you can download your NFT ima
 
 **5.  Optimize the ETH custom network searching;**
 
+You can add custom network by entering the currency or Chain ID, the system will match the network with the symbol automatically.
+
 **6. Optimize users' experience.**
 
 Now you can switch your network node on the \[Assets] page.
