@@ -58,4 +58,6 @@ Now you can switch your network node on the \[Assets] page.
 
 ![](../../.gitbook/assets/切换节点en.png)
 
-****
+**【Version update method】**‌
+
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/)](https://tokenpocket.pro/\))****
