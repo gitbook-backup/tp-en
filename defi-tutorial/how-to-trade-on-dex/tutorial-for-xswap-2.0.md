@@ -1,9 +1,5 @@
 # Xswap 2.0 Guide
 
-
-
-![](../../.gitbook/assets/xswap2.png)
-
 &#x20;                           **TokenPocket Official Website:** [**www.tokenpocket.pro**](https://www.tokenpocket.pro)****
 
 **About Xswap**\
