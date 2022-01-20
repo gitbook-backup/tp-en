@@ -1,9 +1,5 @@
 # Version update log (August 5, 2021): Support EIP-1559 miner fee mode, more detailed optimization
 
-![](../../.gitbook/assets/new-version1.3.1.png)
-
-
-
 **\[Details of version update]**
 
 iOS pro 3.1.2(92)

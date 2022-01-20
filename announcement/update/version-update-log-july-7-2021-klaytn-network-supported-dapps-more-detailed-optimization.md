@@ -1,7 +1,5 @@
 # Version update log (July 7, 2021): Klaytn network supports custom tokens
 
-![](../../.gitbook/assets/version-update.png)
-
 **\[Details of version update]**&#x20;
 
 iOS pro 3.1.3(89)&#x20;

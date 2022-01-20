@@ -1,7 +1,5 @@
 # Version update log (June 11, 2021):Support Klaytn, Upgrade Polkadot & Kusama
 
-![](../../.gitbook/assets/xin-ban-ben-tui-te-banner.png)
-
 **\[Details of version update]**&#x20;
 
 The latest version：&#x20;

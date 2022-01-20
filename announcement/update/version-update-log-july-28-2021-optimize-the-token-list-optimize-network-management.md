@@ -1,7 +1,5 @@
 # Version update log (July 28, 2021): Optimize the token list, Optimize network management
 
-![](../../.gitbook/assets/new-version-banner.png)
-
 **\[Details of version update]**
 
 iOS pro 3.1.3(90)
@@ -14,7 +12,7 @@ Android 1.3.0
 
 **\[Main update content]**
 
-1.Optimize the token list: Add my asset & custom tokens 
+1.Optimize the token list: Add my asset & custom tokens&#x20;
 
 2\. Optimize network management: Hide, edit custom network
 

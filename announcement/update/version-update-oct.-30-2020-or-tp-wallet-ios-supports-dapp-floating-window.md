@@ -1,16 +1,12 @@
 # Version Update (Oct. 30, 2020) | TP Wallet iOS Supports DApp Floating Window
 
-
-
-![Image for post](https://miro.medium.com/max/1000/0\*NXTWW0B19-uZH7k9.png)
-
-## App version details <a href="82df" id="82df"></a>
+## App version details <a href="#82df" id="82df"></a>
 
 Android(APK): 1.1.2
 
 iOS pro/+/++ 3.1.2(63) plus 3.1.3(63)
 
-## Main Updates <a href="1448" id="1448"></a>
+## Main Updates <a href="#1448" id="1448"></a>
 
 1. Binance Smart Chain WalletConnect supported
 2. Currency unit optimized
@@ -18,13 +14,13 @@ iOS pro/+/++ 3.1.2(63) plus 3.1.3(63)
 4. Ethereum transaction status optimized
 5. DApp floating window supported on iOS
 
-## How to update <a href="2150" id="2150"></a>
+## How to update <a href="#2150" id="2150"></a>
 
 Android: Update in-app；download APK in [www.tokenpocket.pro](http://www.tokenpocket.pro); get in Google Play
 
-iOS: Download the TestFlight version in [www.tokenpocket.pro;](http://www.tokenpocket.pro;) get in App Store.
+iOS: Download the TestFlight version in www.tokenpocket.pro; get in App Store.
 
-## What’s New <a href="0567" id="0567"></a>
+## What’s New <a href="#0567" id="0567"></a>
 
 1. Binance Smart Chain WalletConnect supported. We need to address it here that what is supported is the ChainID of the smart chain. DApps are unable to identify it, since they don’t support it yet.
 
@@ -38,8 +34,8 @@ Some wallets provide the ChainID of ETH, and DApps identify the ChainID of ETH. 
 
 5\. TP Wallet on iOS supports DApp floating window, which will be demonstrated when iOS Testflight version is updated.
 
-## Follow us <a href="8b87" id="8b87"></a>
+## Follow us <a href="#8b87" id="8b87"></a>
 
 * Website: [https://www.tokenpocket.pro/en/](https://www.tokenpocket.pro/en/)
-* Twitter: @TokenPocket_TP
-* Telegram: [https://t.me/tokenPocket_en](https://t.me/tokenPocket_en)
+* Twitter: @TokenPocket\_TP
+* Telegram: [https://t.me/tokenPocket\_en](https://t.me/tokenPocket\_en)
