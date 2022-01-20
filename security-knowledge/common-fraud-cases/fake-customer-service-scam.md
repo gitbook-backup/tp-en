@@ -10,12 +10,12 @@ So, If you have any questions, please don't trust anyone who sends messages to y
 
 2\. **** Impersonating TokenPocket Telegram Community Admin to cheat‌.
 
-![](<../../.gitbook/assets/3 拷贝 2.png>)
+![](<../../.gitbook/assets/3 拷贝 2 (1).png>)
 
 
 
 3\. Impersonating TokenPocket for airdrop scams‌.
 
-![](<../../.gitbook/assets/3 拷贝 3.png>)
+![](<../../.gitbook/assets/3 拷贝 3 (1).png>)
 
 **In conclusion: Don’t give** your **private key/mnemonic** to anyone!
