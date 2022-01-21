@@ -2,7 +2,7 @@
 
 1.Go to TokenPocket official website: [https://www.tokenpocket.pro/](https://www.tokenpocket.pro), click \[Submit Project] on the navigation bar, and then click \[Token];
 
-![](../.gitbook/assets/ti-jiao-token01.jpg)
+![](<../.gitbook/assets/4 (11).png>)
 
 2\. Fill in the token information in order, and then click \[Submit].
 

@@ -18,7 +18,7 @@ Operation process:&#x20;
 
 Open the TokenPocket wallet, click on the upper right corner of the blue area \[Details], in the wallet details interface, you can choose \[Mnemonic] \[Private key] \[Keystore] three ways to export, select one of them, you need to enter the password, you can see the corresponding content after successful authorization, must be properly saved, do not leak and lose.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1617372749102.png)
+![](<../../.gitbook/assets/1 (28).png>)
 
 
 

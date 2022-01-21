@@ -6,7 +6,7 @@ Steps:&#x20;
 
 1\. Open the wallet, click on the first icon in the upper right corner \[Add Wallet], pull to the bottom of the list, you can see the \[Add custom network] entry, click to enter.&#x20;
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1620057545942.jpg)
+![](<../../.gitbook/assets/1 (24).png>)
 
 
 
@@ -24,7 +24,7 @@ Steps:&#x20;
 
 4\. Click on the newly added Fantom public chain and then select \[Create] or \[Import] to complete the quick addition and use of the custom network.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1620057813924.jpg)
+![](<../../.gitbook/assets/2 (17).png>)
 
 __
 

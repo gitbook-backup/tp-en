@@ -8,17 +8,17 @@ TokenPocket supports the highly anticipated Ethereum layer 2 platform, Arbitrum 
 
 1\. Open the TokenPocket App, click the upper left corner to switch the wallet, then select Arbitrum, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/1 (18).png>)
+![](<../../.gitbook/assets/1 (18) (1).png>)
 
 2\. Click \[Create Wallet], and continue to click \[Create Wallet];
 
-![](<../../.gitbook/assets/2 (20).png>)
+![](<../../.gitbook/assets/2 (20) (1).png>)
 
 3\. Set \[Wallet Name] and \[Password] in turn, then click \[Service Regulations and Privacy clause], click \[Create Wallet]; then start to back up the mnemonic, and click \[Completed backup, verify it now];
 
 **Attention: Do not disclose the mnemonic to anyone!**
 
-![](<../../.gitbook/assets/3 (8).png>)
+![](<../../.gitbook/assets/3 (8) (1).png>)
 
 4\. Verify the mnemonic in order, and then click \[Confirm]. At this point, you have successfully created the Arbitrum wallet.
 

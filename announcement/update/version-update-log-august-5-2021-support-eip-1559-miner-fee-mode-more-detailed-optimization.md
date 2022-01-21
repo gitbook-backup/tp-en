@@ -20,7 +20,7 @@ Android 1.3.1
 
 ‌**How to enable the EIP-1559 mode?**
 
-![](<../../.gitbook/assets/2 (9).png>) ![](<../../.gitbook/assets/3 (9).png>)
+![](<../../.gitbook/assets/2 (9) (1).png>) ![](<../../.gitbook/assets/3 (9) (1).png>)
 
 **\[Version update method]**
 

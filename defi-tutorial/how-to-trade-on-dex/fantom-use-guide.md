@@ -8,17 +8,17 @@
 
 2\. Click \[Create Wallet], and continue to click \[Create Wallet];
 
-![](<../../.gitbook/assets/2 (14).png>)
+![](<../../.gitbook/assets/2 (14) (1).png>)
 
 3\. Set \[Wallet Name] and \[Password] in turn, then click \[Service Regulations and Privacy clause], click \[Create Wallet]; then start to back up the mnemonic, and click \[Completed backup, verify it now];
 
 **Attention: Do not disclose the mnemonic to anyone!**
 
-![](<../../.gitbook/assets/3 (12).png>)
+![](<../../.gitbook/assets/3 (12) (1).png>)
 
 4\. Verify the mnemonic in order, and then click \[Confirm]. At this point, you have successfully created the Fantom wallet.
 
-![](<../../.gitbook/assets/4 (7).png>)
+![](<../../.gitbook/assets/4 (7) (1).png>)
 
 **How to import a** **Fantom Wallet?**
 

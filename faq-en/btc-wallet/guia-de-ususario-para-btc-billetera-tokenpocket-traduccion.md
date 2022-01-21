@@ -32,7 +32,7 @@ Si alguien te transfiere BTC cuando tu billetera no se está ejecutando, la bill
 \
 Si. El método es tan simple como hacer clic en “blockchair” en la parte superior de la página de “assets” o activos de la billetera.
 
-![](https://miro.medium.com/max/533/1\*NkusQPrdJ7tIZcAAhPReZA.jpeg)
+![](<../../.gitbook/assets/1 (30).png>)
 
 **¿Cómo cambiar el nombre de la billetera bitcoin (BTC) en la billetera TokenPocket?**\
 \
@@ -40,7 +40,7 @@ Paso 1: haz clic en “me” o “yo” para ir a la página central personal y 
 Paso 2. Haz clic en el menú de bitcoin para ingresar a la billetera que deseas modificar.\
 Paso 3. Ve a la página de detalles de la billetera y haz clic en el botón de modificación al lado del nombre de la billetera para cambiarlo.
 
-![](https://miro.medium.com/max/1587/1\*5y50nrY7z2y0RfVskgjF2w.jpeg)
+![](<../../.gitbook/assets/2 (20).png>)
 
 **¿Cómo crear una billetera BTC en TokenPocket?**\
 \
@@ -48,7 +48,7 @@ Paso 1: en la página “activos”, selecciona “crear billetera” y luego se
 Paso 2: selecciona “crear billetera”.\
 Paso 3: coloca el nombre de la billetera tú mismo, crea una contraseña de 8 dígitos y letras, y luego haz clic en “crear billetera”.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/3 (13).png>)
 
 Paso 4: haga clic en “Entiendo”.\
 Paso 5: haz una copia de seguridad de tus palabras mnemónicas, preferiblemente en un lugar sin cámara, e imprímelos para guardarlos. Las capturas de pantalla son fáciles de perder, la preservación física es la más segura. Haz clic en “siguiente paso” después de la copia de seguridad.\
@@ -66,7 +66,9 @@ La siguiente mejor solución: puede copiarlas manualmente, distinguir entre may�
 
 **¿Qué pasa si se pierde la llave privada de BTC?**\
 \
-Caso 1: el teléfono o la computadora ahora tiene esta billetera BTC, y recuerdas la contraseña de la billetera. Entonces puedes ingresar la contraseña en los detalles de la billetera para acceder a la llave privada o mnemónica y exportarla. ![Image for post](https://miro.medium.com/max/342/1\*2gcxzRh2Sys7040xtcY3IA.jpeg)
+Caso 1: el teléfono o la computadora ahora tiene esta billetera BTC, y recuerdas la contraseña de la billetera. Entonces puedes ingresar la contraseña en los detalles de la billetera para acceder a la llave privada o mnemónica y exportarla.
+
+&#x20;![Image for post](https://miro.medium.com/max/342/1\*2gcxzRh2Sys7040xtcY3IA.jpeg)
 
 Caso 2: la aplicación de la billetera se ha desinstalado y la clave privada no está respaldada. En este caso, la clave privada no se puede recuperar.
 
@@ -76,7 +78,7 @@ Paso 1: en la página de lista de billeteras, haz clic en el engranaje (para ir 
 Paso 2: en la página de detalles de la billetera, selecciona modificar contraseña.\
 Paso 3: si recuerdas tu contraseña anterior, puedes cambiarla directamente.&#x20;
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/3 (13).png>)
 
 **¿Qué pasa si pierdes tu contraseña en tu billetera bitcoin?**\
 \
@@ -94,7 +96,7 @@ Paso 1: haz clic en “Transferir” en la página del activo.\
 Paso 2: haz clic en “Transferir”.\
 Paso 3: ingresa la dirección y la cantidad de BTC y haz clic en Siguiente para ingresar la contraseña.&#x20;
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/4 (12).png>)
 
 Asegúrate de que la dirección de pago este llenada correctamente.
 
@@ -141,7 +143,7 @@ La llave pública en La blockchain de Bitcoin se utiliza como una dirección de 
 \
 Si se pierde uno de los dos, el activo no se perderá. Los pasos para exportar la clave privada a través de la billetera TP son los siguientes: abra la billetera — haga clic en el espacio en blanco en la parte superior de la pantalla- seleccione exportar la llave privada en el menú emergente — ingresa la contraseña para la autorización para grabar y guardar la llave privada (el código qr es para una transferencia conveniente a través de diferentes dispositivos, asegúrate de usarlo en un entorno seguro).&#x20;
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/5 (7).png>)
 
 **¿Se deducirá la tarifa del minero si falla la transferencia de BTC?**\
 \

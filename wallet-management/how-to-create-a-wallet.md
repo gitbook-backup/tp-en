@@ -2,7 +2,7 @@
 
 1.Open TokenPocket App, click on \[No wallet];
 
-![](../.gitbook/assets/chuang-jian-1.jpg)
+![](<../.gitbook/assets/1 (18).png>)
 
 2\. Choose the blockchain network you would like to create; (Take Ethereum Network as an example here)
 
@@ -30,4 +30,5 @@
 
 8\. After that, you've created a wallet successfully!
 
-![](../.gitbook/assets/chuang-jian-8.png)
+![](<../.gitbook/assets/2 (23).png>)
+

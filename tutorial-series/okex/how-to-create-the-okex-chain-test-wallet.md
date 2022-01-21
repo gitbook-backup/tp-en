@@ -6,15 +6,13 @@
 
 1. Open TokenPocket App
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618314166625.jpg)
+![](<../../.gitbook/assets/1 (34).png>)
 
 
 
 2\. Click the button in the upper left corner of the page
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618314808839.jpeg)
-
-
+![](<../../.gitbook/assets/2 (14).png>)
 
 
 
@@ -54,7 +52,7 @@
 
 9\. Congratulations! You have successfully created the OKEx Chain Test wallet on TokenPocket
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618314343742.jpg)
+![](<../../.gitbook/assets/3 (12).png>)
 
 
 

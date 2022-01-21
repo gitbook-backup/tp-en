@@ -4,7 +4,7 @@ The usage of CoinTool tool: The use of CoinTool is very simple, adapting to PC a
 
 1. Open the TP wallet, click \[Discover], search for \[Cointool] at the top and select the tool to open the BSC chain.
 
-![](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615531310640.png)
+![](<../../.gitbook/assets/1 (32).png>)
 
 2\. When open the DApp at the first time, you will need to \[Unlock Wallet], here you only need to click to unlock the wallet to automatically connect. The address of the search window will open the DApp wallet address by default, and click the "→" arrow to scan the authorization record.
 

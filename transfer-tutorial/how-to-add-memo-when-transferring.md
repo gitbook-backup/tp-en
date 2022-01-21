@@ -4,7 +4,7 @@
 
 Reminder: In general, only coins such as ETH, BNB, HT and so on can be added memo. But tokens on EOS and IOST chain also can do that.
 
-![](<../.gitbook/assets/memo1 (1).jpg>)
+![](<../.gitbook/assets/1 (13).png>)
 
 
 
@@ -18,4 +18,4 @@ Reminder: In general, only coins such as ETH, BNB, HT and so on can be added mem
 
 
 
-4\.  After completing the payment, you've submitted a transfer attached memo successfully. 
+4\.  After completing the payment, you've submitted a transfer attached memo successfully.&#x20;

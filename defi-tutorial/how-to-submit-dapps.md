@@ -2,7 +2,7 @@
 
 1. Open TokenPocket website, click \[Submit Project] and then click \[DApp];
 
-![](../.gitbook/assets/ti-jiao-dapp.jpg)
+![](<../.gitbook/assets/1 (22).png>)
 
 2\. Fill in the information in order, and then click \[Submit];
 

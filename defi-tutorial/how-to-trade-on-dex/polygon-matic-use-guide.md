@@ -10,11 +10,11 @@ TokenPocket has supported Polygon mainnet (Matic before), so users can use Polyg
 
 1. Open TokenPocket App, click the wallet name in the upper left corner to switch wallet, choose \[Polygon], and then click \[Add Wallet];
 
-![](<../../.gitbook/assets/1 (14).png>)
+![](<../../.gitbook/assets/1 (14) (1).png>)
 
 2\. Click \[Create], and then click \[Create Wallet];
 
-![](<../../.gitbook/assets/2 (16).png>)
+![](<../../.gitbook/assets/2 (16) (1).png>)
 
 3\. Set wallet name and password in order, and then tick \[Terms of Service and Privacy], click \[Create Wallet] to continue. Back up your mnemonic and then click \[Completed Backup, Verify it]
 

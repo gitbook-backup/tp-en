@@ -2,7 +2,7 @@
 
 1.Open TokenPocket App, choose a token you need to transfer on the \[Assets] page; (Take withdrawing TPT on the BSC wallet as an example)
 
-![](<../.gitbook/assets/zhuan-zhang-1 (1).jpg>)
+![](<../.gitbook/assets/1 (27).png>)
 
 2\. Click \[Transfer] on the bottom of the transfer page;
 

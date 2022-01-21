@@ -42,7 +42,7 @@ Note: Recently, some users reported that testflight will report an error when op
 
 • The new OKExChain test chain is added to get rid of the cumbersome steps of testing nodes under Ethereum. After creating or importing a wallet, you can view the type and quantity of your test tokens (test coins have been added).
 
-![](<../../.gitbook/assets/2 (18).png>)
+![](<../../.gitbook/assets/2 (18) (1).png>)
 
 
 

@@ -16,7 +16,7 @@ BTCB is actually converted into coin safety smart chain format through coin safe
 
 After the wallet is created, click Receipt to be the receiving address of the Binance Smart Chain. Fill in the address when withdrawing BTC on the Binance Exchange. The main network selects the second BSC Smart Chain.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458303977.jpg)
+![](<../../.gitbook/assets/1 (31).png>)
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458320685.jpg)
 
@@ -26,9 +26,7 @@ After the withdrawal is successful, if the wallet does not see BTCB, you can man
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458348087.jpg)
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458368905.jpg)
-
-****
+![](<../../.gitbook/assets/2 (18).png>)
 
 
 

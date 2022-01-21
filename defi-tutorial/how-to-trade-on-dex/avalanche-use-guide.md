@@ -4,11 +4,11 @@
 
 1\. Open the TokenPocket App, click the upper left corner to switch the wallet, then select Avalanche, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/1 (10).png>)
+![](<../../.gitbook/assets/1 (10) (1).png>)
 
 2\. Click \[Create Wallet], and continue to click \[Create Wallet];
 
-![](<../../.gitbook/assets/2 (21).png>)
+![](<../../.gitbook/assets/2 (21) (1).png>)
 
 3\. Set \[Wallet Name] and \[Password] in turn, then click \[Service Regulations and Privacy clause], click \[Create Wallet]; then start to back up the mnemonic, and click \[Completed backup, verify it now];
 
@@ -18,13 +18,13 @@
 
 4\. Verify the mnemonic in order, and then click \[Confirm]. At this point, you have successfully created the Avalanche wallet.
 
-![](<../../.gitbook/assets/4 (5).png>)
+![](<../../.gitbook/assets/4 (5) (1).png>)
 
 **How to import an Avalanche Wallet?**
 
 1. Open the TokenPocket App, click the upper left corner to switch the wallet, then select Avalanche, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/5 (6).png>)
+![](<../../.gitbook/assets/5 (6) (1).png>)
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Private Key];
 

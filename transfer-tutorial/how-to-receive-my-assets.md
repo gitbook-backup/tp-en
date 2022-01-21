@@ -2,7 +2,7 @@
 
 1.Open TokenPocket App, choose the receiving token in the \[Assets] Page; (Take receiving TPT through BSC network as an example)
 
-![](../.gitbook/assets/zhuan-zhang-1.jpg)
+![](<../.gitbook/assets/1 (20).png>)
 
 2\. Click \[Receive];
 
@@ -14,7 +14,7 @@
 ****1) Please double confirm that you select the same network (blockchain) before transferring.\
 2\) If your assets are not displayed on your wallet after transferring, please check whether you add tokens.
 
-![](../.gitbook/assets/zhuan-zhang-3.jpg)
+![](<../.gitbook/assets/2 (24).png>)
 
 **Related tutorials**\
 ****[**1)** How to add tokens? ](https://tphelp.gitbook.io/en/token-management/how-to-add-tokens)\

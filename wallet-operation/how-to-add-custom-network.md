@@ -8,7 +8,7 @@ Custom network means that the user can directly add a chain to the wallet throug
 
 1.Open TokenPocket, click on the first icon in the upper right corner \[Add Wallet] to pull the list to the bottom, you can see the \[Add custom network] entry, click to enter.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619518074212.jpg)
+![](<../.gitbook/assets/1 (23).png>)
 
 
 
@@ -26,7 +26,7 @@ Custom network means that the user can directly add a chain to the wallet throug
 
 4\. Click the newly added network, select \[Create] or \[Import] to complete the quick addition and then use the custom network.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619518812347.jpg)
+![](<../.gitbook/assets/2 (25).png>)
 
 
 

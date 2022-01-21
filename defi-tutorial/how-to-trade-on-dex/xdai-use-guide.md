@@ -4,17 +4,17 @@
 
 1. Open the TokenPocket App, click the upper left corner to switch the wallet, then select the xDai, and click \[Add Wallet], click \[Create Wallet];
 
-![](<../../.gitbook/assets/1 (11).png>)
+![](<../../.gitbook/assets/1 (11) (1).png>)
 
 2\. Click \[Create Wallet] again;
 
-![](<../../.gitbook/assets/2 (22).png>)
+![](<../../.gitbook/assets/2 (22) (1).png>)
 
 3\. Set \[Wallet Name] and \[Password] in turn, then click \[Service Regulations and Privacy clause], click \[Create Wallet]; then start to back up the mnemonic, and click \[Completed backup, verify it now];
 
 <mark style="color:red;">**Attention: Do not disclose the mnemonic to anyone!**</mark>
 
-![](<../../.gitbook/assets/3 (13).png>)
+![](<../../.gitbook/assets/3 (13) (1).png>)
 
 4\. Verify the mnemonic in order, and then click \[Confirm]. At this point, you have successfully created the xDai wallet.
 
@@ -24,7 +24,7 @@
 
 1. Open the TokenPocket App, click the upper left corner to switch the wallet, then select xDai, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (7) (1).png>)
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Private Key];
 

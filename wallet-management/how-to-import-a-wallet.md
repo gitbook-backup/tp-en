@@ -2,8 +2,6 @@
 
 1.Open TokenPocket App, click on \[No wallet];
 
-![](../.gitbook/assets/dao-ru-1.jpg)
-
 2\. Choose the blockchain network you would like to import; (Take Ethereum Network as an example here)
 
 ![](../.gitbook/assets/chuang-jian-2.png)

@@ -22,7 +22,7 @@ App Store: 1.6.3
 
 1\) After updating the latest version, click the \[Assets] page, and then click \[DeFi] to view the data of the DeFi protocol currently in use;
 
-![](<../../.gitbook/assets/1 (16).png>)
+![](<../../.gitbook/assets/1 (16) (1).png>)
 
 
 

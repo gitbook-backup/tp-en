@@ -104,7 +104,7 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 
 1. Open TokenPocket App, click \[Assets] on the bottom, choose TPT Token, and then click \[Transfer] to proceed.
 
-![](../.gitbook/assets/wechatimg9.png) ![](../.gitbook/assets/wechatimg10.png)&#x20;
+![](<../.gitbook/assets/1 (10).png>) ![](../.gitbook/assets/wechatimg10.png)&#x20;
 
 2\. Click \[Transfer], enter receiving address and 3000 TPT amount, Click \[Confirm] after choosing fee, and then click \[Transfer] after confirming the information.
 

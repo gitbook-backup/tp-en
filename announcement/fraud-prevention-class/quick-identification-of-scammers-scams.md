@@ -20,7 +20,7 @@ After joining the Telegram community of the TokenPocket wallet, users will autom
 
 Scammers use the banner of official cooperation with the TokenPocket wallet to spread airdrop links with phishing or malicious programs. When users fill in the form, they may reveal private keys and mnemonics. Some links contain malicious programs that are maliciously authorized to steal user assets while the user is executing. This kind of technique has a certain degree of concealment, especially some highly imitation official pages.
 
-![](<../../.gitbook/assets/3 拷贝 3.png>)
+![](<../../.gitbook/assets/1 (15).png>)
 
 
 
