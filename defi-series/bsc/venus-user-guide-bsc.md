@@ -14,10 +14,6 @@ XVS is the platform's native BEP-20 governance token, which is primarily used to
 
 1: Launching Click the【Discover】in TokenPocket Wallet (BSC) and type Venus on the top of search bar to launch it.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619159986805.png)
-
-
-
 2: Deposit The first thing you see when you open it is the number of XVS and VAI I have, and the yellow section is my borrowable amount. Down the page you can see some data on the lending market, such as currency prices, number of deposits, total amount borrowed, annualized lending, etc. You can click to select the currency market information you want to view.
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619160068089.png)
@@ -97,5 +93,3 @@ You can see your 【Voting Weight】 at the bottom of the page, click on 【Get 
 __
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)

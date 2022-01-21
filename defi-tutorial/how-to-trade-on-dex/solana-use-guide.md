@@ -26,10 +26,10 @@
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Private Key];
 
-![](<../../.gitbook/assets/1-kao-bei-5 (1).png>)
+![](<../../.gitbook/assets/图层 14.png>)
 
 Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet name], \[password], and click \[Service Regulations and Privacy clause]. Click \[Import Wallet]. At this point, you have successfully imported the Solana wallet.
 
-![](../../.gitbook/assets/1-kao-bei-6.png)
+![](<../../.gitbook/assets/图层 15.png>)
 
 **Attention: To ensure the safety of your** **assets, please do not disclose the mnemonic or private key to anyone!**

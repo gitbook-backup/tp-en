@@ -22,7 +22,7 @@ The usage of CoinTool tool: The use of CoinTool is very simple, adapting to PC a
 
 Other alternatives:
 
-The DApp used in the above tutorial is a three-party application. If you are more picky about using DApp, you can choose to use the official authorization management tool provided by the BSC browser. First, I will provide you with a simple display: 
+The DApp used in the above tutorial is a three-party application. If you are more picky about using DApp, you can choose to use the official authorization management tool provided by the BSC browser. First, I will provide you with a simple display:&#x20;
 
 1\. Open the BSC block explorer: [https://bscscan.com/](https://bscscan.com) click \[Misc]-\[Token Approvals].
 
@@ -43,7 +43,5 @@ The above two methods of managing DApp authorization have their own advantages a
 
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)
 
 __

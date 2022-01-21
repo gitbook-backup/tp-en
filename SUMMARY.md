@@ -13,7 +13,6 @@
 
 * [Security Measure](security-knowledge/security-measure/README.md)
   * [How to Identify the Authenticity of TokenPocket’s Website and APP?](security-knowledge/security-measure/identfy.md)
-  * [How to check/cancel Approval in \[Approve\] ？](security-knowledge/security-measure/how-to-check-cancel-approval-in-approve.md)
   * [About Approve](security-knowledge/security-measure/about-approve.md)
   * [How to check/cancel Approve?](security-knowledge/security-measure/cancel-malicious-authorization.md)
 * [Common Fraud Cases](security-knowledge/common-fraud-cases/README.md)

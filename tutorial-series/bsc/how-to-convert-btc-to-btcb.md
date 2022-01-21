@@ -36,26 +36,18 @@ After the withdrawal is successful, if the wallet does not see BTCB, you can man
 
 When the price of BTC we hold rises and generates more benefits, can participate in the DEFI project on BSC to gain more benefits. Of course, we need to pay attention to the risks brought by BTCB's participation in the DEFI financial market, which mainly comes from the liquidity of currency price.
 
-Currently BTCB can be used with many DeFi dApps, for example: 
+Currently BTCB can be used with many DeFi dApps, for example:&#x20;
 
-Loans: CREAM, ForTube 
+Loans: CREAM, ForTube&#x20;
 
-Revenue Farm: Fry. World 
+Revenue Farm: Fry. World&#x20;
 
-Mobile mining: Bakery, Pancake, BurgerSwap, Spartan 
+Mobile mining: Bakery, Pancake, BurgerSwap, Spartan&#x20;
 
 All of the above can be participated in the search of TokenPocket's discovery interface.
-
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458955504.jpg)
-
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458995779.jpg)
-
-
 
 For some of the DeFi tutorials, check out the DeFi feature article in the TokenPocket Knowledge Base Currently, there are about 2,000 Bitcoins in circulation on Binance's Smart Chain, and its growth is guaranteed due to the growing demand. To hold BTC and participate in DEFI Financial Markets, try BTCB!
 
 
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)

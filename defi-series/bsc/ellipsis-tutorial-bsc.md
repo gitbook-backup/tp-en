@@ -8,10 +8,6 @@ Ellipsis is primarily an inter-stable currency exchange with the advantages of l
 
 1\. Launch TokenPocket Wallet and select Binance Smart Chain (BSC). Then, click【Discover】to enter Ellipsis on the top of search bar.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619424171083.png)
-
-
-
 2\. When users enter the home page, the default is the stablecoin exchange page. 【Ellipsis pools】shows all kinds of data, including the total and daily storage of Ellipsis and staked LP certificates as well as other parameters. Users are able to stake their LP in【Stake LP Tokens】to get rewards. On the other hand, staking EPS single coin can also get rewards. Please understand the rules and risks before proceeding.
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619424249584.png)
@@ -29,5 +25,3 @@ Ellipsis is primarily an inter-stable currency exchange with the advantages of l
 ****
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)

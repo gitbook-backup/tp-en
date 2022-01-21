@@ -54,7 +54,7 @@ Background: transparent is recommanded.
 
 * [onlinepngtools](https://onlinepngtools.com/resize-png), to resize the image to 256 x 256
 
-![](../.gitbook/assets/1.jpg)
+![](../.gitbook/assets/如何自主更新代币图标？.png)
 
 * [TinyPNG 426](https://tinypng.com), to optimize the image size.
 

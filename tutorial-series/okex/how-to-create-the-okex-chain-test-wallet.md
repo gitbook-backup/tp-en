@@ -64,7 +64,3 @@ _This tutorial is only for the DApp in the wallet side of the operation guide, d
 
 __
 
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)
-
-__
-

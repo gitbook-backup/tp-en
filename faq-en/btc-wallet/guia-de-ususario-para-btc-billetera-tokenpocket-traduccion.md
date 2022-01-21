@@ -1,7 +1,5 @@
 # Guía de ususario para BTC — billetera TokenPocket \[Traducción]
 
-![](https://miro.medium.com/max/1195/1\*X1Z6DN_XyNPCPY5\_HFrRSA.jpeg)
-
 El texto a continuación contiene las preguntas y respuestas de la Guía de usuario para tenedores de BTC que utilizan la billetera TokenPocket. La mayoría de estas aplicaciones y contenido blockchain en general no se encuentran en español. Con el fin de ayudar a la comunidad de usuarios que hacen uso de esta billetera, se generó esta traducción del contenido para poder referenciarlos a su lectura al iniciarse con el uso de la aplicación y ser cuidadosos en el empleo de su cuenta en la cadena de bloques de bitcoin. El contenido fue traducido con la aprobación de TokenPocket Fundation.
 
 **¿De Dónde se toma el precio del BTC mostrado en la billetera de TokenPocket?**\
@@ -54,7 +52,7 @@ Paso 3: coloca el nombre de la billetera tú mismo, crea una contraseña de 8 d�
 
 Paso 4: haga clic en “Entiendo”.\
 Paso 5: haz una copia de seguridad de tus palabras mnemónicas, preferiblemente en un lugar sin cámara, e imprímelos para guardarlos. Las capturas de pantalla son fáciles de perder, la preservación física es la más segura. Haz clic en “siguiente paso” después de la copia de seguridad.\
-Paso 6: haz clic en las palabras mnemónicas de respaldo en orden, haz clic en “confirmar”. 
+Paso 6: haz clic en las palabras mnemónicas de respaldo en orden, haz clic en “confirmar”.&#x20;
 
 ![](<../../.gitbook/assets/image (5).png>)
 
@@ -76,7 +74,7 @@ Caso 2: la aplicación de la billetera se ha desinstalado y la clave privada no 
 \
 Paso 1: en la página de lista de billeteras, haz clic en el engranaje (para ir a la página de detalles de la billetera). También puedes hacer clic en la página de inicio de “assets” o activos, el banner azul para ingresar a la página de detalles.\
 Paso 2: en la página de detalles de la billetera, selecciona modificar contraseña.\
-Paso 3: si recuerdas tu contraseña anterior, puedes cambiarla directamente. 
+Paso 3: si recuerdas tu contraseña anterior, puedes cambiarla directamente.&#x20;
 
 ![](<../../.gitbook/assets/image (16).png>)
 
@@ -94,7 +92,7 @@ Por favor, asegúrate de guardar la llave privada antes de eliminar la billetera
 \
 Paso 1: haz clic en “Transferir” en la página del activo.\
 Paso 2: haz clic en “Transferir”.\
-Paso 3: ingresa la dirección y la cantidad de BTC y haz clic en Siguiente para ingresar la contraseña. 
+Paso 3: ingresa la dirección y la cantidad de BTC y haz clic en Siguiente para ingresar la contraseña.&#x20;
 
 ![](<../../.gitbook/assets/image (8).png>)
 
@@ -102,19 +100,19 @@ Asegúrate de que la dirección de pago este llenada correctamente.
 
 **¿Cómo establecer la tarifa minera de BTC?**\
 \
-Referencia de tarifa del minero: en el navegador bitcoin: [https://btc.com/stats/unconfirmed-tx](https://btc.com/stats/unconfirmed-tx), Página de inicio — estadísticas — la página de transacción no confirmada mostrará la tarifa de mejor manejo actual, puedes utilizar este valor para establecerla. 
+Referencia de tarifa del minero: en el navegador bitcoin: [https://btc.com/stats/unconfirmed-tx](https://btc.com/stats/unconfirmed-tx), Página de inicio — estadísticas — la página de transacción no confirmada mostrará la tarifa de mejor manejo actual, puedes utilizar este valor para establecerla.&#x20;
 
 ![](<../../.gitbook/assets/image (9).png>)
 
 En la página de transferencia de billetera de TokenPocket, puedes establecer el número de tarifa del minero manualmente, o puedes usar la tarifa del minero recomendada por la billetera de forma predeterminada.
 
- ![Image for post](https://miro.medium.com/max/533/1\*GWXgVPCVfe1IyAsKoIMlIw.jpeg)
+&#x20;![Image for post](https://miro.medium.com/max/533/1\*GWXgVPCVfe1IyAsKoIMlIw.jpeg)
 
 **¿Cómo importar la llave privada BTC a la billetera?**\
 \
 Paso 1: haz clic en “agregar billetera”\
 Paso 2: haz clic en “llave privada”\
-Paso 3: ingresa la llave privada y la contraseña de la billetera, haz clic en “Acepto” e “Importarla”. 
+Paso 3: ingresa la llave privada y la contraseña de la billetera, haz clic en “Acepto” e “Importarla”.&#x20;
 
 ![](<../../.gitbook/assets/image (31).png>)
 
@@ -141,7 +139,7 @@ Cómo identificar la dirección segwit: La mayoría de las direcciones del segwi
 \
 La llave pública en La blockchain de Bitcoin se utiliza como una dirección de recopilación. La llave privada solo la conoces tu, si es pública o se pierde significa que se perderán tus activos. Por lo tanto, la llave privada juega un papel importante en nuestros activos. Aunque el registro de la billetera TokenPocket comenzó como un recordatorio de la copia de seguridad y verificación mnemónica (igualmente importante), la copia de seguridad de la llave privada significa que podemos tener llaves más controlables.\
 \
-Si se pierde uno de los dos, el activo no se perderá. Los pasos para exportar la clave privada a través de la billetera TP son los siguientes: abra la billetera — haga clic en el espacio en blanco en la parte superior de la pantalla- seleccione exportar la llave privada en el menú emergente — ingresa la contraseña para la autorización para grabar y guardar la llave privada (el código qr es para una transferencia conveniente a través de diferentes dispositivos, asegúrate de usarlo en un entorno seguro). 
+Si se pierde uno de los dos, el activo no se perderá. Los pasos para exportar la clave privada a través de la billetera TP son los siguientes: abra la billetera — haga clic en el espacio en blanco en la parte superior de la pantalla- seleccione exportar la llave privada en el menú emergente — ingresa la contraseña para la autorización para grabar y guardar la llave privada (el código qr es para una transferencia conveniente a través de diferentes dispositivos, asegúrate de usarlo en un entorno seguro).&#x20;
 
 ![](<../../.gitbook/assets/image (29).png>)
 

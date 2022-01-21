@@ -2,9 +2,9 @@
 
 Note: please update the TokenPocket wallet to the latest version to experience the functions of custom network.
 
-Steps: 
+Steps:&#x20;
 
-1\. Open the wallet, click on the first icon in the upper right corner \[Add Wallet], pull to the bottom of the list, you can see the \[Add custom network] entry, click to enter. 
+1\. Open the wallet, click on the first icon in the upper right corner \[Add Wallet], pull to the bottom of the list, you can see the \[Add custom network] entry, click to enter.&#x20;
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1620057545942.jpg)
 
@@ -29,5 +29,3 @@ Steps:
 __
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)

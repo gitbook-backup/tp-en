@@ -28,10 +28,6 @@ There are many functions in pancakeswap, including【Swap】【Farm】【Staking
 
 1. Launch TP wallet app and click the【Discover】to enter Pancake Dapp on the top of search bar.
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618901837402.png)
-
-
-
 2\. The top of DApp is the main function area (PC access will see the voting and other functions not yet opened, mobile will also support later), in the 【Swap】, we just need to set the tokens to be exchanged and the number of tokens (automatic matching) according to the information at the bottom of the slip point, handling fee and other information to confirm and then click Swap to authorize.
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618901944997.png)
@@ -91,8 +87,6 @@ There are many functions in pancakeswap, including【Swap】【Farm】【Staking
 __
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)
 
 __
 

@@ -1,4 +1,4 @@
-# Binance Smart Chain \(BSC\) wallet registration
+# Binance Smart Chain (BSC) wallet registration
 
 
 
@@ -14,13 +14,10 @@
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1617371882494.jpg)
 
-4、 After the Verification mnemonic is completed, you have successfully registered. Click the "Discover" menu at the bottom, and then you can enter DAPP, where you can use Binance Smart Chain's DAPP. \(For new users or Regular users who want to import the wallet, you can click the first option in the upper right corner to enter.
+4、 After the Verification mnemonic is completed, you have successfully registered. Click the "Discover" menu at the bottom, and then you can enter DAPP, where you can use Binance Smart Chain's DAPP. (For new users or Regular users who want to import the wallet, you can click the first option in the upper right corner to enter.
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1617371927941.jpg)
 
-\_\_
+__
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)
-
