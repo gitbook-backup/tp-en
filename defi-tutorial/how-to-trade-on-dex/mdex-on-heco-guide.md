@@ -6,11 +6,9 @@
 **How to trade on MDEX through HECO**\
 ****1.Open TokenPocket App, choose HECO wallet, click \[Discover] at the bottom, and then search \[MDEX] to enter;
 
-![](<../../.gitbook/assets/dex-shou-ye- (1).jpg>)
-
 2\. After entering the MDEX page, you may click the wallet connecting button in the upper right corner, click the navigation bar in the upper left corner to view all functions on MDEX, click the settings button next to the wallet connecting button to set slippage tolerance, interface, and language.
 
-![](../../.gitbook/assets/mdex.png)
+![](<../../.gitbook/assets/2 (13).png>)
 
 3\. Click \[Swap] at the bottom, select the swap token, enter the amount, and select the receiving token, then the receiving amount will be filled in automatically. Click \[Approve] to proceed. (Take exchanging USDT for HT as an example here)
 

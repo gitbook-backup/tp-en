@@ -22,13 +22,13 @@ App Store: 1.6.3
 
 1\) After updating the latest version, click the \[Assets] page, and then click \[DeFi] to view the data of the DeFi protocol currently in use;
 
-![](../../.gitbook/assets/group-18728.png)
+![](<../../.gitbook/assets/1 (16).png>)
 
 
 
 2\) Take Pippi Shrimp as an example, click \[Pippi Shrimp], you can view the current fund status and liquidity;
 
-![](../../.gitbook/assets/group-18729.png)
+![](<../../.gitbook/assets/2 (15).png>)
 
 3\) Click \[Enter DApp], and click the jump popup \[I got it] to enter the official Pippi Shrimp interface.
 

@@ -6,25 +6,25 @@ TokenPocket has supported Polygon mainnet (Matic before), so users can use Polyg
 
 
 
-**How to create Polygon ?**
+**How to create Polygon?**
 
-1.Open TokenPocket App, click the wallet name in the upper left corner to switch wallet, choose \[Polygon], and then click \[Add Wallet];
+1. Open TokenPocket App, click the wallet name in the upper left corner to switch wallet, choose \[Polygon], and then click \[Add Wallet];
 
-![](../../.gitbook/assets/hua-ban-1-kao-bei-2.png)
+![](<../../.gitbook/assets/1 (14).png>)
 
 2\. Click \[Create], and then click \[Create Wallet];
 
-![](../../.gitbook/assets/hua-ban-1-kao-bei-3.png)
+![](<../../.gitbook/assets/2 (16).png>)
 
 3\. Set wallet name and password in order, and then tick \[Terms of Service and Privacy], click \[Create Wallet] to continue. Back up your mnemonic and then click \[Completed Backup, Verify it]
 
 **Attention: Do not disclose mnemonic words to anyone!**
 
-![](../../.gitbook/assets/hua-ban-1-kao-bei-4.png)
+![](<../../.gitbook/assets/3 (11).png>)
 
 4\. Now, you need to fill in order your mnemonic to verify, and then click \[Confirm]. At this moment, you have created Polygon (Matic) successfully !
 
-![](../../.gitbook/assets/hua-ban-1-kao-bei-5.png)
+![](<../../.gitbook/assets/4 (8).png>)
 
 
 
@@ -40,8 +40,6 @@ The following are the detailed steps for Polygon Bridge and xPollinate:
 
 **How to transfer founds from Ethereum to Polygon by Polygon Bridge?** (Take PoS Bridge as an example)\
 1.Click \[Discover] on the bottom of TokenPocket, and then search \[Polygon Bridge];
-
-![](../../.gitbook/assets/b1.jpg)
 
 2\. Click \[Polygon Bridge];
 

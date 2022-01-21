@@ -20,7 +20,7 @@ According to the characteristics of different blocks, each transfer will take a 
 
 1\. After withdrawing tokens from TokenPocket, click the transaction ID in the \[Transfer] record, and then scan the code or click the icon at the bottom of the page to check on the chain;&#x20;
 
-![](../.gitbook/assets/zhuan-zhang-dao-jiao-yi-suo-.png)
+![](<../.gitbook/assets/1 (13).png>)
 
 2\. After entering the blockchain page, check the \[Status].
 

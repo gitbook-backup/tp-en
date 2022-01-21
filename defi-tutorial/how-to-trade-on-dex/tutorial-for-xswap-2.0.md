@@ -1,19 +1,19 @@
-# Xswap 2.0 Guide
+# Transit Swap 2.0 Guide
 
 &#x20;                           **TokenPocket Official Website:** [**www.tokenpocket.pro**](https://www.tokenpocket.pro)****
 
-**About Xswap**\
-****As a cross-chain swap aggregator platform powered by TokenPocket, Xswap integrates all functions in one including decentralized swap, aggregated transactions, and one-stop cross-chain. For users, decentralized instant trade and swap can be completed in multiple chains supported by TokenPocket. It expands multi-chain deployment including but not limited to ETH, BSC, HECO, Polygon (Matic), HSC, TRON, and its algorithm strategy will have more advantages in the market.
+**About Transit Swap**\
+****As a cross-chain swap aggregator platform powered by TokenPocket, Transit Swap integrates all functions in one including decentralized swap, aggregated transactions, and one-stop cross-chain. For users, decentralized instant trade and swap can be completed in multiple chains supported by TokenPocket. It expands multi-chain deployment including but not limited to ETH, BSC, HECO, Polygon (Matic), HSC, TRON, and its algorithm strategy will have more advantages in the market.
 
-Xswap will open up the cross-chain liquidity channel of mainstream public chain assets, and provide one-stop cross-chain services for users and projects to create a cross-chain gathering place for the top public chains.
+Transit Swap will open up the cross-chain liquidity channel of mainstream public chain assets, and provide one-stop cross-chain services for users and projects to create a cross-chain gathering place for the top public chains.
 
 **Functions Introduction**\
-****The new version of Xswap2.0 adds an swap aggregator based on the 1.0 cross-chain swap. It will automatically analyze the optimal price to swap according to the current public chain selected by users, so that optimize the swap of tokens, and it reaches "one for all, all in one"
+****The new version of Transit Swap2.0 adds a swap aggregator based on the 1.0 cross-chain swap. It will automatically analyze the optimal price to swap according to the current public chain selected by users, so that optimize the swap of tokens, and it reaches "one for all, all in one"
 
 ![](../../.gitbook/assets/01.png)
 
 **Tutorial**\
-****1.Search \[Xswap] in \[Discover] page after you open TokenPocket, select a wallet to connect by clicking the button in the upper right corner, and then select the swap token and receiving token. (Use BNB to swap TPT in BSC wallet as an example here)
+****1.Search \[Transit Swap] in \[Discover] page after you open TokenPocket, select a wallet to connect by clicking the button in the upper right corner, and then select the swap token and receiving token. (Use BNB to swap TPT in BSC wallet as an example here)
 
 ![](../../.gitbook/assets/1.png)
 
@@ -43,7 +43,7 @@ Note: If the current public chain network is congested, you can custom the miner
 
 2\. Click \[Import] and then click \[Confirm Import] to proceed. After adding the token successfully, you can start to swap.
 
-**Note:** Please **** double check the token information before you add it to avoid adding the fake tokens.
+**Note:** Please **** double-check the token information before you add it to avoid adding the fake tokens.
 
 ![](../../.gitbook/assets/1.2.png)
 

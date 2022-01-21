@@ -42,7 +42,7 @@ Note: Recently, some users reported that testflight will report an error when op
 
 • The new OKExChain test chain is added to get rid of the cumbersome steps of testing nodes under Ethereum. After creating or importing a wallet, you can view the type and quantity of your test tokens (test coins have been added).
 
-![](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1616473708993.jpg)
+![](<../../.gitbook/assets/2 (18).png>)
 
 
 
@@ -54,12 +54,8 @@ Some chain nodes are newly added to view the block height. The larger for the se
 
 HECO chain supports WalletConnect, one more way to realize login operation DApp.
 
-![](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1616473756168.jpg)
-
 More detailed optimizations are waiting for you to experience.
 
 
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
-
-![Scan the QR Code to download TokenPocket](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615532554741.jpg)

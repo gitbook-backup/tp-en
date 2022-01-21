@@ -24,11 +24,15 @@ iOS: Download the TestFlight version in www.tokenpocket.pro; get in App Store.
 
 1. Binance Smart Chain WalletConnect supported. We need to address it here that what is supported is the ChainID of the smart chain. DApps are unable to identify it, since they don’t support it yet.
 
-Some wallets provide the ChainID of ETH, and DApps identify the ChainID of ETH. The balance cannot be shown while the normal operation is not able to be conducted even if it’s connected.![Image for post](https://miro.medium.com/max/1238/0\*oAxHPLbIM4iIXPdL.png)
+Some wallets provide the ChainID of ETH, and DApps identify the ChainID of ETH. The balance cannot be shown while the normal operation is not able to be conducted even if it’s connected.
+
+![](https://miro.medium.com/max/1238/0\*oAxHPLbIM4iIXPdL.png)
 
 2\. Currency unit display optimized and supported multiple currencies.![Image for post](https://miro.medium.com/max/800/1\*lnxSFZ83G9X-dyYbNmvJHQ.png)
 
-3\. TRON DAppFeeLimit supported. Tap on \[About Fee Limit] to learn more.![Image for post](https://miro.medium.com/max/1223/0\*6qxScXNxc-4UfiTM.png)
+3\. TRON DAppFeeLimit supported. Tap on \[About Fee Limit] to learn more.
+
+![](https://miro.medium.com/max/1223/0\*6qxScXNxc-4UfiTM.png)
 
 4\. Ethereum trading order status optimized. For example, \[Approving] status optimized when pending orders are replaced by successful orders.
 

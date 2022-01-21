@@ -7,8 +7,6 @@
 
 1.Open TokenPocket App, choose Tron network wallet, click \[Discover] at the bottom, and then search \[JustSwap] to enter;
 
-![](<../../.gitbook/assets/dex-shou-ye- (2).jpg>)
-
 2\. After entering the JustSwap page, Click \[Swap] at the top, select the swap token, enter the amount, and select the receiving token, then the receiving amount will be filled in automatically. Click \[Swap] to proceed. (Take exchanging TRX for USDC as an example here)
 
 Tip: You can paste the contract address on the search bar to select token.

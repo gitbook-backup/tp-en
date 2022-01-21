@@ -34,4 +34,4 @@ The upgrade is prompted in the App, or users can download the latest version fro
 
 Support the Klaytn, all users can import or create Klaytn wallet through TokenPocket.
 
-![](../../.gitbook/assets/ban-ben-geng-xin-.png)
+![](<../../.gitbook/assets/2 (10).png>)

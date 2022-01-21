@@ -18,7 +18,7 @@ Added "NFT" section on the "Assets" page. (Support NFT display, transfer, receiv
 
 Note: We have completed the synchronization of Hoo Smart Chain data now, and other chain data can be displayed soon!
 
-![](<../../.gitbook/assets/image (38).png>)
+![](<../../.gitbook/assets/1 (19).png>)
 
 2\. Click any NFT, enter the page of \[NFT Details], you can know about the information and transaction records of this NFT on this page;
 
@@ -34,7 +34,7 @@ Click \[Send], enter the page of \[Transfer], enter the receiving address and ch
 
 Click the \[+] in the upper right corner, enter the page of \[Add Custom NFT], enter the contract address, and check the information, click \[Confirm]. At this point, you have added the custom NFT successfully.
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/2 (17).png>)
 
 **【Version update method】‌**
 

@@ -8,11 +8,9 @@ SushiSwap **** is a community-driven DeFi platform based on OKChain, with featur
 
 1.Open TokenPocket App, choose OKChain wallet, click \[Discover] at the bottom, and then search \[SushiSwap] to enter;
 
-![](<../../.gitbook/assets/dex-shou-ye- (4).jpg>)
-
 2\. After entering the SushiSwap page, 1) you may click the wallet connecting button at the bottom to view your connecting wallet address, 2) click the navigation bar in the upper right corner to view all functions on SushiSwap, 3) click the settings button can set slippage tolerance, deadline, and interface.
 
-![](../../.gitbook/assets/sushiswap.png)
+![](<../../.gitbook/assets/2 (12).png>)
 
 3\. Select the swap token on the \[Swap] page, enter the amount, and select the receiving token, then the receiving amount will be filled in automatically. Click \[Swap] to proceed. (Take exchanging OKT for USDT as an example here)
 

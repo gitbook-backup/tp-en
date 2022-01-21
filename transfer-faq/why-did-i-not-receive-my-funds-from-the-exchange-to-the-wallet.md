@@ -12,7 +12,7 @@ If you didn't receive your assets when depositing tokens/coins from the exchange
 
 1\) Open TokenPocket, select the receiving token, click the token link after entering the \[Token Details], and enter the \[Transaction Detail] page, you can scan the code or click the icon below to view the details on the blockchain.
 
-![](../.gitbook/assets/cha-kan-lian-.png)
+![](<../.gitbook/assets/1 (13).png>)
 
 2\) You may check the \[Status] to judge the transaction.
 

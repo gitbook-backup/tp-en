@@ -8,11 +8,9 @@ Pudding Finance is a decentralized exchange running on Hoo Smart Chain, with lot
 
 1.Open TokenPocket App, choose Tron network wallet, click \[Discover] at the bottom, and then search \[PuddingSwap] to enter.
 
-![](<../../.gitbook/assets/dex-shou-ye- (3).jpg>)
-
 2\. After entering the PuddingSwap page, you may click the wallet connecting button in the upper right corner to view your wallet address and balance, click the navigation bar in the upper left corner to view all functions on PuddingSwap, click the settings button next to the wallet connecting button to set slippage tolerance, transaction deadline, and toggle audio mode.
 
-![](<../../.gitbook/assets/pudding (1).png>)
+![](<../../.gitbook/assets/2 (11).png>)
 
 3\. Select the swap token on the \[Swap] page, enter the amount, and select the receiving token, then the receiving amount will be filled in automatically. Click \[Swap] to proceed. (Take exchanging HOO for USDT as an example here)
 

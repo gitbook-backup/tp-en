@@ -6,8 +6,6 @@
 **How to swap tokens?**\
 ****1. Open TokenPocket, click \[Discover] and then search Uniswap on the top of search bar; (Take Uniswap V3 as an example here)
 
-![](<../../.gitbook/assets/b1 (1).jpg>)
-
 2\. After entering the \[Swap] page, enter the token name and amount you need to transfer, choose the receiving token (Selecting a token by searching the contract address is recommended), and the amount will be matched by default. After that, click \[Swap] to procceed. (Take ETH swap to USDT as an example here)
 
 ![](../../.gitbook/assets/uni1.jpg)
