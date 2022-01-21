@@ -2,7 +2,7 @@
 
 1.Open TokenPocket App, choose the receiving token in the \[Assets] Page; (Take receiving TPT through BSC network as an example)
 
-![](<../.gitbook/assets/1 (20).png>)
+![](<../.gitbook/assets/1 (20) (1).png>)
 
 2\. Click \[Receive];
 

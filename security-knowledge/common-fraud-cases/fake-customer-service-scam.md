@@ -16,6 +16,6 @@ So, If you have any questions, please don't trust anyone who sends messages to y
 
 3\. Impersonating TokenPocket for airdrop scams‌.
 
-![](<../../.gitbook/assets/3 拷贝 3 (1).png>)
+![](<../../.gitbook/assets/1 (20).png>)
 
 **In conclusion: Don’t give** your **private key/mnemonic** to anyone!

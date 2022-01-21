@@ -116,7 +116,7 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 
 3\. Back to \[Assets] after transferring 3000 TPT successfully, choose BNB Token, click \[Transfer] to proceed.
 
-![](../.gitbook/assets/wechatimg9-1.png)
+![](<../.gitbook/assets/1 (16).png>)
 
 4\. Enter receiving address (same as above) and 0 BNB ( If 0 BNB transfer is not supported, you can enter a very small amount and try it again), choose fees and then click \[Advanced] - \[Plain] in the bottom right corner to enter the text required on \[Chain Data] according to the format.
 
