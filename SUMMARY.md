@@ -212,6 +212,7 @@
 * [Product](announcement/product/README.md)
   * [NFT application description](announcement/product/nft-application.md)
 * [Announcement](announcement/announcement/README.md)
+  * [2022/01/25 Klaytn node is being maintained.](announcement/announcement/2022-01-25-klaytn-node-is-being-maintained..md)
   * [2021/12/02 EOS node is being maintained.](announcement/announcement/2021-12-02-eos-node-is-being-maintained..md)
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
