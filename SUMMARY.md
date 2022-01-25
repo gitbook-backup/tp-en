@@ -210,6 +210,7 @@
 ## announcement
 
 * [Product](announcement/product/README.md)
+  * [TokenPocket Product Policy Adjustment Instructions](announcement/product/TokenPocket-product-policy-adjustment-instructions.md)
   * [NFT application description](announcement/product/nft-application.md)
 * [Announcement](announcement/announcement/README.md)
   * [2022/01/25 Klaytn node is being maintained.](announcement/announcement/2022-01-25-klaytn-node-is-being-maintained..md)
