@@ -10,7 +10,7 @@ Transaction hash usually appear in these locations:
 
 1.When the wallet token is transferred in or out, the transaction hash value will be generated on the transaction details interface. You can query the transaction details on the chain by clicking or copying to the blockchain browser, or you can query through the shortcut entry at the bottom.
 
-![](<../.gitbook/assets/组 2.png>)
+![](<../../.gitbook/assets/组 2.png>)
 
 2\. For token deposit or withdrawal in the exchange, you can see the transaction hash (some called TxID) prompts in the transaction details. If you copy the hash, you can go to the blockchain browser to query the transfer details.
 
