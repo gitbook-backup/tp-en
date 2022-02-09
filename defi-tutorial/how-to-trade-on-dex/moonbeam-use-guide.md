@@ -8,7 +8,7 @@
 
 2\. Click \[Create Wallet] again and set the wallet name and password, click the User Agreement, click \[Create Wallet];
 
-![](<../../.gitbook/assets/mb2 en.png>)
+![](<../../.gitbook/assets/mb2 en (1).png>)
 
 3\. Back up the secret recovery phrase on the paper or on the [KeyPal](https://www.keypal.pro/en/), and store it in a safe place. Click \[Completed backup, verify now] and enter your secret recovery phrase, click \[Confirm]. At this point, you have successfully created a Moonbeam wallet.
 
