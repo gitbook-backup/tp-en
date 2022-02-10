@@ -4,6 +4,6 @@
 
 ![](<../../../.gitbook/assets/Group 18924.png>)
 
-2\. You can query the transaction status, sender address, receiving address, contract address f this token and the gas fee, etc. in this page.
+2\. You can query the transaction status, sender address, receiving address, contract address of this token and the gas fee, etc. in this page.
 
 ![](<../../../.gitbook/assets/Group 18926.png>)
