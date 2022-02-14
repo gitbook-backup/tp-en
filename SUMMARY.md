@@ -179,6 +179,7 @@
 * [What Is DEX ?](defi-tutorial/what-is-dex.md)
 * [How to Submit DApps?](defi-tutorial/how-to-submit-dapps.md)
 * [How to Trade on DEX?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [Harmony Use Guide](defi-tutorial/how-to-trade-on-dex/harmony-use-guide.md)
   * [Moonbeam Use Guide!](defi-tutorial/how-to-trade-on-dex/moonbeam-use-guide.md)
   * [WAX Use Guide!](defi-tutorial/how-to-trade-on-dex/wax-use-guide.md)
   * [xDai Use Guide!](defi-tutorial/how-to-trade-on-dex/xdai-use-guide.md)
