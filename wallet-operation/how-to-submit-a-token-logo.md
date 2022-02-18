@@ -153,7 +153,7 @@ After completing the above information, you can add the token logo and informati
 
 5\. In the \[Commit changes] box: Fill up the Token information in the subject line and additional description you want to add in the content field, and then click \[Commit changes].
 
-**Note:** Please add the 3000 TPT transaction ID link in the content description, otherwise it will not pass the review.
+**Note: **<mark style="color:red;">**Please add the 3000 TPT transaction ID link in the content description, otherwise it will not pass the review. (Submit the verified TxHash in step4.)**</mark>
 
 ![](../.gitbook/assets/github5.jpg)
 
