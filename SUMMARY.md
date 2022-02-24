@@ -228,7 +228,7 @@
   * [TokenPocket Product Policy Adjustment Instructions](announcement/product/TokenPocket-product-policy-adjustment-instructions.md)
   * [NFT application description](announcement/product/nft-application.md)
 * [Announcement](announcement/announcement/README.md)
-  * [2022/02/24 New version will](announcement/announcement/2022-02-24-new-version-will.md)
+  * [2022/02/24 New version will adjust some functions and service.](announcement/announcement/2022-02-24-new-version-will-adjust-some-functions-and-service..md)
   * [2022/01/27 The service upgrade of TRON.](announcement/announcement/2022-01-27-the-service-upgrade-of-tron..md)
   * [2022/01/25 Klaytn node is being maintained.](announcement/announcement/2022-01-25-klaytn-node-is-being-maintained..md)
   * [2021/12/02 EOS node is being maintained.](announcement/announcement/2021-12-02-eos-node-is-being-maintained..md)
