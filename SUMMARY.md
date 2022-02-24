@@ -140,7 +140,7 @@
 * [How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?](wallet-operation/set-nft.md)
 * [How to use Watch Wallet and Cold Wallet?](wallet-operation/how-to-use-watch-wallet-and-cold-wallet.md)
 * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
-* [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol.md)
+* [How to collect DAPP and TIP-001 protocol? (iOS)](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [Use OKEx old chain for upgrading to OKEx mainnet (EVM)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
