@@ -140,7 +140,7 @@
 * [How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?](wallet-operation/set-nft.md)
 * [How to use Watch Wallet and Cold Wallet?](wallet-operation/how-to-use-watch-wallet-and-cold-wallet.md)
 * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
-* [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol.md)
+* [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [Use OKEx old chain for upgrading to OKEx mainnet (EVM)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
@@ -156,6 +156,7 @@
 * [How to Manage My Wallet?](wallet-management/how-to-manage-my-wallet.md)
 * [How to Switch My Wallet?](wallet-management/how-to-switch-my-wallet.md)
 * [How to Sync a Wallet?](wallet-management/how-to-sync-a-wallet.md)
+* [How to manage My NFT assets?](wallet-management/how-to-manage-my-nft-assets.md)
 
 ## Token Management
 
@@ -235,6 +236,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
+  * [Version update log(Feb 25, 2022): Support ERC1155; Add NFT administration page; etc.](announcement/update/version-update-feb-25.md)
   * [Version update log(Feb 11, 2022): Fix issues of Bitcoin balance.](announcement/update/version-update-log-feb-11-2022-fix-issues-of-bitcoin-balance..md)
   * [Version update log(January 27, 2022): New integration: Transit Swap;Bug fixed;](announcement/update/version-update-log-january-27-2022-new-integration-transit-swap-bug-fixed.md)
   * [Version update log (January 17, 2022): Support WAX; Support NFT use cases; etc.](announcement/update/version-update-log-january-17-2022.md)

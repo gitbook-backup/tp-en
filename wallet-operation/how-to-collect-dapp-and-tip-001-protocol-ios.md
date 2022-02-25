@@ -1,4 +1,4 @@
-# How to collect DAPP and TIP-001 protocol? (iOS)
+# How to collect DAPP and TIP-001 protocol?
 
 The new version of the wallet has a major revision in the “Discovery”, and some new features have been added at the same time. Users can use it according to their own habits; they can also classify the DApps that are commonly used in daily life and favorite into a folder. It is very similar to the mobile phone system for easy management and viewing. Let's give a functional explanation of the DApp favorite and the TIP-001 protocol.&#x20;
 
