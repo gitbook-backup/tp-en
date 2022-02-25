@@ -12,7 +12,7 @@ iOS: 1.7.7
 
 1\. Support ERC1155.
 
-2\. Add NFT administration page.
+2\. Add NFT management page.
 
 3\. Add display reminders of hot data.
 
@@ -30,11 +30,9 @@ iOS: 1.7.7
 
 **【Details】**
 
-1\. Add NFT administration page.
+1\. Add NFT management page.
 
-How to manage your NFT assets?
-
-
+[**How to manage your NFT assets?**](https://help.tokenpocket.pro/en/wallet-management/how-to-manage-my-nft-assets)****
 
 2\. Add display reminders of hot data.
 
