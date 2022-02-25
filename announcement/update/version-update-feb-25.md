@@ -14,17 +14,15 @@ iOS: 1.7.7
 
 2\. Add NFT management page.
 
-3\. Add display reminders of hot data.
+3\. Add reminders of hot data.
 
 4\. Optimize the page of token details.
 
 5\. Add the cache clearing function.
 
-6\. Optimize the Recovery Phrase import function.
+6\. Support Thai and Filipino.
 
-7\. Support Thai and Filipino.
-
-8\. Optimize the TRON transfer reminders.
+7\. Optimize the TRON transfer reminders.
 
 &#x20;
 
