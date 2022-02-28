@@ -36,6 +36,22 @@ Avalanche-C: [https://github.com/TP-Lab/tokens/tree/master/Avalanche-C](https://
 
 Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://github.com/TP-Lab/tokens/tree/master/optimistic)
 
+
+
+### <mark style="color:red;">Attentions:</mark>&#x20;
+
+<mark style="color:red;">**1、You must attach the link of donation TPT transaction hash and verification transaction hash;**</mark>&#x20;
+
+<mark style="color:red;">**2、One GitHub account is not allowed to submit multiple logos;**</mark>&#x20;
+
+<mark style="color:red;">**3、The donation amount of TPT has been updated to 30,000;**</mark>&#x20;
+
+<mark style="color:red;">**The voting deadline is 20:00 on February 26 SGT. All logo applications submitted after 20:00**</mark>&#x20;
+
+<mark style="color:red;">**need to update the donation amount.**</mark>&#x20;
+
+****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)****
+
 ### **Preparation**
 
 **1. Image of the Token Logo**
