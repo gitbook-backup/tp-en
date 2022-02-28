@@ -46,7 +46,7 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**3、The donation amount of TPT has been updated to 30,000;**</mark>&#x20;
 
-<mark style="color:red;">**The voting deadline is 20:00 on February 26 SGT. All logo applications submitted after 20:00**</mark>&#x20;
+<mark style="color:red;">**The voting deadline is 20:00 on February 28 SGT. All logo applications submitted after 20:00**</mark>&#x20;
 
 <mark style="color:red;">**need to update the donation amount.**</mark>&#x20;
 
