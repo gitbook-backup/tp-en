@@ -6,34 +6,6 @@ At the beginning of this tutorial, please click the below link to know more abou
 
 [about-approve.md](about-approve.md "mention")
 
-****
-
-**----APP OPERATE TUTORIAL----**
-
-1\. Open TokenPocket APP, choose the wallet network in the Assets page first, enter \[DeBank] or \[[https://debank.com/](https://debank.com)] in the search bar to get into DeBank DApp, choose the wallet address you need to connect, click the \[Approval] button below and enter the page of approval.
-
-<mark style="color:red;">**Attention: DeBank doesn’t support TRON Approve Management now, please refer to the tutorial on canceling TRON's malicious approval operation at the bottom of this article.**</mark>
-
-![](<../../.gitbook/assets/1 拷贝 17.png>)
-
-2\. Take BSC wallet address as an example, the wallet balance is on the page of Approval, Token exposure is the total value of the tokens. Click on the small triangle next to the price, and the relevant approval information of the token will appear:
-
-<mark style="color:red;">Contract: the DApp/contract you have approved;</mark>
-
-<mark style="color:red;">Approved amount: “Infinite” means that is unlimited approval, allowing all the token balance to be controlled by the DApp/contract;</mark>
-
-<mark style="color:red;">Risk expo.: the amount of the approved token.</mark>
-
-![](<../../.gitbook/assets/1 拷贝 18.png>)
-
-3\. If your wallet address has not undergone any approval, it will show you \[No results];
-
-![](<../../.gitbook/assets/1 拷贝 19.png>)
-
-4\. Click \[...] on the right, click \[Cancel approval] to pay the miner fee required to cancel the approval. At this point, you have completed the operation of canceling the approval.
-
-![](<../../.gitbook/assets/1 拷贝 20.png>)
-
 **----TRON APPROVAL MANAGEMENT----**
 
 1\. Open \[[https://tronscan.io/#/](https://tronscan.io/#/)], and then enter your wallet address and enter the page of “Account”, click \[Approval] and you can check the approval;
