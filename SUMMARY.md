@@ -137,6 +137,7 @@
 
 ## wallet operation
 
+* [NFT Application Specification](wallet-operation/nft-application-specification.md)
 * [How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?](wallet-operation/set-nft.md)
 * [How to use Watch Wallet and Cold Wallet?](wallet-operation/how-to-use-watch-wallet-and-cold-wallet.md)
 * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
