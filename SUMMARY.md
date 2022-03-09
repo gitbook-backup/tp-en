@@ -143,11 +143,11 @@
 * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
 * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [Use OKEx old chain for upgrading to OKEx mainnet (EVM)](wallet-operation/use-okex-old-chain-for-upgrading-to-okex-mainnet-evm.md)
+* [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
 * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
+* [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
 * [About Custom Token](wallet-operation/about-custom-token.md)
 * [How to Submit a Token Logo?](wallet-operation/how-to-submit-a-token-logo.md)
-* [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
-* [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
 
 ## Wallet Management
 
