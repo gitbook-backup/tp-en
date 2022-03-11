@@ -237,6 +237,7 @@
 * [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
   * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
+  * [Version update log(Mar 11, 2022): Support TRON in the Market page; etc.](announcement/update/version-update-Mar-11.md)
   * [Version update log(Feb 25, 2022): Support ERC1155; Add NFT administration page; etc.](announcement/update/version-update-feb-25.md)
   * [Version update log(Feb 11, 2022): Fix issues of Bitcoin balance.](announcement/update/version-update-log-feb-11-2022-fix-issues-of-bitcoin-balance..md)
   * [Version update log(January 27, 2022): New integration: Transit Swap;Bug fixed;](announcement/update/version-update-log-january-27-2022-new-integration-transit-swap-bug-fixed.md)
