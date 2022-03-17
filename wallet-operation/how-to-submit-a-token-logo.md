@@ -50,7 +50,11 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**28th SGT。**</mark>
 
-logo is only to enrich the token information, and does not guarantee the absolutely reliable of the token, nor does it mean any investment advice from TokenPocket, please pay attention to the risks!
+<mark style="color:red;">**logo is only to enrich the token information, and does not guarantee the absolutely reliable of**</mark>
+
+<mark style="color:red;">**the token, nor does it mean any investment advice from TokenPocket, please pay attention to**</mark>
+
+<mark style="color:red;">**the risks!**</mark>
 
 ****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)****
 
