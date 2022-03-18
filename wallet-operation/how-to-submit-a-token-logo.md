@@ -46,15 +46,11 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**3、The donation amount of TPT has been updated to 30,000;**</mark>&#x20;
 
-<mark style="color:red;">**The voting deadline is 20:00, Feb 26th, SGT. The new donation will be activated at 20:00, Feb**</mark>&#x20;
+<mark style="color:red;">**4、logo is only to enrich the token information, and does not guarantee the absolutely reliable ofthe token, nor does it mean any investment advice from TokenPocket, please pay attention tothe risks!**</mark>
 
-<mark style="color:red;">**28th SGT。**</mark>
+<mark style="color:red;">**5、Due to the openness of github, anyone can leave a message in the submitted order,so please don't believe any third-party person's message, beware of scams!**</mark>
 
-<mark style="color:red;">**logo is only to enrich the token information, and does not guarantee the absolutely reliable of**</mark>
-
-<mark style="color:red;">**the token, nor does it mean any investment advice from TokenPocket, please pay attention to**</mark>
-
-<mark style="color:red;">**the risks!**</mark>
+<mark style="color:red;">**The voting deadline is 20:00, Feb 26th, SGT. The new donation will be activated at 20:00, Feb 28th SGT。**</mark>
 
 ****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)****
 
