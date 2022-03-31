@@ -1,2 +1,0 @@
-# OKT Wallet
-

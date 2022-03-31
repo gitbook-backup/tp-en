@@ -20,6 +20,7 @@
 * [Submit Your Dapp](https://www.tokenpocket.pro/en/submit/dapp)
 * [Submit Your Token](https://www.tokenpocket.pro/en/submit/token)
 * [Submit your NFT](https://tokenpocket.pro/en/submit/nft)
+* Submit logo
 
 **Follow us**
 
