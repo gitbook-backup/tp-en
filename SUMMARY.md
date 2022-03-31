@@ -27,6 +27,7 @@
   * [Fake Token Scam](security-knowledge/common-fraud-cases/fake-token-scam.md)
   * [Fake Customer Service Scam](security-knowledge/common-fraud-cases/fake-customer-service-scam.md)
   * [DApp Approval Scam](security-knowledge/common-fraud-cases/dapp-approval-scam.md)
+  * [Quick identification of scammers' scams](security-knowledge/common-fraud-cases/quick-identification-of-scammers-scams.md)
 
 ## 📨 Wallet FAQ <a href="#wallet-faq-en" id="wallet-faq-en"></a>
 
@@ -132,6 +133,7 @@
 * [About NFT](wallet-operation/nft/README.md)
   * [NFT Application Specification](wallet-operation/nft-application-specification.md)
   * [How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?](wallet-operation/set-nft.md)
+  * [NFT application description](wallet-operation/nft/nft-application.md)
 * [About DApp](wallet-operation/dapp/README.md)
   * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
@@ -200,34 +202,29 @@
   * [How to Transfer Assets to the Wallet/Exchange?](transfer-tutorial/how-to-transfer-assets-to-the-wallet-exchange.md)
   * [How to Receive My Assets ?](transfer-tutorial/how-to-receive-my-assets.md)
 
-## 👨💻 DEVELPOER
+## 👨💻 DEVELOPER
 
-* [How to Submit DApps?](defi-tutorial/how-to-submit-dapps.md)
-* [How to Submit Tokens?](token-management/how-to-submit-a-token.md)
-* [How to Submit a Token Logo?](wallet-operation/how-to-submit-a-token-logo.md)
-* [How to Trade on DEX?](develpoer/how-to-trade-on-dex/README.md)
-  * [SushiSwap on OKChain Guide](defi-tutorial/how-to-trade-on-dex/sushiswap-on-okchain-guide.md)
-  * [JustSwap on Tron Gudie](defi-tutorial/how-to-trade-on-dex/justswap-on-tron-gudie.md)
-  * [PuddingSwap on HSC Guide](defi-tutorial/how-to-trade-on-dex/puddingswap-on-hsc-guide.md)
-  * [MDEX on HECO Guide](defi-tutorial/how-to-trade-on-dex/mdex-on-heco-guide.md)
-  * [PancakeSwap on BSC Guide](defi-tutorial/how-to-trade-on-dex/pancakeswap-bsc.md)
-  * [Uniswap on Ethereum Guide](defi-tutorial/how-to-trade-on-dex/uniswap-ethereum.md)
-  * [Transit Swap 2.0 Guide](defi-tutorial/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
+* [How to Submit DApps?](developer/how-to-submit-dapps.md)
+* [How to Submit Tokens?](developer/how-to-submit-a-token.md)
+* [How to Submit a Token Logo?](developer/how-to-submit-a-token-logo.md)
+* [How to Trade on DEX?](developer/how-to-trade-on-dex/README.md)
+  * [SushiSwap on OKChain Guide](developer/how-to-trade-on-dex/sushiswap-on-okchain-guide.md)
+  * [JustSwap on Tron Gudie](developer/how-to-trade-on-dex/justswap-on-tron-gudie.md)
+  * [PuddingSwap on HSC Guide](developer/how-to-trade-on-dex/puddingswap-on-hsc-guide.md)
+  * [MDEX on HECO Guide](developer/how-to-trade-on-dex/mdex-on-heco-guide.md)
+  * [PancakeSwap on BSC Guide](developer/how-to-trade-on-dex/pancakeswap-bsc.md)
+  * [Uniswap on Ethereum Guide](developer/how-to-trade-on-dex/uniswap-ethereum.md)
+  * [Transit Swap 2.0 Guide](developer/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
 
 ## 💻 EXTENSION WALLET
 
 ## 🪧 announcement
 
-* [Product](announcement/product/README.md)
-  * [TokenPocket Product Policy Adjustment Instructions](announcement/product/TokenPocket-product-policy-adjustment-instructions.md)
-  * [NFT application description](announcement/product/nft-application.md)
 * [Announcement](announcement/announcement/README.md)
   * [2022/02/24 iOS New version will adjust some services.](announcement/announcement/2022-02-24-ios-new-version-will-adjust-some-services..md)
   * [2022/01/27 The service upgrade of TRON.](announcement/announcement/2022-01-27-the-service-upgrade-of-tron..md)
   * [2022/01/25 Klaytn node is being maintained.](announcement/announcement/2022-01-25-klaytn-node-is-being-maintained..md)
   * [2021/12/02 EOS node is being maintained.](announcement/announcement/2021-12-02-eos-node-is-being-maintained..md)
-* [Fraud Prevention Class](announcement/fraud-prevention-class/README.md)
-  * [Quick identification of scammers' scams](announcement/fraud-prevention-class/quick-identification-of-scammers-scams.md)
 * [APP Update](announcement/update/README.md)
   * [Version update log(Mar 11, 2022): Support TRON in the Market page; etc.](announcement/update/version-update-Mar-11.md)
   * [Version update log(Feb 25, 2022): Support ERC1155; Add NFT administration page; etc.](announcement/update/version-update-feb-25.md)
@@ -247,6 +244,7 @@
   * [Version update log (June 11, 2021):Support Klaytn, Upgrade Polkadot & Kusama](announcement/update/version-update-log-june-11-2021.md)
   * [Version update log (March 18, 2021): Add OKExChain TEST chain, more detailed optimization](announcement/update/version-update-log-march-18-2021-add-okexchain-test-chain-more-detailed-optimization.md)
   * [Version Update (Oct. 30, 2020) | TP Wallet iOS Supports DApp Floating Window](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
+* [TokenPocket Product Policy Adjustment Instructions](announcement/TokenPocket-product-policy-adjustment-instructions.md)
 
 ## 📩 Contact Us <a href="#contract-us" id="contract-us"></a>
 
