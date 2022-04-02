@@ -226,7 +226,7 @@
   * [2022/01/25 Klaytn node is being maintained.](announcement/announcement/2022-01-25-klaytn-node-is-being-maintained..md)
   * [2021/12/02 EOS node is being maintained.](announcement/announcement/2021-12-02-eos-node-is-being-maintained..md)
 * [APP Update](announcement/update/README.md)
-  * [Version update log(Apr 2, 2022): Support EOS and TRON to connect hardware wallets; Add “Swap” to th](announcement/update/version-update-Apr-2.md)
+  * [Version update log(Apr 2, 2022): Support EOS and TRON to connect hardware wallets; etc.](announcement/update/version-update-Apr-2.md)
   * [Version update log(Mar 11, 2022): Support TRON in the Market page; etc.](announcement/update/version-update-Mar-11.md)
   * [Version update log(Feb 25, 2022): Support ERC1155; Add NFT administration page; etc.](announcement/update/version-update-feb-25.md)
   * [Version update log(Feb 11, 2022): Fix issues of Bitcoin balance.](announcement/update/version-update-log-feb-11-2022-fix-issues-of-bitcoin-balance..md)

@@ -1,10 +1,10 @@
-# Version update log(Apr 2, 2022): Support EOS and TRON to connect hardware wallets; Add “Swap” to th
+# Version update log(Apr 2, 2022): Support EOS and TRON to connect hardware wallets; etc.
 
 【Version Update】
 
-iOS: 1.7.8
+iOS: 1.7.9
 
-Android: 1.4.2
+Android: 1.4.3
 
 &#x20;
 
@@ -29,10 +29,6 @@ Android: 1.4.2
 1\. Add “Swap” to the Token Details;
 
 ![](../../.gitbook/assets/发版en.png)
-
-2\. Support OKX brand upgrade;
-
-![](../../.gitbook/assets/图片1.png)
 
 【Version update method】‌
 
