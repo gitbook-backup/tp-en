@@ -218,6 +218,8 @@
 
 ## 💻 EXTENSION WALLET
 
+* [Privacy Policy](extension-wallet/privacy-policy.md)
+
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
