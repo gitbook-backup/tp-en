@@ -219,6 +219,7 @@
 ## 💻 EXTENSION WALLET
 
 * [Privacy Policy](extension-wallet/privacy-policy.md)
+* [Extension Update](extension-wallet/update-log.md)
 
 ## 🪧 announcement
 
