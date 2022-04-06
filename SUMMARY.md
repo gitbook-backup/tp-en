@@ -153,7 +153,14 @@
   * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
   * [About Custom Token](wallet-operation/about-custom-token.md)
   * [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
-* [How to use Watch Wallet and Cold Wallet?](wallet-operation/how-to-use-watch-wallet-and-cold-wallet.md)
+* [How to Trade on DEX?](wallet-operation/how-to-trade-on-dex/README.md)
+  * [SushiSwap on OKChain Guide](wallet-operation/how-to-trade-on-dex/sushiswap-on-okchain-guide.md)
+  * [JustSwap on Tron Gudie](wallet-operation/how-to-trade-on-dex/justswap-on-tron-gudie.md)
+  * [PuddingSwap on HSC Guide](wallet-operation/how-to-trade-on-dex/puddingswap-on-hsc-guide.md)
+  * [MDEX on HECO Guide](wallet-operation/how-to-trade-on-dex/mdex-on-heco-guide.md)
+  * [PancakeSwap on BSC Guide](wallet-operation/how-to-trade-on-dex/pancakeswap-bsc.md)
+  * [Uniswap on Ethereum Guide](wallet-operation/how-to-trade-on-dex/uniswap-ethereum.md)
+  * [Transit Swap 2.0 Guide](wallet-operation/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
 
 ## 🛠 Wallet Management
 
@@ -169,6 +176,7 @@
   * [How to Manage My Wallet?](wallet-management/how-to-manage-my-wallet.md)
   * [How to Switch My Wallet?](wallet-management/how-to-switch-my-wallet.md)
   * [How to Sync a Wallet?](wallet-management/how-to-sync-a-wallet.md)
+  * [How to use Watch Wallet and Cold Wallet?](wallet-management/wallet-management/how-to-use-watch-wallet-and-cold-wallet.md)
 * [Blockchain Explorer Tutorial](transfer-faq/blockchain-explorer-tutorial/README.md)
   * [What is Blockchain Explorer?](transfer-faq/blockchain-explorer-tutorial/what-is-blockchain-explorer.md)
   * [What is Transaction ID (Hash) ?](transfer-faq/blockchain-explorer-tutorial/what-is-transaction-hash.md)
@@ -207,14 +215,6 @@
 * [How to Submit DApps?](developer/how-to-submit-dapps.md)
 * [How to Submit Tokens?](developer/how-to-submit-a-token.md)
 * [How to Submit a Token Logo?](developer/how-to-submit-a-token-logo.md)
-* [How to Trade on DEX?](developer/how-to-trade-on-dex/README.md)
-  * [SushiSwap on OKChain Guide](developer/how-to-trade-on-dex/sushiswap-on-okchain-guide.md)
-  * [JustSwap on Tron Gudie](developer/how-to-trade-on-dex/justswap-on-tron-gudie.md)
-  * [PuddingSwap on HSC Guide](developer/how-to-trade-on-dex/puddingswap-on-hsc-guide.md)
-  * [MDEX on HECO Guide](developer/how-to-trade-on-dex/mdex-on-heco-guide.md)
-  * [PancakeSwap on BSC Guide](developer/how-to-trade-on-dex/pancakeswap-bsc.md)
-  * [Uniswap on Ethereum Guide](developer/how-to-trade-on-dex/uniswap-ethereum.md)
-  * [Transit Swap 2.0 Guide](developer/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
 
 ## 💻 EXTENSION WALLET
 

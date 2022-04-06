@@ -20,11 +20,11 @@ We will use the password and private key to complete the operations like transfe
 
 1. Cl**i**ck \[+], click \[Import wallet], choose \[Watch Wallet];
 
-![](<../.gitbook/assets/Group 18883.png>)
+![](<../../.gitbook/assets/Group 18883.png>)
 
 2\. Enter the public key or wallet address, click \[Import wallet]. At this point, you have imported the Watch Wallet successfully.
 
-![](<../.gitbook/assets/Group 18884.png>)
+![](<../../.gitbook/assets/Group 18884.png>)
 
 <mark style="color:orange;">Tips: To distinguish the Watch Wallet, we will display the gray assets interface. You can distinguish the Watch Wallet quickly when consulting or solving problems.</mark>
 
@@ -32,7 +32,7 @@ We will use the password and private key to complete the operations like transfe
 
 Click \[Transfer], enter the receiving address and transfer amount, click \[Confirm], click \[Confirm Payment]. Since the Watch Wallet transfer needs to use the corresponding Cold Wallet scan the QR Code, you need to scan with your Cold Wallet.
 
-![](<../.gitbook/assets/Group 18885 (1).png>)
+![](<../../.gitbook/assets/Group 18885 (1).png>)
 
 **What to do if you don’t have a cold wallet to scan the code?**
 
@@ -40,10 +40,10 @@ Click \[Transfer], enter the receiving address and transfer amount, click \[Conf
 
 Click \[Import Wallet], click \[Cold Wallet], you can import by entering secret recovery phrase or private key. After you imported successfully, you can click \[Scan to sign] to sign in Watch Wallet to transfer.
 
-![](<../.gitbook/assets/Group 18887.png>)
+![](<../../.gitbook/assets/Group 18887.png>)
 
 <mark style="color:red;">**Attention: Please use the cold wallet offline.**</mark>
 
 <mark style="color:orange;">Method 2: Import your wallet through secret recovery phrase and complete your transfer operation.</mark>
 
-![](<../.gitbook/assets/Group 18886.png>)
+![](<../../.gitbook/assets/Group 18886.png>)
