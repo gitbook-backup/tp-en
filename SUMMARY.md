@@ -138,6 +138,7 @@
   * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [How to Create a Wallet?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [KCC Use Guide](wallet-operation/how-to-create-a-wallet/kcc-use-guide.md)
   * [Harmony Use Guide](defi-tutorial/how-to-trade-on-dex/harmony-use-guide.md)
   * [Moonbeam Use Guide!](defi-tutorial/how-to-trade-on-dex/moonbeam-use-guide.md)
   * [WAX Use Guide!](defi-tutorial/how-to-trade-on-dex/wax-use-guide.md)
