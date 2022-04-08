@@ -161,7 +161,7 @@
   * [MDEX on HECO Guide](wallet-operation/how-to-trade-on-dex/mdex-on-heco-guide.md)
   * [PancakeSwap on BSC Guide](wallet-operation/how-to-trade-on-dex/pancakeswap-bsc.md)
   * [Uniswap on Ethereum Guide](wallet-operation/how-to-trade-on-dex/uniswap-ethereum.md)
-  * [Transit Swap 2.0 Guide](wallet-operation/how-to-trade-on-dex/tutorial-for-xswap-2.0.md)
+  * [Transit Swap 2.0 Guide](wallet-operation/how-to-trade-on-dex/transit-swap.md)
 
 ## 🛠 Wallet Management
 
