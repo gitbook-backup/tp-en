@@ -2,7 +2,7 @@
 
 <mark style="color:orange;">**1. A basic introduction to the main page.**</mark>
 
-![](<../../.gitbook/assets/Group 18969.png>)
+![](<../../.gitbook/assets/Group 18969 (1).png>)
 
 <mark style="color:orange;">**2. About \[Create wallet].**</mark>
 
