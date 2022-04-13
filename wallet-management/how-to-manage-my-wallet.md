@@ -2,7 +2,7 @@
 
 1.Open TokenPocket App, click on \[Me], and then click \[Manage Wallets];
 
-![](<../.gitbook/assets/1 (29).png>)
+![](<../.gitbook/assets/1 (29) (1).png>)
 
 2\. Click \[Sort] button in the upper right corner to sort multiple wallets;
 

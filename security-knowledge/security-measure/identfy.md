@@ -4,7 +4,7 @@
 
 Please confirm the domain name of TokenPocket’s official website is \[<mark style="color:red;">**https://tokenpocket.pro/**</mark>]. And there has a \[🔒] symbol in front of the domain name, which means \[Connection is secure].
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../../.gitbook/assets/image (44) (1).png>)
 
 **Identify the Authenticity of TokenPocket’s APP.**
 

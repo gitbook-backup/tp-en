@@ -12,7 +12,7 @@
 
 3\. Set \[Wallet Name] and \[Password] in turn, then click \[Service Regulations and Privacy clause], click \[Create Wallet]; then start to back up the mnemonic, and click \[Completed backup, verify it now];
 
-![](<../../.gitbook/assets/3 (10) (1).png>)
+![](<../../.gitbook/assets/3 (10) (1) (1).png>)
 
 **Attention: Do not disclose the mnemonic to anyone!**
 

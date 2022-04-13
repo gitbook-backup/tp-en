@@ -24,7 +24,7 @@
 
 1.Open the TokenPocket App, click the upper left corner to switch the wallet, then select Fantom, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/5 (3).png>)
+![](<../../.gitbook/assets/5 (3) (1).png>)
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Keystore import];
 

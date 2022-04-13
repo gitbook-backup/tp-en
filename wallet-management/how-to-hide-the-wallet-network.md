@@ -24,4 +24,4 @@
 
 6\. The hidden wallet can be found on \[Hidden Network] at the bottom of this page, click \[+] on the right, then you can unhide the Wallet.
 
-![](<../.gitbook/assets/6 (1).png>)
+![](<../.gitbook/assets/6 (1) (1).png>)

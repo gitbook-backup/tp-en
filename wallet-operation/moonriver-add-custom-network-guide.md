@@ -12,4 +12,4 @@
 
 You can click \[Add Wallet] to create/import/sync Moonriver wallet in the page of Assets.
 
-![](<../.gitbook/assets/3 (10).png>)
+![](<../.gitbook/assets/3 (10) (1).png>)
