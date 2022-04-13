@@ -220,6 +220,8 @@
 
 ## 💻 EXTENSION WALLET
 
+* [FAQ](extension-wallet/faq/README.md)
+  * [Basis introduction](extension-wallet/faq/basis-introduction.md)
 * [Privacy Policy](extension-wallet/privacy-policy.md)
 * [Extension Update](extension-wallet/update-log.md)
 * [Term Of Use](extension-wallet/term-of-use.md)
