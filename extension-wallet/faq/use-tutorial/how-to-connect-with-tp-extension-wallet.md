@@ -1,6 +1,6 @@
 # How to connect with TP Extension Wallet?
 
-1. Choose the wallet you need to connect, and then click <mark style="color:orange;">**\[Confirm]**</mark>, when the green light is on, it means that the site has been successfully connected with TokenPocket extension wallet.
+1. Choose the wallet you need to connect to, and then click <mark style="color:orange;">**\[Confirm]**</mark>, when the green light is on, it means that the site has been successfully connected with TokenPocket extension wallet.
 
 ![](<../../../.gitbook/assets/Group 29.png>)
 
