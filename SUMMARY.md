@@ -231,6 +231,10 @@
 * [Extension Update](extension-wallet/update-log.md)
 * [Term Of Use](extension-wallet/term-of-use.md)
 
+## ⚡ Transit Swap
+
+* [Token List Update](transit-swap/token-list-update.md)
+
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
