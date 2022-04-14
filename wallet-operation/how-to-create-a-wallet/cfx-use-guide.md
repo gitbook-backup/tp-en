@@ -18,7 +18,7 @@
 
 **How to import a Conflux eSpace Wallet in TokenPocket?**
 
-1\. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select KCC Mainnet, click <mark style="color:orange;">**\[Add Wallet]**</mark> and click <mark style="color:orange;">**\[Import Wallet]**</mark>; you can import your wallet by entering private key or secret recovery phrase.&#x20;
+1\. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select Conflux eSpace, click <mark style="color:orange;">**\[Add Wallet]**</mark> and click <mark style="color:orange;">**\[Import Wallet]**</mark>; you can import your wallet by entering private key or secret recovery phrase.&#x20;
 
 Take <mark style="color:orange;">**\[Recovery Phrase import]**</mark> as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement and click <mark style="color:orange;">**\[Import Wallet]**</mark>.
 
