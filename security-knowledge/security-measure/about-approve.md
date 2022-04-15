@@ -4,6 +4,8 @@
 
 Approve is to allow another account (It can be an ordinary personal account or a contract account), <mark style="color:red;">which can control your asset without your permission</mark>. Therefore, Approve is a very dangerous action.
 
+{% embed url="https://www.youtube.com/watch?v=iIvBlgOgjJA" %}
+
 **Why Approve?**
 
 Take ETH Network as an example, since ETH is a native asset, it will carry the ETH to the target contract when transferring to the target smart contract; when the non-native asset ERC20 token is transferred to the target contract, it only changes the ledger of ERC20 token itself but the target contract won’t receive any notification, so the approve is to inform the ERC20 token contract that an approval account can transfer my assets in the future. At the same time, Approve widely exists in ETH, BSC, HECO, TRON, Matic, OEC, Fantom, and all blockchain networks whose address formats are consistent with Ethereum (which is, EVM compatible public chain).
