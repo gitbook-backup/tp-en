@@ -131,7 +131,7 @@
 ## 🔩 wallet operation
 
 * [About NFT](wallet-operation/nft/README.md)
-  * [Page 1](wallet-operation/nft/NFT.md)
+  * [NFT skin design competition tutorial](wallet-operation/nft/NFT.md)
   * [NFT Application Specification](wallet-operation/nft-application-specification.md)
   * [How to set NFT Asset Card, Receive Background, and Avatar on TokenPocket?](wallet-operation/set-nft.md)
   * [NFT application description](wallet-operation/nft/nft-application.md)
