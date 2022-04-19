@@ -54,6 +54,6 @@
 
 3\. Click \[Synchronized Wallet] and click \[Synchronize]; at this point, the Fantom wallet network has been synchronized, and you can select Fantom to view it on the asset page.
 
-![](<../../.gitbook/assets/11 (1).png>)
+![](<../../.gitbook/assets/11 (1) (1).png>)
 
 **Attention: To ensure the safety of your** **assets, please do not disclose the mnemonic or private key to anyone!**

@@ -54,7 +54,7 @@ TokenPocket supports the highly anticipated Ethereum layer 2 platform, Arbitrum 
 
 2\. Click \[Create Wallet], and continue to click \[One-Step Sync];
 
-![](../../.gitbook/assets/11.png)
+![](<../../.gitbook/assets/11 (2).png>)
 
 3\. Tick \[Synchronized Wallet] and click \[Synchronize]; at this point, the Arbitrum wallet network has been synchronized, and you can select Arbitrum to view it on the asset page.
 
