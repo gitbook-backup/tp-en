@@ -22,3 +22,5 @@ Transit Swap Token List update: 9 trending tokens on KCC Mainnet and BNB Chain.&
 9\. [$SLP](https://twitter.com/search?q=%24SLP\&src=cashtag\_click) [@AxieInfinity](https://twitter.com/AxieInfinity)
 
 ![](<../../.gitbook/assets/Transit Swap New Listing.png>)
+
+<mark style="color:red;">**Disclaimer: This update has no investment advice.**</mark>&#x20;
