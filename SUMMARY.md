@@ -236,6 +236,7 @@
 ## ⚡ Transit Swap
 
 * [Token List Update](transit-swap/token-list-update/README.md)
+  * [Token List update (April 22, 2022)](transit-swap/token-list-update/token-list-update-april-22-2022.md)
   * [Token List update (April 15, 2022)](transit-swap/token-list-update/token-list-update-april-15-2022.md)
 
 ## 🪧 announcement
