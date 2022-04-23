@@ -12,7 +12,7 @@ TokenPocket Extension Wallet is an extension to connect the blockchain world to 
 
 ![](../../.gitbook/assets/WechatIMG373.png)
 
-4\. After adding TokenPocket Extension Wallet to the extended function in the chrome browser, click <mark style="color:orange;">**\[Get Started]**</mark>;
+3\. After adding TokenPocket Extension Wallet to the extended function in the chrome browser, click <mark style="color:orange;">**\[Get Started]**</mark>;
 
 ![](../../.gitbook/assets/WechatIMG298.png)
 
