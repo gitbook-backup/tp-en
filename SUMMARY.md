@@ -231,6 +231,7 @@
     * [How to SWAP on TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-swap-on-tp-extension-wallet.md)
 * [Privacy Policy](extension-wallet/privacy-policy.md)
 * [Extension Update](extension-wallet/update-log.md)
+* [TokenPocket Brand Upgrade](extension-wallet/Officially-Upgraded.md)
 * [Term Of Use](extension-wallet/term-of-use.md)
 
 ## ⚡ Transit Swap
