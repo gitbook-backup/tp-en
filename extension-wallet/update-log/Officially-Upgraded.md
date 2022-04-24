@@ -4,7 +4,7 @@ dfox Extension Wallet Announced Rebranding, Brand Name Officially Upgraded to&#x
 
 [**TokenPocket Extension Wallet**](https://extension.tokenpocket.pro/#/).
 
-![](../.gitbook/assets/dfox升级.png)
+![](../../.gitbook/assets/dfox升级.png)
 
 On April 24, 2022, dfox officially announced that the dfox Extension Wallet rebrand to [**TokenPocket Extension Wallet**](https://extension.tokenpocket.pro/#/).
 
