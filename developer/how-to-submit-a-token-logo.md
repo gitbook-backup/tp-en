@@ -122,7 +122,7 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 
 1. Open TokenPocket App, click \[Assets] on the bottom, choose TPT Token, and then click \[Transfer] to proceed.
 
-![](<../.gitbook/assets/1 (10).png>) ![](../.gitbook/assets/wechatimg10.png)&#x20;
+![](<../.gitbook/assets/1 (10).png>) <img src="../.gitbook/assets/wechatimg10.png" alt="" data-size="original">&#x20;
 
 2\. Click \[Transfer], enter receiving address and 30,000 TPT amount, Click \[Confirm] after choosing fee, and then click \[Transfer] after confirming the information.
 
@@ -209,7 +209,7 @@ Pull requests will be verified before being added to the Token repository. There
 
 ### **Disclaimer**&#x20;
 
-TokenPocket team allows anyone to submit a token request to this repository. But, this does not mean that we have direct partnerships with all of the projects. ‌ After careful review, if any scam or fraudulent projects are found, TokenPocket team will reject submissions. Due to the changing market conditions, risk of fraud or any other factors we deem relevant, TokenPocket team reserves the right to change the terms of submission at any time.
+TokenPocket team allows anyone to submit a token request to this repository. But, this does not mean that we have direct partnerships with all of the projects. ‌ After careful review, if any scam or fraudulent projects or strong-simulated projects are found, TokenPocket team will reject submissions. Due to the changing market conditions, risk of fraud or any other factors we deem relevant, TokenPocket team reserves the right to change the terms of submission at any time.
 
 **It is the only officially designated channel to submit the token logo**, and the TokenPocket team is not responsible for any fraud caused by the token logo submitted through other channels.
 
