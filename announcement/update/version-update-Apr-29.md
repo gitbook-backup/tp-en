@@ -4,7 +4,7 @@
 
 【Version Update】&#x20;
 
-&#x20; Android: 1.4.2
+&#x20; Android: 1.4.5
 
 &#x20; iOS: 1.8.2
 
