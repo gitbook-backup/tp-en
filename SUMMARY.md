@@ -273,5 +273,6 @@
 
 ## 📩 Contact Us <a href="#contract-us" id="contract-us"></a>
 
+* [Join us](contract-us/Joinus.md)
 * [Contact Us](contract-us/contact-methods.md)
 * [Judicial Assistance Policy](contract-us/judicial-assistance-policy.md)
