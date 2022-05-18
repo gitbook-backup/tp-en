@@ -243,6 +243,7 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
+  * [2022/05/18 TokenPocket technical service will be maintained and updated!](announcement/announcement/technical-service.md)
   * [2022/02/24 iOS New version will adjust some services.](announcement/announcement/2022-02-24-ios-new-version-will-adjust-some-services..md)
   * [2022/01/27 The service upgrade of TRON.](announcement/announcement/2022-01-27-the-service-upgrade-of-tron..md)
   * [2022/01/25 Klaytn node is being maintained.](announcement/announcement/2022-01-25-klaytn-node-is-being-maintained..md)
