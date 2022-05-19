@@ -1,6 +1,6 @@
 # How to Submit Tokens?
 
-1.Go to TokenPocket official website: [https://www.tokenpocket.pro/](https://www.tokenpocket.pro), click \[Submit Project] on the navigation bar, and then click \[Token];
+1.Go to TokenPocket official website: [https://www.tokenpocket.pro/](https://www.tokenpocket.pro/), click \[Submit Project] on the navigation bar, and then click \[Token];
 
 ![](<../.gitbook/assets/4 (11).png>)
 

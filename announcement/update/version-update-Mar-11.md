@@ -20,4 +20,4 @@ Android: 1.4.2\
 
 **【Version update method】‌**
 
-The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro))
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro/))

@@ -14,4 +14,4 @@
 
 **Follow us**
 
-[Official Website](https://www.tokenpocket.pro)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Telegram](https://t.me/tokenPocket_en)  |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://medium.com/@tokenpocket.gm)  [|](https://twitter.com/TokenPocket_TP)  [Github](https://twitter.com/TokenPocket_TP)
+[Official Website](https://www.tokenpocket.pro/)  |  [Facebook](https://www.facebook.com/TokenPocket)  |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com/)  |  [Twitter](https://medium.com/@tokenpocket.gm)  [|](https://twitter.com/TokenPocket\_TP)  [Github](https://twitter.com/TokenPocket\_TP)

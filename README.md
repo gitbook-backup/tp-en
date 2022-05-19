@@ -1,6 +1,6 @@
 # Introduction
 
-[TokenPocket](https://www.tokenpocket.pro) is the world’s leading multi-chain self-custodial wallet, which supports mainstream public chains including BTC, ETH, BSC, Polygon, Solana, HECO, Klaytn, Avalanche, Tron, OEC, HSC, Fantom, Polkadot, Kusama, EOS, etc. The trinity of [TokenPocket mobile wallet](https://tokenpocket.pro), [chrome extension wallet](https://extension.tokenpocket.pro/#/), and [hardware wallet](http://keypal.pro) has been formally formed. The Secret Recovery Phrase and Private Key are stored in the user’s own device and never upload to the server, so the user can fully control his own crypto assets. TokenPocket has provided reliable services for over 10 million users around the world. The number of monthly active users exceeds 3.5 million and the users are located in more than 200 countries around the world.
+[TokenPocket](https://www.tokenpocket.pro/) is the world’s leading multi-chain self-custodial wallet, which supports mainstream public chains including BTC, ETH, BSC, Polygon, Solana, HECO, Klaytn, Avalanche, Tron, OEC, HSC, Fantom, Polkadot, Kusama, EOS, etc. The trinity of [TokenPocket mobile wallet](https://tokenpocket.pro/), [chrome extension wallet](https://extension.tokenpocket.pro/#/), and [hardware wallet](http://keypal.pro/) has been formally formed. The Secret Recovery Phrase and Private Key are stored in the user’s own device and never upload to the server, so the user can fully control his own crypto assets. TokenPocket has provided reliable services for over 10 million users around the world. The number of monthly active users exceeds 3.5 million and the users are located in more than 200 countries around the world.
 
 :mobile\_phone:Available for 🍎[**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697) **and**🤖[**Android**](https://play.google.com/store/apps/details?id=vip.mytokenpocket)**.**
 
@@ -13,7 +13,7 @@
 * Service：service@tokenpocket.pro
 * Business：bd@tokenpocket.pro
 * Submit DApp：dapp@tokenpocket.pro
-* TokenPocket Fans：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro)
+* TokenPocket Fans：[https://fans.tokenpocket.pro/](https://fans.tokenpocket.pro/)
 
 **Developer**
 
@@ -24,5 +24,5 @@
 
 **Follow us**
 
-[Official Website](https://www.tokenpocket.pro)  |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com)  |  [Twitter](https://medium.com/@tokenpocket.gm)  |  [Github](https://help.tokenpocket.pro/en/) | [YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) |
+[Official Website](https://www.tokenpocket.pro/)  |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com/)  |  [Twitter](https://medium.com/@tokenpocket.gm)  |  [Github](https://help.tokenpocket.pro/en/) | [YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) |
 

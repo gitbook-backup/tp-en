@@ -1,6 +1,6 @@
 # How to SWAP on TP Extension Wallet?
 
-We have the New integration: [**Transit Swap**](https://swap.transit.finance), support for the same-chain transactions first.
+We have the New integration: [**Transit Swap**](https://swap.transit.finance/), support for the same-chain transactions first.
 
 1. Click <mark style="color:orange;">**\[Swap]**</mark> to enter the page of Transit Swap. Select the tokens you need to transfer from and the tokens you need to swap. Click <mark style="color:orange;">**\[Review swap]**</mark> to check the details.
 

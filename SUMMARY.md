@@ -212,6 +212,7 @@
   * [How to Cancel My Transaction?](transfer-tutorial/how-to-cancel-my-transaction.md)
   * [How to Transfer Assets to the Wallet/Exchange?](transfer-tutorial/how-to-transfer-assets-to-the-wallet-exchange.md)
   * [How to Receive My Assets ?](transfer-tutorial/how-to-receive-my-assets.md)
+* [TokenPocket Multi-chain Token Batch sender](transfer-tutorial/Token-BatchSender.md)
 
 ## 👨💻 DEVELOPER
 

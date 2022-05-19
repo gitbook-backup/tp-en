@@ -32,7 +32,7 @@ TokenPocket supports the highly anticipated Ethereum layer 2 platform, Arbitrum 
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Keystore import];
 
-![](<../../.gitbook/assets/7 (1) (1).png>)
+![](<../../.gitbook/assets/7 (1) (1) (1).png>)
 
 3\. Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet name], \[password], and click \[Service Regulations and Privacy clause];
 

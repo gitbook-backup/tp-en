@@ -40,7 +40,7 @@ There are many functions in pancakeswap, including【Swap】【Farm】【Staking
 
 
 
-4\. The transaction records on BSC cannot be displayed now, the recent version will be updated to support it. Users can click【More】to check through the block browser ([https://bscscan.com/](https://bscscan.com)).
+4\. The transaction records on BSC cannot be displayed now, the recent version will be updated to support it. Users can click【More】to check through the block browser ([https://bscscan.com/](https://bscscan.com/)).
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618902264918.png)
 

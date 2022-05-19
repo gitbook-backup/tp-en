@@ -1,6 +1,6 @@
 # MDEX on HECO Guide
 
-**About** [**MDEX**](https://mdex.com)****\
+**About** [**MDEX**](https://mdex.com/)****\
 ****A composite DeFi ecosystem that integrates DEX, IMO, and DAO. MDEX is a decentralized exchange and supports **BSC/HECO/ETH**, with many functions such as \[Swap], \[Farm], \[Bridge] and so on. And here is a tutorial based on HECO.
 
 **How to trade on MDEX through HECO**\

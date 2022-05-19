@@ -1,6 +1,6 @@
 # PancakeSwap on BSC Guide
 
-**About** [**PancakeSwap**](https://pancakeswap.info)\
+**About** [**PancakeSwap**](https://pancakeswap.info/)\
 PancakeSwap is a decentralized exchange on **Binance Smart Chain** with many functions such as \[Trade], \[Farm], \[Pools] and so on.
 
 **How to Trade on PancakeSwap?**\

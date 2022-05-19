@@ -29,7 +29,7 @@ If you didn't receive your assets when depositing tokens/coins from the exchange
 Tip: The essence of transfer from an exchange to a decentralized wallet is to transfer assets to the chain. So, if the assets haven’t arrived, it doesn’t mean that your assets are lost.&#x20;
 
 **Common Blockchain Explorers**\
-****[Ethereum](https://cn.etherscan.com)\
-[BscScan](https://bscscan.com)\
-[HecoInfo](https://hecoinfo.com)\
+****[Ethereum](https://cn.etherscan.com/)\
+[BscScan](https://bscscan.com/)\
+[HecoInfo](https://hecoinfo.com/)\
 [Tronscan](https://tronscan.io/#/)

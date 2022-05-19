@@ -20,7 +20,7 @@ Android 1.3.0
 
 **\[Version update method]**
 
-The upgrade is prompted in the App, or users can download the latest version from the [**official website**](https://www.tokenpocket.pro/en/download/app). (Note: The only official website of TokenPocket is: [www.tokenpocket.pro](http://www.tokenpocket.pro))
+The upgrade is prompted in the App, or users can download the latest version from the [**official website**](https://www.tokenpocket.pro/en/download/app). (Note: The only official website of TokenPocket is: [www.tokenpocket.pro](http://www.tokenpocket.pro/))
 
 **​**[\
 ](https://tphelp.gitbook.io/en/announcement/update)

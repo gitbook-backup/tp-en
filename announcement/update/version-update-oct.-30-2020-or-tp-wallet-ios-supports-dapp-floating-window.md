@@ -16,7 +16,7 @@ iOS pro/+/++ 3.1.2(63) plus 3.1.3(63)
 
 ## How to update <a href="#2150" id="2150"></a>
 
-Android: Update in-app；download APK in [www.tokenpocket.pro](http://www.tokenpocket.pro); get in Google Play
+Android: Update in-app；download APK in [www.tokenpocket.pro](http://www.tokenpocket.pro/); get in Google Play
 
 iOS: Download the TestFlight version in www.tokenpocket.pro; get in App Store.
 

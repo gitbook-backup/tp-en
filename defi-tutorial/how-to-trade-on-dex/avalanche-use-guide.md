@@ -14,7 +14,7 @@
 
 **Attention: Do not disclose the mnemonic to anyone!**
 
-![](<../../.gitbook/assets/3 (7).png>)
+![](<../../.gitbook/assets/3 (7) (1).png>)
 
 4\. Verify the mnemonic in order, and then click \[Confirm]. At this point, you have successfully created the Avalanche wallet.
 

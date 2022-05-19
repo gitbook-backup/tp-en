@@ -74,7 +74,7 @@ Background: transparent is recommanded.
 
 ![](../.gitbook/assets/如何自主更新代币图标？.png)
 
-* [TinyPNG 426](https://tinypng.com), to optimize the image size.
+* [TinyPNG 426](https://tinypng.com/), to optimize the image size.
 
 ![](../.gitbook/assets/2.jpg)
 
@@ -107,9 +107,9 @@ Note: Your request will not be allowed if there is wrong info or formate in your
 
 
 
-**3.** [**Checksum Address** ](https://docs.ethers.io/v5/api/utils/address/#:\~:text=If%20the%20case%20is%20mixed,will%20return%20a%20Checksum%20Address.)
+**3.** [**Checksum Address** ](https://docs.ethers.io/v5/api/utils/address/)
 
-For ERC20 tokens, you need to submit the checksum address that includes uppercase and lowercase characters. You can find the checksum address of a token by searching contract address on [Etherscan](https://etherscan.io). After searching, the checksum address will be shown in the upper left corner. For example, the checksum address of USDT is 0x6B175474E89094C44Da98b954 EedeAC495271d0F.
+For ERC20 tokens, you need to submit the checksum address that includes uppercase and lowercase characters. You can find the checksum address of a token by searching contract address on [Etherscan](https://etherscan.io/). After searching, the checksum address will be shown in the upper left corner. For example, the checksum address of USDT is 0x6B175474E89094C44Da98b954 EedeAC495271d0F.
 
 ![](../.gitbook/assets/ti-jiao-dai-bi-checksum.jpg)
 

@@ -24,7 +24,7 @@ Steps:&#x20;
 
 4\. Click on the newly added Fantom public chain and then select \[Create] or \[Import] to complete the quick addition and use of the custom network.
 
-![](<../../.gitbook/assets/2 (17).png>)
+![](<../../.gitbook/assets/2 (17) (1).png>)
 
 __
 

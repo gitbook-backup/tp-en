@@ -22,11 +22,11 @@ After creation, we only need to enter the wallet account in the process of SPL t
 
 1\. Enter the Solana Explorer
 
-[https://solscan.io/](https://solscan.io)
+[https://solscan.io/](https://solscan.io/)
 
-[http://solanabeach.io/](http://solanabeach.io)
+[http://solanabeach.io/](http://solanabeach.io/)
 
-[http://explorer.solana.com/](http://explorer.solana.com)
+[http://explorer.solana.com/](http://explorer.solana.com/)
 
 2\. Enter your wallet address and click \[SPL Token TXs], 「DESTINATION」will show the associated account of the transfer.
 

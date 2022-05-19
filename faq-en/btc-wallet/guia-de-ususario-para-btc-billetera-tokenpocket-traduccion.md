@@ -4,7 +4,7 @@ El texto a continuación contiene las preguntas y respuestas de la Guía de usua
 
 **¿De Dónde se toma el precio del BTC mostrado en la billetera de TokenPocket?**\
 \
-De acuerdo al sitio web de mercado CoinMarketCap ([https://coinmarketcap.com/](https://coinmarketcap.com)) con el precio del BTC presentado en tiempo real.\
+De acuerdo al sitio web de mercado CoinMarketCap ([https://coinmarketcap.com/](https://coinmarketcap.com/)) con el precio del BTC presentado en tiempo real.\
 \
 **¿Me dará intereses si deposito BTC en la billetera TokenPocket?**\
 \
@@ -143,7 +143,7 @@ La llave pública en La blockchain de Bitcoin se utiliza como una dirección de 
 \
 Si se pierde uno de los dos, el activo no se perderá. Los pasos para exportar la clave privada a través de la billetera TP son los siguientes: abra la billetera — haga clic en el espacio en blanco en la parte superior de la pantalla- seleccione exportar la llave privada en el menú emergente — ingresa la contraseña para la autorización para grabar y guardar la llave privada (el código qr es para una transferencia conveniente a través de diferentes dispositivos, asegúrate de usarlo en un entorno seguro).&#x20;
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (7) (1).png>)
 
 **¿Se deducirá la tarifa del minero si falla la transferencia de BTC?**\
 \
@@ -186,7 +186,7 @@ El principio técnico más utilizado para POW es la función hash. Dado que cual
 \
 **¿Cómo elegir la mejor tarifa de minero para bitcoin?**\
 \
-Cálculo de la tarifa de los mineros de Bitcoin: = Tarifas (satoshi/byte) \*Site (byte) (\* satoshi = sat, 1 bitcoin = 100 millones de satoshi), puede ir a [https://bitcoinfees.earn.com](https://bitcoinfees.earn.com) para ver los datos para obtener La mejor tarifa del minero.\
+Cálculo de la tarifa de los mineros de Bitcoin: = Tarifas (satoshi/byte) \*Site (byte) (\* satoshi = sat, 1 bitcoin = 100 millones de satoshi), puede ir a [https://bitcoinfees.earn.com](https://bitcoinfees.earn.com/) para ver los datos para obtener La mejor tarifa del minero.\
 Para los usuarios comunes, generalmente usamos la tarifa de minero recomendada por defecto en la billetera (como TokenPocket), por supuesto, también podemos activar de manera flexible el modo avanzado para realizar configuraciones gratuitas.\
 \
 **¿Puede la billetera TP recolectar bitcoins automáticamente?**\

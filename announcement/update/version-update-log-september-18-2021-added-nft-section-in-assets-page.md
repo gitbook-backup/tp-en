@@ -34,8 +34,8 @@ Click \[Send], enter the page of \[Transfer], enter the receiving address and ch
 
 Click the \[+] in the upper right corner, enter the page of \[Add Custom NFT], enter the contract address, and check the information, click \[Confirm]. At this point, you have added the custom NFT successfully.
 
-![](<../../.gitbook/assets/2 (17) (1).png>)
+![](<../../.gitbook/assets/2 (17) (1) (1).png>)
 
 **【Version update method】‌**
 
-The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro))
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro/))

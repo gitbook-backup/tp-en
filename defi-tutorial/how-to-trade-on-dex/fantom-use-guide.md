@@ -18,7 +18,7 @@
 
 4\. Verify the mnemonic in order, and then click \[Confirm]. At this point, you have successfully created the Fantom wallet.
 
-![](<../../.gitbook/assets/4 (7) (1).png>)
+![](<../../.gitbook/assets/4 (7) (1) (1).png>)
 
 **How to import a** **Fantom Wallet?**
 

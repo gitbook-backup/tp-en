@@ -6,4 +6,4 @@
 
 #### **NFT application description👇**
 
-[https://help.tokenpocket.pro/en/announcement/product/nft-application?utm\_source=tokenpocket](https://help.tokenpocket.pro/en/announcement/product/nft-application)
+[https://help.tokenpocket.pro/en/announcement/product/nft-application?utm\_source=tokenpocket](https://help.tokenpocket.pro/en/announcement/product/nft-application?utm\_source=tokenpocket)

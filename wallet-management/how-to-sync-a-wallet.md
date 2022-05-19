@@ -7,7 +7,7 @@ For example, if you've transferred USDT to Ethereum wallet address by HECO chain
 **Steps:**\
 ****1.Open TokenPocket App, click on \[Details]; (Take syncing ETH network to another network as an example)
 
-![](<../.gitbook/assets/1 (14).png>)
+![](<../.gitbook/assets/1 (14) (1).png>)
 
 2\. After entering the \[Wallet Details] page, click \[Wallet Sync];
 

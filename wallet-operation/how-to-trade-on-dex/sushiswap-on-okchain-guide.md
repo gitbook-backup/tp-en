@@ -1,6 +1,6 @@
 # SushiSwap on OKChain Guide
 
-**About** [**SushiSwap**](https://sushi.com)****
+**About** [**SushiSwap**](https://sushi.com/)****
 
 SushiSwap **** is a community-driven DeFi platform based on OKChain, with features of Swap, Pool, etc.
 

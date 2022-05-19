@@ -1,6 +1,6 @@
 # JustSwap on Tron Gudie
 
-**About** [**JustSwap**](https://just.network)****\
+**About** [**JustSwap**](https://just.network/)****\
 ****JustSwap is a TRON-based decentralized trading protocol for automated liquidity provision and an open financial market accessible to all. It holds many functions like Swap, LP Pools, etc.
 
 **How to Swap on JustSwap Through Tron?**

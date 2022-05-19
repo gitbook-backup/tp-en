@@ -1,6 +1,6 @@
 # Polygon (Matic) Use Guide
 
-**About** [**Polygon (Matic)**](https://polygon.technology)****
+**About** [**Polygon (Matic)**](https://polygon.technology/)****
 
 TokenPocket has supported Polygon mainnet (Matic before), so users can use Polygon through TokenPocket. Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
@@ -10,7 +10,7 @@ TokenPocket has supported Polygon mainnet (Matic before), so users can use Polyg
 
 1. Open TokenPocket App, click the wallet name in the upper left corner to switch wallet, choose \[Polygon], and then click \[Add Wallet];
 
-![](<../../.gitbook/assets/1 (14) (1).png>)
+![](<../../.gitbook/assets/1 (14) (1) (1).png>)
 
 2\. Click \[Create], and then click \[Create Wallet];
 
@@ -33,7 +33,7 @@ TokenPocket has supported Polygon mainnet (Matic before), so users can use Polyg
 **About** [**Polygon Bridge**](https://wallet.matic.network/bridge/)****\
 ****If you want to move funds from **Ethereum** to Polygon, you must go through the so-called "bridge", and the "bridge" works through a locking and exit mechanism. On Polygon, users can choose to use two types of bridges: **Plasma Bridge** and **PoS Bridge**. Plasma **** provides advanced security with plasma exit mechanism. It will take **7 days** to transfer your funds back to Etnereum, while the PoS security will only take about **3 hours** back to Etnereum since it is provided by the PoS validators.&#x20;
 
-**About** [**xPollinate**](https://www.xpollinate.io)****\
+**About** [**xPollinate**](https://www.xpollinate.io/)****\
 ****xPollinate supports the mutual transfer of funds among the Polygon, BSC, and xDAI, which means that users can move  assets from BSC to Polygon and xDAI. Currently, only stable tokens are supported.&#x20;
 
 The following are the detailed steps for Polygon Bridge and xPollinate:

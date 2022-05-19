@@ -22,4 +22,4 @@ Guide:[https://tphelp.gitbook.io/en/defi-tutorial/how-to-trade-on-dex/solana-use
 
 **【Version update method】‌**
 
-The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro))
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro/))

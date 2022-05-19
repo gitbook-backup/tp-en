@@ -41,8 +41,8 @@ Note: Even if the transaction fails, the paid Gas will not be refunded.
 **Attention:** Due to the irreversibility of blockchain transfers, TokenPocket cannot cancel or refund successful transactions. Only the recipient (Exchange) can help you retrieve the assets.
 
 **Common Blockchain Explorers**\
-****[Ethereum](https://cn.etherscan.com)\
-[BscScan](https://bscscan.com)\
-[HecoInfo](https://hecoinfo.com)\
+****[Ethereum](https://cn.etherscan.com/)\
+[BscScan](https://bscscan.com/)\
+[HecoInfo](https://hecoinfo.com/)\
 [Tronscan](https://tronscan.io/#/)
 

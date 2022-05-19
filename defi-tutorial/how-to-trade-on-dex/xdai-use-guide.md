@@ -24,7 +24,7 @@
 
 1. Open the TokenPocket App, click the upper left corner to switch the wallet, then select xDai, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/5 (7) (1).png>)
+![](<../../.gitbook/assets/5 (7) (1) (1).png>)
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Private Key];
 
@@ -42,7 +42,7 @@ Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet
 
 1\. Open the TokenPocket App, then select xDai, and click the upper right corner \[+];
 
-![](<../../.gitbook/assets/8 (2).png>)
+![](<../../.gitbook/assets/8 (2) (1).png>)
 
 2\. Click \[Create Wallet] and then click \[One-Step Sync];
 
