@@ -232,6 +232,7 @@
     * [How to SWAP on TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-swap-on-tp-extension-wallet.md)
 * [Privacy Policy](extension-wallet/privacy-policy.md)
 * [Extension Update](extension-wallet/update-log/README.md)
+  * [Version update log(May 20th, 2022)](extension-wallet/update-log/version-update-log-may-20th-2022.md)
   * [TokenPocket Brand Upgrade](extension-wallet/update-log/Officially-Upgraded.md)
 * [Term Of Use](extension-wallet/term-of-use.md)
 
