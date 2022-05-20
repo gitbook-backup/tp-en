@@ -8,7 +8,7 @@ There are two types of DEX. The first is an P2P exchange based on order books, w
 
 Although DEX are complete decentralization, transparency and openness, it also has the disadvantages of low transaction efficiency, small scale, etc.&#x20;
 
-Currently, the commonly used DEXs include Uniswap, PancakeSwap, MDEX, JustSwap, SushiSwap, and so on.
+Currently, the commonly used DEXs include Transit Swap、Uniswap, PancakeSwap, MDEX, JustSwap, SushiSwap, and so on.
 
 
 
