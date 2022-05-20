@@ -1,4 +1,4 @@
-# Version update log (December 31, 2021): Support KeyPal hardware wallet;
+# Version update log (December 31, 2021)
 
 **\[Version Update]**
 

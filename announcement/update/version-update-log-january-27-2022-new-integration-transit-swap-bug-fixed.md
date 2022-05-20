@@ -1,4 +1,4 @@
-# Version update log(January 27, 2022): New integration: Transit Swap;Bug fixed;
+# Version update log(January 27, 2022)
 
 **\[Version Update]**
 

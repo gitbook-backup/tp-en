@@ -1,4 +1,4 @@
-# 🔥 2022/05/18 TokenPocket technical service will be maintained and updated!
+# 2022/05/18 TokenPocket technical service will be maintained and updated!
 
 Dear TokenPocket users,
 

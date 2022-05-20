@@ -1,4 +1,4 @@
-# Version update log (November 5, 2021):Approve optimization; Wallet Connect optimization.
+# Version update log (November 5, 2021)
 
 **\[Version Update]**
 

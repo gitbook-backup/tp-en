@@ -1,4 +1,4 @@
-# Version update log (November 26, 2021):Support Cold wallet and Watch wallet on Solana;
+# Version update log (November 26, 2021)
 
 **\[Version Update]**
 
