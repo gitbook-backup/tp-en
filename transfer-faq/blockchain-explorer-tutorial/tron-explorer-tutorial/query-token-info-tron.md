@@ -8,4 +8,4 @@
 
 2\. The token details page includes basic information such as the token's total supply, token holders' addresses, contract address, decimals, official website, etc.
 
-![](<../../../.gitbook/assets/Group 18929 (1).png>)
+![](<../../../.gitbook/assets/Group 18929 (1) (1).png>)
