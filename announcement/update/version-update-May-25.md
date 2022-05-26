@@ -1,6 +1,6 @@
 # Version Update (May 25, 2022)
 
-【Version Update】
+**【Version Update】**
 
 &#x20; Android: 1.4.6
 
@@ -32,7 +32,7 @@
 
 2\. Optimize the NFT display and transfer page.
 
-![](<../../.gitbook/assets/Group 18929.png>)
+![](<../../.gitbook/assets/Group 18930.png>)
 
 **【Version update method】‌**
 
