@@ -14,4 +14,8 @@
 
 
 
-****
+**【Version update method】‌**
+
+1. Update from GooglePlay or AppStore
+
+&#x20; 2\. Update from Wallet application (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro/))

@@ -226,7 +226,7 @@
 ## 💻 EXTENSION WALLET
 
 * [FAQ](extension-wallet/faq/README.md)
-  * [Basis introduction](extension-wallet/faq/basis-introduction.md)
+  * [Basis introduction](extension-wallet/faq/basic-intro.md)
   * [Installation Tutorial](extension-wallet/faq/installation-tutorial.md)
   * [Use Tutorial](extension-wallet/faq/use-tutorial/README.md)
     * [How to import/create a wallet in TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
