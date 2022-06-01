@@ -249,7 +249,8 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🔥 May 20, 2022. The Polygon(Matic) chain will be upgraded.](announcement/announcement/May-20.md)
+  * [🔥 Jun 1, 2022. The Heco chain will be upgraded.](announcement/announcement/jun-1-2022.-the-heco-chain-will-be-upgraded..md)
+  * [May 20, 2022. The Polygon(Matic) chain will be upgraded.](announcement/announcement/May-20.md)
   * [May 18, 2022. TokenPocket technical service will be maintained and updated!](announcement/announcement/technical-service.md)
   * [Feb 24, 2022. iOS New version will adjust some services.](announcement/announcement/feb-24-2022.-ios-new-version-will-adjust-some-services..md)
   * [Jan 27, 2022. The service upgrade of TRON.](announcement/announcement/jan-27-2022.-the-service-upgrade-of-tron..md)
