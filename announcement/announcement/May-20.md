@@ -1,4 +1,4 @@
-# 🔥 May 20, 2022. The Polygon(Matic) chain will be upgraded.
+# May 20, 2022. The Polygon(Matic) chain will be upgraded.
 
 Dear TokenPocket users,
 
