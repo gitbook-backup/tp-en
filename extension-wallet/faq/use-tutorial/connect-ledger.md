@@ -4,7 +4,7 @@
 
 <mark style="color:red;">**The first way: Connect to the Ledger by webhid connection type.**</mark>
 
-1. Firstly, you need to enter the PIN code to verify your Ledger. Open TokenPocket extension wallet and click the upper left corner to enter the settings page, click **\[Connect Hareward Wallet]**.
+1. Firstly, you need to enter the PIN code to verify your Ledger. Open TokenPocket extension wallet and click the upper left corner button to enter the settings page, click **\[Connect Hareward Wallet]**.
 
 ![](<../../../.gitbook/assets/Group 18999.png>)
 
@@ -22,19 +22,19 @@
 
 <mark style="color:red;">**The second way: Connect to the Ledger by Ledger Live connection type.**</mark>
 
-**Attention: If you need to connect the Ledger to the TokenPocket extension wallet, please confirm that you have downloaded the Ledger live.**
+**Attention: If you need to connect the Ledger to the TokenPocket extension wallet, please confirm that you have downloaded the** [**Ledger live**](https://www.ledger.com/ledger-live)**.**
 
 
 
-1\. Open TokenPocket extension wallet and click the upper left corner to enter to the settings page, click **\[Settings]**, choose **\[Advanced],** and choose the Ledger Live connection type.
+1\. Open TokenPocket extension wallet and click the upper left corner to enter the settings page, click **\[Settings]**, choose **\[Advanced],** and choose the **Ledger Live connection type**.
 
 ![](<../../../.gitbook/assets/Group 19017.png>)
 
 2\. You need to enter the PIN code to verify your Ledger. Open TokenPocket extension wallet and click the upper left corner to enter the settings page, click **\[Connect Hareward Wallet]**.
 
+![](<../../../.gitbook/assets/Group 18999.png>)
 
-
-3\. Click **\[Ledger],** follow the steps to connect your Ledger to the computer, click **\[Connect]**.
+3\. Click **\[Ledger],** follow the steps to connect your Ledger to the computer, and click **\[Connect]**.
 
 ![](<../../../.gitbook/assets/Group 19019.png>)
 
