@@ -20,8 +20,24 @@
 
 ![](../../../.gitbook/assets/trezor3.png)
 
-5\. Choose the wallet you need to connect to the TokenPocket extension wallet and click **\[Unlock].**
+5\. Click <mark style="color:orange;">**【All once for this session】**</mark>
 
-&#x20;
+![](<../../../.gitbook/assets/t new1.png>)
 
-6\. At this point, you have successfully connected your Trezor to the TokenPocket extension wallet.
+6\. Click <mark style="color:orange;">**【Export】**</mark>
+
+![](<../../../.gitbook/assets/t new2.png>)
+
+7\. Generally, you don't need to enter the passphrase, click <mark style="color:orange;">【Enter】</mark>&#x20;
+
+![](<../../../.gitbook/assets/t new3.png>)
+
+
+
+8\. Choose the wallet you need to connect to the TokenPocket extension wallet and click <mark style="color:orange;">**\[Unlock]**</mark>**.**
+
+![](<../../../.gitbook/assets/Group 19014.png>)
+
+9\. At this point, you have successfully connected your Trezor to the TokenPocket extension wallet.
+
+![](<../../../.gitbook/assets/Group 19013.png>)
