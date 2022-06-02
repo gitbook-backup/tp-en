@@ -6,19 +6,19 @@
 
 1. Firstly, you need to enter the PIN code to verify your Ledger. Open TokenPocket extension wallet and click the upper left corner to enter the settings page, click **\[Connect Hareward Wallet]**.
 
-
+![](<../../../.gitbook/assets/Group 18999.png>)
 
 2\. Click **\[Ledger],** follow the steps to connect your Ledger to the computer, and click **\[Connect]**.
 
-
+![](<../../../.gitbook/assets/Group 18998.png>)
 
 3\. Choose the device that is connected to the computer and click **\[Connect]**.
 
+![](<../../../.gitbook/assets/l new1.png>)
 
+4\. Choose the wallet you need to connect to the TokenPocket extension wallet, and click **\[Unlock]**. At this point, you have successfully connected your Ledger to the TokenPocket extension wallet.
 
-4\. Choose the wallet you need to connect to the TokenPocket extension wallet, and click **\[Unlock]**. At this point, you have successfully connect your Ledger to the TokenPocket extension wallet.
-
-&#x20;
+![](<../../../.gitbook/assets/Group 19016.png>)
 
 <mark style="color:red;">**The second way: Connect to the Ledger by Ledger Live connection type.**</mark>
 
@@ -28,7 +28,7 @@
 
 1\. Open TokenPocket extension wallet and click the upper left corner to enter to the settings page, click **\[Settings]**, choose **\[Advanced],** and choose the Ledger Live connection type.
 
-
+![](<../../../.gitbook/assets/Group 19017.png>)
 
 2\. You need to enter the PIN code to verify your Ledger. Open TokenPocket extension wallet and click the upper left corner to enter the settings page, click **\[Connect Hareward Wallet]**.
 
@@ -36,16 +36,19 @@
 
 3\. Click **\[Ledger],** follow the steps to connect your Ledger to the computer, click **\[Connect]**.
 
+![](<../../../.gitbook/assets/Group 19019.png>)
 
+4\. Click<mark style="color:orange;">**【Open Ledger Live】**</mark>
 
-4.系统将会自动跳转至打开Ledger Live页面，点击【打开Ledger Live】。
+![](<../../../.gitbook/assets/l new2.png>)
 
-&#x20;
+5\. Click<mark style="color:orange;">**【Open】,**</mark> after it shows "Ethereum bridge opened", please return to the TokenPocket extension wallet.
 
-5.进入Ledger Live页面，点击【打开】；显示“已打开桥接”后，返回插件钱包页面。
+![](<../../../.gitbook/assets/l new3.png>)
 
-&#x20;&#x20;
-
-
+![](<../../../.gitbook/assets/l new 4.png>)
 
 6\. Choose the wallet you need to connect to the TokenPocket extension wallet and click **\[Unlock]**. At this point, you have successfully connected your Ledger to the TokenPocket extension wallet.
+
+![](<../../../.gitbook/assets/Group 19016.png>)
+
