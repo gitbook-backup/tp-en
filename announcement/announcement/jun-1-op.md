@@ -1,4 +1,4 @@
-# 🔥 Jun 1, 2022. The Optimism node will be maintained and upgraded.
+# Jun 1, 2022. The Optimism node will be maintained and upgraded.
 
 Dear TokenPocket users,
 
