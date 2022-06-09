@@ -10,7 +10,7 @@ Chrome: 1.1.3
 
 1. Support connect a Trezor or Ledger hardware wallet.
 2. Optimize the UI of the homepage.
-3. “Swap” supports KCC Mainnet, Conflux eSpace, and Moonbeam.
+3. “Swap” supports Optimism, KCC Mainnet, Conflux eSpace, and Moonbeam.
 4. Optimize users’ experience.
 
 
