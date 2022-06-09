@@ -235,10 +235,11 @@
     * [How to SWAP on TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-swap-on-tp-extension-wallet.md)
     * [How to connect Ledger?](extension-wallet/faq/use-tutorial/connect-ledger.md)
     * [How to connect Trezor?](extension-wallet/faq/use-tutorial/connect-trezor.md)
-* [Privacy Policy](extension-wallet/privacy-policy.md)
 * [Extension Update](extension-wallet/update-log/README.md)
-  * [Version update log(May 20th, 2022)](extension-wallet/update-log/version-update-log-may-20th-2022.md)
+  * [🆕 Version update log (Jun 8, 2022)](extension-wallet/update-log/Jun-8.md)
+  * [Version update log(May 20, 2022)](extension-wallet/update-log/version-update-log-may-20-2022.md)
   * [TokenPocket Brand Upgrade](extension-wallet/update-log/Officially-Upgraded.md)
+* [Privacy Policy](extension-wallet/privacy-policy.md)
 * [Term Of Use](extension-wallet/term-of-use.md)
 
 ## ⚡ Transit Swap
