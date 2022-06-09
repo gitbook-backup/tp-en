@@ -14,11 +14,13 @@ Android: 1.4.8
 
 2\. Optimize the data analysis of the DApps on TRON.
 
+3\. Fix the bugs of Android 8.0.
+
 &#x20;
 
 &#x20;**【Details】**
 
-How to set Dark Mode?
+**How to set Dark Mode?**
 
 1\. Open TokenPocket wallet, click 【Me】, and click the "Moon" button in the upper right corner to switch to the dark mode.
 
