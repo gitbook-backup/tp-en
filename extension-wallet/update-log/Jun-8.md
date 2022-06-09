@@ -29,7 +29,9 @@ Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/c
 
 **【Version update method】‌**
 
-1. The downloaded version from the [**Google Play Store**](https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii?hl=en-us) will be automatically updated after a while.
+1. The downloaded version from the [**Google Play Store**](https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii?hl=en-us) will be automatically updated after a while.&#x20;
+
+![](<../../.gitbook/assets/组 6.png>)
 
 2\. [**Download the latest installation package**](https://extension.tokenpocket.pro/#/) and add TokenPocket Extension Wallet to your extension installation.&#x20;
 
