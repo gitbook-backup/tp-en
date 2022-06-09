@@ -29,7 +29,7 @@ Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/c
 
 **【Version update method】‌**
 
-1. The downloaded version from the [**Google Play Store**](https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii?hl=en-us) will be automatically updated after a while.&#x20;
+1. The downloaded version from the [**Google Play Store**](https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii?hl=en-us) will be automatically updated after a while. Or you can directly update on the Extensions page.
 
 ![](<../../.gitbook/assets/组 6.png>)
 
