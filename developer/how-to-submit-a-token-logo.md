@@ -38,21 +38,21 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 
 
-### <mark style="color:red;">Attentions:</mark>&#x20;
+### <mark style="color:blue;">Attentions:</mark>&#x20;
 
-<mark style="color:red;">**1、You must attach the link of donation TPT transaction hash and verification transaction hash;**</mark>&#x20;
+<mark style="color:blue;">**1、You must attach the link of donation TPT transaction hash and verification transaction hash;**</mark>&#x20;
 
-<mark style="color:red;">**2、One GitHub account is not allowed to submit multiple logos;**</mark>&#x20;
+<mark style="color:blue;">**2、One GitHub account is not allowed to submit multiple logos;**</mark>&#x20;
 
-<mark style="color:red;">**3、The donation amount of TPT has been updated to 30,000;**</mark>&#x20;
+<mark style="color:red;">**3、The donation amount of TPT has been updated to 50,000**</mark>&#x20;
 
-<mark style="color:red;">**4、logo is only to enrich the token information, and does not guarantee the absolutely reliable ofthe token, nor does it mean any investment advice from TokenPocket, please pay attention tothe risks!**</mark>
+&#x20;      <mark style="color:blue;">****</mark>       [<mark style="color:red;">**view community proposals**</mark>](https://fans.tokenpocket.pro/t/topic/16905)      [<mark style="color:red;">**view vote results**</mark>](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)   <mark style="color:red;">**Effective from 00:00 on June 12, 2022**</mark>
 
-<mark style="color:red;">**5、Due to the openness of github, anyone can leave a message in the submitted order,so please don't believe any third-party person's message, beware of scams!**</mark>
+<mark style="color:blue;">**4、logo is only to enrich the token information, and does not guarantee the absolutely reliable ofthe token, nor does it mean any investment advice from TokenPocket, please pay attention tothe risks!**</mark>
 
-<mark style="color:red;">**The voting deadline is 20:00, Feb 26th, SGT. The new donation will be activated at 20:00, Feb 28th SGT。**</mark>
+<mark style="color:blue;">**5、Due to the openness of github, anyone can leave a message in the submitted order,so please don't believe any third-party person's message, beware of scams!**</mark>
 
-****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x781abc1ade2ebd082aec4f57b7199d472a2b2850b3df46c8ec37e3b6a1a243c2)****
+****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)****
 
 ### **Preparation**
 
@@ -118,13 +118,13 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 ****
 
 **Fees for Submissions**\
-****Please donate **30,000 TPT** when submitting a token logo to verify the legitimacy of your token address. Attention, the donation would not be returned. Please consider carefully before donating. Follow the steps below to prepare the required materials and complete the donation. (Take BSC wallet as an example here.)
+****Please donate **50,000 TPT** when submitting a token logo to verify the legitimacy of your token address. Attention, the donation would not be returned. Please consider carefully before donating. Follow the steps below to prepare the required materials and complete the donation. (Take BSC wallet as an example here.)
 
 1. Open TokenPocket App, click \[Assets] on the bottom, choose TPT Token, and then click \[Transfer] to proceed.
 
 ![](<../.gitbook/assets/1 (10).png>) <img src="../.gitbook/assets/wechatimg10.png" alt="" data-size="original">&#x20;
 
-2\. Click \[Transfer], enter receiving address and 30,000 TPT amount, Click \[Confirm] after choosing fee, and then click \[Transfer] after confirming the information.
+2\. Click \[Transfer], enter receiving address and **50,000** TPT amount, Click \[Confirm] after choosing fee, and then click \[Transfer] after confirming the information.
 
 **Note**: Receiving address is **0x7837AE9E4FD6E967F1B8C8824D6288ECE6e730F9** (Also can scan QR code below to get receiving address). **Only support to receive TPT in BSC, HECO, and Ethereum chain.** Please double confirm your transfer information!&#x20;
 
@@ -132,13 +132,13 @@ Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunSc
 
 ![](../.gitbook/assets/code.jpeg)
 
-3\. Back to \[Assets] after transferring 30,000 TPT successfully, choose BNB Token, click \[Transfer] to proceed.
+3\. Back to \[Assets] after transferring **50,000** TPT successfully, choose BNB Token, click \[Transfer] to proceed.
 
 ![](<../.gitbook/assets/1 (16).png>)
 
 4\. Enter receiving address (same as above) and 0 BNB ( If 0 BNB transfer is not supported, you can enter a very small amount and try it again), choose fees and then click \[Advanced] - \[Plain] in the bottom right corner to enter the text required on \[Chain Data] according to the format.
 
-(Format requirement: The chain of the Token submission - Smart contract of the Token submission - Transaction ID for 30,000 TPT. )\
+(Format requirement: The chain of the Token submission - Smart contract of the Token submission - Transaction ID for **50,000** TPT. )\
 For example: BSC - TPT - 0xeca41\*\*\*168a372c2b8645af45092 - [https://bscscan.com/tx/0xe\*\*\*a99411774b48d8c40a71fb35220b42fa505aa5dd](https://bscscan.com/tx/0xe6e7be7680ea438a36eb5463a99411774b48d8c40a71fb35220b42fa505aa5dd)
 
 ![](../.gitbook/assets/wechatimg18.png)
@@ -171,7 +171,7 @@ After completing the above information, you can add the token logo and informati
 
 5\. In the \[Commit changes] box: Fill up the Token information in the subject line and additional description you want to add in the content field, and then click \[Commit changes].
 
-**Note: **<mark style="color:red;">**Please add the 30,000 TPT transaction ID link in the content description and submit the verified TxHash in step4, otherwise it will not pass the review.**</mark>
+**Note: **<mark style="color:red;">**Please add the 50,000 TPT transaction ID link in the content description and submit the verified TxHash in step4, otherwise it will not pass the review.**</mark>
 
 ![](../.gitbook/assets/github5.jpg)
 
@@ -203,7 +203,7 @@ After completing the above information, you can add the token logo and informati
 
 Pull requests will be verified before being added to the Token repository. Therefore, please check whether the Token files you submitted meets the following requirements:‌&#x20;
 
-* Fees of 30,000 TPT are paid
+* Fees of **50,000** TPT are paid
 * Projects have no counterfeit or fraudulent behavior
 * Detailed token information&#x20;
 

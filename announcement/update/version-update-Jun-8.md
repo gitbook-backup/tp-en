@@ -4,7 +4,7 @@
 
 iOS: 1.8.4
 
-Android: 1.4.8
+Android: 1.4.9
 
 
 
