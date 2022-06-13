@@ -46,7 +46,7 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**3、The donation amount of TPT has been updated to 50,000**</mark>&#x20;
 
-&#x20;      <mark style="color:blue;">****</mark>       [<mark style="color:red;">**view community proposals**</mark>](https://fans.tokenpocket.pro/t/topic/16905)      [<mark style="color:red;">**view vote results**</mark>](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)   <mark style="color:red;">**Effective from 00:00 on June 12, 2022**</mark>
+&#x20;      <mark style="color:blue;">****</mark>       [<mark style="color:red;">**view community proposals**</mark>](https://fans.tokenpocket.pro/t/topic/16905)      [<mark style="color:red;">**view vote results**</mark>](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)   <mark style="color:red;">**Effective from 00:00 on June 13, 2022**</mark>
 
 <mark style="color:blue;">**4、logo is only to enrich the token information, and does not guarantee the absolutely reliable ofthe token, nor does it mean any investment advice from TokenPocket, please pay attention tothe risks!**</mark>
 
