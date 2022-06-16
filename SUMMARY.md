@@ -103,7 +103,7 @@
   * [What’s the path](faq-en/btc-wallet/path.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
-  * [About account permissions](<wallet-faq-en/tron-wallet/about account permissions.md>)
+  * [About account permissions](wallet-faq-en/tron-wallet/about-account-permissions.md)
 * [FTM Wallet](tutorial-series/ftm/README.md)
   * [Use TokenPocket wallet to participate in the operations of FTM mainnet](tutorial-series/ftm/use-tokenpocket-wallet-to-participate-in-the-operations-of-ftm-mainnet.md)
 * [Solana Wallet](faq-en/solana-wallet/README.md)
@@ -243,12 +243,6 @@
   * [TokenPocket Brand Upgrade](extension-wallet/update-log/Officially-Upgraded.md)
 * [Privacy Policy](extension-wallet/privacy-policy.md)
 * [Term Of Use](extension-wallet/term-of-use.md)
-
-## ⚡ Transit Swap
-
-* [Token List Update](transit-swap/token-list-update/README.md)
-  * [Token List update (April 22, 2022)](transit-swap/token-list-update/token-list-update-april-22-2022.md)
-  * [Token List update (April 15, 2022)](transit-swap/token-list-update/token-list-update-april-15-2022.md)
 
 ## 🪧 announcement
 
