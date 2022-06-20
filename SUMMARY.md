@@ -103,7 +103,7 @@
   * [What’s the path](faq-en/btc-wallet/path.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
-  * [About account permissions](wallet-faq-en/tron-wallet/about-account-permissions.md)
+  * [About TRON Account Privilege Escalation](wallet-faq-en/tron-wallet/permissions.md)
 * [FTM Wallet](tutorial-series/ftm/README.md)
   * [Use TokenPocket wallet to participate in the operations of FTM mainnet](tutorial-series/ftm/use-tokenpocket-wallet-to-participate-in-the-operations-of-ftm-mainnet.md)
 * [Solana Wallet](faq-en/solana-wallet/README.md)
