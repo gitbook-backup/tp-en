@@ -48,6 +48,7 @@
   * [What Is EIP-1559?](faq-en/eth-wallet/eip-1559.md)
   * [ETH 2.0 Staking Vault Service Agreement](faq-en/eth-wallet/eth-2.0-staking-vault-service-agreement.md)
   * [Eth2.0 Staking Vault Rules](faq-en/eth-wallet/eth2.0-staking-vault.md)
+  * [Eth2.0 Staking Nodes List](wallet-faq-en/eth-wallet/eth2.0-node-list.md)
   * [How to retrieve the previous ETH wallet?](faq-en/eth-wallet/how-to-retrieve-the-previous-eth-wallet.md)
   * [How to create ETH wallet?](faq-en/eth-wallet/how-to-create-eth-wallet.md)
   * [TokenPocket Gas Station User Agreement](faq-en/eth-wallet/tokenpocket-gas-station-user-agreement.md)
