@@ -2,7 +2,7 @@
 
 Privilege escalation means that your account privileges will change, generally adding an account address with the same privileges. Privilege escalation can allow this account to obtain control rights such as transfer and voting, thus easily transfer your assets.&#x20;
 
-So, when encountering such permission elevation prompts, be sure to stop approval and quit, and send the link to service@tokenpocket.pro.&#x20;
+<mark style="color:red;">**So, when encountering such permission elevation prompts, be sure to stop approval and quit**</mark>, and send the link to service@tokenpocket.pro.&#x20;
 
 ### <mark style="color:blue;">Knowledge extension:</mark>&#x20;
 
