@@ -26,6 +26,22 @@ As for security
 
 ### <mark style="color:blue;">MD5 and SHA256 parameters of the official wallet APK:</mark>
 
+<mark style="color:blue;">**Google Play**</mark>
+
+| Version |                MD5               |
+| :-----: | :------------------------------: |
+|  1.5.0  | a951c032f8723cc1711f0d3b3256725d |
+|  1.4.9  | 4b88e2ffa2b3d84fbc2f099e1034fb86 |
+|  1.4.7  | feab610e82a1ed694d24994487f3e38c |
+|  1.4.6  | 59dbdcd8b2f6580d81f519e555e2b5ec |
+
+| Version |                              SHA256                              |
+| :-----: | :--------------------------------------------------------------: |
+|  1.5.0  | c7f8b8a603d8725ba1df631cf03f2c63dc4c428b5ffe1f3ae3eec400bf3d121b |
+|  1.4.9  | 37b571b7644e456be7260e3d1d93ce59d9e38f694215c85e29e4a1476b6bf634 |
+|  1.4.7  | b023f39e496ac6a38cc0ef121470cc7c2142f393c75aea504bc8ab979285dffd |
+|  1.4.6  | e5255e4a709e05f3a4d35f3ae0c4bbef26a92b40b2e719b55f4b46fe54d3c8f7 |
+
 <mark style="color:blue;">****</mark>[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)<mark style="color:blue;">****</mark>
 
 | Version |                MD5               |
