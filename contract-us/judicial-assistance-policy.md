@@ -66,7 +66,9 @@ For issues not covered by this policy, please refer to the relevant laws and reg
 
 1\. The original copy of the notice of verification (the time range of the verification shall be stated, and the document shall be stamped with the official seal)
 
-2\. Copies of the police officer IDs of the two police officers (official seals are required and within the validity period)
+2\. Twritten decision of no case-filing
+
+3\. Copies of the police officer IDs of the two police officers (official seals are required and within the validity period)
 
 3\. The letter of commissioning notice should be titled: TP GLOBAL LTD
 
