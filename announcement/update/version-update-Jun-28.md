@@ -10,8 +10,6 @@ iOS: 1.8.5
 
 **【Version Update】**
 
-
-
 1. Support Unstoppable Domains and add the registration entry.
 2. Transit Swap supports ENS, .bit, and Unstoppable Domains on client.
 3. Add the security reminders.
