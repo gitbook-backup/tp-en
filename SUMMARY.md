@@ -226,6 +226,7 @@
 * [How to Submit Tokens?](developer/how-to-submit-a-token.md)
 * [How to submit NFT?](developer/submit-nft.md)
 * [How to Submit a Token Logo?](developer/how-to-submit-a-token-logo.md)
+* [How to Submit a NFT Logo](developer/nft.md)
 * [How to submit public chain?](developer/submit-public-chain.md)
 
 ## 💻 EXTENSION WALLET
