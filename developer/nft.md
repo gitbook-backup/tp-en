@@ -20,7 +20,7 @@ BSC：[<mark style="color:blue;">**https://github.com/TP-Lab/tokens/tree/master/
 
 <mark style="color:blue;">**5、Due to the openness of github, anyone can leave a message in the submitted order,so please don't believe any third-party person's message, beware of scams!**</mark>
 
-<mark style="color:blue;">**6、**</mark>
+<mark style="color:blue;">**6、If the NFT is not open source, it will affect the logo load and display of pictures in the NFT**</mark>
 
 ****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)<mark style="color:blue;">****</mark>
 
