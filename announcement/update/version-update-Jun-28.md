@@ -23,6 +23,32 @@ iOS: 1.8.5
 
 
 
+【Version Details】
+
+1. Support Unstoppable Domains and add the registration entry.
+
+![](../../.gitbook/assets/新版本en1.png)
+
+2\. Add the Markets entry on the page of Token Details.
+
+![](../../.gitbook/assets/新版本en7.png)
+
+3\. Add the gas price description on the TRON transfer page.
+
+![](../../.gitbook/assets/新版本en2.png)
+
+4\. Add the native token balance to the Assets Cards.
+
+![](../../.gitbook/assets/新版本en5.png)
+
+5\. Support setting Fixed Gas Fee.
+
+![](../../.gitbook/assets/新版本en6.png)
+
+6\. The NFT on Ethereum supports floor price display.
+
+![](../../.gitbook/assets/新版本en8.png)
+
 **【Version update method】‌**
 
 1. Update from GooglePlay or AppStore
