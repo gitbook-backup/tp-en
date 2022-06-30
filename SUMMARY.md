@@ -238,6 +238,7 @@
     * [How to import/create a wallet in TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
     * [How to connect with TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-connect-with-tp-extension-wallet.md)
     * [How to SWAP on TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-swap-on-tp-extension-wallet.md)
+    * [How to connect KeyPal?](extension-wallet/faq/use-tutorial/connect-keypal.md)
     * [How to connect Ledger?](extension-wallet/faq/use-tutorial/connect-ledger.md)
     * [How to connect Trezor?](extension-wallet/faq/use-tutorial/connect-trezor.md)
 * [Extension Update](extension-wallet/update-log/README.md)
