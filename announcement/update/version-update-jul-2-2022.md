@@ -1,16 +1,15 @@
-# Version Update (Jun 30, 2022)
+# Version Update (Jul 2, 2022)
 
 **【Version Update】**
 
-Android: 1.5.2
-
-iOS: 1.8.6
+Android: 1.5.3
 
 
 
 **【Version Update】**
 
-1. Update the signature verification of TRON's DApp.
+1. Optimize the UX of wallet list
+2. Experience optimization
 
 
 
