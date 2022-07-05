@@ -292,8 +292,8 @@
   * [Version Update (Oct. 30, 2020)](announcement/update/version-update-oct.-30-2020-or-tp-wallet-ios-supports-dapp-floating-window.md)
 * [TokenPocket Product Policy Adjustment Instructions](announcement/TokenPocket-product-policy-adjustment-instructions.md)
 
-## 📩 Contact Us <a href="#contract-us" id="contract-us"></a>
+## 📩 Contact Us
 
-* [Join us](contract-us/Joinus.md)
-* [Contact Us](contract-us/contact-methods.md)
-* [Judicial Assistance Policy](contract-us/judicial-assistance-policy.md)
+* [Join us](contact-us/Joinus.md)
+* [Contact Us](contact-us/contact-methods.md)
+* [Judicial Assistance Policy](contact-us/judicial-assistance-policy.md)
