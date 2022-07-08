@@ -145,6 +145,7 @@
   * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [How to Create a Wallet?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [HALO Use Guide](wallet-operation/how-to-create-a-wallet/halo-use-guide.md)
   * [GateChain(GT) Use Guide](wallet-operation/how-to-create-a-wallet/gt-use-guide.md)
   * [BitTorrent Use Guide](wallet-operation/how-to-create-a-wallet/bttc-use-guide.md)
   * [Conflux eSpace Use Guide](wallet-operation/how-to-create-a-wallet/cfx-use-guide.md)
@@ -294,6 +295,6 @@
 
 ## 📩 Contact Us
 
-* [Join us](contact-us/Joinus.md)
-* [Contact Us](contact-us/contact-methods.md)
-* [Judicial Assistance Policy](contact-us/judicial-assistance-policy.md)
+* [Join us](contract-us/Joinus.md)
+* [Contact Us](contract-us/contact-methods.md)
+* [Judicial Assistance Policy](contract-us/judicial-assistance-policy.md)
