@@ -1,8 +1,10 @@
-# Version Update (July 8, 2022)
+# Version Update (July 11, 2022)
 
 **【Version Update】**
 
 iOS: 1.8.7
+
+Android: 1.5.4
 
 
 
@@ -19,7 +21,7 @@ iOS: 1.8.7
 
 **【Version update method】‌**
 
-1. Update from GooglePlay or AppStore
+1. Update from GooglePlay(Under Review) or AppStore
 
 &#x20; 2\. Update from the Wallet application&#x20;
 
