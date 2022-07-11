@@ -254,6 +254,7 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
+  * [🔥 Jul 11, 2022. The klaytn had been maintained and upgraded.](announcement/announcement/klaytn.md)
   * [Jun 1, 2022. The Optimism node will be maintained and upgraded.](announcement/announcement/jun-1-op.md)
   * [Jun 1, 2022. The Heco chain will be upgraded.](announcement/announcement/jun-1-2022.-the-heco-chain-will-be-upgraded..md)
   * [May 20, 2022. The Polygon(Matic) chain will be upgraded.](announcement/announcement/May-20.md)
