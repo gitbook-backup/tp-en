@@ -14,7 +14,7 @@
 
 ![](<../../../.gitbook/assets/组 4.png>)
 
-2\. Click **\[Connect Hareward Wallet]**.
+2\. Click **\[Connect Hardware Wallet]**.
 
 ![](<../../../.gitbook/assets/组 71.png>)
 
