@@ -24,11 +24,17 @@
 
 ![](../../../.gitbook/assets/en2.png)
 
-4\. Select the account you want to connect to and click **\[Unlock]**.
+4\. Click **\[Allow once for this session]**, and click **\[Export]**.
+
+![](<../../../.gitbook/assets/100 (1).png>)
+
+![](<../../../.gitbook/assets/101 (1).png>)
+
+5\. Select the account you want to connect to and click **\[Unlock]**.
 
 ![](../../../.gitbook/assets/en5.png)
 
-5\. At this point, you've successfully connected to [<mark style="color:blue;">**KeyPal**</mark>](http://keypal.pro/).&#x20;
+6\. At this point, you've successfully connected to [<mark style="color:blue;">**KeyPal**</mark>](http://keypal.pro/).&#x20;
 
 ![](<../../../.gitbook/assets/组 84.png>)
 
