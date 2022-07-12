@@ -1,4 +1,4 @@
-# 🔥 Jul 11, 2022. The klaytn had been maintained and upgraded.
+# Jul 11, 2022. The klaytn had been maintained and upgraded.
 
 Dear TokenPocket users,\
 

@@ -1,4 +1,4 @@
-# Version update log(Feb 11, 2022)
+# Version update log(Feb 11th, 2022)
 
 **\[Version Update]**
 
