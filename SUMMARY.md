@@ -245,6 +245,7 @@
     * [How to connect to Trezor?](extension-wallet/faq/use-tutorial/connect-trezor.md)
     * [How to import/create a wallet in TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
 * [Extension Update](extension-wallet/update-log/README.md)
+  * [🆕 Version update log (Jul 13, 2022)](extension-wallet/update-log/jul-13.md)
   * [🆕 Version update log (Jun 8, 2022)](extension-wallet/update-log/Jun-8.md)
   * [Version update log(May 20, 2022)](extension-wallet/update-log/version-update-log-may-20th-2022.md)
   * [TokenPocket Brand Upgrade](extension-wallet/update-log/Officially-Upgraded.md)
