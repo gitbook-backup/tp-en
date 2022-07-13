@@ -14,6 +14,14 @@ Chrome: 1.1.4
 
 
 
+**【Details】**
+
+1. How to connect to KeyPal?
+
+[**Tutorial**](../faq/use-tutorial/connect-keypal.md)****
+
+****
+
 **【Version update method】‌**
 
 1. The downloaded version from the [**Google Play Store**](https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii?hl=en-us) will be automatically updated after a while. Or you can directly update on the Extensions page.
