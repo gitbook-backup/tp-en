@@ -14,27 +14,27 @@
 
 ![](<../../../.gitbook/assets/组 4.png>)
 
-2\. Click **\[Connect Hardware Wallet]**.
+4\. Click **\[Connect Hardware Wallet]**.
 
 ![](<../../../.gitbook/assets/组 71.png>)
 
-3\. Select **\[KeyPal]** and then, click **\[Connect]**.
+5\. Select **\[KeyPal]** and then, click **\[Connect]**.
 
 ![](../../../.gitbook/assets/en1.png)
 
 ![](../../../.gitbook/assets/en2.png)
 
-4\. Click **\[Allow once for this session]**, and click **\[Export]**.
+6\. Click **\[Allow once for this session]**, and click **\[Export]**.
 
 ![](<../../../.gitbook/assets/100 (1).png>)
 
 ![](<../../../.gitbook/assets/101 (1).png>)
 
-5\. Select the account you want to connect to and click **\[Unlock]**.
+7\. Select the account you want to connect to and click **\[Unlock]**.
 
 ![](../../../.gitbook/assets/en5.png)
 
-6\. At this point, you've successfully connected to [<mark style="color:blue;">**KeyPal**</mark>](http://keypal.pro/).&#x20;
+8\. At this point, you've successfully connected to [<mark style="color:blue;">**KeyPal**</mark>](http://keypal.pro/).&#x20;
 
 ![](<../../../.gitbook/assets/组 84.png>)
 
