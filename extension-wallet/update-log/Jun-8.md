@@ -1,4 +1,4 @@
-# 🆕 Version update log (Jun 8, 2022)
+# Version update log (Jun 8, 2022)
 
 **【Version Update】**&#x20;
 
