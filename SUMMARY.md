@@ -255,7 +255,8 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🔥 The TRON will be maintained and upgraded.](announcement/announcement/tron.md)
+  * [🔥 Jul 20th, 2022. The BSC and IOST had been maintained and upgraded.](announcement/announcement/bsc-iost.md)
+  * [Jul 12th, 2022. The TRON will be maintained and upgraded.](announcement/announcement/tron.md)
   * [Jul 11, 2022. The klaytn had been maintained and upgraded.](announcement/announcement/klaytn.md)
   * [Jun 1, 2022. The Optimism node will be maintained and upgraded.](announcement/announcement/jun-1-op.md)
   * [Jun 1, 2022. The Heco chain will be upgraded.](announcement/announcement/jun-1-2022.-the-heco-chain-will-be-upgraded..md)

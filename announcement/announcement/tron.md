@@ -1,4 +1,4 @@
-# 🔥 The TRON will be maintained and upgraded.
+# Jul 12th, 2022. The TRON will be maintained and upgraded.
 
 Dear TokenPocket users,
 
