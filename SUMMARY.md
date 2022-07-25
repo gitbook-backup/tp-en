@@ -14,6 +14,7 @@
 ## 🔐 Security Knowledge
 
 * [Security Measure](security-knowledge/security-measure/README.md)
+  * [Security Measure Common Fraud Cases](security-knowledge/security-measure/Token-Detection.md)
   * [How to verify whether the wallet is genuine](security-knowledge/security-measure/verify.md)
   * [How to verify the real TokenPocket on Google Play?](security-knowledge/security-measure/verify-android.md)
   * [How to verify the real TokenPocket on App Store?](security-knowledge/security-measure/verify-ios.md)
