@@ -146,6 +146,7 @@
   * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [How to Create a Wallet?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [ETC Use Guide](wallet-operation/how-to-create-a-wallet/etc-use-guide.md)
   * [HALO Use Guide](wallet-operation/how-to-create-a-wallet/halo-use-guide.md)
   * [GateChain(GT) Use Guide](wallet-operation/how-to-create-a-wallet/gt-use-guide.md)
   * [BitTorrent Use Guide](wallet-operation/how-to-create-a-wallet/bttc-use-guide.md)
