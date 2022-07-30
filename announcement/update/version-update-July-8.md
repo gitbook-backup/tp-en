@@ -2,22 +2,20 @@
 
 **【Version Update】**
 
-iOS: 1.8.8
+iOS: 1.8.7
 
-Android: 1.5.5
+Android: 1.5.4
 
 
 
 **【Version Update】**
 
-1. Add the token security information to the “Markets” page.
-2. Add the wallet password security reminder.
-3. Optimize the network display for creating an HD wallet.
-4. Unify the operation of HD wallet in hardware wallet and mobile wallet.
-5. Transit Swap supports displaying the trading discount on Android.
-6. Support setting “Pasteboard Authorization” on Android.
-7. Optimize the parsing of the customized NFTs.
-8. Fix bugs.
+1. Transit Swap supports MetaPath.
+2. The"Market" page adds the "Bridge” module.
+3. Transit Swap supports EIP-1559 Miner Fee Mode.
+4. Optimize the domains service, such as ENS, .bit, etc.
+5. Optimize users’ experience.
+6. Fix bugs.
 
 
 
