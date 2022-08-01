@@ -23,7 +23,7 @@ Android: 1.5.5
 
 **【Version update method】‌**
 
-1. Update from GooglePlay(Under Review) or AppStore
+1. Update from GooglePlay or AppStore
 
 &#x20; 2\. Update from the Wallet application&#x20;
 

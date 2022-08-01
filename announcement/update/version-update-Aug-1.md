@@ -2,7 +2,7 @@
 
 **【Version Update】**
 
-Android: 1.5.5
+Android: 1.5.6
 
 
 
