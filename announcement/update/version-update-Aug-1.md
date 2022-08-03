@@ -14,7 +14,7 @@ Fix launch crashes on some mobile models
 
 **【Version update method】‌**
 
-1. Update from GooglePlay(Under Review)
+1. Update from GooglePlay
 
 &#x20; 2\. Update from the Wallet application&#x20;
 
