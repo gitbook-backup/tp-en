@@ -1,4 +1,4 @@
-# 🔥 Jul 20th, 2022. The BSC and IOST had been maintained and upgraded.
+# Jul 20th, 2022. The BSC and IOST had been maintained and upgraded.
 
 Dear TokenPocket users,
 

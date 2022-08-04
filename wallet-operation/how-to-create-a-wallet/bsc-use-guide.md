@@ -8,7 +8,7 @@
 
 2\. Click <mark style="color:orange;">**\[Create Wallet]**</mark> again and set the wallet name and password, click the User Agreement, and click <mark style="color:orange;">**\[Create Wallet]**</mark>;
 
-![](<../../.gitbook/assets/ETC CN 2 (1).png>)
+![](<../../.gitbook/assets/ETC CN 2.png>)
 
 3\. Watch and learn the video content, click <mark style="color:orange;">**\[I got it]**</mark>, select the security tips, and click <mark style="color:orange;">**\[Next Step]**</mark>.&#x20;
 
@@ -46,7 +46,7 @@
 
 1\. Open the TokenPocket App, click the upper left corner to switch the wallet, then select BSC, and click <mark style="color:orange;">**\[Add Wallet]**</mark>; click <mark style="color:orange;">**\[Create Wallet]**</mark>, and continue to click <mark style="color:orange;">**\[One-Step Sync]**</mark>. Choose the wallet you want to sync and then click <mark style="color:orange;">**\[Synchronize]**</mark>.
 
-![](<../../.gitbook/assets/ETC EN 9.png>)
+![](<../../.gitbook/assets/ETC EN 9 (1).png>)
 
 2\. At this point, the BSC wallet has been synchronized, and you can select BSC to view it on the asset page.
 
