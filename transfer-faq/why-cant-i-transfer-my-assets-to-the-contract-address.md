@@ -4,10 +4,15 @@ A smart contract is a self-executing contract with the terms of the agreement wr
 
 Since the smart contract doesn’t have a private key, once transferred tokens to the contract address, they may never be returned. In addition, Some contracts have reserved codes that can transfer Tokens, and some people believe that this is a hidden danger left by anonymous project parties.
 
-Therefore, **please be sure to confirm whether the transfer is valid and double check your transfer information before transferring;**&#x20;
+Therefore, **please be sure to confirm whether the transfer is valid and double-check your transfer information before transferring;**&#x20;
 
 **Don't transfer tokens directly to the contract address!**&#x20;
 
 **Don't transfer tokens directly to the contract address!**&#x20;
 
 **Don't transfer tokens directly to the contract address!**
+
+<mark style="color:red;">**Please pay attention to the following reminder when you use or copy the contract address!**</mark>
+
+![](<../.gitbook/assets/合约地址 en.png>)
+
