@@ -16,6 +16,7 @@
 * [Security Measure](security-knowledge/security-measure/README.md)
   * [Token Security Detection Function Use Guide](security-knowledge/security-measure/Token-Detection.md)
   * [Keep your Recovery Phrase and Private Key safe!](security-knowledge/security-measure/phrase-key.md)
+  * [Pay attention to the tokens and links marked as risky!](security-knowledge/security-measure/risky-token-link.md)
   * [How to verify whether the wallet is genuine](security-knowledge/security-measure/verify.md)
   * [How to verify the real TokenPocket on Google Play?](security-knowledge/security-measure/verify-android.md)
   * [How to verify the real TokenPocket on App Store?](security-knowledge/security-measure/verify-ios.md)
