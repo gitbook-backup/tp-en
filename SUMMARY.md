@@ -188,6 +188,7 @@
   * [How to Delete Tokens?](token-management/how-to-delete-tokens.md)
   * [How to manage My NFT assets?](wallet-management/how-to-manage-my-nft-assets.md)
 * [Wallet Management](wallet-management/wallet-management/README.md)
+  * [How to use Widgets](wallet-management/wallet-management/Widgets.md)
   * [How to hide the Wallet?](wallet-management/how-to-hide-the-wallet-network.md)
   * [How to Create a Wallet?](wallet-management/how-to-create-a-wallet.md)
   * [How to Import a Wallet?](wallet-management/how-to-import-a-wallet.md)
