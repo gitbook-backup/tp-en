@@ -1,4 +1,4 @@
-# Version update log (June 11, 2021):Support Klaytn, Upgrade Polkadot & Kusama
+# Version update log (June 11th, 2021)
 
 **\[Details of version update]**&#x20;
 
@@ -34,4 +34,4 @@ The upgrade is prompted in the App, or users can download the latest version fro
 
 Support the Klaytn, all users can import or create Klaytn wallet through TokenPocket.
 
-![](<../../.gitbook/assets/2 (10).png>)
+![](<../../.gitbook/assets/2 (10) (1).png>)
