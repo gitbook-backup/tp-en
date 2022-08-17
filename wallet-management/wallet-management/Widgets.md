@@ -8,7 +8,7 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 
 ### <mark style="color:orange;">How to set Widget</mark>
 
-**1、**Open TokenPocket, and click “Details”, then press the “Set Skin” menu in the upper right corner.
+1、Open TokenPocket, and click “Details”, then press the “Set Skin” menu in the upper right corner.
 
 ![](../../.gitbook/assets/1.png)
 
