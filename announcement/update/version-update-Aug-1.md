@@ -1,21 +1,26 @@
-# Version Update (Aug 1th, 2022)
+# Version Update (Aug 18th, 2022)
 
 **【Version Update】**
 
-Android: 1.5.6
+Android: 1.5.7
 
 
 
 **【Version Update】**
 
-Fix launch crashes on some mobile models
+
+
+1. Support Widget function.
+2. Transit Swap supports Celer Bridge.
+3. Optimize the display of pending records.
+4. Support Transit Explorer.
+5. Optimize the loading problem of DApps on Android.
+6. Optimize users’ experience.
 
 
 
 **【Version update method】‌**
 
-1. Update from GooglePlay
-
-&#x20; 2\. Update from the Wallet application&#x20;
+&#x20; 1\. Update from the Wallet application&#x20;
 
 **(Note: The only official website of TokenPocket is:** [**https://tokenpocket.pro/**](https://tokenpocket.pro/)**)**
