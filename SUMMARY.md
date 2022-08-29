@@ -263,7 +263,8 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🔥 Aug 4th, 2022. The Polygon(Matic) is being maintained and upgraded.](announcement/announcement/matic.md)
+  * [🔥 Aug 29th, TokenPocket wallet is being maintained and upgraded.](announcement/announcement/aug-29.md)
+  * [Aug 4th, 2022. The Polygon(Matic) is being maintained and upgraded.](announcement/announcement/matic.md)
   * [Jul 20th, 2022. The BSC and IOST had been maintained and upgraded.](announcement/announcement/bsc-iost.md)
   * [Jul 12th, 2022. The TRON will be maintained and upgraded.](announcement/announcement/tron.md)
   * [Jul 11th, 2022. The klaytn had been maintained and upgraded.](announcement/announcement/klaytn.md)
