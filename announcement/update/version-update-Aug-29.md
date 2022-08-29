@@ -2,15 +2,13 @@
 
 **【Version Update】**
 
-&#x20;Android: 1.5.8
-
 &#x20;iOS: 1.9.0
+
+&#x20;Android: 1.5.8
 
 
 
 **【Version Update】**
-
-
 
 1. Add indicators to the Markets page.
 2. Support the sharing of the Markets page.
