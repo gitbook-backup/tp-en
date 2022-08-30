@@ -2,7 +2,7 @@
 
 **【Version Update】**&#x20;
 
-Chrome: 1.1.6 （Being reviewed）
+Chrome: 1.1.6&#x20;
 
 
 
