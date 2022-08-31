@@ -1,4 +1,4 @@
-# 🔥 Aug 29th, TokenPocket wallet is being maintained and upgraded.
+# Aug 29th, TokenPocket wallet is being maintained and upgraded.
 
 Dear TokenPocket users,
 
