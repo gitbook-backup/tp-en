@@ -1,4 +1,4 @@
-# 🔥 Aug 4th, 2022. The Polygon(Matic) is being maintained and upgraded.
+# Aug 4th, 2022. The Polygon(Matic) is being maintained and upgraded.
 
 Dear TokenPocket users,
 
