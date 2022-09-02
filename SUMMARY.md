@@ -11,6 +11,10 @@
 * [What Is DeFi ?](defi-tutorial/what-is-defi.md)
 * [What Is DEX ?](defi-tutorial/what-is-dex.md)
 * [What is a cold wallet](blockchain-basics/Cold-Wallet.md)
+* [What is a hot wallet](blockchain-basics/Hot-Wallet.md)
+* [What is a watch wallet?](blockchain-basics/Watch-the-wallet.md)
+* [What is a multi-sig wallet?](blockchain-basics/Multisig.md)
+* [What is a hardware wallet](blockchain-basics/Hardware-Wallet.md)
 
 ## 🔐 Security Knowledge
 
