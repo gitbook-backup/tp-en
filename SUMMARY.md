@@ -10,6 +10,7 @@
 * [What Is the Miner Fee?](blockchain-basics/what-is-the-miner-fee.md)
 * [What Is DeFi ?](defi-tutorial/what-is-defi.md)
 * [What Is DEX ?](defi-tutorial/what-is-dex.md)
+* [What is a cold wallet](blockchain-basics/Cold-Wallet.md)
 
 ## 🔐 Security Knowledge
 
