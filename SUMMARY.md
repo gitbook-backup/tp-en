@@ -15,6 +15,7 @@
 * [What is a watch wallet?](blockchain-basics/Watch-the-wallet.md)
 * [What is a multi-sig wallet?](blockchain-basics/Multisig.md)
 * [What is a hardware wallet](blockchain-basics/Hardware-Wallet.md)
+* [What is an extension wallet?](blockchain-basics/Plug-in.md)
 
 ## 🔐 Security Knowledge
 
