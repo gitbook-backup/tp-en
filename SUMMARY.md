@@ -32,6 +32,7 @@
   * [Loss Prevention](fraud-prevention/loss-prevention.md)
   * [Theft Prevention](fraud-prevention/theft-prevention.md)
 * [Common Fraud Cases](security-knowledge/common-fraud-cases/README.md)
+  * [Prevent a new type of token transfer scam](security-knowledge/common-fraud-cases/New-scams.md)
   * [Free Recovery Phrase Scam](security-knowledge/common-fraud-cases/tron-phishing-wallet.md)
   * [Fake Airdrop/Giveaway Scam](security-knowledge/common-fraud-cases/fake-airdrop-giveaway-scam.md)
   * [Fake QR Code Scam](security-knowledge/common-fraud-cases/fake-qr-code-scam.md)
