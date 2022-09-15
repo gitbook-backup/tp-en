@@ -1,4 +1,4 @@
-# 🔥 Sept 12th. About the Ethereum Merge.
+# Sept 12th. About the Ethereum Merge.
 
 TokenPocket will support the Ethereum Merge at 11 PM UTC, Sept 14th, 2022. To ensure your assets‘ security, we recommend that you don’t execute the transfer, stake, and other operations on Ethereum. For users who need to execute the transfer operation, we recommended that you complete the transfer operation before Sept 15th.
 
