@@ -27,3 +27,17 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 5、The TokenPocket plug-in supports the display of NFT, price, gas and other contents. Click the widget to quickly call the corresponding function. The content of the market display here can be flexibly set in the wallet's market favorites.
 
 ![](<../../.gitbook/assets/5 (1).png>)
+
+### <mark style="color:orange;">iOS Settings Widget</mark>
+
+1、Open the mobile phone screen and swipe right to enter the widget interface, select the"Edit" function at the bottom, and click"+"in the upper right corner to add a widget.
+
+<figure><img src="../../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+
+2、In the "Add" page, you can directly search for TokenPocket or pull down the bottom to find it. Open and swipe left to view the 8 supported display functions. (The market display part is not available for some regions)
+
+<figure><img src="../../.gitbook/assets/22 (2).png" alt=""><figcaption></figcaption></figure>
+
+3、When it is done, you can view and click to use related functions in the widget page. The widget setting is the same for iOS and Android.
+
+<figure><img src="../../.gitbook/assets/33 (2).png" alt=""><figcaption></figcaption></figure>

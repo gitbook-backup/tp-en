@@ -1,4 +1,4 @@
-# 🔥 Aug 31st, Arbitrum will launch the Nitro technical upgrade.
+# Aug 31st, Arbitrum will launch the Nitro technical upgrade.
 
 Dear TokenPocket users,
 
