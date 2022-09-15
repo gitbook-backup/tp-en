@@ -4,6 +4,8 @@
 
 :mobile\_phone:Available for 🍎[**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697) **and**🤖[**Android**](https://play.google.com/store/apps/details?id=vip.mytokenpocket)**.**
 
+💻 Available for [**Chrome Extension**](https://extension.tokenpocket.pro/#/)****
+
 ![](.gitbook/assets/tp.png)
 
 **Contact us:**
