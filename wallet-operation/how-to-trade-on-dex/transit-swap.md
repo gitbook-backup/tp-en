@@ -27,7 +27,7 @@ Note: The receiving address is the current connecting wallet address by default.
 
 Note: If the current public chain network is congested, you can custom the miner fee to speed up the transaction.
 
-![](<../../.gitbook/assets/5 (2).png>)
+![](../../.gitbook/assets/5.png)
 
 4\. You can check history records by pulling down to the bottom after completing the swap operation, and delete the swap records or refresh the status on the right side of the \[History].
 
