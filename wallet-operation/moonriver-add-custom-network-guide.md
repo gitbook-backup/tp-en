@@ -2,7 +2,7 @@
 
 1\. Open TokenPocket APP, click the \[Wallet] pattern in the upper right corner, enter the page of \[Add Block] and pull to the bottom, click \[Add custom network];
 
-![](<../.gitbook/assets/1 (26).png>)
+![](<../.gitbook/assets/1 (26) (1).png>)
 
 2\. Click \[Easy add], and search the \[Moonriver], then the system will display the Moonriver Network，click \[Moonriver];
 

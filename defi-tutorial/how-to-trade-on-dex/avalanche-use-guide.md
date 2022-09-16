@@ -42,7 +42,7 @@ Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet
 
 1\. Open the TokenPocket App, click the upper right corner to switch the wallet, then select Avalanche, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/5 (2) (2).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
 2\. Click \[One-Step Sync];
 

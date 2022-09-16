@@ -48,7 +48,7 @@ Paso 1: en la página “activos”, selecciona “crear billetera” y luego se
 Paso 2: selecciona “crear billetera”.\
 Paso 3: coloca el nombre de la billetera tú mismo, crea una contraseña de 8 dígitos y letras, y luego haz clic en “crear billetera”.
 
-![](<../../.gitbook/assets/3 (13).png>)
+![](<../../.gitbook/assets/3 (13) (2).png>)
 
 Paso 4: haga clic en “Entiendo”.\
 Paso 5: haz una copia de seguridad de tus palabras mnemónicas, preferiblemente en un lugar sin cámara, e imprímelos para guardarlos. Las capturas de pantalla son fáciles de perder, la preservación física es la más segura. Haz clic en “siguiente paso” después de la copia de seguridad.\
@@ -78,7 +78,7 @@ Paso 1: en la página de lista de billeteras, haz clic en el engranaje (para ir 
 Paso 2: en la página de detalles de la billetera, selecciona modificar contraseña.\
 Paso 3: si recuerdas tu contraseña anterior, puedes cambiarla directamente.&#x20;
 
-![](<../../.gitbook/assets/3 (13).png>)
+![](<../../.gitbook/assets/3 (13) (2).png>)
 
 **¿Qué pasa si pierdes tu contraseña en tu billetera bitcoin?**\
 \

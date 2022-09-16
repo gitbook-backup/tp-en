@@ -15,7 +15,7 @@ Transit Swap will open up the cross-chain liquidity channel of mainstream public
 **Tutorial**\
 ****1.Search \[Transit Swap] in \[Discover] page after you open TokenPocket, select a wallet to connect by clicking the button in the upper right corner, and then select the swap token and receiving token. (Use BNB to swap TPT in BSC wallet as an example here)
 
-![](<../../.gitbook/assets/1 (1).png>)
+![](<../../.gitbook/assets/1 (1) (2).png>)
 
 2\. Set the swap amount (Enough miner fee is required), and then the receiving amount will be automatically calculated, click on \[Confirm Swap] to proceed. After that, detailed information will be shown below. (A certain fee will be charged for using aggregator)
 
@@ -27,7 +27,7 @@ Note: The receiving address is the current connecting wallet address by default.
 
 Note: If the current public chain network is congested, you can custom the miner fee to speed up the transaction.
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (6).png>)
 
 4\. You can check history records by pulling down to the bottom after completing the swap operation, and delete the swap records or refresh the status on the right side of the \[History].
 

@@ -4,7 +4,7 @@
 
 Reminder: In general, only coins such as ETH, BNB, HT and so on can be added memo. But tokens on EOS and IOST chain also can do that.
 
-![](<../.gitbook/assets/1 (13) (1).png>)
+![](<../.gitbook/assets/1 (13).png>)
 
 
 

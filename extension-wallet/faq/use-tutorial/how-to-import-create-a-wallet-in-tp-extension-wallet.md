@@ -20,11 +20,11 @@
 
 1\. If you **don’t have a wallet** before, click <mark style="color:orange;">**\[Create a wallet]**</mark>;
 
-![](<../../../.gitbook/assets/4 (8) (2).png>)
+![](<../../../.gitbook/assets/4 (8).png>)
 
 2\. Enter your new password, click<mark style="color:orange;">**\[Create];**</mark>
 
-![](<../../../.gitbook/assets/5 (3) (2).png>)
+![](<../../../.gitbook/assets/5 (3).png>)
 
 3\. After watching the video and understanding the security points of Secret Recovery Phrase , click <mark style="color:orange;">**\[Unferstood, next]**</mark>;
 

@@ -43,7 +43,7 @@ Entering the website can automatically call the TokenPocket extension, then choo
 
 choose the token you want to transfer, click the list to see the tokens you hold, and you can also directly enter the contract address to set up. CSV files can be uploaded on the PC, so you can import the prepared addresses and amount quickly. The notes at the bottom should also not be ignored.
 
-![](<../.gitbook/assets/4 (7).png>)
+![](<../.gitbook/assets/4 (7) (2).png>)
 
 If you use it for the first time, you can download the template to edit, then click “Upload File” to load it.
 
