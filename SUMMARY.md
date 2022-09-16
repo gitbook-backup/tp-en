@@ -156,6 +156,7 @@
   * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [How to Create a Wallet?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [EthereumFair (ETF) User Guide](wallet-operation/how-to-create-a-wallet/ETF.md)
   * [Arbitrum Nova Use Guide](wallet-operation/how-to-create-a-wallet/arb-nova.md)
   * [ETC Use Guide](wallet-operation/how-to-create-a-wallet/etc-use-guide.md)
   * [HALO Use Guide](wallet-operation/how-to-create-a-wallet/halo-use-guide.md)
@@ -271,7 +272,7 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🔥 The Merge is over!](announcement/announcement/merge-over.md)
+  * [🔥 Sept 15th. The Merge is over!](announcement/announcement/merge-over.md)
   * [Sept 12th. About the Ethereum Merge.](announcement/announcement/merge.md)
   * [Aug 31st, Arbitrum will launch the Nitro technical upgrade.](announcement/announcement/aug-31.md)
   * [Aug 29th, TokenPocket wallet is being maintained and upgraded.](announcement/announcement/aug-29.md)

@@ -24,7 +24,7 @@ TokenPocket has supported Polygon mainnet (Matic before), so users can use Polyg
 
 4\. Now, you need to fill in order your mnemonic to verify, and then click \[Confirm]. At this moment, you have created Polygon (Matic) successfully !
 
-![](<../../.gitbook/assets/4 (8) (1).png>)
+![](<../../.gitbook/assets/4 (8) (1) (1).png>)
 
 
 

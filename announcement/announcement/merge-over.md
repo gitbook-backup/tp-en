@@ -1,4 +1,4 @@
-# 🔥 The Merge is over!
+# 🔥 Sept 15th. The Merge is over!
 
 **The Merge is over. From now on, all the users can execute the transfer and stake on Ethereum and all the functions are back to normal now！**
 

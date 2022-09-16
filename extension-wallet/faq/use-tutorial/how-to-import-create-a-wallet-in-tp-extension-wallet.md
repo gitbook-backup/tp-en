@@ -20,7 +20,7 @@
 
 1\. If you **don’t have a wallet** before, click <mark style="color:orange;">**\[Create a wallet]**</mark>;
 
-![](<../../../.gitbook/assets/4 (8).png>)
+![](<../../../.gitbook/assets/4 (8) (1).png>)
 
 2\. Enter your new password, click<mark style="color:orange;">**\[Create];**</mark>
 
