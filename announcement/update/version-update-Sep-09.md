@@ -1,8 +1,10 @@
 # Version Update (Sep 9th, 2022)
 
-**【Version Update】**
+**【The Latest Version】**
 
 &#x20;Android: 1.5.9
+
+iOS: 1.9.0
 
 
 
