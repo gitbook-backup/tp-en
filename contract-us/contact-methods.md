@@ -3,7 +3,7 @@
 **Email**
 
 * Service：service@tokenpocket.pro
-* Bussniss：bd@tokenpocket.pro
+* Business：bd@tokenpocket.pro
 * Submit DApp：dapp@tokenpocket.pro
 
 **Developer**
