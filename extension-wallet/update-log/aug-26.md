@@ -2,7 +2,7 @@
 
 **【Version Update】**&#x20;
 
-Chrome: 1.1.7
+Chrome: 1.1.8
 
 
 

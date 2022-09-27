@@ -8,11 +8,11 @@ The usage of CoinTool tool: The use of CoinTool is very simple, adapting to PC a
 
 2\. When open the DApp at the first time, you will need to \[Unlock Wallet], here you only need to click to unlock the wallet to automatically connect. The address of the search window will open the DApp wallet address by default, and click the "→" arrow to scan the authorization record.
 
-![](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615531421668.png)
+![](../../.gitbook/assets/tokenpocket-1615531421668.png)
 
 3\. After viewing the authorization result, one thing to note here is that DApp will show that “please CoinTool. App Have a cup of coffee (0.09BNB)”. This is according to the user's own situation to choose. For example, I just unchecked it. In the search result interface, you can see that the authorization has been executed. The number of authorizations here is large and unlimited, so the risk is relatively high by default (not necessarily that the project has a high risk); click \[Revoke] to pop up the authorization window to complete the authorization.
 
-![](https://tp-statics.tokenpocket.pro/dapp/tokenpocket-1615531514663.png)
+![](../../.gitbook/assets/tokenpocket-1615531514663.png)
 
 4\. After the cancellation is successful, you will see the top prompt. In order to verify whether the execution is successful, we will use the TPT tokens that have just been canceled to verify. As shown in the figure below, you can see the \[Approve TPT option], indicating that the cancellation of the authorization is executed successfully (only Approve will be prompted for the first operation).
 
