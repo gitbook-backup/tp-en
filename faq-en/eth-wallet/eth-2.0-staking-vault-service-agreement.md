@@ -24,7 +24,7 @@ Cyptocurrency has a high risk. Eth2.0 Staking Vault only simplifies the staking,
 
 In using this platform you are deemed to have carefully read, understood, and agreed to the following terms and conditions:
 
-1\. The minimum investment is 0.ETH and the maximum investment is 32000 ETH. The initial allocation is 32000 ETH.
+1\. The minimum investment is 0.1ETH and the maximum investment is 32000 ETH. The initial allocation is 32000 ETH.
 
 2\. Starting date of the activities, that is, operation of the node on behalf of the user and calculation of rewards, is expected to be on December 7, 2020, and calculation of rewards will start on T+1, that is, users are expected to receive the first batch of staking rewards on December 8.（"T+1" will be used in the calculation of user reward. Users who participated before December 1 are expected to receive their first reward on December 8. Special note: There are too many nodes waiting for activation, and the activation time is estimated to be “T+8”. The specific reward time is related to the node activation time. The earlier you stake, the earlier you get reward.）
 
