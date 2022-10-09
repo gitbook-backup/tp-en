@@ -14,7 +14,7 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 
 2、Click “Widgets” in the skin setting interface, select the picture in the NFT skin you hold, and click “Confirm” to complete the settings
 
-![](<../../.gitbook/assets/2 (2).png>)
+![](<../../.gitbook/assets/2 (2) (1).png>)
 
 3、Go back to the mobile phone desktop, select the “Plug-ins” function at the bottom with a long press, and pull down the details list to find the plug-in of TokenPocket.
 
@@ -26,7 +26,7 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 
 5、The TokenPocket plug-in supports the display of NFT, price, gas and other contents. Click the widget to quickly call the corresponding function. The content of the market display here can be flexibly set in the wallet's market favorites.
 
-![](<../../.gitbook/assets/5 (1) (2).png>)
+![](<../../.gitbook/assets/5 (1) (2) (1).png>)
 
 ### <mark style="color:orange;">iOS Settings Widget</mark>
 

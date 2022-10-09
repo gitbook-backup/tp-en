@@ -1,4 +1,4 @@
-# EthereumFair (ETF) User Guide
+# EthereumFair (ETF) Use Guide
 
 ### How to add EthereumFair public chain in TokenPocket
 
@@ -22,5 +22,5 @@ Fill in the ETF abbreviation in the search bar, and you can see the search resul
 
 5、After adding the ETF public chain, you can use the wallet address holding ETH to synchronize, open TokenPocket, click 【Details】, select 【Wallet Synchronization】, select ETF public chain synchronization and switch to ETF wallet.
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (2).png" alt=""><figcaption></figcaption></figure>
 

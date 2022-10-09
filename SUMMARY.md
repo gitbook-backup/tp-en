@@ -156,6 +156,7 @@
   * [How to create DApp List?](wallet-operation/how-to-create-dapp-list.md)
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [How to Create a Wallet?](defi-tutorial/how-to-trade-on-dex/README.md)
+  * [FON Chain Use Guide](wallet-operation/how-to-create-a-wallet/FON-Chain.md)
   * [EthereumPoW Use Guide](wallet-operation/how-to-create-a-wallet/ETHW.md)
   * [EthereumFair (ETF) Use Guide](wallet-operation/how-to-create-a-wallet/ETF.md)
   * [Arbitrum Nova Use Guide](wallet-operation/how-to-create-a-wallet/arb-nova.md)
