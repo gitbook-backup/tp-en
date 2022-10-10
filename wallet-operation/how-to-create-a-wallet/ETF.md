@@ -10,7 +10,7 @@
 
 Fill in the ETF abbreviation in the search bar, and you can see the search results below, click it and ready to add.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
 
 3、Double check the information and click “Save” in the lower right corner to add it successfully. Go back to the “Select Network” interface and pull down to the bottom to see the newly added EthereumFair network.
 

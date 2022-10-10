@@ -10,11 +10,11 @@
 
 Fill in 【fon】  in the search bar, and you can see the search results below, click it and be ready to add FON Smart Chain.
 
-<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 3\. Double-check the information and click “Save” in the right corner to add it successfully. Go back to the “Select Network” interface and pull down to the bottom to see the FON Mainnet.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click on the FON Mainnet, and you can choose “Create” or “Import” to use the FON wallet.&#x20;
 
