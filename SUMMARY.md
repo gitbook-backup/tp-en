@@ -138,6 +138,8 @@
   * [FAQs on Voice](faq-en/eos-wallet/faqs-on-voice.md)
   * [What is Voice？](faq-en/eos-wallet/what-is-voice.md)
   * [Register with the email/phone number.](faq-en/eos-wallet/register-with-the-email-phone-number..md)
+* [Aptos Wallet](wallet-faq-en/Aptos/README.md)
+  * [What is a permission change](wallet-faq-en/Aptos/Permissions.md)
 * [Multichain-wallet](faq-en/multichain-wallet/README.md)
   * [what is Asset Collection？](faq-en/multichain-wallet/what-is-asset-collection.md)
   * [Guide of Cold wallet](faq-en/multichain-wallet/coldwallet.md)
