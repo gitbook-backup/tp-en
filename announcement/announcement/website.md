@@ -1,4 +1,4 @@
-# 🔥 Oct 11th, TokenPocket Official Website Maintenance Notice
+# Oct 11th, TokenPocket Official Website Maintenance Notice
 
 Dear users,
 
