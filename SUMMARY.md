@@ -276,7 +276,6 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🔥 Oct 11th, TokenPocket Official Website Maintenance is Completed.](announcement/announcement/website-completed.md)
   * [Oct 11th, TokenPocket Official Website Maintenance Notice](announcement/announcement/website.md)
   * [Oct 7th, BNB Chain's maintenance has been completed.](announcement/announcement/oct-7-bnb-completed.md)
   * [Oct 7th, BNB Chain is being maintained.](announcement/announcement/oct-7-bnb.md)
