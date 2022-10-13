@@ -14,4 +14,4 @@
 
 #### What are the common hardware wallets?
 
-At present, the main hardware wallet brands based on chip security on the market are: Ledger Nano S, [<mark style="color:blue;">**KeyPal**</mark>](https://www.keypal.pro), Trezor, etc. Moreover, hardware wallets are the most secure among all wallets, and are relatively least vulnerable to attack.
+At present, the main hardware wallet brands based on chip security on the market are:  [<mark style="color:blue;">**KeyPal**</mark>](https://www.keypal.pro), Ledger Nano S,Trezor, etc. Moreover, hardware wallets are the most secure among all wallets, and are relatively least vulnerable to attack.
