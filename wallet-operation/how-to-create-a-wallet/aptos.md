@@ -26,7 +26,7 @@
 
 ## **How to import an** Aptos **wallet into TokenPocket?** <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
-1. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select Arbitrum Nova, click **\[Add Wallet]** and click **\[Import Wallet]**; you can import your wallet by entering private key or secret recovery phrase.
+1. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select Aptos, click **\[Add Wallet]** and click **\[Import Wallet]**; you can import your wallet by entering private key or secret recovery phrase.
 
 <figure><img src="../../.gitbook/assets/Aptos EN 6.png" alt=""><figcaption></figcaption></figure>
 
