@@ -22,7 +22,7 @@
 
 <mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
-![](<../../.gitbook/assets/ETC EN 5.png>)
+![](<../../.gitbook/assets/ETC EN 5 (1).png>)
 
 ## **How to import an ETC wallet into TokenPocket?**
 
@@ -36,7 +36,7 @@
 
 3\. At this point, you have successfully imported an ETC wallet.​​
 
-![](<../../.gitbook/assets/ETC EN 5.png>)
+![](<../../.gitbook/assets/ETC EN 5 (1).png>)
 
 ## **How to sync an ETC Wallet in TokenPocket?**
 
