@@ -1,2 +1,0 @@
-# Prevent common fraud cases.
-

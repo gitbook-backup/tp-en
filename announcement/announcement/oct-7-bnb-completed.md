@@ -1,4 +1,4 @@
-# 🔥 Oct 7th, BNB Chain's maintenance has been completed.
+# Oct 7th, BNB Chain's maintenance has been completed.
 
 Dear TokenPocket users,
 
