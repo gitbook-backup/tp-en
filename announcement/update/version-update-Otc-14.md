@@ -4,6 +4,8 @@
 
 &#x20;Android: 1.6.0
 
+iOS: 1.9.0
+
 
 
 **【Version Update】**
