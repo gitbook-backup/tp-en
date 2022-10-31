@@ -23,6 +23,8 @@
 
 &#x20; 1\. Update from the Wallet application
 
+&#x20; 2\. Update from  GooglePlay ，Samsung
+
 ****
 
 **(Note: The only official website of TokenPocket is:** [**https://tokenpocket.pro/**](https://tokenpocket.pro/)**)**
