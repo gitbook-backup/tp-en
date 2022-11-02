@@ -93,7 +93,7 @@
   * [How to export the BTC private key of TokenPocket wallet?](faq-en/btc-wallet/how-to-export-the-btc-private-key-of-tokenpocket-wallet.md)
   * [What is BTC segwit?](faq-en/btc-wallet/what-is-btc-segwit.md)
   * [Bitcoin transfer is slow, can it be accelerated?](faq-en/btc-wallet/bitcoin-transfer-is-slow-can-it-be-accelerated.md)
-  * [How to import the BTC private key into the wallet?](faq-en/btc-wallet/how-to-import-the-btc-private-key-into-the-wallet.md)
+  * [How to import the BTC private key into the wallet?](wallet-faq-en/btc-wallet/Import.md)
   * [How to set the miner fee of BTC?](faq-en/btc-wallet/how-to-set-the-miner-fee-of-btc.md)
   * [How to transfer BTC to exchange by wallet?](faq-en/btc-wallet/how-to-transfer-btc-to-exchange-by-wallet.md)
   * [How to delete BTC wallet?](faq-en/btc-wallet/how-to-delete-btc-wallet.md)

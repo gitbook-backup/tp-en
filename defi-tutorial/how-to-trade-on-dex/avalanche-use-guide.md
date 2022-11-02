@@ -28,7 +28,7 @@
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Private Key];
 
-![](<../../.gitbook/assets/6 (3) (1).png>)
+![](<../../.gitbook/assets/6 (3).png>)
 
 Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet name], \[password], and click \[Service Regulations and Privacy clause]. Click \[Import Wallet]. At this point, you have successfully imported the Avalanche wallet.
 

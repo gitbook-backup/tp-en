@@ -55,11 +55,11 @@ Tokens other than the native coin need to be authorized for the first operation.
 
 **It should be noted that the addresses imported in batches will be allocated and sent in groups of 400 (the number may vary from public chains or tokens), so users can optimize according to this feature when setting addresses, and try not to waste gas fees.**
 
-![](<../.gitbook/assets/6 (1).png>)
+![](<../.gitbook/assets/6 (1) (1).png>)
 
 After the approval, click “OK” at the bottom.
 
-![](<../.gitbook/assets/7 (1).png>)
+![](<../.gitbook/assets/7 (1) (2).png>)
 
 #### 5、Send Transaction&#x20;
 
