@@ -142,6 +142,7 @@
 * [Aptos Wallet](wallet-faq-en/Aptos/README.md)
   * [What is a permission change](wallet-faq-en/Aptos/Permissions.md)
 * [Multichain-wallet](faq-en/multichain-wallet/README.md)
+  * [How to reset your password](wallet-faq-en/multichain-wallet/Reset.md)
   * [what is Asset Collection？](faq-en/multichain-wallet/what-is-asset-collection.md)
   * [Guide of Cold wallet](faq-en/multichain-wallet/coldwallet.md)
   * [About sub-wallets](faq-en/multichain-wallet/sub-wallets.md)

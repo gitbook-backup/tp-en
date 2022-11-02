@@ -18,7 +18,7 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 
 3、Go back to the mobile phone desktop, select the “Plug-ins” function at the bottom with a long press, and pull down the details list to find the plug-in of TokenPocket.
 
-![](<../../.gitbook/assets/3 (13).png>)
+![](<../../.gitbook/assets/3 (13) (3).png>)
 
 4、After adding, you can return to the desktop and view the effect. Just click the set plug-in to automatically open the NFT generation interface, which is convenient for viewing and quick calling. You can also click “Send” to set the receiving address and gas to complete the NFT transfer.
 
