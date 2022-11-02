@@ -2,8 +2,8 @@
 
 Miner's fee reference:In the bitcoin browser: [https://btc.com/stats/unconfirmed-tx](https://btc.com/stats/unconfirmed-tx) ,Home page - statistics - unconfirmed transaction page will display the current best handling fee, you can follow this value to set.
 
-![mceclip0.png](https://tokenpockethelpsupport.zendesk.com/hc/article\_attachments/900001026523/mceclip0.png)
+![mceclip0.png](../../.gitbook/assets/1667374874277.jpg)
 
 In the TokenPocket wallet transfer page, you can set the miner's fee number manually, or you can use the miner's fee recommended by the wallet by default.
 
-![mceclip1.png](https://tokenpockethelpsupport.zendesk.com/hc/article\_attachments/900001015426/mceclip1.png)
+![mceclip1.png](../../.gitbook/assets/8.png)

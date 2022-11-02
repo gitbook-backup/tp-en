@@ -34,7 +34,7 @@ Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet
 
 **Attention: Do not disclose the mnemonic words to anyone!**
 
-![](<../../.gitbook/assets/8 (1).png>)
+![](<../../.gitbook/assets/8 (1) (1).png>)
 
 **How to sync an Avalanche Wallet?**
 

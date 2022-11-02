@@ -38,7 +38,7 @@
 
 4\. Click \[Import Wallet]. At this point, you have successfully imported the Fantom wallet.
 
-![](../../.gitbook/assets/8.png)
+![](<../../.gitbook/assets/8 (4).png>)
 
 **How to sync a** **Fantom Wallet?**
 
