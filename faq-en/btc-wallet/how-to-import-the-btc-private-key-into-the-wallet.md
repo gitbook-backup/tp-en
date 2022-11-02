@@ -2,12 +2,8 @@
 
 Step 1: click "add wallet"
 
-![mceclip0.png](https://tokenpockethelpsupport.zendesk.com/hc/article\_attachments/900001015366/mceclip0.png)
+![mceclip0.png](<../../.gitbook/assets/6 (3).png>)
 
-Step 2: click "Private Key"
+Step 2: click "Private Key" enter the private key and wallet password, click "I agree" and "Import it".
 
-![mceclip1.png](https://tokenpockethelpsupport.zendesk.com/hc/article\_attachments/900001015386/mceclip1.png)
-
-Step 3: enter the private key and wallet password, click "I agree" and "Import it".
-
-![mceclip0.png](https://tokenpockethelpsupport.zendesk.com/hc/article\_attachments/900001015406/mceclip0.png)
+![mceclip1.png](<../../.gitbook/assets/7 (5).png>)
