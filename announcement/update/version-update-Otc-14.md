@@ -23,4 +23,5 @@
 
 ****
 
-**(Note: The only official website of TokenPocket is:** [**https://tokenpocket.pro/**](https://tokenpocket.pro/)**)**
+**Note**：\
+Aptos may have compatibility issues on low-version Android devices. It is recommended to create/import Aptos wallets on Android 8 or above.
