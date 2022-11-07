@@ -1,14 +1,14 @@
-# Security Measure Common Fraud Cases
+# Token Security Detection Function Use Guide
 
 Token trading through DEX is an often-used function in our daily life. Because of the openness of DEX, any person or team can list different types of tokens. In this process, some criminals will play tricks in the token contract, for example, issue tokens unable to be sold(honeypot) and tokens with additional issuance functions. So, it is necessary to use the token contract security detection tool. Although the detection cannot be guaranteed to be 100% accurate, it can eliminate some risks and allow users to choose safer tokens for transactions.
 
 1、Open TokenPocket, click on any token to be detected, and tap “Project Details” in the upper right corner.
 
-![](<../../.gitbook/assets/1 拷贝 (1).png>)
+![](<../../.gitbook/assets/1 拷贝 (1) (2).png>)
 
 2、In the details interface, you can see the token information such as contract address and issuance volume. In the lower part, you can see the risk warning of the token, which is generally divided into “Security Warning” and “Danger Warning”, and the latter is most dangerous. Click “View more security information” to jump to the contract detection details, where you can view the security detection details of the token contract address.
 
-![](<../../.gitbook/assets/3 拷贝.png>)
+![](<../../.gitbook/assets/3 拷贝 (2).png>)
 
 3、At the top of the detection interface is a built-in gadget. Click the icon on the left to select the public chain supported by the tool, currently supporting Ethereum, BSC, Polygon, Avalanche, Arbitrum, Heco, OKC, Fantom, Harmony and Cronos, and more chains will be available.
 
