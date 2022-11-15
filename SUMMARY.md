@@ -149,6 +149,7 @@
   * [About sub-wallets](faq-en/multichain-wallet/sub-wallets.md)
   * [What's the Mnemonic Phrase](faq-en/multichain-wallet/secret-recovery-phrase.md)
   * [What‘s the private key](faq-en/multichain-wallet/private-key.md)
+  * [What is Multisig nonce](wallet-faq-en/multichain-wallet/nonce.md)
 
 ## 🔩 wallet operation
 
