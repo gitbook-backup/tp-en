@@ -8,4 +8,4 @@
 
 Notes: Suggest providing real information to meet the KYC requirement in the future.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)

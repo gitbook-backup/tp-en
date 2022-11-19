@@ -46,9 +46,9 @@ After everything is set, click \[Confirm] to read the reminders for the creation
 
 <figure><img src="../../.gitbook/assets/3 拷贝 (1).png" alt=""><figcaption></figcaption></figure>
 
-4\. There are two states of multisig wallet creation are success and failure. It will be affected by node, network, Gas (miner's fee), etc. Therefore, if we see the situation of creation failure on the right of the picture below, we only need to click \[Delete] displayed in the interface to delete the failed multisig wallet creation.
+4\. After the smart contract is deployed successfully, you've successfully created a multisig wallet. Click the upper-left menu of the wallet, and you can distinguish the difference between the multisig wallet and the single-sig wallet in the list, and it will be more convenient for you to switch the wallet.
 
-
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. After you’ve successfully created a multisig wallet, click \[Details] and you can see the \[Transaction Queue] and \[Manage].
 
