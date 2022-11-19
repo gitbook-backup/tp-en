@@ -14,7 +14,7 @@ Token trading through DEX is an often-used function in our daily life. Because o
 
 Choose the public chain, fill in the contract address and click “Detect” to conduct the contract detection of the token.
 
-![](<../../.gitbook/assets/5 拷贝.png>)
+![](<../../.gitbook/assets/5 拷贝 (2).png>)
 
 **4、**Now we have been familiar with the entry and functions of this tool, and next introduce some common “Danger Warnings” and “Security Tips”.
 
@@ -32,7 +32,7 @@ Blacklist function: Addresses added to the blacklist cannot sell tokens. This se
 
 Additional issuance function: Increase the function of token issuance, for example, some mining projects use it for mining or some malicious projects increase issuance to smash.
 
-![](<../../.gitbook/assets/6 拷贝.png>)
+![](<../../.gitbook/assets/6 拷贝 (1).png>)
 
 The launch of this tool can largely help users to avoid some malicious tokens. It is only for reference, and it cannot be 100% guaranteed to be accurate. Subsequent functions will be added to the token details of the market interface.
 

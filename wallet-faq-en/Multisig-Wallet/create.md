@@ -22,15 +22,15 @@ The ETH/ERC20(Including the EVM-based chains like BSC/BEP20, etc.) MultiSig wall
 
 1. Open TokenPocket and click \[No wallet] for the first time, and choose \[MultiSig Wallet]. You can also click the icon on the upper right corner to create a multisig wallet.
 
-
+<figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
 
 2\. You need to choose the public chain before you create a multisig wallet, please read the reminders carefully during the creation process and then click \[Next Step].
 
-
+<figure><img src="../../.gitbook/assets/2拷贝.png" alt=""><figcaption></figcaption></figure>
 
 3\. The steps of creating a multi-signature wallet are the core content.&#x20;
 
-\[Wallet Name] is as same as the wallet name you created before, which can be customized and it won’t execute on-chain.
+\[Wallet Name] is as same as the wallet name you created before, which can be customized and it won’t be recorded on chain.
 
 \[Owners] is to set the managers of the multisig wallet. The owners can manage and control the multisig wallet and a maximum of 30 owners can be set, which can be understood as the \[Threshold Setting] of the multisig wallet. The owners can be set up flexibly, it is suitable for enterprises, DAO, and individuals.&#x20;
 
@@ -44,18 +44,20 @@ After everything is set, click \[Confirm] to read the reminders for the creation
 \
 
 
+<figure><img src="../../.gitbook/assets/3 拷贝 (1).png" alt=""><figcaption></figcaption></figure>
+
 4\. There are two states of multisig wallet creation are success and failure. It will be affected by node, network, Gas (miner's fee), etc. Therefore, if we see the situation of creation failure on the right of the picture below, we only need to click \[Delete] displayed in the interface to delete the failed multisig wallet creation.
 
 
 
 5\. After you’ve successfully created a multisig wallet, click \[Details] and you can see the \[Transaction Queue] and \[Manage].
 
+<figure><img src="../../.gitbook/assets/5 拷贝.png" alt=""><figcaption></figcaption></figure>
+
+6\. \[Transaction Queue] will display the generated multisig order, you can click and complete the order; You can view information such as \[Required signatures], \[Latest Nonce on-chain], and \[Associated Wallet] in \[Manage], the associated wallet is the owners. If there is an address that has not been imported, you can click \[Import] and use the private key or secret recovery phrase to import it. Whether the associated wallet is imported will affect the transaction and the use of DApps.\
 
 
-6\. \[Transaction Queue] will display the generated multisig order, you can click and complete the order; You can view information such as \[Required signatures], \[Latest Nonce on-chain], and \[Associated Wallet] in \[Manage], the associated wallet is the owners. If there is an address that has not been imported, you can click \[Import] and use the private key or secret recovery phrase to import it. Whether the associated wallet is imported will affect the transaction and the use of DApps.
-
-\
-
+<figure><img src="../../.gitbook/assets/6 拷贝.png" alt=""><figcaption></figcaption></figure>
 
 To sum up, the multisig wallet on the EVM-based chain is a smart contract. Creating a multisig wallet does not require backing up the secret recovery phrase or private key, does not require setting a password, does not require complex code, and is similar to the watch wallet.
 
