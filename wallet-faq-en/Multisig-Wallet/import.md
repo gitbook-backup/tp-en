@@ -16,10 +16,16 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
 ## Import a MultiSig Wallet
 
-1. Click the icon on the upper right corner and click \[MultiSig Wallet],click \[Import MultiSig Wallet].
+1. Click the icon on the upper right corner and click \[MultiSig Wallet].
 
+<figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
 
+2\. Click \[Import MultiSig Wallet], and choose network.
+
+<figure><img src="../../.gitbook/assets/2拷贝 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. You need to input or paste your multisig wallet's address and it will automatically identify the public chain you've created, the minimum number of required signatures, and owners. It's just as easy to use as a watch wallet, or even as a watch wallet.
 
-Then, click \[Confirm].
+Then, click \[Confirm]. You have successfully import MultiSig Wallet.
+
+<figure><img src="../../.gitbook/assets/3 拷贝 (2).png" alt=""><figcaption></figcaption></figure>
