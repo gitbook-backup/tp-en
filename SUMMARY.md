@@ -151,7 +151,7 @@
   * [What‘s the private key](faq-en/multichain-wallet/private-key.md)
 * [Multisig Wallet](wallet-faq-en/Multisig-Wallet/README.md)
   * [What is a multi-sig wallet?](wallet-faq-en/Multisig-Wallet/Multisig.md)
-  * [What is Owners?](wallet-faq-en/Multisig-Wallet/Multisig-admin.md)
+  * [What is Owners?](wallet-faq-en/Multisig-Wallet/page-1.md)
   * [What is Multisig nonce?](wallet-faq-en/Multisig-Wallet/nonce.md)
   * [How to create a MultiSig Wallet?](wallet-faq-en/Multisig-Wallet/create.md)
   * [How to import a MultiSig Wallet?](wallet-faq-en/Multisig-Wallet/import.md)
