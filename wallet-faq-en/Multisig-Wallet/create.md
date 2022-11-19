@@ -20,7 +20,7 @@ The ETH/ERC20(Including the EVM-based chains like BSC/BEP20, etc.) MultiSig wall
 
 ## **Create a MuitiSig wallet**
 
-1. Open TokenPocket and click \[No wallet] for the first time, and choose \[MultiSig Wallet]. You can also click the icon on the upper right corner to create a multisig wallet.
+1. Open TokenPocket and click \[No accounts] for the first time, and choose \[MultiSig Wallet]. You can also click the icon on the upper right corner to create a multisig wallet.
 
 <figure><img src="../../.gitbook/assets/1 拷贝.png" alt=""><figcaption></figcaption></figure>
 

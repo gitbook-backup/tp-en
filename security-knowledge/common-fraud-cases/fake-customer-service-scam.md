@@ -6,7 +6,7 @@ So, If you have any questions, please don't trust anyone who sends messages to y
 
 1\. Impersonating TokenPocket customer service in order to ask the user to pay the fee of solving the problem.
 
-![](<../../.gitbook/assets/3 拷贝 (1) (2).png>)
+![](<../../.gitbook/assets/3 拷贝 (1) (1).png>)
 
 2\. **** Impersonating TokenPocket Telegram Community Admin to cheat‌.
 
