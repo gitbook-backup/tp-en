@@ -6,4 +6,4 @@ Miner's fee reference:In the bitcoin browser: [https://btc.com/stats/unconfirmed
 
 In the TokenPocket wallet transfer page, you can set the miner's fee number manually, or you can use the miner's fee recommended by the wallet by default.
 
-![mceclip1.png](../../.gitbook/assets/8.png)
+![mceclip1.png](<../../.gitbook/assets/8 (5).png>)

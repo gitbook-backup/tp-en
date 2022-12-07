@@ -18,7 +18,7 @@
 
 5\. Choose a wallet, click \[—] on the right, then you can hide the Wallet ;
 
-![](<../.gitbook/assets/5 (5).png>)
+![](<../.gitbook/assets/5 (5) (2).png>)
 
 **Attention**: If the current network contains a no-deleted wallet, it cannot be hidden.
 

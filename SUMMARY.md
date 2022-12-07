@@ -157,6 +157,7 @@
   * [What is Multisig nonce?](wallet-faq-en/Multisig-Wallet/nonce.md)
   * [How to create a MultiSig Wallet?](wallet-faq-en/Multisig-Wallet/create.md)
   * [How to import a MultiSig Wallet?](wallet-faq-en/Multisig-Wallet/import.md)
+  * [MultiSig Transfer Use Guide](wallet-faq-en/Multisig-Wallet/transfer.md)
 
 ## 🔩 wallet operation
 
