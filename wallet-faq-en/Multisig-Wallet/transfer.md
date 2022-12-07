@@ -17,9 +17,9 @@ Open TokenPocket MultiSig wallet, select the token/NFT you want to transfer, tak
 2\. The contract address detection function is built in TokenPocket, so you can view a reminder here, after you’ve double-checked the receiving address and confirmed, you can click \[Know and Continue]. Also, you can customize nonce in \[Advanced mode].\
 
 
-Know more about Nonce.
+****[**Know more about Nonce.**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/nonce)****
 
-<figure><img src="../../.gitbook/assets/2 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 TokenPocket can't delete the order in the MultiSig queue now, so if you've created multiple unexecuted orders, but you need to create a new order and let it execute first, there are two ways to do this.
 
@@ -27,7 +27,7 @@ TokenPocket can't delete the order in the MultiSig queue now, so if you've creat
 
 2\) Customize the nonce with the value of "0" and all the orders with the "0" nonce will disappear from the list after the execution was successful.
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
 
 3、**1) Owners' addresses didn't import in your current wallet.**
 

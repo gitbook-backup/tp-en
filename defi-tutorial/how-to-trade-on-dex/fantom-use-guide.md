@@ -4,7 +4,7 @@
 
 1\. Open the TokenPocket App, click the upper left corner to switch the wallet, then select Fantom, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/1 (12).png>)
+![](<../../.gitbook/assets/1 (12) (1).png>)
 
 2\. Click \[Create Wallet], and continue to click \[Create Wallet];
 

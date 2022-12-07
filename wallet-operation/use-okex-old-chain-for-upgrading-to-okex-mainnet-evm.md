@@ -18,7 +18,7 @@ Operation steps:&#x20;
 
 3\. Click on the wallet location \[upper left corner], select the bottom layer of the main network of the OKEx-EVM icon, and then select the upgraded wallet to open it for using. (Old chain assets need to be converted through the OKEx Exchange and withdrawn to the OKEx-EVM wallet)
 
-![](<../.gitbook/assets/2 (11).png>)
+![](<../.gitbook/assets/2 (11) (2).png>)
 
 
 
