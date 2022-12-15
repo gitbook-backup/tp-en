@@ -22,4 +22,4 @@
 
 **【Version update method】‌**
 
-&#x20;We will release in batches, which means the times for users to update are different. After you receive the update reminder, you can update to the latest version according to your personal need. If you don’t receive the update reminder, please wait for it patiently.
+We will release in batches, which means the times for users to update are different. After you receive the update reminder, you can update to the latest version according to your personal need. If you don’t receive the update reminder, please wait for it patiently.
