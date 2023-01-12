@@ -13,3 +13,7 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 2、Multiple encryptions of assets through multi-signature to enhance asset security;
 
 3、Other security application scenarios.
+
+
+
+**>>** [**How to create a MultiSig wallet?**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/create)****
