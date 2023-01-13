@@ -42,4 +42,6 @@ The purpose of this operation is to simulate the transaction from the user’s a
 
 ### TokenPocket Security Measure <a href="#82e0" id="82e0"></a>
 
-You can hide these small transaction records to stay away from the phishing scams!
+You can hide these small transaction records to stay away from phishing transfer scams!
+
+👉[**Use Guide**](https://help.tokenpocket.pro/en/security-knowledge/security-measure/hide-small-transaction-records)****
