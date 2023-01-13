@@ -40,6 +40,6 @@ This operation is performed directly through the TransferFrom function of the US
 
 The purpose of this operation is to simulate the transaction from the user’s address, combined with the disguised address to induce the user to misoperate the transfer, it won’t affect your asset's security, but please be aware of this possible misoperation execution.
 
-### Why doesn’t TokenPocket take action? <a href="#82e0" id="82e0"></a>
+### TokenPocket Security Measure <a href="#82e0" id="82e0"></a>
 
-This is a new fraud method, which uses the normal mechanism to perform the operation, this problem will be optimized reasonably in the next version of TokenPocket.
+You can hide these small transaction records to stay away from the phishing scams!
