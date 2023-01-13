@@ -20,7 +20,7 @@
 ## 🔐 Security Knowledge
 
 * [Security Measure](security-knowledge/security-measure/README.md)
-  * [Hide small transaction records](security-knowledge/security-measure/hide-small-transaction-records.md)
+  * [Hide small transaction records](security-knowledge/security-measure/hide.md)
   * [TokenPocket Approval Detector Use Guide](security-knowledge/security-measure/TP-Approve.md)
   * [Notes on using the third-party DApp.](security-knowledge/security-measure/dapp.md)
   * [Token Security Detection Function Use Guide](security-knowledge/security-measure/Token-Detection.md)
