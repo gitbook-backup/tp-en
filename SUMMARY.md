@@ -28,7 +28,7 @@
   * [Pay attention to the tokens and links marked as risky!](security-knowledge/security-measure/risky-token-link.md)
   * [How to verify whether the wallet is genuine](security-knowledge/security-measure/verify.md)
   * [How to verify the real TokenPocket on Google Play?](security-knowledge/security-measure/verify-android.md)
-  * [How to verify the real TokenPocket on App Store?](security-knowledge/security-measure/verify-ios.md)
+  * [How to verify the real TokenPocket（TP Wallet） on App Store?](security-knowledge/security-measure/verify-ios.md)
   * [How to Identify the Authenticity of TokenPocket’s Website and APP?](security-knowledge/security-measure/identfy.md)
   * [About Approve](security-knowledge/security-measure/about-approve.md)
   * [How to check/cancel Approve?](security-knowledge/security-measure/cancel-malicious-authorization.md)
