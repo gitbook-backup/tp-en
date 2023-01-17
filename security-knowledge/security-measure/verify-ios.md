@@ -13,3 +13,5 @@
 3\. You can see the TokenPocket Developer is <mark style="color:blue;">**TP Global Ltd**</mark>. If all the messages above are correct, then your TokenPocket is real.
 
 ![](../../.gitbook/assets/0672c30dc590b2829ef8f6cf1b9df33.png)
+
+<mark style="color:red;">**The developer of the version downloaded from the Apple Store before October 8, 2022 is TOKENPOCKET FOUNDATION LTD and it is an early version from TokenPocket, which is also a real wallet and can be used normally, but the update will not be available later.**</mark>

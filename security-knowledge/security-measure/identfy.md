@@ -10,9 +10,11 @@ Please confirm the domain name of TokenPocket’s official website is \[<mark st
 
 &#x20;**🍎 iOS**
 
-Open and log in to your App Store. Search “TokenPocket” and see the results. The result in the second one (second is just current rank) is the right TokenPocket. Click to see the details. In the details interface,  if you saw the “TOKENPOCKET FOUNDATION LTD”, then it is the right “TokenPocket”.
+Open and log in to your App Store. Search “ <mark style="color:blue;">**TP Wallet**</mark> ” and see the results. The result in the second one (second is just current rank) is the right TokenPocket. Click to see the details. In the details interface,  if you saw the “ <mark style="color:blue;">**TP Global Ltd**</mark> ”, then it is the right “TokenPocket”.
 
-![](<../../.gitbook/assets/image (41).png>)
+![](../../.gitbook/assets/e93f477004358a65401319580ff.png)
+
+<mark style="color:red;">**The developer of the version downloaded from the Apple Store before October 8, 2022 is TOKENPOCKET FOUNDATION LTD and it is an early version from TokenPocket, which is also a real wallet and can be used normally, but the update will not be available later.**</mark>
 
 :mobile\_phone:Android
 
