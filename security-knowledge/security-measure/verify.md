@@ -49,7 +49,7 @@ As for security
 |  1.4.9  | 4b88e2ffa2b3d84fbc2f099e1034fb86 | 37b571b7644e456be7260e3d1d93ce59d9e38f694215c85e29e4a1476b6bf634 |
 |  1.4.7  | feab610e82a1ed694d24994487f3e38c | b023f39e496ac6a38cc0ef121470cc7c2142f393c75aea504bc8ab979285dffd |
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro)<mark style="color:blue;">****</mark>
+<mark style="color:blue;">****</mark>[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro) <mark style="color:blue;">**or tpwallet.io**</mark>
 
 | Verison |                MD5               |                              SHA256                              |
 | :-----: | :------------------------------: | :--------------------------------------------------------------: |

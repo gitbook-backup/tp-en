@@ -2,7 +2,13 @@
 
 **Identify the Authenticity of TokenPocket’s Website.**
 
-Please confirm the domain name of TokenPocket’s official website is \[<mark style="color:red;">**https://tokenpocket.pro/**</mark>]. And there has a \[🔒] symbol in front of the domain name, which means \[Connection is secure].
+Please confirm the domain name of TokenPocket’s website :thumbsup:
+
+\[<mark style="color:red;">**https://tokenpocket.pro/**</mark>].
+
+\[<mark style="color:red;">**tpwallet.io**</mark>]&#x20;
+
+And there has a \[🔒] symbol in front of the domain name, which means \[Connection is secure].
 
 ![](<../../.gitbook/assets/image (44) (1).png>)
 
@@ -18,8 +24,8 @@ Open and log in to your App Store. Search “ <mark style="color:blue;">**TP Wal
 
 :mobile\_phone:Android
 
-Open and log in to your Google Play. Search “TokenPocket” and see the results. You can see \[TokenPocket Foundation] in the interface. Click \[Development contact], you can see the website, email,  and privacy policy of TokenPocket, click \[Website] and you can enter the only official website of TokenPocket\[<mark style="color:red;">**https://tokenpocket.pro/**</mark>], then it is the right “TokenPocket”.&#x20;
+Open and log in to your Google Play. Search “TokenPocket” and see the results. You can see \[TokenPocket Foundation] in the interface. Click \[Development contact], you can see the website, email,  and privacy policy of TokenPocket, click \[Website] and you can enter the official website of TokenPocket \[<mark style="color:red;">**https://tokenpocket.pro/**</mark>] or \[<mark style="color:red;">**tpwallet.io**</mark>] , then it is the right “TokenPocket”.&#x20;
 
 ![](<../../.gitbook/assets/image (55) (1).png>)
 
-The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/)](https://tokenpocket.pro/\))
+The update is prompted in the App, or download the latest version from the official website. (Note: The official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro/\)) or [https://tpwallet.io/](https://tpwallet.io/).
