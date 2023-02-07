@@ -27,7 +27,7 @@ TokenPocket can't delete the order in the MultiSig queue now, so if you've creat
 
 2\) Customize the nonce with the value of "0" and all the orders with the "0" nonce will disappear from the list after the execution was successful.
 
-<figure><img src="../../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、**1) Owners' addresses didn't import in your current wallet.**
 

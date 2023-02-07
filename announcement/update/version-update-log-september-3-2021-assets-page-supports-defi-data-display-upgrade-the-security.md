@@ -1,4 +1,4 @@
-# Version update log (September 3, 2021): Assets page supports DeFi data display, upgrade the security
+# Version update log (September 3rd, 2021)
 
 **\[Version update details]**\
 1\. Assets page supports DeFi data display\
@@ -28,7 +28,7 @@ App Store: 1.6.3
 
 2\) Take Pippi Shrimp as an example, click \[Pippi Shrimp], you can view the current fund status and liquidity;
 
-![](<../../.gitbook/assets/2 (15).png>)
+![](<../../.gitbook/assets/2 (15) (1).png>)
 
 3\) Click \[Enter DApp], and click the jump popup \[I got it] to enter the official Pippi Shrimp interface.
 

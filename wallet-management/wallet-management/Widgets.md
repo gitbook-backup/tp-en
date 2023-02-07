@@ -22,7 +22,7 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 
 4、After adding, you can return to the desktop and view the effect. Just click the set plug-in to automatically open the NFT generation interface, which is convenient for viewing and quick calling. You can also click “Send” to set the receiving address and gas to complete the NFT transfer.
 
-![](<../../.gitbook/assets/4 (7).png>)
+![](<../../.gitbook/assets/4 (7) (3).png>)
 
 5、The TokenPocket plug-in supports the display of NFT, price, gas and other contents. Click the widget to quickly call the corresponding function. The content of the market display here can be flexibly set in the wallet's market favorites.
 
