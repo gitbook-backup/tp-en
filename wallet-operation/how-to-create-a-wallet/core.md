@@ -1,6 +1,6 @@
 # Core Blockchain Use Guide
 
-How to add Core Blockchain in TokenPocket?
+### How to add Core Blockchain on TokenPocket Moblie Wallet?
 
 1、Open TokenPocket, click Add Wallet in the top right corner, and click【Add Custom Network】.
 
@@ -19,3 +19,14 @@ Fill in 【Core】  in the search bar, and you can see the search results below,
 4\. Click on the Core Blockchain, and you can choose “Create” or “Import” to use the Core wallet.&#x20;
 
 <figure><img src="../../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
+
+### How to add Core Blockchain on TokenPocket  Extension Wallet?
+
+1. Click the upper left corner to switch networks, click  【Custom RPC】, and click 【Easy Add】.
+
+<figure><img src="../../.gitbook/assets/组 1.png" alt=""><figcaption></figcaption></figure>
+
+2. Fill in 【Core】  in the search bar, and you can see the search results below, click it and be ready to add Core Blockchain. Click 【Connect Wallet】 and choose a wallet you want to sync up as a Core Blockchain wallet, click【Add to TokenPocket】.
+
+<figure><img src="../../.gitbook/assets/组 2 (1).png" alt=""><figcaption></figcaption></figure>
+
