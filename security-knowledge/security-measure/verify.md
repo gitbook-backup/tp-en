@@ -30,6 +30,7 @@ As for security
 
 | Version |                MD5               |                              SHA256                              |
 | :-----: | :------------------------------: | :--------------------------------------------------------------: |
+|  1.6.7  | 656e5cb41674a7cb3d0429a87c47da5a | fbd7757f8ff344eb9bf2d9f6c7a01f93281921d818c402b62fb5204059d4c6db |
 |  1.6.6  | 73501df3c495a38b9b2c6ff24eeeba1e | e75e6dd6afcb87bfb78e983be6b2c2eddb42fccba70f6d0bf41cbb87648c121b |
 |  1.6.5  | 89ad8d584810046a1b261e8ad555ec82 | ae97bf1f7d3bb5917b46bfeb3d052830c7f5ee584c6486ecbc65e1693f9fe359 |
 |  1.6.4  | 951dfeb5d7265fa7c132eeeceb780864 | 3afd9ac7c74424d475bd4cf00ac2b6a662a5ae5a5d562529d3aaf2f4fd729311 |
