@@ -1,4 +1,4 @@
-# Version Update (Feb 18th, 2023)
+# Version Update (Feb 19th, 2023)
 
 **【The Latest Version】**
 
@@ -10,7 +10,7 @@ Android: 1.6.7
 
 **【iOS Version Update】**
 
-\- Optimize users' experience.
+\- Fix bugs.
 
 
 
