@@ -48,7 +48,7 @@ After everything is set, click \[Confirm] to read the reminders for the creation
 
 4\. After the smart contract is deployed successfully, you've successfully created a multisig wallet. Click the upper-left menu of the wallet, and you can distinguish the difference between the multisig wallet and the single-sig wallet in the list, and it will be more convenient for you to switch the wallet.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 5\. After you’ve successfully created a multisig wallet, click \[Details] and you can see the \[Transaction Queue] and \[Manage].
 

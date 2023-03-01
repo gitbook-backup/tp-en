@@ -8,13 +8,13 @@ Step 1:
 
 Select the blockchain like EOS first, then \[No Account] > \[Email/Phone].
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 Step 2:
 
 Fill your email address and tap \[Get Code], input the verification code received by your email. Tap \[Next] to set your account name and password.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (26) (1).png>)
 
 Step 3:
 
@@ -34,7 +34,7 @@ Step 2:
 
 Fill your phone number and tap \[Get Code], input the verification code received by your phone. Tap \[Next] to set your account name and password.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 Step 3:
 

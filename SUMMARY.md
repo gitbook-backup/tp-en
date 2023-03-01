@@ -279,6 +279,7 @@
     * [How to connect to Ledger?](extension-wallet/faq/use-tutorial/connect-ledger.md)
     * [How to connect to Trezor?](extension-wallet/faq/use-tutorial/connect-trezor.md)
     * [How to import/create a wallet in TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
+    * [How to create/import a MultiSig wallet in TP Extension Wallet?](extension-wallet/faq/use-tutorial/multisig.md)
 * [Extension Update](extension-wallet/update-log/README.md)
   * [Version update log (Mar 1, 2022)](extension-wallet/update-log/mar-1.md)
   * [Version update log (Nov 4, 2022)](extension-wallet/update-log/nov-4.md)
