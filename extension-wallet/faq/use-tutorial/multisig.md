@@ -1,6 +1,6 @@
 # How to create/import a MultiSig wallet in TP Extension Wallet?
 
-<mark style="color:orange;">About MultiSig wallet:</mark>
+## <mark style="color:orange;">About MultiSig wallet:</mark>
 
 Corresponding to the multi-signature wallet is the single-signature wallet. If we want to conduct a transfer operation on the blockchain, we need to generate a signature with the wallet. We sign and send the transaction out. This is the way for a typical single-signature wallet and it is also for our usual wallet.
 
@@ -32,7 +32,7 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
     **\[Owners]** is to set the managers of the multisig wallet. The owners can manage and control the multisig wallet and a maximum of 30 owners can be set, which can be understood as the \[Threshold Setting] of the multisig wallet. The owners can be set up flexibly, it is suitable for enterprises, DAO, and individuals.&#x20;
 
-    **\[Minimum number of confirmations]** it’s also called Weight, the difference between EOS/TRON multisig wallets and EVM multisig wallets is that EOS/TRON multisig wallets’ weights can be set as 1 or greater, while EVM-based multisig wallets’ weights can only be set as 1.&#x20;
+    **\[Minimum number of confirmations]** Set the minimum number of the MultiSig wallet. When the minimum number sign, on-chain operations such as transfer and contract interaction can be initiated. You are advised to set the minimum number of confirmation signatures to a value greater than 2.
 
     **\[Estimated fee]** The multisig scheme of an EVM-based chain is a smart contract, so creating a multsig wallet requires paying Gas (miner's fee), which TokenPocket does not charge.\
     **\[Pay with]** You can click and select the wallet address imported in the wallet to pay the Gas (miner's fee) fee.
