@@ -280,6 +280,7 @@
     * [How to connect to Trezor?](extension-wallet/faq/use-tutorial/connect-trezor.md)
     * [How to import/create a wallet in TP Extension Wallet?](extension-wallet/faq/use-tutorial/how-to-import-create-a-wallet-in-tp-extension-wallet.md)
 * [Extension Update](extension-wallet/update-log/README.md)
+  * [Version update log (Mar 1, 2022)](extension-wallet/update-log/mar-1.md)
   * [Version update log (Nov 4, 2022)](extension-wallet/update-log/nov-4.md)
   * [Version update log(Aug 26, 2022)](extension-wallet/update-log/aug-26.md)
   * [Version update log (Jul 13, 2022)](extension-wallet/update-log/jul-13.md)
