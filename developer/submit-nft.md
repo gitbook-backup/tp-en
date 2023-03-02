@@ -2,13 +2,13 @@
 
 1. Go to TokenPocket official website: [https://www.tokenpocket.pro/](https://www.tokenpocket.pro/), click \[Submit Project] on the navigation bar, and then click \[NFT];
 
-![](<../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46) (2).png>)
 
 2\. Fill in the NFT information in order, and then click \[Submit].
 
 **Note:** Admins will audit your NFT submission as soon as possible, so, your patience will be appreciated.
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42) (2).png>)
 
 **How to submit NFT's logo?**
 

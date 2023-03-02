@@ -14,7 +14,7 @@ Step 2:
 
 Fill your email address and tap \[Get Code], input the verification code received by your email. Tap \[Next] to set your account name and password.
 
-![](<../../.gitbook/assets/image (26) (1).png>)
+![](<../../.gitbook/assets/image (26) (1) (1).png>)
 
 Step 3:
 
