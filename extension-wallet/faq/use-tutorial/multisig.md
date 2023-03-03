@@ -47,7 +47,7 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
 5. After creating successfully, click \[Enter Wallet], then you can view your MultiSig wallet.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Import a MultiSig wallet in TP Extension</mark>
 
