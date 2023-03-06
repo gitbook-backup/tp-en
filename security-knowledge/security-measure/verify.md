@@ -30,7 +30,7 @@ As for security
 
 | Version |                MD5               |                              SHA256                              |
 | :-----: | :------------------------------: | :--------------------------------------------------------------: |
-|  1.6.8  | 93cee34fb006c1fec1f907f563f1bde1 | 57b4ede95f6ea09bac2efcbe921fbee07fccf1c7f6b93a0c3ead58d01dd9c020 |
+|  1.6.8  | 8175797b8739dfd27f6f25a55bdce6d3 | a49f4843269d88445532f982c893a41dc069922b51d4ea9b36a6a9c191a405f1 |
 |  1.6.7  | 8c3c5e706f9b03cca0f0458417f202c3 | 8c96b54ea00f8c826e2be84e25b0446864e013de9b270d4fe9b6f60ed40be400 |
 |  1.6.6  | 73501df3c495a38b9b2c6ff24eeeba1e | e75e6dd6afcb87bfb78e983be6b2c2eddb42fccba70f6d0bf41cbb87648c121b |
 |  1.6.5  | 89ad8d584810046a1b261e8ad555ec82 | ae97bf1f7d3bb5917b46bfeb3d052830c7f5ee584c6486ecbc65e1693f9fe359 |
@@ -55,6 +55,7 @@ As for security
 
 | Verison |                MD5               |                              SHA256                              |
 | :-----: | :------------------------------: | :--------------------------------------------------------------: |
+|  1.6.8  | 93cee34fb006c1fec1f907f563f1bde1 | 57b4ede95f6ea09bac2efcbe921fbee07fccf1c7f6b93a0c3ead58d01dd9c020 |
 |  1.6.7  | 656e5cb41674a7cb3d0429a87c47da5a | fbd7757f8ff344eb9bf2d9f6c7a01f93281921d818c402b62fb5204059d4c6db |
 |  1.6.6  | b7743e84040df7d5bef6f141621eaf9d | 44172fa9d715a35abf9dd4cad22031e20b5f2ac4514ba56d07e7ced11f75522b |
 |  1.6.5  | 65b6a3472335b71b3818bbe2d35a706b | b281d49fd4a0c40e62af58960554414627788e858ab716ada242ec028fd95d0a |
