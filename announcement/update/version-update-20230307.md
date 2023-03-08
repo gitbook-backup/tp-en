@@ -19,7 +19,7 @@ iOS: 2.0.3
 
 1\. Update from the Wallet application.
 
-2\. Update from Google Play, Samsung.（Under review）
+2\. Update from Google Play, Samsung.
 
 
 
