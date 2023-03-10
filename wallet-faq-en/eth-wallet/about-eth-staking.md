@@ -1,4 +1,4 @@
-# Here are some common questions about Ethereum staking
+# About Ethereum staking
 
 ### 1. What is Ethereum staking?&#x20;
 
