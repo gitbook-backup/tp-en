@@ -65,6 +65,7 @@
   * [Master the authorization management authority of DApp (BSC)](tutorial-series/bsc/master-the-authorization-management-authority-of-dapp-bsc.md)
 * [ETH Wallet](faq-en/eth-wallet/README.md)
   * [What Is EIP-1559?](faq-en/eth-wallet/eip-1559.md)
+  * [Here are some common questions about Ethereum staking](wallet-faq-en/eth-wallet/about-eth-staking.md)
   * [About Ethereum POS](wallet-faq-en/eth-wallet/pos.md)
   * [ETH 2.0 Staking Vault Service Agreement](faq-en/eth-wallet/eth-2.0-staking-vault-service-agreement.md)
   * [Eth2.0 Staking Vault Rules](faq-en/eth-wallet/eth2.0-staking-vault.md)
