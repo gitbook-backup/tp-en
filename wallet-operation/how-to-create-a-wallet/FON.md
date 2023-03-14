@@ -4,7 +4,7 @@
 
 1、Open TokenPocket, click Add Wallet in the top right corner and click 【Add Custom Network】.
 
-<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Open the custom network interface, and click 【Easy Add】 in the upper right corner, TokenPocket will list the popular public chains, and you can easily search for the public chains you need to add through this entrance.
 

@@ -40,7 +40,7 @@ Paso 1: haz clic en “me” o “yo” para ir a la página central personal y 
 Paso 2. Haz clic en el menú de bitcoin para ingresar a la billetera que deseas modificar.\
 Paso 3. Ve a la página de detalles de la billetera y haz clic en el botón de modificación al lado del nombre de la billetera para cambiarlo.
 
-![](<../../.gitbook/assets/2 (20).png>)
+![](<../../.gitbook/assets/2 (20) (2).png>)
 
 **¿Cómo crear una billetera BTC en TokenPocket?**\
 \

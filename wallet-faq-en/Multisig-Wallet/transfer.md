@@ -19,7 +19,7 @@ Open TokenPocket MultiSig wallet, select the token/NFT you want to transfer, tak
 
 ****[**Know more about Nonce.**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/nonce)****
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
 
 TokenPocket can't delete the order in the MultiSig queue now, so if you've created multiple unexecuted orders, but you need to create a new order and let it execute first, there are two ways to do this.
 
@@ -33,7 +33,7 @@ TokenPocket can't delete the order in the MultiSig queue now, so if you've creat
 
 After you've confirmed the order, click \[Coinfirm] and you will be reminded to select Owner, you need to click \[Manually send to other owners to sign]. Then, according to the setting of  \[Required signatures] to \[Share to owners to sign].
 
-<figure><img src="../../.gitbook/assets/4 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2) All the owners' addresses have been imported into your current wallet.**
 
