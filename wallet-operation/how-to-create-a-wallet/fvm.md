@@ -1,6 +1,6 @@
 # Filecoin FVM Use Guide
 
-<mark style="color:orange;">**How to create a Filecoin FVM wallet in TokenPocket?**</mark>
+### <mark style="color:orange;">**How to create a Filecoin FVM wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
 1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2).png>) on the upper right corner, and select **Filecoin FVM**;
 
