@@ -10,7 +10,7 @@
 
 Fill in 【FIL】  in the search bar, and you can see the search results below, click it and be ready to add Filecoin.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (6).png" alt=""><figcaption></figcaption></figure>
 
 3\. Double-check the information and click “Confirm”. Go back to the “Select Network” interface and pull down to the bottom to see the Filecoin.
 
@@ -18,7 +18,7 @@ Fill in 【FIL】  in the search bar, and you can see the search results below, 
 
 4\. Click on the Filecoin, and you can choose “Create” or “Import” to use the Filecoin wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/4 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to add Filecoin on TokenPocket  Extension Wallet?
 

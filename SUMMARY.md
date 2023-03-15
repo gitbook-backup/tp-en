@@ -205,6 +205,7 @@
   * [About Custom Token](wallet-operation/about-custom-token.md)
   * [Design a link to promote your chain](wallet-operation/design-a-link-to-promote-your-chain.md)
 * [How to Trade on DEX?](wallet-operation/how-to-trade-on-dex/README.md)
+  * [Base Goerli chain and Goerli chain assets are interoperable.](wallet-operation/how-to-trade-on-dex/bridge.md)
   * [SushiSwap on OKChain Guide](wallet-operation/how-to-trade-on-dex/sushiswap-on-okchain-guide.md)
   * [JustSwap on Tron Gudie](wallet-operation/how-to-trade-on-dex/justswap-on-tron-gudie.md)
   * [PuddingSwap on HSC Guide](wallet-operation/how-to-trade-on-dex/puddingswap-on-hsc-guide.md)
