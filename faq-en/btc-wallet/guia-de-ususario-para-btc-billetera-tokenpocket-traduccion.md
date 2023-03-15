@@ -116,7 +116,7 @@ Paso 1: haz clic en “agregar billetera”\
 Paso 2: haz clic en “llave privada”\
 Paso 3: ingresa la llave privada y la contraseña de la billetera, haz clic en “Acepto” e “Importarla”.&#x20;
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1).png>)
 
 **La transferencia de Bitcoin es lenta, ¿se puede acelerar?**\
 \

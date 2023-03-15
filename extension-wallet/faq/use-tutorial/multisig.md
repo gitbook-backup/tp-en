@@ -24,7 +24,7 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
 2. You can select \[Create Wallet] or \[Impor Wallet] on this page.
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.  The steps of creating a multi-signature wallet are the core content.&#x20;
 
@@ -43,11 +43,11 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
 4. You can view the statue of Creation.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. After creating successfully, click \[Enter Wallet], then you can view your MultiSig wallet.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:orange;">Import a MultiSig wallet in TP Extension</mark>
 
@@ -57,9 +57,9 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
 2. You can select \[Impor Wallet] on this page.
 
-<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3.  Select the network and enter your MultiSig wallet address, then click \[Import].
 
-    <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
