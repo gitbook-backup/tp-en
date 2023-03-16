@@ -1,6 +1,6 @@
 # Version Update (Mar 11th, 2023)
 
-**The Latest Version】**
+【**The Latest Version】**
 
 iOS: 2.0.4
 
