@@ -6,7 +6,7 @@ The judicial assistance in this policy means that TokenPocket, in accordance wit
 
 **2. Subjects of judicial assistance**
 
-As the subject of judicial assistance, TokenPocket is registered in the Cayman Islands. TokenPocket is a crypto asset management wallet (hereinafter referred to as "wallet") operated by TP Global. It currently has a desktop and an APP.
+As the subject of judicial assistance, TokenPocket is registered in the Cayman Islands. TokenPocket is a crypto asset management wallet (hereinafter referred to as "wallet") operated by TP Global.
 
 **3. Judicial assistance procedures**
 
