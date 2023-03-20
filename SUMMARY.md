@@ -64,7 +64,7 @@
   * [Binance Smart Chain (BSC) wallet registration](tutorial-series/bsc/binance-smart-chain-bsc-wallet-registration.md)
   * [Master the authorization management authority of DApp (BSC)](tutorial-series/bsc/master-the-authorization-management-authority-of-dapp-bsc.md)
 * [ETH Wallet](faq-en/eth-wallet/README.md)
-  * [Node Staking Tutorial](wallet-faq-en/eth-wallet/node-staking.md)
+  * [Staking Tutorial](wallet-faq-en/eth-wallet/node-staking.md)
   * [What Is EIP-1559?](faq-en/eth-wallet/eip-1559.md)
   * [About self-custodial staking](wallet-faq-en/eth-wallet/about-self-custodial-staking.md)
   * [About Ethereum staking](wallet-faq-en/eth-wallet/about-eth-staking.md)
