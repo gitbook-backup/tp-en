@@ -1,6 +1,6 @@
 # Staking Tutorial
 
-1\. Open TokenPocket, click on \[Discover], search for \[Staking Vault] at the search bar and access it.
+1\. Open TokenPocket, click on \[Discover], search for \[ETH2.0 Staking Vault] at the search bar and access it.
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
