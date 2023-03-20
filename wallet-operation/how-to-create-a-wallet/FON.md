@@ -18,8 +18,8 @@ Fill in 【fon】  in the search bar, and you can see the search results below, 
 
 4\. Click on the FON Mainnet, and you can choose “Create” or “Import” to use the FON wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 5、After adding the FON Smart Chain, click 【Details】, and select 【Wallet Sync】to select the wallet you want to sync.
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1).png" alt=""><figcaption></figcaption></figure>
