@@ -12,7 +12,7 @@
 
 3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the **** [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
@@ -32,7 +32,7 @@
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name,  and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a Filecoin FVM wallet.​​
 
