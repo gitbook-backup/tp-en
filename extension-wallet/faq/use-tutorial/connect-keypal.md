@@ -20,7 +20,7 @@
 
 5\. Select **\[KeyPal]** and then, click **\[Connect]**.
 
-![](../../../.gitbook/assets/en1.png)
+![](<../../../.gitbook/assets/en1 (1).png>)
 
 ![](../../../.gitbook/assets/en2.png)
 
