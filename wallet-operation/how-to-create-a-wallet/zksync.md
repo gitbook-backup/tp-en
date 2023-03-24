@@ -18,7 +18,7 @@
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a Filecoin zkSync Era∎ wallet.
+5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a zkSync Era∎ wallet.
 
 <mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
@@ -34,6 +34,6 @@
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name,  and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a Filecoin zkSync Era∎ wallet.​​
+3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name,  and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a zkSync Era∎ wallet.​​
 
 <figure><img src="../../.gitbook/assets/英.png" alt=""><figcaption></figcaption></figure>
