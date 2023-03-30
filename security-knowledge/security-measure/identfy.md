@@ -24,8 +24,20 @@ Open and log in to your App Store. Search “ <mark style="color:blue;">**TP Wal
 
 :mobile\_phone:Android
 
+1. **Google Play**
+
 Open and log in to your Google Play. Search “TokenPocket” and see the results. You can see \[TokenPocket Foundation] in the interface. Click \[Development contact], you can see the website, email,  and privacy policy of TokenPocket, click \[Website] and you can enter the official website of TokenPocket \[<mark style="color:red;">**https://tokenpocket.pro/**</mark>] or \[<mark style="color:red;">**tpwallet.io**</mark>] , then it is the right “TokenPocket”.&#x20;
 
 ![](<../../.gitbook/assets/image (55) (1).png>)
+
+2. **Huawei AppGallery**
+
+Open and log in to your Huawei Gallery. Search “TokenPocket” and see the results.&#x20;
+
+<figure><img src="../../.gitbook/assets/组 57 (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;Click **\[About]**, the developer and Provider are **\[TP Global Ltd.]**, then it is the right “TokenPocket”. And TokenPocket's official website is <mark style="color:purple;">**tokenpocket.pro.**</mark>
+
+<figure><img src="../../.gitbook/assets/组 58.png" alt=""><figcaption></figcaption></figure>
 
 The update is prompted in the App, or download the latest version from the official website. (Note: The official website of TokenPocket is: [https://tokenpocket.pro/](https://tokenpocket.pro/\)) or [https://tpwallet.io/](https://tpwallet.io/).
