@@ -216,7 +216,7 @@
   * [Uniswap on Ethereum Guide](wallet-operation/how-to-trade-on-dex/uniswap-ethereum.md)
   * [Transit Swap 2.0 Guide](wallet-operation/how-to-trade-on-dex/transit-swap.md)
 * [About Protocol](wallet-operation/protocol.md)
-* [Page 1](wallet-operation/page-1.md)
+* [About Nostr](wallet-operation/nostr.md)
 
 ## 🛠 Wallet Management
 
