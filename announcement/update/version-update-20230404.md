@@ -2,7 +2,7 @@
 
 【**The Latest Version】**
 
-Android: 1.7.0 ( Google Play is under review)
+Android: 1.7.0&#x20;
 
 iOS: 2.0.5
 
