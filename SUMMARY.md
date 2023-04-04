@@ -215,8 +215,8 @@
   * [PancakeSwap on BSC Guide](wallet-operation/how-to-trade-on-dex/pancakeswap-bsc.md)
   * [Uniswap on Ethereum Guide](wallet-operation/how-to-trade-on-dex/uniswap-ethereum.md)
   * [Transit Swap 2.0 Guide](wallet-operation/how-to-trade-on-dex/transit-swap.md)
-* [About Protocol](wallet-operation/protocol.md)
-* [About Nostr](wallet-operation/nostr.md)
+* [About Protocol](wallet-operation/protocol/README.md)
+  * [About Nostr](wallet-operation/protocol/nostr.md)
 
 ## 🛠 Wallet Management
 
