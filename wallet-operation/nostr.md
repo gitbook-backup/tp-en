@@ -30,10 +30,10 @@ Nostr is a simple, open protocol that enables global, decentralized, and censors
 
 1. Open TokenPocket <mark style="color:orange;">**\[Assets]**</mark> page, click <mark style="color:orange;">**\[Details]**</mark>, then click <mark style="color:orange;">**\[Export Private Key]**</mark>.
 
-<figure><img src="../.gitbook/assets/n4 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/n4 1.png" alt=""><figcaption></figcaption></figure>
 
 2. Click on the <mark style="color:orange;">**\[Show Nostr Private Key]**</mark> button to view the Nostr private key for the current EVM wallet.
 
 <mark style="color:red;">**Attention, the Nostr private key is derived from your current evm-based wallet's private key and can also be reversed to obtain the evm-based wallet's private key. Please be sure to keep this private key safe and do not disclose it to any third party!**</mark>
 
-<figure><img src="../.gitbook/assets/n5 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/n5 1 (1).png" alt=""><figcaption></figcaption></figure>
