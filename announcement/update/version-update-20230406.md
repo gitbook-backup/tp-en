@@ -18,7 +18,7 @@ Fix the issue of app crashing on startup.
 
 &#x20;1\. Update from the Wallet application.
 
-&#x20;2\. Update from Google Play, Samsung, Huawei.（Under review）
+&#x20;2\. Update from Google Play, Samsung, Huawei.
 
 
 
