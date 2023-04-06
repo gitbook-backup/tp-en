@@ -53,10 +53,11 @@ As for security
 |  1.4.9  | 4b88e2ffa2b3d84fbc2f099e1034fb86 | 37b571b7644e456be7260e3d1d93ce59d9e38f694215c85e29e4a1476b6bf634 |
 |  1.4.7  | feab610e82a1ed694d24994487f3e38c | b023f39e496ac6a38cc0ef121470cc7c2142f393c75aea504bc8ab979285dffd |
 
-<mark style="color:blue;">****</mark>[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro) <mark style="color:blue;">**or tpwallet.io**</mark>
+[<mark style="color:blue;">**www.tokenpocket.pro**</mark>](https://www.tokenpocket.pro) <mark style="color:blue;">**or tpwallet.io**</mark>
 
 | Verison |                MD5               |                              SHA256                              |
 | :-----: | :------------------------------: | :--------------------------------------------------------------: |
+|  1.7.1  |                                  |                                                                  |
 |  1.7.0  | e2bbf4e2a9dfb1f52e079028a61f3d7c | d46b6a2d90715dd21329ae071f03b4098eef172eae7cc998fbe4c805c338f7bc |
 |  1.6.9  | 357d37f7d57b6e5efb3d43c250272c79 | 2519682c8793e6730aa6fa58b3373995d07b7e1c44da5c740c4254d49b393bd3 |
 |  1.6.8  | 93cee34fb006c1fec1f907f563f1bde1 | 57b4ede95f6ea09bac2efcbe921fbee07fccf1c7f6b93a0c3ead58d01dd9c020 |
@@ -110,12 +111,12 @@ SHA256 tool:&#x20;
 
 This tool is our familiar compression/decompression tool 7-Zip, through which you can easily get the SHA256 value of the file.
 
-Open the official website **** [<mark style="color:blue;">**https://www.7-zip.org/**</mark>](https://www.7-zip.org/) **a**nd click “Download” to download the corresponding version and install it.
+Open the official website [<mark style="color:blue;">**https://www.7-zip.org/**</mark>](https://www.7-zip.org/) **a**nd click “Download” to download the corresponding version and install it.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMF2k4MCaxErpZyah2d%2Fuploads%2FocJZCuQGvkYBRdBjTr2H%2FSnipaste_2022-06-20_21-29-07.png?alt=media&token=3108a86d-bd98-4f23-b8ce-5c1486394f2c" %}
 
 After installation, just right-click on the downloaded APK file and select “7-Zip”—"CRC SHA”—"SHA-256” to see the SHA256 hash value.
 
-**Tool :**Click to <mark style="color:blue;">****</mark> [<mark style="color:blue;">**download the tool**</mark>](https://cr5.198254.com/com.hobbyone.hashdroid.apk)**.** This tool is more powerful and supports multiple hash algorithm verifications such as MD5 and SHA256. After the same installation, click to switch to “HASH A FILE”, and tick “Select a hash function” to choose, next press “CLICK HERE TO SELECT THE FILE TO HASH” to find the apk that needs to be verified, then click “CALCULATE” after loading. The result can be compared with the official parameters.
+**Tool :**Click to [<mark style="color:blue;">**download the tool**</mark>](https://cr5.198254.com/com.hobbyone.hashdroid.apk)**.** This tool is more powerful and supports multiple hash algorithm verifications such as MD5 and SHA256. After the same installation, click to switch to “HASH A FILE”, and tick “Select a hash function” to choose, next press “CLICK HERE TO SELECT THE FILE TO HASH” to find the apk that needs to be verified, then click “CALCULATE” after loading. The result can be compared with the official parameters.
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMF2k4MCaxErpZyah2d%2Fuploads%2FBq7gJnSwv9Nz5ZqWyMez%2F2.png?alt=media&token=02354ca7-d56d-4c61-8ec0-5119565ec5f3" %}
