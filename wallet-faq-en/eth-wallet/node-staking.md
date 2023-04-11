@@ -2,7 +2,7 @@
 
 1\. Open TokenPocket, click on \[Discover], search for \[ETH2.0 Staking Vault] at the search bar and access it.
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMJyYRLFVRsMrfcXuRV%2Fuploads%2F7jxU1BFaRJ5SEyzolH3J%2F1.png?alt=media&#x26;token=752465a2-aef6-4bb7-9ac0-4dcf9634e5d0" alt=""><figcaption></figcaption></figure>
 
 #### 2. Self-Custodial Staking&#x20;
 
