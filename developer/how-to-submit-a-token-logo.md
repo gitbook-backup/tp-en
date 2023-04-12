@@ -36,6 +36,12 @@ Avalanche-C: [https://github.com/TP-Lab/tokens/tree/master/Avalanche-C](https://
 
 Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://github.com/TP-Lab/tokens/tree/master/optimistic)
 
+Fil(FVM)：[https://github.com/TP-Lab/tokens/tree/master/fil](https://github.com/TP-Lab/tokens/tree/master/fil)
+
+zkSync Era ∎：[https://github.com/TP-Lab/tokens/tree/master/zksync](https://github.com/TP-Lab/tokens/tree/master/zksync)
+
+Aptos：[https://github.com/TP-Lab/tokens/tree/master/apt](https://github.com/TP-Lab/tokens/tree/master/apt)
+
 
 
 ### <mark style="color:blue;">Attentions:</mark>&#x20;
@@ -46,13 +52,13 @@ Optimistic: [https://github.com/TP-Lab/tokens/tree/master/optimistic](https://gi
 
 <mark style="color:red;">**3、The donation amount of TPT has been updated to 50,000**</mark>&#x20;
 
-&#x20;      <mark style="color:blue;">****</mark>       [<mark style="color:red;">**view community proposals**</mark>](https://fans.tokenpocket.pro/t/topic/16905)      [<mark style="color:red;">**view vote results**</mark>](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)   <mark style="color:red;">**Effective from 00:00 on June 13, 2022**</mark>
+&#x20;      [<mark style="color:red;">**view community proposals**</mark>](https://fans.tokenpocket.pro/t/topic/16905)      [<mark style="color:red;">**view vote results**</mark>](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)   <mark style="color:red;">**Effective from 00:00 on June 13, 2022**</mark>
 
 <mark style="color:blue;">**4、logo is only to enrich the token information, and does not guarantee the absolutely reliable ofthe token, nor does it mean any investment advice from TokenPocket, please pay attention tothe risks!**</mark>
 
 <mark style="color:blue;">**5、Due to the openness of github, anyone can leave a message in the submitted order,so please don't believe any third-party person's message, beware of scams!**</mark>
 
-****[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)****
+[**Click the Check DAO details**](https://snapshot.org/#/tptdao.eth/proposal/0x5e985943ac4dea8d97af93143020c337370950604ebabbe172939a5c63eed872)
 
 ### **Preparation**
 
@@ -68,7 +74,7 @@ Background: transparent is recommanded.
 {% endcode %}
 
 **Tip:** \
-****There are two online services recommended to edit your image:
+There are two online services recommended to edit your image:
 
 * [onlinepngtools](https://onlinepngtools.com/resize-png), to resize the image to 256 x 256
 
@@ -115,10 +121,10 @@ For ERC20 tokens, you need to submit the checksum address that includes uppercas
 
 Or you may click the [converter tool](https://piyolab.github.io/sushiether/RunScrapboxCode/?web3=1.0.0-beta.33\&code=https://scrapbox.io/api/code/sushiether/web3.js\_-\_Ethereum\_%E3%81%AE%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%B5%E3%83%A0%E4%BB%98%E3%81%8D%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B/demo.js) to convert Etherscan address to checksum address
 
-****
+
 
 **Fees for Submissions**\
-****Please donate **50,000 TPT** when submitting a token logo to verify the legitimacy of your token address. Attention, the donation would not be returned. Please consider carefully before donating. Follow the steps below to prepare the required materials and complete the donation. (Take BSC wallet as an example here.)
+Please donate **50,000 TPT** when submitting a token logo to verify the legitimacy of your token address. Attention, the donation would not be returned. Please consider carefully before donating. Follow the steps below to prepare the required materials and complete the donation. (Take BSC wallet as an example here.)
 
 1. Open TokenPocket App, click \[Assets] on the bottom, choose TPT Token, and then click \[Transfer] to proceed.
 
