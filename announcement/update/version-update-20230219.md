@@ -32,7 +32,7 @@ Android: 1.6.7
 
 **(The developer downloaded in App Store before October 8, 2022 is TOKENPOCKET FOUNDATION LTD, an early version developed by TokenPocket, which is also a legitimate wallet can be used normally, and the update service will be suspended later.)**
 
-****
+
 
 **【Android Version Update method】**
 

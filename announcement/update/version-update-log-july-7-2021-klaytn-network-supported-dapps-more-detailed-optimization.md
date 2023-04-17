@@ -1,4 +1,4 @@
-# Version update log (July 7, 2021): Klaytn network supports custom tokens
+# Version update log (July 7th, 2021)
 
 **\[Details of version update]**&#x20;
 
@@ -26,4 +26,3 @@ Android 1.2.9
 
 The upgrade is prompted in the App, or users can download the latest version from the [**official website**](https://www.tokenpocket.pro/en/download/app). (Note: The only official website of TokenPocket is: [www.tokenpocket.pro](http://www.tokenpocket.pro/))
 
-****

@@ -34,7 +34,7 @@
 
 ![](../../../.gitbook/assets/7.png)
 
-5\. <mark style="color:red;">****</mark> At this point, you have successfully created a new wallet account.
+5\. At this point, you have successfully created a new wallet account.
 
 ![](<../../../.gitbook/assets/3 (10).png>)
 

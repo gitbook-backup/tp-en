@@ -1,8 +1,8 @@
 # How to connect to KeyPal?
 
-****[**TokenPocket extension wallet**](https://extension.tokenpocket.pro/#/) **(1.1.4) has already supported users to connect to the KeyPal hardware wallet.**&#x20;
+[**TokenPocket extension wallet**](https://extension.tokenpocket.pro/#/) **(1.1.4) has already supported users to connect to the KeyPal hardware wallet.**&#x20;
 
-1. Firstly, you need to install the KeyPal tools from [**https://extension.keypal.pro/popup.html**](https://extension.keypal.pro/popup.html) **** to connect to <mark style="color:blue;">****</mark> [<mark style="color:blue;">**KeyPal**</mark>](http://keypal.pro/). Click **\[Install KeyPal tools]**.&#x20;
+1. Firstly, you need to install the KeyPal tools from [**https://extension.keypal.pro/popup.html**](https://extension.keypal.pro/popup.html) to connect to [<mark style="color:blue;">**KeyPal**</mark>](http://keypal.pro/). Click **\[Install KeyPal tools]**.&#x20;
 
 ![](../../../.gitbook/assets/en3.png)
 

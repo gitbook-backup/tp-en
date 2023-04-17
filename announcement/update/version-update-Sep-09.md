@@ -21,6 +21,6 @@ iOS: 1.9.0
 
 &#x20; 2\. Update from GooglePlay&#x20;
 
-****
+
 
 **(Note: The only official website of TokenPocket is:** [**https://tokenpocket.pro/**](https://tokenpocket.pro/)**)**

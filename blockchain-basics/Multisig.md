@@ -16,4 +16,4 @@ The multi-signature of ETH/ERC20 (including EVM chains such as BSC/BEP20) adopts
 
 
 
-**>>** [**How to create a MultiSig wallet?**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/create)****
+**>>** [**How to create a MultiSig wallet?**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/create)

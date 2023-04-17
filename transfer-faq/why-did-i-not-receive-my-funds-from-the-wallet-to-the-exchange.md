@@ -5,7 +5,7 @@ First of all, transfer on the blockchain is divided into three steps: **Transfer
 If you've transferred tokens from TokenPocket but didn't receive it on the exchange, please follow the steps below:&#x20;
 
 **1. Check whether the transaction has been transferred out:**\
-****After submitting a withdrawal on TokenPocket, the withdrawal record will be displayed on the \[Transfer] page. Once the transaction ID is generated, it means that the withdrawal is already on the chain, and the wallet withdrawal process is completed. At this time, you need to click Transaction ID to view the details on the chain. (The way of viewing details on blockchain is on the last section of the page)&#x20;
+After submitting a withdrawal on TokenPocket, the withdrawal record will be displayed on the \[Transfer] page. Once the transaction ID is generated, it means that the withdrawal is already on the chain, and the wallet withdrawal process is completed. At this time, you need to click Transaction ID to view the details on the chain. (The way of viewing details on blockchain is on the last section of the page)&#x20;
 
 **2. Check the transaction details on the blockchain**:\
 According to the characteristics of different blocks, each transfer will take a certain amount of time to be confirmed by the block and then sent to the receiving platform.&#x20;
@@ -41,7 +41,7 @@ Note: Even if the transaction fails, the paid Gas will not be refunded.
 **Attention:** Due to the irreversibility of blockchain transfers, TokenPocket cannot cancel or refund successful transactions. Only the recipient (Exchange) can help you retrieve the assets.
 
 **Common Blockchain Explorers**\
-****[Ethereum](https://cn.etherscan.com/)\
+[Ethereum](https://cn.etherscan.com/)\
 [BscScan](https://bscscan.com/)\
 [HecoInfo](https://hecoinfo.com/)\
 [Tronscan](https://tronscan.io/#/)

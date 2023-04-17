@@ -38,4 +38,3 @@ TokenPocket Extension Wallet is an extension to connect the blockchain world to 
 
 <mark style="color:red;">**Disclaimer: This tutorial has no investment advice.**</mark>
 
-****

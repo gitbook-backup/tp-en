@@ -84,10 +84,10 @@ There are many functions in pancakeswap, including【Swap】【Farm】【Staking
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619159312545.png)
 
-__
+
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
 
-__
+
 
 

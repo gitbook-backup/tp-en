@@ -48,7 +48,7 @@ Open【Repay Borrow】 to make repayments. To make your first repayment, click o
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619160440996.png)
 
-****
+
 
 **5: Stake and Mint Stablecoin VAI**&#x20;
 
@@ -90,6 +90,6 @@ You can see your 【Voting Weight】 at the bottom of the page, click on 【Get 
 
 **Proposal:** You can create your own proposal by clicking on **\[**Create Proposal**]**. Proposers need to have at least 300,000 XVS and the proposal must have a minimum of 600,000 XVS to be approved.
 
-__
+
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._

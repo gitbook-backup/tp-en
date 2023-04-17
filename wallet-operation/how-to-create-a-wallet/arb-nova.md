@@ -2,7 +2,7 @@
 
 ## **How to create an** Arbitrum Nova **wallet in TokenPocket?** <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select Arbitrum **** Nova, click **\[Add Wallet]** and click **\[Create Wallet]**;
+1. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select Arbitrum Nova, click **\[Add Wallet]** and click **\[Create Wallet]**;
 
 <figure><img src="../../.gitbook/assets/nova en1.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@
 
 <figure><img src="https://659607907-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMJyYRLFVRsMrfcXuRV%2Fuploads%2FmVlqrOPB2L6BC9dVj31M%2Fho%20en3.png?alt=media&#x26;token=d4945c3e-9a98-4071-bf2f-53caf6380619" alt=""><figcaption></figcaption></figure>
 
-4\. Back up the secret recovery phrase on the paper or on the **** [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** and enter your secret recovery phrase, click **\[Confirm]**.
+4\. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** and enter your secret recovery phrase, click **\[Confirm]**.
 
 <figure><img src="https://659607907-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMJyYRLFVRsMrfcXuRV%2Fuploads%2Fi0IR6TAZdRdVIFBEUo2V%2Fho%20en4.png?alt=media&#x26;token=c94d0c86-8e7b-417e-a830-31ba537ad9c5" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@
 
 <figure><img src="../../.gitbook/assets/nova en4.png" alt=""><figcaption></figcaption></figure>
 
-2\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name,  and password, click the User Agreement, and click **\[Import Wallet]**.
+2\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**.
 
 <figure><img src="../../.gitbook/assets/nova en5.png" alt=""><figcaption></figcaption></figure>
 

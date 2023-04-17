@@ -74,4 +74,3 @@ For issues not covered by this policy, please refer to the relevant laws and reg
 
 4\. Contact information of the judicial organ or the police officer handling the case, including email address, phone number, etc.
 
-****

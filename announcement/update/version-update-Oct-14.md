@@ -1,4 +1,4 @@
-# Version Update (Otc 14th, 2022)
+# Version Update (Oct 14th, 2022)
 
 **【The Latest Version】**
 
@@ -21,7 +21,7 @@
 
 &#x20; 2\. Update from GooglePlay&#x20;
 
-****
+
 
 **Note**：\
 Aptos may have compatibility issues on low-version Android devices. It is recommended to create/import Aptos wallets on Android 8 or above.

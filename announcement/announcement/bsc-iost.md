@@ -19,10 +19,10 @@ Jul 20th, 2022
 
 **Tips: You can search the transaction history on explorer!**
 
-****[**BSC Explorer**](https://bscscan.com/)****
+[**BSC Explorer**](https://bscscan.com/)
 
-****[**IOST Explorer**](https://explorer.iost.io/)
+[**IOST Explorer**](https://explorer.iost.io/)
 
-****[**Tutorial**](https://help.tokenpocket.pro/en/wallet-management/blockchain-explorer-tutorial)****
+[**Tutorial**](https://help.tokenpocket.pro/en/wallet-management/blockchain-explorer-tutorial)
 
 \

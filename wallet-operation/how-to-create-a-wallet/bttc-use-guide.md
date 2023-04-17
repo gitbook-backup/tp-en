@@ -34,7 +34,7 @@
 
 <mark style="color:red;">**Attention: Do not disclose the private key or Secret Recovery Phrase to the third party!**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **How to sync a BTTC Wallet in TokenPocket?**
 

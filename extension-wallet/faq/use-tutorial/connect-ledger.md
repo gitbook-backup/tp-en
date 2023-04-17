@@ -1,6 +1,6 @@
-# How to connect Ledger?
+# How to connect to Ledger?
 
-****[**TokenPocket extension wallet**](https://extension.tokenpocket.pro/#/) **(1.1.3) has already supported users to connect the Ledger hardware wallet. There are two ways to connect to the Ledger hardware wallet.**
+[**TokenPocket extension wallet**](https://extension.tokenpocket.pro/#/) **(1.1.3) has already supported users to connect the Ledger hardware wallet. There are two ways to connect to the Ledger hardware wallet.**
 
 <mark style="color:red;">**The first way: Connect to the Ledger by webhid connection type.**</mark>
 

@@ -36,6 +36,6 @@
 
 ![](<../../.gitbook/assets/Group 18937.png>)
 
-2\. Click \[Create Wallet], and continue to click \[One-Step Sync]; **** Choose the wallet you want to sync and then click \[Synchronize]; at this point, the Harmony wallet network has been synchronized, and you can select Harmony to view it on the asset page.
+2\. Click \[Create Wallet], and continue to click \[One-Step Sync]; Choose the wallet you want to sync and then click \[Synchronize]; at this point, the Harmony wallet network has been synchronized, and you can select Harmony to view it on the asset page.
 
 ![](<../../.gitbook/assets/Group 18938.png>)

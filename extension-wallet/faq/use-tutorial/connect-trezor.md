@@ -1,6 +1,6 @@
-# How to connect Trezor?
+# How to connect to Trezor?
 
-****[**TokenPocket extension wallet**](https://extension.tokenpocket.pro/#/) **(1.1.3) has already supported users to connect Trezor hardware wallet. There are two ways to connect to the Trezor hardware wallet.**
+[**TokenPocket extension wallet**](https://extension.tokenpocket.pro/#/) **(1.1.3) has already supported users to connect Trezor hardware wallet. There are two ways to connect to the Trezor hardware wallet.**
 
 
 

@@ -22,4 +22,4 @@ Chrome: 1.1.11
 
 2\. [**Download the latest installation package**](https://extension.tokenpocket.pro/#/) and add TokenPocket Extension Wallet to your extension installation.&#x20;
 
-Tutorial: **** [**https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial**](https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial)****
+Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial**](https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial)

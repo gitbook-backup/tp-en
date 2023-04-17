@@ -2,9 +2,9 @@
 
 [TokenPocket](https://www.tokenpocket.pro/) is the world’s leading multi-chain self-custodial wallet, which supports mainstream public chains including BTC, ETH, BSC, TRON, DOGE, Polygon, Arbitrum, Optimism, Solana, HECO, Klaytn, Avalanche, OKC, Fantom, Polkadot, Kusama, etc. The trinity of [TokenPocket mobile wallet](https://tokenpocket.pro/), [chrome extension wallet](https://extension.tokenpocket.pro/#/), and [hardware wallet](http://keypal.pro/) has been formally formed. The Secret Recovery Phrase and Private Key are stored in the user’s own device and the user can fully control his own crypto assets. TokenPocket has provided reliable services for over 20 million users around the world. The number of monthly active users exceeds 3.5 million and the users are located in more than 200 countries around the world.
 
-:mobile\_phone:Available for 🍎[**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697)****[ **** ](https://apps.apple.com/hk/app/tp-global-wallet/id6444625622)**and**🤖[**Android**](https://play.google.com/store/apps/details?id=vip.mytokenpocket)**.**
+:mobile\_phone:Available for 🍎[**iOS**](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697)[ ](https://apps.apple.com/hk/app/tp-global-wallet/id6444625622)**and**🤖[**Android**](https://play.google.com/store/apps/details?id=vip.mytokenpocket)**.**
 
-💻 Available for [**Chrome Extension**](https://extension.tokenpocket.pro/#/)****
+💻 Available for [**Chrome Extension**](https://extension.tokenpocket.pro/#/)
 
 ![](.gitbook/assets/tp.png)
 

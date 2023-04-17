@@ -11,7 +11,7 @@ coverY: 0
 
 <mark style="color:blue;">**Blockchain is entering our world**</mark>
 
-<mark style="color:blue;">****</mark>
+
 
 Know about blockchain technology? Have you used a decentralized wallet? Want to learn about and join this cutting-edge field of technology? If you graduate with related majors and have development experience, and also willing to continuously help TP to optimize and upgrade to improve product functions and user experience, don't hesitate to join us! All we want is you!
 

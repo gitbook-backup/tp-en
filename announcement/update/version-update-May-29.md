@@ -1,4 +1,4 @@
-# Version Update (May 29, 2022)
+# Version Update (May 29th, 2022)
 
 **【Version Update】**
 
@@ -9,7 +9,7 @@
 **【Version Update】**
 
 1. Fix the display problem of KeyPal sub-wallet.
-2. Add the balance detection function to **** sub-wallet.
+2. Add the balance detection function to sub-wallet.
 3. Optimize users‘ experience.
 
 

@@ -2,11 +2,11 @@
 
 KCC is a public chain project initiated and built by the developer community of KCS and KuCoin, aiming to solve the network latency and high gas fee of Ethereum. KCC is an EVM compatible blockchain and is striving to provide community users and developers with a higher-speed, more convenient, and lower-cost blockchain experience.
 
-<mark style="color:orange;">****</mark>
+
 
 **How to create a KCC Wallet in TokenPocket?**
 
-1\. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select KCC Mainnet, click <mark style="color:orange;">**\[Add Wallet]**</mark> and click <mark style="color:orange;">**\[Create Wallet]**</mark>; click <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">**\[Create Wallet]**</mark> again.
+1\. Open TokenPocket APP, click the pattern on the upper left corner and switch the wallet network, select KCC Mainnet, click <mark style="color:orange;">**\[Add Wallet]**</mark> and click <mark style="color:orange;">**\[Create Wallet]**</mark>; click <mark style="color:orange;">**\[Create Wallet]**</mark> again.
 
 ![](<../../.gitbook/assets/KCC zh1.png>)
 

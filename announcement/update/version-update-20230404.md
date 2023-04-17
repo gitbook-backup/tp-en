@@ -10,7 +10,7 @@ iOS: 2.0.5
 
 **【Android Version Update】**
 
-1. Support Nostr Protocol on EVM-based chains. > **** [**Click to know how to use Nostr**](../../wallet-operation/protocol/nostr.md)****
+1. Support Nostr Protocol on EVM-based chains. > [**Click to know how to use Nostr**](../../wallet-operation/protocol/nostr.md)
 2. Support displaying transaction estimation results on Ethereum and BSC.
 3. Support network detection function.
 4. Optimize the address book function and support adding address information.
@@ -37,6 +37,5 @@ iOS: 2.0.5
 
 **(The developer downloaded in App Store before October 8, 2022 is TOKENPOCKET FOUNDATION LTD, an early version developed by TokenPocket, which is also a legitimate wallet can be used normally, and the update service will be suspended later.)**
 
-****
 
-****
+

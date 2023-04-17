@@ -1,4 +1,4 @@
-# Version update log (January 17, 2022): Support WAX; Support NFT use cases; etc.
+# Version update log (January 17th, 2022)
 
 **\[Version Update]**
 
@@ -60,4 +60,4 @@ Now you can switch your network node on the \[Assets] page.
 
 **【Version update method】**‌
 
-The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/)](https://tokenpocket.pro/\))****
+The update is prompted in the App, or download the latest version from the official website. (Note: The only official website of TokenPocket is: [https://tokenpocket.pro/)](https://tokenpocket.pro/\))

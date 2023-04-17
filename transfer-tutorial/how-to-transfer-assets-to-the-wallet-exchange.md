@@ -32,14 +32,14 @@ Notes: 1) Click \[Address Book] for choosing a receiving address stored in book;
 ![](../.gitbook/assets/ti-xian-5.jpg)
 
 **Notes:**\
-****1) Please check whether the receiving address accepts the token before transferring;
+1\) Please check whether the receiving address accepts the token before transferring;
 
 2\) Please make sure that you have enough miner fees in your wallet before transferring. For example, you need to have enough BNB as miner fees if you choose BSC wallet to transfer.
 
 3\) Please make sure that the token you need to transfer and receiving address are on the same blockchain when transferring. For example, if you choose BNB-BSC as your receiving address, you should choose BSC wallet to transfer.
 
 **Related contents**\
-****1) [Why can't I transfer my assets to the contract address?](https://tphelp.gitbook.io/en/wallet-operation/do-not-transfer-to-the-contract-address)\
+1\) [Why can't I transfer my assets to the contract address?](https://tphelp.gitbook.io/en/wallet-operation/do-not-transfer-to-the-contract-address)\
 2\) [What should I do if I transfer my assets through the wrong chain?](https://tp-lab.tokenpocket.pro/AssetsFind/index.html?locale=en#/)\
 3\) [Why did I not receive my assets from the wallet to the exchange?](https://tphelp.gitbook.io/en/transfer-faq/why-did-i-not-receive-my-funds-from-the-wallet-to-the-exchange)\
 4\) [How to Add Memo When Transferring?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-add-memo-when-transferring)

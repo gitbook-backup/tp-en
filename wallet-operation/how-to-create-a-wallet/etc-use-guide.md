@@ -14,7 +14,7 @@
 
 ![](<../../.gitbook/assets/ho en3.png>)
 
-4\. Back up the secret recovery phrase on the paper or on the **** [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click <mark style="color:orange;">**\[Completed backup, verify now]**</mark> and enter your secret recovery phrase, click <mark style="color:orange;">**\[Confirm]**</mark>.&#x20;
+4\. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click <mark style="color:orange;">**\[Completed backup, verify now]**</mark> and enter your secret recovery phrase, click <mark style="color:orange;">**\[Confirm]**</mark>.&#x20;
 
 ![](<../../.gitbook/assets/ho en4.png>)
 
@@ -30,7 +30,7 @@
 
 ![](<../../.gitbook/assets/ETC EN 6.png>)
 
-2\. Take <mark style="color:orange;">**\[Recovery Phrase import]**</mark> as an example, enter your secret recovery phrase, wallet name,  and password, click the User Agreement, and click <mark style="color:orange;">**\[Import Wallet]**</mark>.&#x20;
+2\. Take <mark style="color:orange;">**\[Recovery Phrase import]**</mark> as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click <mark style="color:orange;">**\[Import Wallet]**</mark>.&#x20;
 
 ![](<../../.gitbook/assets/ho en7.png>)
 

@@ -6,7 +6,7 @@
 
 
 
-2\. You can see <mark style="color:blue;">**TP Wallet**</mark>** **<mark style="color:orange;">****</mark> , and click the APP to see the details.
+2\. You can see <mark style="color:blue;">**TP Wallet**</mark> , and click the APP to see the details.
 
 ![](../../.gitbook/assets/b55f8fe2e1c0741f0175aa196930c.png)
 

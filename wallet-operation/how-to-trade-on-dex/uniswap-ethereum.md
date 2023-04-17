@@ -1,10 +1,10 @@
 # Uniswap on Ethereum Guide
 
-**About** [**Uniswap**](https://uniswap.org/)****\
-****Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all. Currently, Uniswap supports **Ethereum network**.
+**About** [**Uniswap**](https://uniswap.org/)\
+Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace that is open and accessible to all. Currently, Uniswap supports **Ethereum network**.
 
 **How to swap tokens?**\
-****1. Open TokenPocket, click \[Discover] and then search Uniswap on the top of search bar; (Take Uniswap V3 as an example here)
+1\. Open TokenPocket, click \[Discover] and then search Uniswap on the top of search bar; (Take Uniswap V3 as an example here)
 
 2\. After entering the \[Swap] page, enter the token name and amount you need to transfer, choose the receiving token (Selecting a token by searching the contract address is recommended), and the amount will be matched by default. After that, click \[Swap] to procceed. (Take ETH swap to USDT as an example here)
 

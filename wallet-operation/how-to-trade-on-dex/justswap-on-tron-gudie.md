@@ -1,7 +1,7 @@
 # JustSwap on Tron Gudie
 
-**About** [**JustSwap**](https://just.network/)****\
-****JustSwap is a TRON-based decentralized trading protocol for automated liquidity provision and an open financial market accessible to all. It holds many functions like Swap, LP Pools, etc.
+**About** [**JustSwap**](https://just.network/)\
+JustSwap is a TRON-based decentralized trading protocol for automated liquidity provision and an open financial market accessible to all. It holds many functions like Swap, LP Pools, etc.
 
 **How to Swap on JustSwap Through Tron?**
 
@@ -21,7 +21,7 @@ Tip: You can paste the contract address on the search bar to select token.
 
 ![](../../.gitbook/assets/justswap3.jpg)
 
-****
+
 
 **Reminders:**
 
@@ -35,11 +35,11 @@ Tip: You can paste the contract address on the search bar to select token.
 
 ![](../../.gitbook/assets/justswap6.jpg)
 
-****
+
 
 **Click** [**Here**](https://justswap.zendesk.com/hc/en-us) **to contact JustSwap**&#x20;
 
-****
+
 
 {% hint style="info" %}
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._

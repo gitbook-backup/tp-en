@@ -2,7 +2,7 @@
 
 To help more users to get away from the fake token, honeypot, and the scam websites. TokenPocket has marked these tokens and websites as "risky". <mark style="color:red;">**If the following interface appears on the asset page or when you open the website, please stop any operations immediately and delete the asset!**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 **The risky token reminder:**&#x20;
 

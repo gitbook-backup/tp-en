@@ -19,13 +19,13 @@ Chrome: 1.1.3
 
 1. How to connect Ledger?
 
-Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-ledger**](https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-ledger)****
+Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-ledger**](https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-ledger)
 
 2\. How to connect Trezor?
 
-Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-trezor**](https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-trezor)****
+Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-trezor**](https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/connect-trezor)
 
-****
+
 
 **【Version update method】‌**
 
@@ -35,4 +35,4 @@ Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/use-tutorial/c
 
 2\. [**Download the latest installation package**](https://extension.tokenpocket.pro/#/) and add TokenPocket Extension Wallet to your extension installation.&#x20;
 
-Tutorial: **** [**https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial**](https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial)****
+Tutorial: [**https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial**](https://help.tokenpocket.pro/en/extension-wallet/faq/installation-tutorial)

@@ -27,7 +27,7 @@ If you are not a VIP member, you need to pay fees for each batch transfer.
 
 #### The tutorial for Token Batch Sender:
 
-1、Open the multi-chain token batch sender link [<mark style="color:blue;">**https://batchsender.tokenpocket.pro/#/**</mark>](https://batchsender.tokenpocket.pro/#/)<mark style="color:blue;">****</mark>
+1、Open the multi-chain token batch sender link [<mark style="color:blue;">**https://batchsender.tokenpocket.pro/#/**</mark>](https://batchsender.tokenpocket.pro/#/)
 
 ![](<../.gitbook/assets/2 (17).png>)
 

@@ -4,7 +4,7 @@
 PancakeSwap is a decentralized exchange on **Binance Smart Chain** with many functions such as \[Trade], \[Farm], \[Pools] and so on.
 
 **How to Trade on PancakeSwap?**\
-****1.Open TokenPocket App, choose BSC wallet, click \[Discover] at the bottom, and then search \[PancakeSwap] to enter;
+1.Open TokenPocket App, choose BSC wallet, click \[Discover] at the bottom, and then search \[PancakeSwap] to enter;
 
 2\. After entering, click the navigation bar at the upper left corner to view all functions on PancakeSwap. The dark mode can be switched at the bottom.
 

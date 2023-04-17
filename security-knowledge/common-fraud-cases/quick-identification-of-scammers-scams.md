@@ -2,7 +2,7 @@
 
 **Scam No. 1 -** Impersonating TokenPocket customer service in order to ask the user to pay the fee of solving the problem
 
-This kind of fraud occurred in the Telegram community **** first. The scammer lies as a TokenPocket admin to help users solve the problem in the Telegram community, but the premise is that user needs to pay the service fee to the scammer first. After the user pays the fee, the scammer will cut off contact with the user.
+This kind of fraud occurred in the Telegram community first. The scammer lies as a TokenPocket admin to help users solve the problem in the Telegram community, but the premise is that user needs to pay the service fee to the scammer first. After the user pays the fee, the scammer will cut off contact with the user.
 
 ![](<../../.gitbook/assets/3 拷贝 (1) (1) (2).png>)
 
@@ -26,4 +26,3 @@ Scammers use the banner of official cooperation with the TokenPocket wallet to s
 
 
 
-****

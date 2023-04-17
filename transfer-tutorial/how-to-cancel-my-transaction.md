@@ -23,4 +23,3 @@ Note: The principle of canceling a transaction is to re-initiate a transfer of t
 [How to accelerate my transaction?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-accelerate-my-transaction)\
 
 
-****

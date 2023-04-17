@@ -168,4 +168,3 @@ As for any issues not covered in this Policy, you shall comply with the announce
 
 TOKENPOCKET FOUNDATION LTD.
 
-****

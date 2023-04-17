@@ -1,10 +1,10 @@
 # MDEX on HECO Guide
 
-**About** [**MDEX**](https://mdex.com/)****\
-****A composite DeFi ecosystem that integrates DEX, IMO, and DAO. MDEX is a decentralized exchange and supports **BSC/HECO/ETH**, with many functions such as \[Swap], \[Farm], \[Bridge] and so on. And here is a tutorial based on HECO.
+**About** [**MDEX**](https://mdex.com/)\
+A composite DeFi ecosystem that integrates DEX, IMO, and DAO. MDEX is a decentralized exchange and supports **BSC/HECO/ETH**, with many functions such as \[Swap], \[Farm], \[Bridge] and so on. And here is a tutorial based on HECO.
 
 **How to trade on MDEX through HECO**\
-****1.Open TokenPocket App, choose HECO wallet, click \[Discover] at the bottom, and then search \[MDEX] to enter;
+1.Open TokenPocket App, choose HECO wallet, click \[Discover] at the bottom, and then search \[MDEX] to enter;
 
 2\. After entering the MDEX page, you may click the wallet connecting button in the upper right corner, click the navigation bar in the upper left corner to view all functions on MDEX, click the settings button next to the wallet connecting button to set slippage tolerance, interface, and language.
 

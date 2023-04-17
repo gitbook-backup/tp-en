@@ -8,10 +8,10 @@
 
 ![](../.gitbook/assets/ti-jiao-dapp2.jpg)
 
-****
+
 
 **DApp Requirement**\
-****1. The provided website is accessible and stable.
+1\. The provided website is accessible and stable.
 
 2\. The smart contracts have deployed on the mainnet, and the sensitive part requires to be open source.
 
@@ -26,4 +26,4 @@
 
 
 **Contact Us**\
-****Email: [dapp@tokenpocket.pro](mailto:service@tokenpocket.pro)\
+Email: [dapp@tokenpocket.pro](mailto:service@tokenpocket.pro)\

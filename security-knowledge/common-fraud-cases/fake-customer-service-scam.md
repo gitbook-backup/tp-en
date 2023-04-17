@@ -8,7 +8,7 @@ So, If you have any questions, please don't trust anyone who sends messages to y
 
 ![](<../../.gitbook/assets/3 拷贝 (1) (1).png>)
 
-2\. **** Impersonating TokenPocket Telegram Community Admin to cheat‌.
+2\. Impersonating TokenPocket Telegram Community Admin to cheat‌.
 
 ![](<../../.gitbook/assets/3 拷贝 2 (1).png>)
 

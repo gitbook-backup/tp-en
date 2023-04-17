@@ -33,4 +33,4 @@ Android: 1.7.2
 
 &#x20;1\. Update from the Wallet application.
 
-&#x20;2\. Update from Google Play, Samsung.
+&#x20;2\. Update from Google Play, Samsung, Huawei store

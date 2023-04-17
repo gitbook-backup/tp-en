@@ -18,6 +18,6 @@
 
 ![](<../../.gitbook/assets/3 (15).png>)
 
-__
+
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._

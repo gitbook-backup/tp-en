@@ -1,4 +1,4 @@
-# Version Update (Otc 29th, 2022)
+# Version Update (Oct 29th, 2022)
 
 **【The Latest Version】**
 
@@ -25,6 +25,6 @@
 
 &#x20; 2\. Update from  GooglePlay ，Samsung
 
-****
+
 
 **(Note: The only official website of TokenPocket is:** [**https://tokenpocket.pro/**](https://tokenpocket.pro/)**)**

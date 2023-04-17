@@ -36,5 +36,5 @@ Additional issuance function: Increase the function of token issuance, for examp
 
 The launch of this tool can largely help users to avoid some malicious tokens. It is only for reference, and it cannot be 100% guaranteed to be accurate. Subsequent functions will be added to the token details of the market interface.
 
-The Token Contract Detection Tool can also be used by copying the link to the DApp browser at [<mark style="color:blue;">**https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/**</mark>](https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/)<mark style="color:blue;">****</mark>
+The Token Contract Detection Tool can also be used by copying the link to the DApp browser at [<mark style="color:blue;">**https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/**</mark>](https://tokensecurity.tokenpocket.pro/?utm\_source=tokenpocket#/)
 

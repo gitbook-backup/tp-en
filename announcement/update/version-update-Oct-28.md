@@ -1,4 +1,4 @@
-# Version Update (Otc 28th, 2022)
+# Version Update (Oct 28th, 2022)
 
 **【The Latest Version】**
 
@@ -22,6 +22,6 @@
 
 &#x20; 1\. Update from the Wallet application
 
-****
+
 
 **(Note: The only official website of TokenPocket is:** [**https://tokenpocket.pro/**](https://tokenpocket.pro/)**)**

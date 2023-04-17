@@ -8,7 +8,7 @@ In general, transactions on the Ethereum chain are relatively congested, and tra
 
 ![](<../.gitbook/assets/jia-su-1 (1).png>)
 
-2\. **** Click \[After] to set the miner fee after entering the page, or remain the default status;
+2\. Click \[After] to set the miner fee after entering the page, or remain the default status;
 
 ![](<../.gitbook/assets/jia-su-02 (1).png>)
 
@@ -27,5 +27,5 @@ In general, transactions on the Ethereum chain are relatively congested, and tra
 6\. Enter your wallet password, and then click \[Confirm] to complete the acceleration.
 
 **Related Tutorial:**\
-****[How to cancel my transaction?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-cancel-my-transaction)
+[How to cancel my transaction?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-cancel-my-transaction)
 

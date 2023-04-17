@@ -12,7 +12,7 @@ For the nonce, the blockchain has three rules:&#x20;
 
 1\. Miners need to package and transfer the transaction according to the nonce from small to large, so if a transaction with nonce 0 is not packaged by the miner, other transactions with nonce 1, 2, 3··· must be waiting in line regardless of how high the miner’s fee is paid.&#x20;
 
-2\. The nonce is continuous and cannot be skipped. When a transaction with a nonce of 1 is not initiated, the nonce cannot jump directly from 0 to 2, that is, a transaction with a nonce of 2 can only be **** packaged after a transaction with a nonce of 1.&#x20;
+2\. The nonce is continuous and cannot be skipped. When a transaction with a nonce of 1 is not initiated, the nonce cannot jump directly from 0 to 2, that is, a transaction with a nonce of 2 can only be packaged after a transaction with a nonce of 1.&#x20;
 
 3\. If there are two transactions with the same nonce, after one of the transactions is successful, the other transaction will be replaced, that is, the transfer is failed.&#x20;
 
@@ -21,5 +21,5 @@ Therefore, the principle of accelerating the transfer is very simple, that is, i
 
 
 **Related tutorials**\
-****1) **** [Manage the unpackaged transactions](https://tphelp.gitbook.io/en/faq-en/eth-wallet/unpackaged)\
+1\) [Manage the unpackaged transactions](https://tphelp.gitbook.io/en/faq-en/eth-wallet/unpackaged)\
 2\) [How to cancel/accelerate my transaction?](https://tphelp.gitbook.io/en/transfer-tutorial/how-to-cancel-or-accelerate-my-transaction)

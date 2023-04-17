@@ -12,5 +12,5 @@
 
 **How to submit NFT's logo?**
 
-Tutorial: **** [**https://help.tokenpocket.pro/en/developer/how-to-submit-a-token-logo**](https://help.tokenpocket.pro/en/developer/how-to-submit-a-token-logo)****
+Tutorial: [**https://help.tokenpocket.pro/en/developer/how-to-submit-a-token-logo**](https://help.tokenpocket.pro/en/developer/how-to-submit-a-token-logo)
 

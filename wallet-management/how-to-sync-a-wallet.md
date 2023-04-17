@@ -5,7 +5,7 @@
 For example, if you've transferred USDT to Ethereum wallet address by HECO chain, you won't receive your USDT in Ethereum wallet. In this case, your USDT will be in HECO chain, so, what you need to do is syncing HECO network, which means that a receiving address of heco network will be generated in your other wallets, and then your assets can be found. (If the token was still not shown on your wallet, please add the token manually)
 
 **Steps:**\
-****1.Open TokenPocket App, click on \[Details]; (Take syncing ETH network to another network as an example)
+1.Open TokenPocket App, click on \[Details]; (Take syncing ETH network to another network as an example)
 
 ![](<../.gitbook/assets/1 (14) (1) (2).png>)
 

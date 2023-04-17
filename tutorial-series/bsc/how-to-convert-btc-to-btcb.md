@@ -2,7 +2,7 @@
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618457069175.jpeg)
 
-****
+
 
 **How to convert BTC to BTCB**
 
@@ -12,7 +12,7 @@ BTCB is actually converted into coin safety smart chain format through coin safe
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1618458248885.jpg)
 
-****
+
 
 After the wallet is created, click Receipt to be the receiving address of the Binance Smart Chain. Fill in the address when withdrawing BTC on the Binance Exchange. The main network selects the second BSC Smart Chain.
 

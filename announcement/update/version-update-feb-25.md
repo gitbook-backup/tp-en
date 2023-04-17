@@ -1,4 +1,4 @@
-# Version update log(Feb 25, 2022): Support ERC1155; Add NFT administration page; etc.
+# Version update log(Feb 25th, 2022)
 
 **【Version Update】**
 
@@ -30,7 +30,7 @@ iOS: 1.7.7
 
 1\. Add NFT management page.
 
-[**How to manage your NFT assets?**](https://help.tokenpocket.pro/en/wallet-management/how-to-manage-my-nft-assets)****
+[**How to manage your NFT assets?**](https://help.tokenpocket.pro/en/wallet-management/how-to-manage-my-nft-assets)
 
 2\. Add display reminders of hot data.
 

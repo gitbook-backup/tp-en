@@ -22,6 +22,6 @@ Ellipsis is primarily an inter-stable currency exchange with the advantages of l
 
 ![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619424331421.png)
 
-****
+
 
 _This tutorial is only for the DApp in the wallet side of the operation guide, does not represent the investment advice of TokenPocket. Investing involves risks, you should be fully aware of the risks and make your own investment decisions._
