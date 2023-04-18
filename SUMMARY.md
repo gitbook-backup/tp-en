@@ -16,6 +16,7 @@
 * [What is a multi-sig wallet?](blockchain-basics/Multisig.md)
 * [What is a hardware wallet](blockchain-basics/Hardware-Wallet.md)
 * [What is an extension wallet?](blockchain-basics/Plug-in.md)
+* [What is Permit2](blockchain-basics/permit2.md)
 
 ## 🔐 Security Knowledge
 
