@@ -16,7 +16,6 @@
 * [What is a multi-sig wallet?](blockchain-basics/Multisig.md)
 * [What is a hardware wallet](blockchain-basics/Hardware-Wallet.md)
 * [What is an extension wallet?](blockchain-basics/Plug-in.md)
-* [What is Permit2](blockchain-basics/permit2.md)
 
 ## 🔐 Security Knowledge
 
@@ -83,6 +82,7 @@
   * [What is ETH Transaction Accelerator?](faq-en/eth-wallet/transaction-accelerator.md)
   * [Manage the unpackaged transactions](faq-en/eth-wallet/unpackaged.md)
   * [What is Token Approval and How to Grant Token Approval?](faq-en/eth-wallet/token-approval.md)
+  * [What is Permit2](wallet-faq-en/eth-wallet/permit2.md)
 * [BTC Wallet](faq-en/btc-wallet/README.md)
   * [Why is the fee so high for bitcoin transfer?](faq-en/btc-wallet/why-is-the-fee-so-high-for-bitcoin-transfer.md)
   * [Why does my usdt prompt an address error when I want to transfer to a bitcoin address?](faq-en/btc-wallet/why-does-my-usdt-prompt-an-address-error-when-i-want-to-transfer-to-a-bitcoin-address.md)
