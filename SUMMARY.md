@@ -126,6 +126,7 @@
   * [What is OP\_RETURN？](faq-en/btc-wallet/op\_return.md)
   * [what is UTXO](faq-en/btc-wallet/utxo.md)
   * [What’s the path](faq-en/btc-wallet/path.md)
+  * [What is Taproot?](wallet-faq-en/btc-wallet/taproot.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
   * [About Tron Authority Upgrade](wallet-faq-en/tron-wallet/permissions.md)
