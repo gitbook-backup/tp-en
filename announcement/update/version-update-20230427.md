@@ -2,7 +2,9 @@
 
 【**The Latest Version】**
 
-Android: 1.7.3
+Android: 1.7.3 （Under review）
+
+iOS：2.0.7 （Under review）
 
 
 
@@ -14,12 +16,28 @@ Android: 1.7.3
 4. Bitcoin signMessage supports cold wallet and watch wallet functions.
 5. Support TRON signMessageV2.
 6. KeyPal supports Bitcoin signMessage.
-7. Upgrade Cosmos chainID.
-8. Optimize EIP1559 protocol interaction.
-9. Optimize WalletConnect V2.
-10. Optimize the swap service.
-11. Optimize the gas fee estimated value on Optimism.
-12. Optimize users’ experience.
+7. Support Bahasa Indonesia.
+8. Upgrade Cosmos chainID.
+9. Optimize ERC1559 protocol interaction.
+10. Optimize WalletConnect V2.
+11. Optimize the swap service.
+12. Optimize the gas fee estimated value on Optimism.
+13. Optimize users’ experience.
+
+
+
+【**iOS** **Version Update】**
+
+1. Support SDK.
+2. Support Space ID.
+3. Support TRON signMessageV2.
+4. Support Nostr Protocol.
+5. Support Korean.
+6. Add sub-wallet function.
+7. Add wallet sorting function.
+8. Add network detection function.
+9. Optimize wallet DApp, SDK, and other interfaces.
+10. Optimize users’ experience.
 
 
 
