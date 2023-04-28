@@ -2,7 +2,7 @@
 
 【**The Latest Version】**
 
-Android: 1.7.3 （Under review）
+Android: 1.7.3
 
 iOS：2.0.7 （Under review）
 
