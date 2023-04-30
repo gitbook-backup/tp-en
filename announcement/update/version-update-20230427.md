@@ -4,7 +4,7 @@
 
 Android: 1.7.3
 
-iOS：2.0.7 （Under review）
+iOS：2.0.7&#x20;
 
 
 
