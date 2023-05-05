@@ -24,9 +24,9 @@ Android: 1.7.4
 
 &#x20;1\. Update from the Wallet application.
 
-&#x20;2\. Other platforms ：
+&#x20;2\. Other platforms ：(Reviewing)
 
-&#x20;     Google Play(Reviewing)
+&#x20;     Google Play
 
 &#x20;     Samsung
 
