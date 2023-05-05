@@ -24,7 +24,13 @@ Android: 1.7.4
 
 &#x20;1\. Update from the Wallet application.
 
-&#x20;2\. Update from Google Play, Samsung, Huawei store
+&#x20;2\. Other platforms ：
+
+&#x20;     Google Play(Reviewing)
+
+&#x20;     Samsung
+
+&#x20;     Huawei store
 
 
 
