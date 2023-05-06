@@ -4,19 +4,13 @@
 
 Android: 1.7.4
 
-
+iOS: 2.0.7
 
 
 
 **【Android Version Update】**
 
 1. Fix the wallet creation issue with some phone models
-
-
-
-【**iOS** **Version Update】**
-
-
 
 
 
