@@ -129,6 +129,7 @@
   * [What is Taproot?](wallet-faq-en/btc-wallet/taproot.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
+  * [How to acquire TRX tokens.](wallet-faq-en/tron-wallet/trx.md)
   * [About Tron Authority Upgrade](wallet-faq-en/tron-wallet/permissions.md)
 * [FTM Wallet](tutorial-series/ftm/README.md)
   * [Use TokenPocket wallet to participate in the operations of FTM mainnet](tutorial-series/ftm/use-tokenpocket-wallet-to-participate-in-the-operations-of-ftm-mainnet.md)
