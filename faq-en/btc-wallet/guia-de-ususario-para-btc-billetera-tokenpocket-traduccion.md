@@ -54,7 +54,7 @@ Paso 4: haga clic en “Entiendo”.\
 Paso 5: haz una copia de seguridad de tus palabras mnemónicas, preferiblemente en un lugar sin cámara, e imprímelos para guardarlos. Las capturas de pantalla son fáciles de perder, la preservación física es la más segura. Haz clic en “siguiente paso” después de la copia de seguridad.\
 Paso 6: haz clic en las palabras mnemónicas de respaldo en orden, haz clic en “confirmar”.&#x20;
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 La billetera de BTC ha sido creada.
 

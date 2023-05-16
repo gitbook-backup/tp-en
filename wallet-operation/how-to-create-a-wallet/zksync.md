@@ -1,8 +1,8 @@
-# zkSync Era∎ User Guide
+# zkSync Era∎ Use Guide
 
 ### <mark style="color:orange;">**How to create a**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">zkSync Era∎</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2).png>) on the upper right corner, and select zkSync Era∎;
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1).png>) on the upper right corner, and select zkSync Era∎;
 
 <figure><img src="../../.gitbook/assets/en1.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a zkSync Era∎ wallet.​​
 

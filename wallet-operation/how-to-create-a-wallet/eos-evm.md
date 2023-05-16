@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">**How to create a EOS EVM wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2).png>) on the upper right corner, and select EOS EVM;
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1).png>) on the upper right corner, and select EOS EVM;
 
 <figure><img src="../../.gitbook/assets/dogecn1 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@
 
 2\. Click **\[Import Wallet]** to select how you want to import your wallet.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported an EOS EVM wallet.​​
 

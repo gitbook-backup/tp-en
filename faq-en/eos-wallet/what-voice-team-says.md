@@ -1,6 +1,6 @@
 # What Voice Team Says?
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 **1. The Road to Beta**\
 Six months ago, our CEO Brendan Blumer, and CTO Dan Larimer, went on a bit of a rant in a packed Washington D.C. auditorium. The subject? The state of social media.
