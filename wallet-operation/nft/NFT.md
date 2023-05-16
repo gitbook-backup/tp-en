@@ -1,8 +1,8 @@
-# Page 1
+# NFT skin design competition tutorial
 
 1、Open the TP wallet, click \[Discover] to enter the DApp in the New Product area or the recommended position. If you are an iOS user, you can directly use the link to access.
 
-![](<../../.gitbook/assets/11 (3).png>)
+![](<../../.gitbook/assets/11 (3) (1).png>)
 
 2、In the minting page, you can fill in the name to search, and choose different public chains. After finding your favorite skin, click \[Minting] to start authorization. you can also click 5Degrees to follow each other, or click the twitter bird to find the author's more information.
 
