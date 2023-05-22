@@ -129,6 +129,7 @@
   * [What is Taproot?](wallet-faq-en/btc-wallet/taproot.md)
   * [What's the SegWit](faq-en/btc-wallet/segwit.md)
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
+  * [Easily Rent Energy on TRON in TokenPocket](wallet-faq-en/tron-wallet/energy.md)
   * [How to acquire TRX tokens.](wallet-faq-en/tron-wallet/trx.md)
   * [Voting Considerations](wallet-faq-en/tron-wallet/voting-considerations.md)
   * [What is Stake 2.0?](wallet-faq-en/tron-wallet/2.0.md)
