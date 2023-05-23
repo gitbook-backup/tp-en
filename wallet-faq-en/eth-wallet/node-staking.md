@@ -10,7 +10,7 @@
 
 Click on the Self-Custodial Staking entrance, and you can see relevant data about current pledges at the top, and at the bottom, you can see content such as \[Validator status], \[Staking history], \[Common Questions], etc. Click on \[Stake].
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.2. If the number of participating nodes is 1, it means that you need to stake 32 ETH. You can set this according to your actual needs. The node maintenance fee is charged only once. If you make multiple stakes, the corresponding node maintenance fee will be charged.
 

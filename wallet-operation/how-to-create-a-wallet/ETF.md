@@ -4,7 +4,7 @@
 
 1、Open TokenPocket, click the wallet icon in the upper right corner, and tab “Add Custom Network” at the bottom of the “Select Network” page.
 
-<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 2、Open the custom network interface, click “Easy Entry” in the upper right corner, TokenPocket will list the popular public chains, and you can easily search for the public chains you need to add through the easy entry
 
@@ -14,7 +14,7 @@ Fill in the ETF abbreviation in the search bar, and you can see the search resul
 
 3、Double check the information and click “Save” in the lower right corner to add it successfully. Go back to the “Select Network” interface and pull down to the bottom to see the newly added EthereumFair network.
 
-<figure><img src="../../.gitbook/assets/3 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 4、Click on the newly added chain, and you can choose “Create” or “Import” to use the ETF wallet. Import your wallet and you can see the ETF airdrop you received.
 

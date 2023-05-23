@@ -10,11 +10,11 @@
 
 Fill in the ETHW abbreviation in the search bar, and you can see the search results below, click it and ready to add.
 
-<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 3、Double check the information and click “Save” in the lower right corner to add it successfully. Go back to the “Select Network” interface and pull down to the bottom to see the newly added EthereumPoW network.
 
-<figure><img src="../../.gitbook/assets/3 (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4、Click on the newly added chain, and you can choose “Create” or “Import” to use the ETHW wallet. Import your wallet and you can see the ETHW airdrop you received.
 
