@@ -29,7 +29,9 @@ iOS: 2.0.7
 
 &#x20;1\. Update from the Wallet application.
 
-&#x20;2\. Google Play, Samsung, Huawei store, Vivo under review
+&#x20;2\. Update from Google Play
+
+3. Samsung, Huawei store, Vivo under review
 
 
 
