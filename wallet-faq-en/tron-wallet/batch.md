@@ -1,8 +1,8 @@
 # How to create TRON wallets in bulk
 
-### <mark style="color:orange;">Bulk Tutorial Creation：</mark>
+Batch creation requires the use of a wallet created or imported with secret recovery phrases. TokenPocket now supports batch creation of sub-wallets for EVM-based public chains and the TRON public chain. This tutorial demonstrates the process using the TRON Chain.
 
-To perform bulk creation, you need to use a wallet that has been created or imported with a mnemonic phrase in order to access this feature.
+### <mark style="color:orange;">Bulk Tutorial Creation：</mark>
 
 1. Open the TRON wallet in TokenPocket, click on the upper right corner of the blue card "Details," and on the wallet details page, click on "Advanced Mode" and select "Create Sub Wallet."
 
