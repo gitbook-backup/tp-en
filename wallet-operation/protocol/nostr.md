@@ -40,7 +40,7 @@ Nostr is a simple, open protocol that enables global, decentralized, and censors
 
 <figure><img src="../../.gitbook/assets/n5 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:red;">Chrome Extension Use Guide</mark>
+## <mark style="color:red;">Browser Extension Use Guide</mark>
 
 1. TokenPocket has supported the Nostr protocol (Extension users please update to version 1.1.13 or above). Click on the set pattern in the upper right corner, and click **\[Settings].**&#x20;
 
