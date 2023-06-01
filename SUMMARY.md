@@ -51,6 +51,8 @@
 ## 📨 Wallet FAQ <a href="#wallet-faq-en" id="wallet-faq-en"></a>
 
 * [BTC Wallet](faq-en/btc-wallet/README.md)
+  * [What is a Partially Signed Bitcoin Transaction (PSBT)](wallet-faq-en/btc-wallet/psbt.md)
+  * [What are Bitcoin ordinals?](wallet-faq-en/btc-wallet/ordinals.md)
   * [Why is the fee so high for bitcoin transfer?](faq-en/btc-wallet/why-is-the-fee-so-high-for-bitcoin-transfer.md)
   * [Why does my usdt prompt an address error when I want to transfer to a bitcoin address?](faq-en/btc-wallet/why-does-my-usdt-prompt-an-address-error-when-i-want-to-transfer-to-a-bitcoin-address.md)
   * [Can usdt transfer to my bitcoin address?](faq-en/btc-wallet/can-usdt-transfer-to-my-bitcoin-address.md)
