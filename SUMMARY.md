@@ -343,6 +343,7 @@
   * [Jan 25th, 2022. Klaytn node is being maintained.](announcement/announcement/jan-25th-2022.-klaytn-node-is-being-maintained..md)
   * [Dec 2nd, 2021. EOS node is being maintained.](announcement/announcement/dec-2nd-2021.-eos-node-is-being-maintained..md)
 * [App Update](announcement/update/README.md)
+  * [Version Update (Jun 3rd, 2023)](announcement/update/version-update-20230603.md)
   * [Version Update (May 25th, 2023)](announcement/update/version-update-20230525.md)
   * [Version Update (May 23th, 2023)](announcement/update/version-update-20230523.md)
   * [Version Update (May 5th, 2023)](announcement/update/version-update-20230505.md)
