@@ -1,28 +1,15 @@
-# Version update log(May 19, 2023)
+# Version update log(Jun 5, 2023)
 
 **【Version Update】**&#x20;
 
-Chrome: 1.1.13
+Chrome: 1.1.15
 
 
 
 **【Version Update】**
 
-1.Support Nostr.&#x20;
-
-2.Support small amount hiding.&#x20;
-
-3.NFT details page add "Average Price" and "Trading Volume".&#x20;
-
-4.Support EIP-1559.&#x20;
-
-5.Support for Permit2 parsing.&#x20;
-
-6.Support for displaying token logos in transaction records.&#x20;
-
-7.Support displaying real-time Gas Price on extension logo.&#x20;
-
-8.Optimize User Interface.
+1. Fix the issue of token price display.
+2. Fix the issue of token duplication.
 
 
 
