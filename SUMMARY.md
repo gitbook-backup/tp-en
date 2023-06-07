@@ -135,7 +135,7 @@
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
   * [TokenPocket Energy Rental Service](wallet-faq-en/tron-wallet/energy.md)
   * [How to create TRON wallets in bulk](wallet-faq-en/tron-wallet/batch.md)
-  * [How to Use TRON Staking 2.0](wallet-faq-en/tron-wallet/tron2.0.md)
+  * [How to Use TRON Stake 2.0](wallet-faq-en/tron-wallet/tron2.0.md)
   * [How to acquire TRX tokens.](wallet-faq-en/tron-wallet/trx.md)
   * [Voting Considerations](wallet-faq-en/tron-wallet/voting-considerations.md)
   * [What is Stake 2.0?](wallet-faq-en/tron-wallet/2.0.md)
