@@ -326,7 +326,7 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [Jun 7th, Optimism node is being maintained.](announcement/announcement/jun-7-optimism.md)
+  * [🔥 Jun 7th, Optimism node is being maintained.](announcement/announcement/jun-7-optimism.md)
   * [Oct 11th, TokenPocket Official Website Maintenance Notice](announcement/announcement/website.md)
   * [Oct 7th, BNB Chain's maintenance has been completed.](announcement/announcement/oct-7-bnb-completed.md)
   * [Oct 7th, BNB Chain is being maintained.](announcement/announcement/oct-7-bnb.md)
