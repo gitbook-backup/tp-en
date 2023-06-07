@@ -1,16 +1,16 @@
 # TokenPocket Energy Rental Service
 
-#### About TRON Energy and Bandwidth: <a href="#snsi5" id="snsi5"></a>
+#### <mark style="color:orange;">About TRON Energy and Bandwidth:</mark> <a href="#snsi5" id="snsi5"></a>
 
 The Bandwidth and energy are the resource system used for processing and executing smart contracts and transactions. In the Tron network, each account has a certain amount of bandwidth and energy.
 
 When an account sends a transaction or executes a smart contract, the corresponding bandwidth and energy will be consumed. The consumption of bandwidth and energy depends on the complexity and computational requirements of the transaction or smart contract. An account needs more bandwidth or energy to be able to send transactions or execute smart contracts once its bandwidth and energy are restored. (The TRON network can use resources or consume TRX to achieve the purpose of data on-chain.)
 
-#### How to get energy and bandwidth: <a href="#u2iqb" id="u2iqb"></a>
+#### <mark style="color:orange;">How to get energy and bandwidth:</mark> <a href="#u2iqb" id="u2iqb"></a>
 
 Bandwidth and energy can be acquired and increased by holding and freezing TRX. Users can gain more bandwidth and energy by freezing TRX in their accounts, enabling them to perform more transactions and smart contract operations. Alternatively, users can utilize the rental market to pay for renting energy, which generally has lower overall costs than staking TRX energy tokens.
 
-#### How to use TokenPocket“Rent Energy”function: <a href="#p7qvy" id="p7qvy"></a>
+#### <mark style="color:orange;">How to use TokenPocket“Rent Energy”function:</mark> <a href="#p7qvy" id="p7qvy"></a>
 
 Even though TRON Stake 2.0, as a major upgrade to TRON, has made substantial improvements in many dimensions such as staking operations, resource management, asset unlocking waiting period, etc., the 14-day unlocking period is much longer than the 3-day period of Staking 1.0. Therefore, for some regular users, this seems to be less friendly, hence the demand for the energy leasing market becomes very important as it can save users more TRX consumption.
 
