@@ -18,4 +18,4 @@
 
 2.Opening the DApp will automatically complete wallet connection. Click on the \[Withdraw] menu, set the amount of tokens to be exchanged on Base Goerli chain that you want to exchange. For example, if we set the exchange quantity as 1 and fill it in, click \[Withdraw]. In the transaction interface that pops up, click \[Confirm Payment]. Token exchange usually takes a few minutes.
 
-<figure><img src="../../.gitbook/assets/4 (5) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (5).png" alt=""><figcaption></figcaption></figure>

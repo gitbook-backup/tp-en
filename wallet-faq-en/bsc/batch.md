@@ -6,7 +6,7 @@ Batch creation requires the use of a wallet created or imported with secret reco
 
 1. Open the BSC wallet in TokenPocket, click on the upper right corner of the blue card "Details," and on the wallet details page, click on "Advanced Mode" and select "Create Sub Wallet."
 
-<figure><img src="../../.gitbook/assets/1 (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. In the wallet list, you can view the historical records of previously created sub-wallets. Click on "Generate New Wallet" and select "Add Wallets in Bulk."
 

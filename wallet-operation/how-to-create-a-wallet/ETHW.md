@@ -10,7 +10,7 @@
 
 Fill in the ETHW abbreviation in the search bar, and you can see the search results below, click it and ready to add.
 
-<figure><img src="../../.gitbook/assets/2 (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3、Double check the information and click “Save” in the lower right corner to add it successfully. Go back to the “Select Network” interface and pull down to the bottom to see the newly added EthereumPoW network.
 
@@ -22,4 +22,4 @@ Fill in the ETHW abbreviation in the search bar, and you can see the search resu
 
 5、After adding the ETHW public chain, you can use the wallet address holding ETH to synchronize, open TokenPocket, click 【Details】, select 【Wallet Synchronization】, select ETHW public chain synchronization and switch to ETHW wallet.
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1).png" alt=""><figcaption></figcaption></figure>

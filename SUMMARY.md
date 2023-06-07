@@ -220,6 +220,7 @@
   * [Klaytn Use Guide](defi-tutorial/how-to-trade-on-dex/klaytn-use-guide.md)
   * [Polygon (Matic) Use Guide](defi-tutorial/how-to-trade-on-dex/polygon-matic-use-guide.md)
   * [BSC Use Guide](wallet-operation/how-to-create-a-wallet/bsc-use-guide.md)
+  * [Copy of How to create a TRON wallet?](wallet-operation/how-to-create-a-wallet/create.md)
 * [About Custom Network/Token](wallet-operation/custom-network-token/README.md)
   * [Moonriver-Add Custom Network Guide](wallet-operation/moonriver-add-custom-network-guide.md)
   * [How to Add Custom Network](wallet-operation/how-to-add-custom-network.md)
