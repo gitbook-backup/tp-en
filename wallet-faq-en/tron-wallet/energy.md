@@ -1,57 +1,64 @@
-# Easily Rent Energy on TRON in TokenPocket
+# TokenPocket Energy Rental Service
 
-### <mark style="color:orange;">What are wave field energy and bandwidth:</mark> <a href="#snsi5" id="snsi5"></a>
+#### About TRON Energy and Bandwidth: <a href="#snsi5" id="snsi5"></a>
 
-Wave field (Tron) energy bandwidth is a resource system used for processing and executing smart contracts and transactions. In the Tron network, each account has a certain amount of bandwidth and energy.\
-When an account sends a transaction or executes a smart contract, the corresponding bandwidth and energy will be consumed. The consumption of bandwidth and energy depends on the complexity and computational requirements of the transaction or smart contract. An account needs more bandwidth or energy to be able to send transactions or execute smart contracts once its bandwidth and energy are restored. (The Tron network can use resources or consume Trx to achieve the purpose of data on-chain.)
+The Bandwidth and energy are the resource system used for processing and executing smart contracts and transactions. In the Tron network, each account has a certain amount of bandwidth and energy.
 
-### <mark style="color:orange;">How to obtain energy and bandwidth:</mark> <a href="#u2iqb" id="u2iqb"></a>
+When an account sends a transaction or executes a smart contract, the corresponding bandwidth and energy will be consumed. The consumption of bandwidth and energy depends on the complexity and computational requirements of the transaction or smart contract. An account needs more bandwidth or energy to be able to send transactions or execute smart contracts once its bandwidth and energy are restored. (The TRON network can use resources or consume TRX to achieve the purpose of data on-chain.)
 
-Bandwidth and energy can be acquired and increased by holding and freezing TRX tokens. Users can gain more bandwidth and energy by freezing TRX tokens in their accounts, enabling them to perform more transactions and smart contract operations. Alternatively, users can utilize the leasing market to pay for fixed energy, which generally has lower overall costs than staking TRX energy tokens.
+#### How to get energy and bandwidth: <a href="#u2iqb" id="u2iqb"></a>
 
-### <mark style="color:orange;">Usage of Staking 2.0:</mark> <a href="#wvnhs" id="wvnhs"></a>
+Bandwidth and energy can be acquired and increased by holding and freezing TRX. Users can gain more bandwidth and energy by freezing TRX in their accounts, enabling them to perform more transactions and smart contract operations. Alternatively, users can utilize the rental market to pay for renting energy, which generally has lower overall costs than staking TRX energy tokens.
 
-1\. Open TokenPocket and click on the “Bandwidth/Energy” menu in the toolbar, which contains various functions in the Bandwidth/Energy interface.\
-**View Stake 1.0**: Used to view the staking data in Stake 1.0, such as retrieving staked TRX.\
-**Bandwidth Data**: View the amount of bandwidth, including data on the delegation to others, others’ delegation, and unlockable delegation.\
-**Energy Data**: View the amount of energy held, including data on the delegation to others, others’ delegation, and unlockable delegation.\
-**Stake/Resource Management Menu**: Used to perform all operations related to Stake 2.0.\
+#### How to use TokenPocket“Rent Energy”function: <a href="#p7qvy" id="p7qvy"></a>
 
+Even though TRON Stake 2.0, as a major upgrade to TRON, has made substantial improvements in many dimensions such as staking operations, resource management, asset unlocking waiting period, etc., the 14-day unlocking period is much longer than the 3-day period of Staking 1.0. Therefore, for some regular users, this seems to be less friendly, hence the demand for the energy leasing market becomes very important as it can save users more TRX consumption.
 
-<figure><img src="../../.gitbook/assets/953b431157e21b6d56a03e6279662607_1684421837940-642774b7-71ad-40ed-b529-ae9e89966b00_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+1\. Open TokenPocket, click on the 'Bandwidth/Energy' menu in the toolbar. The 'Bandwidth/Energy' interface includes various functions
 
-2\. Click on “Staking Management” to choose between “Freeze” and “Unfreeze” based on your actual bandwidth/energy needs.
+<figure><img src="../../.gitbook/assets/0d7b5ab8fa41937c26be2596ee6c97f1_1685953017492-1b9cf260-6ca8-4deb-9b8a-6112eaecf10d_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-**Freeze operation:** Based on the TRX balance in your current wallet, enter the amount you wish to stake in the quantity field to obtain resources. These assets can be delegated for others to use.
+2\. The resource leasing interface is mainly divided into four functional areas.
 
-**Unfreeze operation:** If the frozen resources have not been used for other operations or if you have reclaimed the staked assets delegated to others, you can see the amount available for unfreezing on the interface. Enter the quantity you wish to unfreeze in the quantity field and execute the operation. _**It will take 14 days for the assets to return to your wallet.**_ Once the time period has expired, you can perform a withdrawal operation in the “Withdrawable” section, and only then will the TRX be returned to your wallet address.
+**Resource Data:** Here you can see the parameters of TRX balance and energy, bandwidth. Subsidy
 
-<figure><img src="../../.gitbook/assets/16334e8d7d3196cdbbf92d25422bdf15_1684733702951-4e94d220-64ca-4a7f-badd-bb9518a727c7_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+**Benefits:** A hundred percent quota is available for free every day.
 
-3\. Resource management primarily involves executing delegated tasks and retrieving delegated tasks. Enter the amount to be delegated in the “Resource Management” column and set the “Receiving Address.” The selection of the “With a Lock-up Period” is crucial here. If you choose “Yes,” the usage time for these resources will be strictly limited to 3 days after execution. If you choose “No,” you can retrieve the delegated tasks immediately after execution, as shown in the image on the right.
+**Quick Lease:** You can customize various parameters such as transaction operations (transfer or contract interaction), usage time, number of uses, etc.
 
-<figure><img src="../../.gitbook/assets/4b051ce27bc0d5c206db7b8309eda050_1684734951197-6d568b6f-fb13-4ee9-952a-9a38fb502e14_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+**Self-service Trading:** Normal buying and selling of energy, you can sell excess energy for profit.
 
-### <mark style="color:orange;">Usage of Energy Leasing:</mark> <a href="#t3j5c" id="t3j5c"></a>
+<figure><img src="../../.gitbook/assets/ca2a81ac8e788c2522a6994c924cbb54_1685953453302-6e31dc79-1af5-44b8-9445-905706f7d7b7_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-Although TRON Stake 2.0 is a significant upgrade for TRON, providing substantial improvements in staking operations, resource management, and asset unlocking waiting periods, among other dimensions, the 14-day unlocking period is much longer than the 3-day period in Stake 1.0. This may make it less user-friendly for some ordinary users. Therefore, the demand for the energy leasing market becomes crucial as it can save users more TRX consumption.
+3. Click on the 'Transfer Subsidy' button to receive enough energy for one USDT transfer. If not used, it will expire and be reclaimed after 10 minutes.
 
-1\. Open the energy leasing interface, which is divided into two main categories: “Buy” and “Sell.”
+<figure><img src="../../.gitbook/assets/db3095834271d1e184748fe8dd9a9836_1686020884871-022ee962-c423-43d3-8687-8bea40961c71_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-**Buying energy:** Click on the “Buy” menu and set the desired quantity within the range of 50,000–1,000,000,000 as required by the system. The price per day represents the unit price of energy (if a price higher than 110 Sun is selected, the order may be completed earlier). The default duration for leasing is 3 days. Once all the information is confirmed, click “Buy Now” to proceed.
+4. Quick Purchase includes 'EnergyPay’ and ‘Fast Trading’ functions. Click on 'EnergyPay’, and you can freely set the quantity, time, and operation content. The costs of different combinations will also vary. Rent energy according to your actual needs.
 
-<figure><img src="../../.gitbook/assets/73dba87ca0b88012ec531bc59d6acc04_1684422156605-36bc35fe-f1dd-4fb1-b156-d692a62815dc_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2af6fafb23c63f35d3896a844be4f09c_1685953098605-87d32b76-1e86-43d0-bc30-6c73c427746a_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-2\. After completing the purchase, you can see a green notification at the top of the interface, and you need to wait for a moment to see the increase in energy. Click on the “Sell” menu, and in the pop-up interface, you will see three options. The first and second options are for confirming the method of selling energy. Here, I will focus on explaining the first method. You can refer to the specific operational steps in the image. It utilizes the principle of Tron’s multi-signature feature by granting active authorization to the address of this DApp. However, it is limited to the following six permission settings. You can configure the permissions by selecting the options below:\
-**TRX Stake 2.0:** This is the new version of the staking permission. After authorizing the platform, it will automatically stake TRX to obtain resources for you.\
-**TRX UnStake 1.0:** This is the unstaking permission. After authorizing the platform, it will automatically release the frozen orders with a version of 1.0.\
-**Resources Delegate:** This is the permission to delegate resources. After authorizing the platform, it can automatically sell resources.\
-Resources Reclaims: This is the permission to cancel resource delegation. After authorizing the platform, it will automatically reclaim expired delegated resources.\
-**Voting:** This authorizes voting permission. After a successful sale, it can automatically vote and obtain TRX equity rewards.\
-**Reward Withdraw:** This is the permission to claim rewards. After authorizing the platform, it will automatically claim equity earnings to your wallet.
+5. Click on 'Fast Trading' to set the amount of energy and time for renting, and then confirm the payment.
 
-<figure><img src="../../.gitbook/assets/75c91f6a8cc4e51eb934393bb3f1580c_1684422232838-ae09f757-ae6b-4df6-b760-84d0166c5d7b_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fa19ce2df90a5c1cfa828252a4d05098_1685953112327-86a9c7b0-cb01-47c1-8892-1cd00b64ba3d_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-3\. Click on the “Sell” menu in the list, and the opened interface allows you to sell your idle resources and earn profits. The operation here is very simple. After verifying the information and completing the sale, you can view the detailed order records in the “Sell” list at the bottom of the interface.
+6. The Freedom Trading function includes 'Buy' and 'Sell'. Click on 'Buy', you can flexibly set the address to receive energy, the quantity of energy to rent, and the price setting. The default lease time here is 3 days. After setting, click on 'Place Buy Now'.
 
-<figure><img src="../../.gitbook/assets/f7e75447cd9f1f83cf5e94d0fed93fc9_1684422260199-771e4a06-b8d6-4329-b834-046f3c16d590_x-oss-process=image%2Fresize%2Cw_1186%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6a67cbdd265453f17532e98911258936_1685953122308-9b4d1909-0cb7-4851-928d-4573e25d42a2_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+
+7\. Click on 'Sell'. Here is a selling prompt introduction. In the interface, you can see three options, among which the first and second options are to choose the method of confirming the sale of energy. Let's focus on the first method. You can view the specific operation method in the picture. It takes advantage of TRON's ability to set multiple signatures and gives this DApp's address an 'Active' authorization, but it is limited to the setting of the following six permissions. Configure permissions according to the options below.
+
+* **TRX Stake 2.0:** This is the new version of the staking permission. After authorizing the platform, it will automatically stake for you to obtain resources.
+* **TRX UnStake 1.0:** This is the unstaking permission. After authorization, the platform automatically unstakes the frozen orders of 1.0.
+* **Resources Delegate:** This is the resource delegation permission. After authorizing the platform, it can automatically sell resources.
+* **Resources Reclaims:** This is the cancellation of delegation permission. After authorization, the platform automatically recovers the expired delegated resources.
+* **Voting:** Authorize the voting permission, and you can automatically vote after a successful sale to obtain TRX equity rewards.
+* **Reward Withdraw:** This is the permission to receive benefits. After authorization, the platform will automatically receive the benefits to your wallet.
+
+<figure><img src="../../.gitbook/assets/ebfe758a07ccf48d52027153040679b2_1685953136054-5e5dc885-f888-4f75-bf44-48ac2dd88004_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+
+8. Click on the 'Sell' below the Freedom Trading. Here you can lease your energy to the platform and earn profits. Specific purchases, sales, and other orders can all be seen in the corresponding menus.
+
+<figure><img src="../../.gitbook/assets/ea89fb84cc89c471c974b17961d2cb4b_1685953148569-7f941df9-3bef-4cbe-bf46-21eef0e96efc_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/9ae8967e4380e0795ab35c8ec16f9907_1686020931065-14738d0d-5d1b-420e-b1d6-c08e963763f7_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
