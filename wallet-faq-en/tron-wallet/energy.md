@@ -34,7 +34,7 @@ Even though TRON Stake 2.0, as a major upgrade to TRON, has made substantial imp
 
 <figure><img src="../../.gitbook/assets/db3095834271d1e184748fe8dd9a9836_1686020884871-022ee962-c423-43d3-8687-8bea40961c71_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
-4. Quick Purchase includes 'EnergyPay’ and ‘Fast Trading’ functions. Click on 'EnergyPay’, and you can freely set the quantity, time, and operation content. The costs of different combinations will also vary. Rent energy according to your actual needs.
+4. Quick Purchase includes 'EnergyPal’ and ‘Fast Trading’ functions. Click on 'EnergyPal’, and you can freely set the quantity, time, and operation content. The costs of different combinations will also vary. Rent energy according to your actual needs.
 
 <figure><img src="../../.gitbook/assets/2af6fafb23c63f35d3896a844be4f09c_1685953098605-87d32b76-1e86-43d0-bc30-6c73c427746a_x-oss-process=image%2Fresize%2Cw_925%2Climit_0.png" alt=""><figcaption></figcaption></figure>
 
