@@ -119,6 +119,7 @@
   * [What is Token Approval and How to Grant Token Approval?](faq-en/eth-wallet/token-approval.md)
   * [What is Permit2](wallet-faq-en/eth-wallet/permit2.md)
 * [BSC Wallet](defi-series/bsc/README.md)
+  * [How to create a TRON wallet?](wallet-faq-en/bsc/create.md)
   * [How to create BSC wallets in bulk](wallet-faq-en/bsc/batch.md)
   * [Beefy.finance Tutorial (BSC)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
   * [Equator Tutorial](defi-series/bsc/equator-tutorial.md)

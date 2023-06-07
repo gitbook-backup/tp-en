@@ -8,7 +8,7 @@
 
 2.Opening the DApp will automatically complete wallet connection, and the default state is Deposit. You only need to set the amount of tokens that need to be exchanged on the Goerli chain. For example, if we set the exchange quantity as 0.2, after filling it in, click 【DEPOSIT ETH】and then click 【Confirm Payment】in the transaction interface that pops up. The token exchange usually takes a few minutes.
 
-<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Exchange Base Goerli for Goerli tokens.
 
@@ -18,4 +18,4 @@
 
 2.Opening the DApp will automatically complete wallet connection. Click on the \[Withdraw] menu, set the amount of tokens to be exchanged on Base Goerli chain that you want to exchange. For example, if we set the exchange quantity as 1 and fill it in, click \[Withdraw]. In the transaction interface that pops up, click \[Confirm Payment]. Token exchange usually takes a few minutes.
 
-<figure><img src="../../.gitbook/assets/4 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (5) (3).png" alt=""><figcaption></figcaption></figure>
