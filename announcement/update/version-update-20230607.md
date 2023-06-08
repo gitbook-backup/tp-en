@@ -18,7 +18,7 @@ iOS：2.0.9
 
 &#x20;1\. Update from the Wallet application.
 
-&#x20;2\. Google Play, Samsung, Huawei store under review
+&#x20;2\. Update from Google Play
 
 
 
