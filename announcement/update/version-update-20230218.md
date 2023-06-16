@@ -8,7 +8,7 @@ Android: 1.6.7
 
 
 
-**【iOS Version Update】**
+**【Android Version Update】**
 
 \- Support the new scan protocol of the cold wallet and watch wallet.
 
