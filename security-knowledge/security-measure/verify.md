@@ -28,7 +28,7 @@ As for security
 
 <mark style="color:red;">**MD5 and SHA256 will be synchronized through the official website in the future. Please click below to enter the official website for more information.**</mark>
 
-{% embed url="https://verify.tokenpocket.pro/#/" %}
+{% embed url="https://verify.tpwallet.io/" %}
 
 <mark style="color:blue;">**Google Play**</mark>
 
