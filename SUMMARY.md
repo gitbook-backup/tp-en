@@ -311,6 +311,7 @@
     * [How to connect to Ledger?](extension-wallet/faq/use-tutorial/connect-ledger.md)
     * [How to connect to Trezor?](extension-wallet/faq/use-tutorial/connect-trezor.md)
 * [Extension Update](extension-wallet/update-log/README.md)
+  * [Version update log(Jun 22, 2023)](extension-wallet/update-log/jun-22.md)
   * [Version update log(Jun 5, 2023)](extension-wallet/update-log/jun-5.md)
   * [Version update log(Jun 2, 2023)](extension-wallet/update-log/jun-2.md)
   * [Version update log(May 19, 2023)](extension-wallet/update-log/may-19.md)
