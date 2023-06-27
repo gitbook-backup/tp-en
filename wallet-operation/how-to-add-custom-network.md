@@ -6,29 +6,23 @@ Custom network means that the user can directly add a chain to the wallet throug
 
 **How to add Custom Network?**
 
-1.Open TokenPocket, click on the first icon in the upper right corner \[Add Wallet] to pull the list to the bottom, you can see the \[Add custom network] entry, click to enter.
+1. Open TokenPocket, click Add Wallet in the top right corner, and click【Add Custom Network】.
 
-![](<../.gitbook/assets/1 (23).png>)
+<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
+2\. Open the custom network interface, and click 【Easy Add】 in the upper right corner, TokenPocket will list the popular public chains, and you can easily search for the public chains you need to add through this entrance.
 
+Fill in 【Pulse】  in the search bar, and you can see the search results below, click it and be ready to add PulseChain.
 
-2\. Custom network can set the required parameters by yourself, or click the \[Easy Add] in the upper right corner to quickly select the required network. You can also search through the top place, which greatly facilitates the user to search for available network node parameters.
+<figure><img src="../.gitbook/assets/2 (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619518258266.jpg)
+3\. Double-check the information and click “Confirm”. Go back to the “Select Network” interface and pull down to the bottom to see the PulseChain.
 
+<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
+4\. Click on the PulseChain, and you can choose “Create” or “Import” to use the Pulse wallet.&#x20;
 
-3\. For example, if we select an xDAI chain, we can see that the network data has been filled in automatically after selecting it. Click \[Save] to see it in the list, usually at the last position of the list.
-
-![](https://tp-statics.tokenpocket.pro/token/tokenpocket-1619518523028.jpg)
-
-
-
-4\. Click the newly added network, select \[Create] or \[Import] to complete the quick addition and then use the custom network.
-
-![](<../.gitbook/assets/2 (25).png>)
-
-
+<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 Click for getting more information:
 
