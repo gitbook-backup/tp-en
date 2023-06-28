@@ -17,243 +17,245 @@ Know about blockchain technology? Have you used a decentralized wallet? Want to 
 
 As long as you have rich professional experiences and strong related technologies, and also willing to work together for the TP business, come and join us!
 
-### <mark style="color:blue;">Blockchain public chain development engineer</mark>
 
-#### Role and Responsibilities:
 
-1、Responsible for research and development, testing, operating and support of public blockchain.
+### <mark style="color:blue;">Senior Front-end Developer (5-8 years, Bachelor's degree, 30-60K \* 12 months)</mark>&#x20;
 
-2、Develop relevant blockchain business solutions, promote and assist partners to complete project implementation;
+**Responsibilities:**
 
-#### Requirements:
+1. Manage the front-end team, be responsible for the front-end development of blockchain-related core projects, and ensure the quality and progress of the project;
+2. Work closely with the product and technical teams, communicate product needs effectively, and ensure effective code docking;
+3. Keep an eye on technological trends, research new technologies, and tackle technical problems.
 
-1、bachelor’s degree or above through the national entrance examination and 985 and 211 universities are preferred;
+**Qualifications:**
 
-2、more than 3 years of experience in internet development, and more than 1-year blockchain industry experience;
+1. Proficient in front-end development technologies such as JavaScript/HTML/CSS, with solid foundation;
+2. Proficient in the current mainstream front-end frameworks React and Vue;
+3. Familiar with the current mainstream blockchain technology, not limited to public chains/smart contracts, etc;
+4. Familiar with at least one back-end development language (Node.js/Python/Go, etc.) and common Linux commands;
+5. Have strong communication skills and team spirit, have good problem-analysis and problem-solving skills, and strong learning ability;
+6. Have certain English reading and writing skills.
 
-3、Proficiency in at least one mainstream blockchain system development languages such as Go, Java, C. Go preferred, and participating in the blockchain development community and contributing source code is a plus;
+**Benefits:**
 
-4、Familiar with crypto algorithm, consensus mechanism, network security, and distributed computing. Understanding Bitcoin/Ethereum/EOS source code is a priority;
+1. You can learn the latest blockchain technology;
+2. Participate in various open-source projects at home and abroad.
 
-5、Understand the principle & application of mainstream NoSQL databases, especially KV types, including but not limited to LevelDB, RocksDB, etc.
 
-6、Result-oriented, strong sense of responsibility and achievement motivation, excellent communication skills
 
-7、good English reading and writing skills
+### <mark style="color:blue;">Blockchain Overseas Operation - Social Recruitment - Work Experience 1-3 years - Bachelor Degree - 13K to 25K \* 12 months</mark>&#x20;
 
-### <mark style="color:blue;">Blockchain Product Manager</mark>&#x20;
+**Job Description:**
 
-#### Role and Responsibilities:
+1. Responsible for the overseas operation and promotion of the product, including but not limited to cooperation negotiation, market promotion, channel expansion, etc;
+2. Understand the overseas market situation, pay attention to overseas user growth methods, and regularly output industry research reports;
+3. Responsible for the operation of the product's overseas community (telegram, Twitter, discord, etc.), including daily Q\&A, and regular organization of community operation activities, to achieve the goals of attracting new users and activating existing users;
+4. Responsible for writing English and other related promotional cooperation articles;
+5. Those who are familiar with the Southeast Asian market and user profile will have an advantage.
 
-1、Participate in the product architecture planning, overall function and design planning of the company's blockchain platform, and promote the continuous evolution of products
+**Qualifications:**
 
-2、perfect the blockchain product design of the existing C-side application products, and improve the performance and ease-of-use of the current blockchain application system;
+1. Bachelor's degree or above, good English oral expression, strong writing ability;
+2. Have product operation related experience, familiar with using ChatGPT for auxiliary work;
+3. Experience in the blockchain industry or relevant knowledge is preferred;
+4. Responsible and strong teamwork ability;
 
-3、Research on competing products, pay attention to the trends of the blockchain industry and related products, explore broader scenarios in the C-side application field, and promote the implementation of solutions.
 
-4、demand management, coordinate various technical team, promote the development, and ensure normal iteration of platform versions;
 
-5、Collect and sort product feedback from customers and the company, and promote product improvement.
+### <mark style="color:blue;">Blockchain Product Manager - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 18K to 35K \* 12 months</mark>&#x20;
 
-6、Participate in the product architecture planning, overall function and design planning of the company's blockchain platform, and promote the continuous evolution of products
+**Job Description:**
 
-7、perfect the blockchain product design of the existing C-side application products, and improve the performance and ease-of-use of the current blockchain application system;
+1. Participate in the product architecture planning of the company's blockchain platform, overall function and design planning, and promote the continuous evolution of the product.
+2. Improve the blockchain product design of existing B2C applications, improve the performance and usability of existing blockchain application systems;
+3. Conduct competitor research, pay attention to the blockchain industry and related product dynamics, explore broader scenarios in the B2C application field, and promote the implementation of solutions.
+4. Requirement management, coordinate technical teams, promote development, and ensure the normal iteration of the platform version;
+5. Collect and organize customer and company product feedback and promote product improvement.
 
-8、Research on competing products, pay attention to the trends of the blockchain industry and related products, explore broader scenarios in the C-side application field, and promote the implementation of solutions.
+**Qualifications:**
 
-9、demand management, coordinate various technical team, promote the development, and ensure normal iteration of platform versions;
+1. Have a strong interest in blockchain technology, understand related technologies and concepts of blockchain; understand the design features of popular blockchains such as Bitcoin, Ethereum, BSC, Layer2, etc;
+2. Have a strong curiosity and independent thinking ability, and be passionate about technology;
+3. Excellent communication and coordination skills, resource integration ability, strong execution;
+4. A certain resistance to pressure, steadfast and responsible;
+5. Excellent project management skills;
+6. Experience in designing wallets, market, and information products is preferred.
 
-10、Collect and sort product feedback from customers and the company, and promote product improvement.
 
-#### Requirements:
 
-1、Have a deep interest of blockchain technology, understand blockchain related technologies and concepts; know about the design features of popular blockchains such as Bitcoin, Ethereum, Bcoin, Coin World, Heyuedi, Mars Finance, Feixiaohao, Babbitt and so on;
+### <mark style="color:blue;">E-commerce Specialist (Hardware Wallet Promotion)</mark>&#x20;
 
-2、Have a strong sense of curiosity and independent thinking, and be passionate to technology;
+**Job Description:**
 
-3、Excellent communication and coordination skills, resource integration ability, and strong execution;
+1. Responsible for domestic and foreign website account management, product uploading, maintenance and optimization, on-site promotion, and product sales (pre-sales/after-sales);
+2. Ensure account security and good store reviews, develop product sales strategies;
+3. Handle customer emails and inquiries, improve the quality and quantity of reviews;
+4. Track orders in a timely manner, handle customer complaints, and properly handle customer returns and exchanges;
+5. Complete sales performance based on department sales targets and plans;
+6. Extroverted, responsive, strong expressive ability, and a strong sense of responsibility;
+7. Good at Excel data processing, familiar with PPT and other statistical analysis and presentation tools;
+8. Have product operation experience, familiar with consumer psychology;
+9. Excellent logical analysis, promotion planning, and communication skills;
+10. Strong learning ability, proactive and steadfast in work, with good team spirit;
+11. Familiar with the e-commerce market situation and operation rules, with keen market insight and related product knowledge.
 
-4、Have a certain pressure resistance, be practical and responsible;
+**Qualifications:**
 
-5、Excellent project management capacity;
+1. College degree or above
+2. Blockchain-related experience is preferred
+3. Familiar with basic office software;
+4. Responsible, patient, customer-centered service awareness and good communication skills
+5. Able to handle work pressure, concentrate, and have the ability to learn independently.
 
-6、Experience in designing wallets, accounting software and information products is preferred.
 
-### <mark style="color:blue;">Smart Contract \&DApp Development Engineer</mark>
 
-#### Role and Responsibilities:
+### <mark style="color:blue;">Blockchain Architect - Social Recruitment - Work Experience 5-10 years - Bachelor Degree - 40K to 70K \* 12 months</mark>&#x20;
 
-1、Analyze the centralized business scenarios in the business process, and then upgrade the design and implementation of smart contract and DApps;
+**Responsibilities:**
 
-2、Responsible for full-stack technical work such as smart contract operation and support, evolution and upgrade;
+1. Responsible for/participate in the system architecture design or development of the blockchain part of the company's products and projects;
+2. Responsible for/participated in the smooth implementation and secure operation of blockchain technology in the company's products and projects.
 
-3、Follow up the evolution of open-source technologies such as Ethereum, EOS and Hyperledger, and build and optimize blockchain smart contracts based on them;
+**Qualifications:**
 
-4、Participate in the overall architecture design of smart contract and DApps. and also, the optimization and improvement of security, performance, and incentive algorithms.
+1. Bachelor's degree or above, major in computer-related fields is preferred;
+2. More than 3 years of experience in blockchain technology research or development;
+3. Familiar with the technical architecture of mainstream blockchains, and have deeply studied at least one of them, such as Ethereum, Hyperledger, Bitcoin, etc;
+4. Understand various mainstream consensus algorithms, including but not limited to PoW, PoS, DPoS, PBFT, Paxos, Raft, etc;
+5. Experience in blockchain system architecture design or development is preferred
+6. Having a background in cryptography knowledge or experience in developing network security-related products is preferred;
+7. Participation in the development of underlying platforms or components such as network frameworks, distributed databases, and cloud computing platforms is preferred;
 
-#### Requirements:
 
-1、Bachelor degree or above, major in computer and software, more than 2 years of development experience, understanding smart contracts is preferred;
 
-2、Understand smart contract development with Solidity or Go language and have experience in EOS-based projects;
+<mark style="color:blue;">**Backend Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 25K to 50K \* 12 months**</mark>&#x20;
 
-3、Master Golang, C++ development language;
+**Job Description:**
 
-4、Familiar with Linux system operation and software development in Linux;
+1. Responsible for the overall architecture design and development of blockchain products
+2. DAPP platform, architecture design of DAPP, and work of external connection with DAPP, etc.
+3. Responsible for maintaining and improving the server-side code framework
 
-5、Able to read and understand excellent open-source system code. those who participate in open-source code or open-source framework contributors are preferred;
+**Qualifications:**
 
-6、those who are familiar with blockchain crypto algorithms, consensus mechanisms, security protocols, distributed computing, smart contracts and other underlying protocols and operating mechanisms are preferred;
-
-7、familiarity with development languages ​​such as Node.js is a priority;
-
-8、Good communication and presentation skills, teamwork spirit and execution. Good self-learning ability, excellent English listening, speaking, reading and writing skills.
-
-### <mark style="color:blue;">New Media Editor \&Operator</mark>
-
-#### Role and Responsibilities:
-
-1、Responsible for the daily content creation and output of new media platforms, including but not limited to Weibo and WeChat;
-
-2、Responsible for the output of TP wallet and blockchain industry related content, such as TP wallet tutorial, industry hot topic interpretation, etc.
-
-3、Responsible for the output of brand-related promotional copy, such as promotional posters, videos, etc.
-
-4、Responsible for managing the self-media matrix, tracking promotion effects, conducting data analysis and feedback, as well as optimization and adjustment.
-
-#### Requirements:
-
-1、Bachelor degree, good English reading and writing ability are preferred
-
-2、have a certain blockchain industry knowledge and relevant industry experience, and familiarity with EOS is a plus;
-
-3、More than one year of experience in operating new media platforms, including but not limited to WeChat, Weibo, Tik Tok, Bilibili and other platforms of information, short video and on-demand video;
-
-4、good judgment and prediction of hot topic and can capture potential and real-time hot topics in time, and produce the relevant content;
-
-5、Experience in KOL account operation is preferred; familiar with the various channels of new media, as well as online and offline promotion methods in the industry.
-
-### <mark style="color:blue;">Blockchain overseas operator</mark>
-
-#### Role and Responsibilities:
-
-1、Responsible for overseas operation and promotion of products, including but not limited to cooperation, marketing, channel expansion, etc.
-
-2、Understand the overseas market, pay attention to the growth pattern of overseas users, and regularly produce industry research reports.
-
-3、Responsible for the operation of the overseas community (telegram, kakao, etc.) of the product, including daily Q\&A and regular community operation to achieve the goal of attracting new users and being active.
-
-4、Responsible for writing English and other related publicity and cooperation articles
-
-5、Irregularly go abroad to attend conferences, or communicate with partners, etc.
-
-#### Requirements:
-
-1、Bachelor degree or above, good oral English and strong writing ability
-
-2、Experience in product operation
-
-3、Experience in the blockchain industry or relevant knowledge is preferred
-
-4、Responsible and strong teamwork ability
-
-### <mark style="color:blue;">Golang Developer</mark>
-
-#### Role and Responsibilities:
-
-1、Responsible for the overall architecture design and system development of the TokenPocket wallet;
-
-2、Responsible for DAPP platform and DAPP architecture design, as well as external DAPP connection, etc.
-
-3、Responsible for the maintenance and improvement of the server-side code framework.
-
-#### Requirements:
-
-1、Strong interest in blockchain and blockchain technology
-
-2、More than 3 years of server development experience or more than 2 years of Golang development experience;
-
-3、have good needs analysis, system architecture and work coordination skills;
-
-4、familiar with the commonly used caches, databases, queues, etc., and experience in performance tuning;
-
-5、Master usually used data structures, design patterns, and have habit to improve code quality through unit testing and code review;
-
-6、Experience in distributed system design and development is preferred
-
-7、Good sense of communication and cooperation, able to bear certain work pressure, good learning as well as analytical and problem-solving ability, proactive and responsible at work.
-
-### <mark style="color:blue;">System Architect</mark>
-
-#### Role and Responsibilities:
-
-1、Participate in the architectural design, reconstruction and optimization of the basic framework;
-
-2、Participate in the architecture design, system design and detailed design of the basic platform system;
-
-3、Participate in tackling key technical problems and continuously improve the high processing performance of the core system under high concurrency and massive requests;
-
-4、write the architecture of the core functions and code templates, develop and support the common core modules of the system;
-
-5、Review and evaluate related proposals and designs to ensure they comply with architectural plans and meet business needs.
-
-6、Analyze system bottlenecks, solve various challenges, and conduct performance tuning of the system.
-
-#### Requirements:
-
-1、Bachelor degree or above, and major in software engineering and software development;
-
-2、Have more than 3 years of independent experience in software project system analysis and architecture design, with successful cases and large-scale system software architecture design experience preferred;
-
-3、Master software engineering theory, deep knowledge in at least one software engineering method, and have strong system analysis ability;
-
-4、Understand the latest technologies and development trends, have rich network knowledge and experience, know how to weigh the pros and cons of various design methods, and know how to balance the constraints of various development limitations;
-
-5、Strong logical analysis, learning and innovation ability, teamwork spirit, good language expression and communication ability.
-
-### <mark style="color:blue;">E-commerce specialist</mark>
-
-#### Role and Responsibilities:
-
-1、Responsible for account management of domestic and abroad sites, product uploading, maintenance and optimization, on-site promotion, product sales (pre-sale/after-sale);
-
-2、Ensure account security and good store reviews, and develop product sales strategies;
-
-3、Handling customer emails and inquiries, improving both quality and quantity of reviews;
-
-4、Track order in a timely manner, deal with customer complaints, and properly handle customer returns and exchanges;
-
-5、Achieve sales performance according to department sales targets and plans.
-
-6、Extrovert personality, responsive, strong expression ability, and strong sense of responsibility;
-
-7、Good at Excel data processing, familiar with PPT and other statistical analysis and display tools;
-
-8、Have experience in commodity operation and be familiar with consumer psychology;
-
-9、Possess excellent logical analysis, promotion planning and communication skills
-
-10Have strong learning ability, take initiative and implement practically at work, and have good teamwork spirit;
-
-11、Familiar with e-commerce market conditions and operating rules, with keen market insight and relevant product knowledge.
-
-#### Requirements:
-
-1、College degree or above
-
-2、Blockchain related experience is preferred
-
-3、familiar with basic office software;
-
-4、Responsible, patient, customer-oriented service awareness and good communication skills
-
-5、can work under pressure, attentive and have the ability to learn independently.
-
-### <mark style="color:blue;">work environment</mark>
-
-Base in Shenzhen and Singapore, and can be located on demand. Remote Friendly, can be full remote work according to position and ability Flexible working hours A group of techno-geeks who are low-key and pragmatic.
-
-### <mark style="color:blue;">for your requirements</mark>&#x20;
+1. Have a strong interest in blockchain and blockchain technology
+2. More than 3 years of server-side development experience or more than 2 years of golang or C++ development experience, rust is preferred;
+3. Have good requirement analysis, system architecture, and work coordination abilities
+4. Proficient in the use of common cache, database, queue, etc., with performance tuning experience
+5. Proficient in common data structures, design patterns, accustomed to improving code quality through unit testing, code review, etc.
+6. Those who have heavily participated in the design and development of a certain scale of Internet systems are preferred
+7. Those with experience in designing and developing distributed systems are preferred
+8. Good communication and collaboration awareness, able to withstand a certain amount of work pressure, have good learning ability and problem-solving ability, proactive at work, and responsible.
+
+### <mark style="color:blue;">HR and Administration Specialist - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 8K to 12K \* 12 months</mark>&#x20;
+
+**Job Description:**
+
+1. Responsible for handling employee entry, exit, transfer, and promotion procedures; daily attendance management and related file archiving as well as recruitment work;
+2. Responsible for handling all kinds of certificates, photos, and qualifications required for company operation management and corresponding application, review, and annual inspection procedures;
+3. Responsible for handling employee provident fund, insurance, various benefits statistics, form making, payment, and base determination work;
+4. Management to establish and maintain personnel files, handle and update labor contracts;
+5. Management, application, and distribution of office supplies;
+6. Make meeting records, collect materials, and keep archives;
+7. Draft company regulations, and notices, assist leaders in supervising the implementation;
+8. Assist in work analysis, job description, and job setting, propose organizational structure and job responsibilities design, and propose improvement plans for company organizational structure design in a timely manner.
+9. Formulate company human resources strategic planning, carry out effective management of human resources introduction, development, reserve, use, and motivation;
+10. Carry out modules such as manpower planning, recruitment, training, assessment, and compensation according to the company's situation, provide information support for the company's major personnel decisions, and supervise the execution.
+11. Assist company leaders in handling daily administrative affairs, inspect and supervise the implementation of various tasks, and coordinate various relationships.
+12. Responsible for other tasks assigned by the superior leadership.
+
+
+
+**Qualifications:**
+
+1. Educational background: junior college degree or above in administrative management, human resources or other related majors;
+2. Work experience: More than two years of experience in administrative and personnel management;
+3. Familiar with the six modules of human resources, familiar with national labor and personnel regulations and policies;
+4. Familiar with government office procedures, annual review and change procedures of company certificates, handling of various certificates;
+5. Familiar with the handling of social security and provident fund businesses;
+6. Have strong language expression ability, interpersonal communication ability, adaptability, communication ability and problem-solving ability, affinity, strong sense of responsibility and professionalism.
+
+### <mark style="color:blue;">Test Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 11K to 22K \* 12 months</mark>&#x20;
+
+**Job Description:**
+
+1. Responsible for software testing scheme analysis, testing technology research, test case design, test execution, system integration verification, quality evaluation, automation design development, etc.
+2. Complete the related testing work of the company's projects and products;
+3. According to product requirements and design documents, formulate testing plans, analyze testing requirements and design testing processes;
+4. Complete the design and configuration of the test environment according to the product testing requirements;
+5. Execute specific testing tasks and confirm test results, defect tracking, complete testing reports and testing result analysis;
+6. Communicate with the development, product and other departments at various stages of testing to ensure the correctness and completeness of test input and output;
+7. Complete product defect verification and confirmation, for defects that are difficult to reproduce, need to complete possible cause analysis and verification;
+8. Regularly submit product defect statistical analysis reports and complete product testing summary reports.
+
+**Qualifications:**
+
+1. More than 3 years of software testing experience, familiar with software development or testing process, software testing theory;
+2. Have certain code reading ability; familiar with basic testing methods and theories, such as boundary value division, white box testing, automated testing, exploratory testing skills;
+3. Master languages such as PYTHON, can independently complete automation design and problem analysis;
+4. Have a keen insight into the latest technology developments in the industry, good communication and teamwork awareness.
+
+### <mark style="color:blue;">Android Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 15K to 30K \* 12 months</mark>&#x20;
+
+**Job Responsibilities:**
+
+1. Responsible for the development of core functions of Android application products; responsible for the development and maintenance of Android App;
+2. According to the design of product function modules, code implementation of various modules and ensure the development quality;
+3. Participate in the evaluation, design, and implementation of mobile software requirements;
+4. Solve the problems of mobile software encountered by the company's testing, market, and internal trials;
+5. Responsible for the continuous iteration and release of products, continuous optimization of product performance, upgrade user experience;
+6. Deeply participate in product demand discussion, function definition, etc. with the team.
+
+**Job Requirements:**
+
+1. Bachelor's degree or above, major in computer related field;
+2. More than 3 years of Android application development experience;
+3. Familiar with common design patterns, performance optimization techniques; understand multithreading and communication between threads;
+4. Master the use of common open-source frameworks, familiar with the source code of some open-source frameworks;
+5. Deep participation in mobile product development, experience in independent development of related modules;
+6. Have a solid foundation in Java, familiar with common data structures, algorithms, familiar with Java, Kotlin, C++ and other common programming languages;
+7. Proficient in Android platform UI design, proficient in Android common layout, proficient in Android's four major components;
+8. Familiar with Git tool's common commands;
+9. Familiar with Android SDK, proficient in Android API, understand Android architecture, have NDK development experience;
+10. Passionate about technology, like to study, have strong independent working ability and problem-solving ability;
+11. Familiar with HTTP network protocol.JSON/XML.HTTP/IP and related protocols. Familiar with app reinforcement anti-cracking;
+12. Have a deep understanding of Android system architecture, can independently complete Android mobile terminal application development and later maintenance and testing;
+13. Understand the basic knowledge of blockchain, experience is preferred.
+
+
+
+### <mark style="color:blue;">iOS Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 15K to 30K \* 12 months</mark>&#x20;
+
+**Job Responsibilities:**
+
+1. Responsible for the research, development, update, and iteration of the company's APP, implementation, and testing of modules;
+2. Building and maintaining project framework environment, completing the writing of related client documents;
+3. Efficiently and timely complete project development and design tasks;
+4. Complete the design and development documents on time and guarantee quality, including but not limited to interface specification, user manual, etc;
+5. Continuous improvement of software products, such as improving customer experience, adaptation, etc;
+6. Work with product managers, backend development engineers, and UI designers to conduct technical discussions and complete the implementation of the front-end system;
+7. Continuously optimize the software development process, and improve development efficiency and product quality;
+8. Under the team's code format and structure regulations, write easy-to-read, easy-to-maintain, high-quality, and efficient code;
+9. Participate in the company's mobile terminal product demand analysis, complete technical research and system design, etc;
+10. Have a deep understanding of iOS system architecture, able to independently complete iOS mobile terminal application development and later maintenance and testing.
+
+**Job Requirements:**
+
+1. Bachelor's degree or above, major in computer-related field;
+2. More than 3 years of iOS application development experience;
+3. Familiar with iOS framework and various features, proficient in using various UI components of iOS, understand its internal principles, master basic interaction knowledge; proficient in iOS native, Swift, SwiftUI;
+4. Proficient in Objective-C programming design, data structures and algorithms, TCP/IP, HTTP protocols;
+5. Good learning and problem-solving ability, serious responsibility, diligent and responsible, strong communication skills, diligent and eager to learn;
+6. Front-end development ability is preferred; strong sense of responsibility, strong logical thinking ability, communication skills and stress resistance ability;
+7. Responsible for the development of iOS mobile terminal application products, and plan the development process;
+8. Able to independently solve technical difficulties, and responsible for tackling the core technology of the product;
+9. Experience in complete project development, familiar with the iOS on-board process;
+10. Proficient in IOS development tools and related SDK, IOS interactive design, memory management technology, multithreading, custom advanced UI;
+11. Familiar with HTTP network protocol, JSON/XML, HTTP/IP, and related protocols; familiar with app reinforcement anti-cracking;
+12. Understand CoreData technology, familiar with HTML5, Javascript, and CSS; understand Java/go server backend development;
+13. Understand the basic knowledge of blockchain, experience is preferred.
+
+### <mark style="color:blue;">The Main Requirements</mark> <mark style="color:blue;">for you</mark>
 
 Integrity&#x20;
 
