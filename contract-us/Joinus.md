@@ -19,7 +19,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">Senior Front-end Developer (5-8 years, Bachelor's degree, 30-60K \* 12 months)</mark>&#x20;
+### <mark style="color:blue;">Senior Front-end Developer -Work Experience 5-8 years - Bachelor's degree, 30-60K \* 12 months</mark>&#x20;
 
 **Responsibilities:**
 
@@ -43,7 +43,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">Blockchain Overseas Operation - Social Recruitment - Work Experience 1-3 years - Bachelor Degree - 13K to 25K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Blockchain Overseas Operation - Social Recruitment -  Work Experience 1-3 years - Bachelor Degree - 13K to 25K \* 12 months</mark>&#x20;
 
 **Job Description:**
 
@@ -83,7 +83,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">E-commerce Specialist (Hardware Wallet Promotion)</mark>&#x20;
+### <mark style="color:blue;">E-commerce Specialist- Social Recruitment - Work Experience 1-3 years - Bachelor Degree - 10K to 20K \* 12 months</mark>&#x20;
 
 **Job Description:**
 
