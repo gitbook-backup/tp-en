@@ -19,7 +19,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">Senior Front-end Developer -Work Experience 5-8 years - Bachelor's degree, 30-60K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Senior Front-end Developer -Work Experience 5-8 years - Bachelor's degree</mark>
 
 **Responsibilities:**
 
@@ -43,7 +43,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">Blockchain Overseas Operation - Social Recruitment -  Work Experience 1-3 years - Bachelor Degree - 13K to 25K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Blockchain Overseas Operation - Social Recruitment -  Work Experience 1-3 years - Bachelor Degree</mark>
 
 **Job Description:**
 
@@ -62,7 +62,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">Blockchain Product Manager - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 18K to 35K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Blockchain Product Manager - Social Recruitment - Work Experience 3-5 years - Bachelor Degree</mark>
 
 **Job Description:**
 
@@ -83,7 +83,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">E-commerce Specialist- Social Recruitment - Work Experience 1-3 years - Bachelor Degree - 10K to 20K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">E-commerce Specialist- Social Recruitment - Work Experience 1-3 years - Bachelor Degree</mark>
 
 **Job Description:**
 
@@ -109,7 +109,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">Blockchain Architect - Social Recruitment - Work Experience 5-10 years - Bachelor Degree - 40K to 70K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Blockchain Architect - Social Recruitment - Work Experience 5-10 years - Bachelor Degree</mark>
 
 **Responsibilities:**
 
@@ -128,7 +128,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-<mark style="color:blue;">**Backend Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 25K to 50K \* 12 months**</mark>&#x20;
+<mark style="color:blue;">**Backend Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree**</mark>
 
 **Job Description:**
 
@@ -147,7 +147,7 @@ As long as you have rich professional experiences and strong related technologie
 7. Those with experience in designing and developing distributed systems are preferred
 8. Good communication and collaboration awareness, able to withstand a certain amount of work pressure, have good learning ability and problem-solving ability, proactive at work, and responsible.
 
-### <mark style="color:blue;">HR and Administration Specialist - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 8K to 12K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">HR and Administration Specialist - Social Recruitment - Work Experience 3-5 years - Bachelor Degree</mark>
 
 **Job Description:**
 
@@ -175,7 +175,7 @@ As long as you have rich professional experiences and strong related technologie
 5. Familiar with the handling of social security and provident fund businesses;
 6. Have strong language expression ability, interpersonal communication ability, adaptability, communication ability and problem-solving ability, affinity, strong sense of responsibility and professionalism.
 
-### <mark style="color:blue;">Test Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 11K to 22K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Test Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree</mark>
 
 **Job Description:**
 
@@ -195,7 +195,7 @@ As long as you have rich professional experiences and strong related technologie
 3. Master languages such as PYTHON, can independently complete automation design and problem analysis;
 4. Have a keen insight into the latest technology developments in the industry, good communication and teamwork awareness.
 
-### <mark style="color:blue;">Android Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 15K to 30K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">Android Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree</mark>
 
 **Job Responsibilities:**
 
@@ -224,7 +224,7 @@ As long as you have rich professional experiences and strong related technologie
 
 
 
-### <mark style="color:blue;">iOS Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree - 15K to 30K \* 12 months</mark>&#x20;
+### <mark style="color:blue;">iOS Development Engineer - Social Recruitment - Work Experience 3-5 years - Bachelor Degree</mark>
 
 **Job Responsibilities:**
 
