@@ -1,4 +1,4 @@
-# 🔥 Jun 7th, Optimism node is being maintained.
+# Jun 7th, Optimism node is being maintained.
 
 Dear TokenPocket users,
 
