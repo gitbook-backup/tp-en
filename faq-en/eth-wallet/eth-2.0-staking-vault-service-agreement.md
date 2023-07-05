@@ -1,97 +1,56 @@
 # ETH 2.0 Staking Vault Service Agreement
 
-Disclaimer: Translations of any materials into other languages are intended solely as a convenience to the public, but slight differences may exist. The English version is a translation of the original in Chinese and for information purposes only. In case of a discrepancy, the Chinese original will prevail.
+This "Eth 2.0 Staking Service Agreement" (referred to as "this Agreement") is a supplementary part of the user agreement for TokenPocket Wallet (referred to as "the Platform"). The user agreement and other terms of the Platform continue to apply to all users. Before proceeding with any actions on the Platform, please read and fully understand this Agreement. By continuing to use the Platform or its services in any way, you are deemed to have carefully read, understood, and agreed to this Agreement.
 
-The ETH 2.0 Staking Vault Service Agreement (hereinafter referred to as the "Agreement") is a supplement to the user agreement of TokenPocket Wallet (https://www.tokenpocket.pro) (hereinafter referred to as the "Platform"). The user agreement and other terms from this platform continue to apply to all its users. Before you proceed to the next step through this platform, please read carefully and thoroughly understand this agreement. If you proceed to the next step through this platform, or use the platform services in any way, it is deemed that you have carefully read, understood, and agreed to this agreement.
+This Agreement may be modified, changed, or updated by the Platform at any time without prior notice to you. You should regularly check to ensure that your copy and understanding of this Agreement are up to date and accurate. After the effective date of any modifications, changes, or updates, if you continue to choose to use any services of this website, it is deemed that you accept the new modified, changed, or updated version of this Agreement.
 
-This agreement can be modified, changed, or updated by the platform at any time without prior notice to users. You should check frequently to confirm that your copy and understanding of this agreement are up to date and accurate. After the effective date of any modification, change, or update, if you continue to use any of the services on the platform, it shall be deemed as your acceptance of the newly revised, changed, or updated agreement. All content on this website is provided in multiple languages intended solely as a convenience to the public. The English version is a translation of the original in Chinese and for information purposes only. In case of a discrepancy, the Chinese original will prevail.
+For the convenience of users, this website provides multiple language versions. In the event of any conflict, omission, or discrepancy, the Chinese version shall prevail.
 
-Cyptocurrency has a high risk. Eth2.0 Staking Vault only simplifies the staking, and does not encourage or encourage you to purchase eth coins for staking.
+**Special Notice: Virtual currencies involve high risks. Eth 2.0 Staking only provides simplified services for node staking and does not encourage or advocate the purchase of ETH for staking in any form.**
 
-1\. Definition
+#### Definitions
 
-1.1. Ethereum (ETH) is a proof-of-work (POW) blockchain network. ETH 2.0, or Ethereum 2.0, is the proof of stake (PoS) version of the Ethereum mainnet, which introduced the sharding technology. It consists of 4 phases, Phase 0 (beacon chain), Phase 1 (sharding), Phase 2 (smart contract), Phase 3 (chain storage), Phase 4 (sharding smart contract), etc.
+1. Ethereum (Eth) is a blockchain network based on Proof-of-Work (PoW). Eth 2.0, also known as Ethereum 2.0, is the Proof-of-Stake (PoS) version of the Ethereum mainnet. It introduces shard technology and consists of different phases, including Phase 0 (Beacon Chain), Phase 1 (Sharding), Phase 2 (Smart Contracts), Phase 3 (Light Client State Storage), and Phase 4 (Sharded Smart Contracts).
+2. Eth 2.0 Staking is the implementation mechanism for Eth Proof-of-Stake. On the Beacon Chain, users can stake 32 ETH as validators. In Phase 0, validators only need to manage the Beacon Chain, while starting from Phase 1, validators will also manage 1024 shard chains. The Beacon Chain and each shard chain will use the Casper FFG algorithm for block production. FFG is a Proof-of-Stake algorithm used to enforce slash penalties (reducing stake) for malicious behavior on the chain. The 32 ETH staked by validators can only be unlocked after entering Phase 2.
+3. Eth 2.0 Staking Pool is a simplified service based on Eth 2.0 Staking. It does not require mandatory staking of 32 ETH and provides liquidity for locked ETH.
+4. Service Fee refers to the platform's service fee, which is 15% of the user's staking rewards and 20% of the blockchain extractable value.
+5. Transaction Fee refers to the fee paid by users to the platform for using the ETH withdrawal function. The current fee is 1%.
 
-1.2 Eth 2.0 Staking is the solution to realize the Proof of Stake mechanism of Ethereum 2.0. On Beacon Chain, users are required to stake 32 ETH to become a validator. In Phase 0, validators only need to manage Beacon Chain. Starting from Phase 1, validators need to manage 1024 shards apart from Beacon Chain. Beacon Chain and every shard produce blocks basing on Casper FFG. FFG is a Proof of Stake mechanism that involves penalty (Slashing, i.e. reduce one’s staking) for evil doings on the chain. The 32 ETH staked by validators cannot be withdrawn until Phase 2.
+#### Eth 2.0 Staking Pool Rules
 
-1.3. The ETH 2.0 Staking Vault is a simplified service based on the ETH 2.0 staking system. In the ETH 2.0 Staking Vault, the 32 ETH staking is no longer mandatory, and a unlocking mechanism for the staked ETH is implemented.
+Your actions on the platform, including staking, withdrawal, or any use of platform services, are deemed as your careful reading, understanding, and acceptance of the product rules. The Staking Pool service includes self-hosted staking and joint staking, with the following rules:
 
-1.4. Service fee refers to the fees the platform charges for operating the ETH 2.0 nodes on behalf of users. The platform will charge 15% of the node rewards as a service fee.
+1. TokenPocket will deduct a certain percentage of the user's staking rewards as node operation fees. The daily staking rewards received by users are the amount after deducting the node operation fees.
+2. Actual earnings are dependent on the actual staking situation on the Eth 2.0 mainnet.
+3. TokenPocket assumes responsibility for slashes (node penalties) caused by improper operation, but not for slashes caused by Eth 2.0 node client provided by Ethereum or Eth 2.0 contract bugs.
+4. Staking rewards are settled once every epoch (approximately 6.4 minutes).
 
-1.5. Handling fee refers to the fees the user must pay to the platform when withdrawing the staked ETH.
+**Supplemental Rules for Self-hosted Staking:**
 
-2\. ETH 2.0 Staking Vault rules
+* Self-hosted staking follows a dual-key principle. Users hold the "withdrawal key" (to manage funds), while TokenPocket holds only the "validator key." The withdrawal key is created and safeguarded by the user, and if lost or forgotten, it will result in the inability to retrieve the node funds. Users bear the responsibility for this.
+* Self-hosted staking requires users to provide 32 ETH to generate a node. TokenPocket charges a one-time fee of 0.05 ETH as node maintenance fee. No additional fees will be charged during the continuous operation of the node.
+* The activation time of a self-hosted staking node is related to the current queue status of staking on the chain.
+* The effective withdrawal time of a self-hosted staking node is related to the queue status of withdrawal on the chain. Self-hosted staking is not eligible for quick redemption activities.
 
-In using this platform you are deemed to have carefully read, understood, and agreed to the following terms and conditions:
+**Supplemental Rules for Joint Staking:**
 
-1\. The minimum investment is 0.1ETH and the maximum investment is 32000 ETH. The initial allocation is 32000 ETH.
+* The minimum investment is 0.1 ETH.
+* Users who stake before 22:00 UTC+8 each day will be recorded as "today's staking" and are expected to start earning rewards from T+1, starting from 22:00 UTC+8 the next day. Users who stake after 22:00 UTC+8 will be recorded as "the next day's staking," starting to earn rewards from 22:00 UTC+8 the day after. The actual earnings time is subject to node activation restrictions, and if there are many nodes in the queue for activation, the earnings time may be postponed (T+1 is used to calculate user rewards, and the specific reward time is related to the node activation time, with earlier staking leading to earlier returns).
+* Each user can withdraw a minimum of 0.1 ETH and a maximum of 10 ETH per day. After applying for withdrawal, refunds are processed once every 24 hours, and the total amount of ETH that all users can withdraw is determined by the liquidity fund. A certain fee is required for using the withdrawal function. The final amount of ETH received by the user is calculated as the allowed amount of ETH withdrawal minus the withdrawal fee and transfer gas fee.
+* The platform provides a liquidity fund, which integrates industry resources to provide users with a certain amount of quick redemption functionality. The portion of funds obtained through quick redemption will be attributed to the user, but will no longer earn staking rewards. Only principal redemption is supported, and early redemption of staking rewards is not available. The fee for quick redemption is 1% of the redeemed funds.
 
-2\. Starting date of the activities, that is, operation of the node on behalf of the user and calculation of rewards, is expected to be on December 7, 2020, and calculation of rewards will start on T+1, that is, users are expected to receive the first batch of staking rewards on December 8.（"T+1" will be used in the calculation of user reward. Users who participated before December 1 are expected to receive their first reward on December 8. Special note: There are too many nodes waiting for activation, and the activation time is estimated to be “T+8”. The specific reward time is related to the node activation time. The earlier you stake, the earlier you get reward.）
+Supplemental Note on the Liquidity Fund: The principal of the liquidity fund is periodically launched and follows a first-come, first-served basis.
 
-3\. For users who stake before 22:00, the stake will be recorded as day T’s stake.
+#### Dispute Resolution for Staking
 
-For users who stake after 22:00:00, the stake will be recorded as day T+1’s stake and rewards will be generated after 22:00:00 of T+2.
+1. Users are responsible for any losses incurred due to lost private keys, mnemonic phrases, passwords, or compromised account private keys, resulting in the inability to withdraw or claim rewards.
+2. If users misunderstand the Eth 2.0 mechanism or misinterpret the product rules due to a lack of understanding or failure to carefully read the agreement, and file appeals for benefits outside the rules, the platform reserves the right to reject the application.
+3. The actual earnings of the product are related to the staking situation on the Eth 2.0 mainnet and the development progress. If there are significant vulnerabilities or development delays in the Eth 2.0 mainnet, it may result in user asset losses, which users bear on their own.
 
-Note: The actual reward time is set by the activation of the nodes. If there are a large number of nodes queuing, it may be rescheduled.
+#### Disclaimer and Liability Exemption
 
-4\. After the unstake function is launched, users will only be able to withdraw the stake from phase 1.
-
-For the stakes from phase 2, TokenPocket will adopt other ways to provide a mechanism for the withdrawal of the rewards.
-
-5\. The amount of ETH to be withdrawn every day is uncertain, and a certain fee is required to use the withdrawal function.
-
-The ETH received by the end-user = the amount of ETH allowed to withdraw - handling fees of the operation - transfer fees (Gas).
-
-6\. TokenPocket will charge 15% of the user's staking rewards as a service fee. The daily rewards that users will receive has already included the 15% service fee.
-
-7\. Estimated annual yield: 5% to 20%, and actually determined by the actual stake of ETH 2.0 mainnet.
-
-8\. The slash (node ​​penalty) caused by improper operation of TokenPocket shall be borne by TokenPocket.
-
-Slash caused by the official ETH 2.0 node running client or ETH 2.0 contract bugs from official sources are not within the scope of responsibility.
-
-9\. The lock-up time depends on the progress of the Ethereum project and has nothing to do with the platform. It is expected to be 1-2 years. Please be aware of the risks.
-
-10\. The staking rewards are settled every epoch (theoretically every 6.4 minutes).
-
-11\. The platform provides two mechanisms to alleviate the long-term lock-up of the funds.
-
-Liquidity funds:  The platform will integrate industry resources and provide a certain amount for early redemption for the users in multiple installments.
-
-● Rewards generated during staking belong to the user. However, after the redemption, the redeemed ETH will no longer generate staking rewards.
-
-● Only the redemption of the principal is supported. Early redemption of staking rewards is not supported.
-
-● The commission for early redemption is related to the redemption time.
-
-● The total amount for the first phase of the liquidity fund is 1000 ETH, and a maximum of 10% of the total amount will be released each day.
-
-On-exchange trading: The ETH staked by users and the rewards can be freely traded on the exchange. ETH participating in pending orders are not eligible.
-
-12\. Early redemption fee rate: (0.05 - 0.04 \* t/T) \* amount
-
-● amount = the total amount of ETH staked by users;
-
-● T = 730 (that is, the total number of days in two years is 365\*2), from 2020-12-01;
-
-● t = the number of days the user's ETH has been staked, since December 1, 2020.
-
-t is a theoretical distance, and the actual amount will be determined by the mainnet launch time.
-
-3\. Disputes settlement
-
-3.1. If the user loses the private key, mnemonic phrase, password, or leaks the account private key, etc., and loses absolute control of the account, being unable to withdraw or receive rewards, the losses caused shall be borne by the users themselves.
-
-3.2. In the case of appeals for interests that are not covered within the rules, the platform has the right to reject the application if the user does not understand what is ETH 2.0 or fails to read the agreement carefully, which leads to a misunderstanding of the product rules.
-
-3.3. The actual incomes are related to the stake of the ETH 2.0 mainnet and development progress. If a major loophole in the ETH 2.0 mainnet or development stagnation may result in damage or losses to the user, the user shall bear the loss.
-
-4\. Liability waiver
-
-4.1. The platform only provides you with ETH 2.0 custodial node operation services. You fully understand the possible risks and flaws of the ETH 2.0 and ETH 2.0 staking mechanism. This platform will guarantee the revenues through the most stable possible node operation service. At the same time, due the long period required for the development of ETH 2.0, there may be a variety of risks, you should be cautious about this.
-
-4.2. Due to the particularity of digital assets, there are strong fluctuations in the price of these assets. They are relatively less used in retail and commercial markets and trading of these assets are extremely risky. They are traded uninterrupted throughout the day and have no restrictions on fluctuations. Prices are susceptible to large fluctuations due to the influence of market makers and global government policies; the losses that may be caused by the price fluctuation of digital assets is the full responsibility of the user.
-
-4.3. It is forbidden to use this platform to engage in all illegal transactions or illegal acts such as money laundering, smuggling, commercial bribery, and any other illegal transactions or activities. If any suspected illegal transactions or illegal acts are found, the platform will take action with various available methods, including but not limited to freezing accounts, notifying relevant authorities, etc. We do not assume any responsibility arising from this behavior and reserve the right to hold relevant parties accountable.
-
-4.5. Digital asset trading is extremely risky and is not suitable for most people. You understand that this investment may result in partial or total loss, so you should decide the amount of investment based on the degree of loss you can bear. You understand that digital assets will generate derivative risks, so if you have any questions, it is recommended to seek the assistance of a financial advisor first. In addition, in addition to the risks mentioned above, there will also be unpredictable risks. You should carefully consider and use clear judgment to evaluate your financial situation and the above risks before making any decision to buy or sell digital assets, and bear all the losses arising therefrom. The platform does not bear any responsibility for this.
+1. The platform only provides Eth 2.0 node operation services. You fully understand the risks and flaws that may exist in Eth 2.0 and Eth 2.0 Staking mechanisms. The platform guarantees node staking income through stable node operation services to the extent possible. Given the longer development cycle required for Eth 2.0, there may be various risks. You should exercise caution and judgment.
+2. Due to the unique characteristics of digital assets, digital asset prices are highly volatile, with relatively limited use in retail and commercial markets. Digital asset trading carries extremely high risks. Trading occurs 24/7 without price limits, making prices susceptible to environmental and global policy influences, leading to significant fluctuations. Therefore, digital asset price changes may result in investment losses, for which users bear the responsibility. We do not recommend or advocate purchasing digital assets, and we especially do not encourage using ETH for staking.
+3. It is prohibited to engage in any illegal trading activities or illegal activities such as money laundering, smuggling, and commercial bribery on this platform. If any suspected illegal transactions or illegal activities are discovered, this website reserves the right to take various measures, including but not limited to freezing accounts and notifying relevant authorities. We do not bear any responsibility for any consequences arising from such activities and reserve the right to hold relevant individuals accountable.
+4. If your actions cause losses to the platform (including direct economic losses, reputational losses, and indirect economic losses such as compensation payments, settlement fees, attorney fees, litigation costs, etc.), you shall compensate the platform for all the aforementioned losses. If your actions result in the platform being claimed against by a third party, after fulfilling the obligations of money payment to the third party, the platform has the right to recover all losses from you.
+5. Digital asset trading carries extremely high risks and is not suitable for most individuals. You understand and acknowledge that this investment may result in partial or total losses, and you should decide on the investment amount based on the level of loss you can afford. You understand and acknowledge that digital assets carry derivative risks. If you have any questions, it is recommended to seek assistance from financial advisors. In addition to the mentioned risks, there may be unforeseen risks. If you do not fall within the scope of users served by this platform, please do not participate in the services provided by this platform. You bear all responsibility for the consequences resulting from your personal participation in the platform's services. You should carefully consider and evaluate your financial status and the aforementioned risks with clear judgment before making any decisions to buy or sell digital assets, and you bear all losses arising from such decisions. The platform does not assume any responsibility.
