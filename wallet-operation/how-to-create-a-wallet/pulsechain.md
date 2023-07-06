@@ -14,7 +14,7 @@ Fill in 【Pulse】  in the search bar, and you can see the search results below
 
 3\. Double-check the information and click “Confirm”. Go back to the “Select Network” interface and pull down to the bottom to see the PulseChain.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click on the PulseChain, and you can choose “Create” or “Import” to use the Pulse wallet.&#x20;
 

@@ -16,7 +16,7 @@ Click on the Self-Custodial Staking entrance, and you can see relevant data abou
 
 After viewing and selecting the \[Staking Service Agreement], click on "Pay" to bring up the transaction details page where you can adjust the miner's fee according to your actual situation. Finally, click \[Confirm Payment] and sign to complete self-hosted staking.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Joint Stake
 
@@ -24,10 +24,10 @@ Joint Stake refers to multiple participating nodes jointly staking, with a minim
 
 3.1 In the joint staking interface, you can view information such as stake data and validator's reward trends, as well as check "Staking History" and "Common Questions". Click on the "Participate/Exit Pledge" entry, select participate or exit (requires a unified window period) in the redirected interface, set your desired amount of ETH to participate, check and select the "Staking Vault Service Protocol", then click Confirm.
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (13).png" alt=""><figcaption></figcaption></figure>
 
 3.2 After comfirmed on the payment, you will be redirected to the transaction details page. Here, you can click on \[Miner's Fee] to set it according to your actual needs. Click \[Confirm Payment] and sign it to complete participation in joint staking.&#x20;
 
 In the unstaking interface, you can see the amount that can be withdrawn below the input box. Fill in this number in the digital field, click \[Confirm Withdrawal], and then confirm payment and signature on the transaction details page to complete the withdrawal process. (The rewards for participating in staking will only be available after ETH2.0 is officially launched.)
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (3).png" alt=""><figcaption></figcaption></figure>

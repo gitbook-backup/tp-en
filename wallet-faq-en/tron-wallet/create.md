@@ -4,7 +4,7 @@
 
 1\. Open TokenPocket and click on "No accounts" if it's your first time using it. From the list, select the "TRON" wallet and create it.
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. There are three different methods of creation, and each method has its unique functionalities. Click "Create Wallet". The wallet name can be customized, and the password should be a minimum of 8 characters. It is recommended to use a strong password combination. After selecting the user agreement, click on "Create Wallet" to proceed to the next screen.
 
@@ -12,7 +12,7 @@
 
 **Watch Wallet:** It allows the user to import and view data using any address that complies with the current public blockchain. It can also be used interactively with a cold wallet.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (28).png" alt=""><figcaption></figcaption></figure>
 
 3\. The core of blockchain asset security tips is the private key and Secret Recovery phase, which can be exported and backed up after creating a wallet. The Recovery phrase and private key must be backed up and stored in an offline manner to prevent loss or leakage. After reading or observing the relevant content, check a few points to be cautious about, and then click on the next step.
 
@@ -24,4 +24,4 @@
 
 5\. After successfully creating the wallet, you can familiarize yourself with its features first. You can also click on the "Learn" option at the bottom to understand and learn about common security and anti-fraud issues. The "Discover" option at the bottom allows you to view and use various DApp tools. (Please note that the iOS version of TP Wallet currently does not provide additional available content on the Discover interface due to App Store regulations.)
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>

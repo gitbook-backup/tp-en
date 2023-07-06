@@ -21,6 +21,7 @@
 ## 🔐 Security Knowledge
 
 * [Security Measure](security-knowledge/security-measure/README.md)
+  * [Use the Passphrase feature to create a "hidden wallet."](security-knowledge/security-measure/passphrase.md)
   * [Hide small transaction records](security-knowledge/security-measure/hide.md)
   * [TokenPocket Approval Detector Use Guide](security-knowledge/security-measure/TP-Approve.md)
   * [Notes on using the third-party DApp.](security-knowledge/security-measure/dapp.md)
