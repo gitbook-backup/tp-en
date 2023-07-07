@@ -14,9 +14,9 @@ The purpose of a passphrase is to increase the security of the wallet, ensuring 
 * Regular change: Regularly changing your passphrase is a good security practice, especially if you suspect that your passphrase may have been leaked or is no longer safe. Changing the passphrase also means that your wallet address changes along with it!
 * Beware of phishing attacks: Be aware of phishing attacks and do not click on links from unknown sources or suspicious websites to prevent being lured into entering your passphrase.&#x20;
 
-<mark style="color:red;">Please remember that both the mnemonic phrase and passphrase must be held simultaneously in order to successfully import the "hidden wallet". Once the passphrase is set, it cannot be exported again. Please make sure to record it correctly.</mark>
+<mark style="color:red;">Please remember that both the secret recovery phrase and passphrase must be held simultaneously in order to successfully import the "Secret Wallet". Once the passphrase is set, it cannot be exported again.</mark>&#x20;
 
-<mark style="color:red;">We recommend performing a secondary verification after creating the wallet using the passphrase method for the first time. For example, you can reimport the mnemonic phrase into the wallet and import the wallet using the passphrase to see if it prompts that the wallet already exists. Alternatively, you can delete the newly created wallet, import it again, and verify the consistency between the addresses created and imported later.</mark>
+<mark style="color:red;">Please make sure to back up correctly. We recommend performing a secondary verification after creating the wallet using the passphrase method for the first time. For example, you can re-import the secret recovery phrase into the wallet and import the wallet using the passphrase to see if it prompts that the wallet already exists. And you can delete the new wallet, import it again, and verify the consistency between the addresses created and imported later.</mark>
 
 ### <mark style="color:orange;">Passphrase Tutorial</mark>
 
