@@ -12,7 +12,7 @@
 
 3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-<figure><img src="../../.gitbook/assets/dogecn3 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dogecn3 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
@@ -36,4 +36,4 @@
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported an EOS EVM wallet.​​
 
-<figure><img src="../../.gitbook/assets/组 65.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 65 (1).png" alt=""><figcaption></figcaption></figure>
