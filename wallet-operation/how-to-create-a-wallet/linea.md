@@ -38,6 +38,4 @@
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a **Linea** wallet.​​&#x20;
 
-
-
 <figure><img src="../../.gitbook/assets/4 en.png" alt=""><figcaption></figcaption></figure>
