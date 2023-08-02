@@ -258,6 +258,7 @@
   * [How to Manage My Wallet?](wallet-management/how-to-manage-my-wallet.md)
   * [How to Switch My Wallet?](wallet-management/how-to-switch-my-wallet.md)
   * [How to Sync a Wallet?](wallet-management/how-to-sync-a-wallet.md)
+  * [What is Nonce?](wallet-management/wallet-management/nonce.md)
   * [How to use Watch Wallet and Cold Wallet?](wallet-management/wallet-management/how-to-use-watch-wallet-and-cold-wallet.md)
 * [Blockchain Explorer Tutorial](transfer-faq/blockchain-explorer-tutorial/README.md)
   * [What is Blockchain Explorer?](transfer-faq/blockchain-explorer-tutorial/what-is-blockchain-explorer.md)
