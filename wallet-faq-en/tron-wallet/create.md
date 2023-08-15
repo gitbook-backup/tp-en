@@ -4,7 +4,7 @@
 
 1\. Open TokenPocket and click on "No accounts" if it's your first time using it. From the list, select the "TRON" wallet and create it.
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. There are three different methods of creation, and each method has its unique functionalities. Click "Create Wallet". The wallet name can be customized, and the password should be a minimum of 8 characters. It is recommended to use a strong password combination. After selecting the user agreement, click on "Create Wallet" to proceed to the next screen.
 

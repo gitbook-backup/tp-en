@@ -24,15 +24,15 @@ The purpose of a passphrase is to increase the security of the wallet, ensuring 
 
 1. Open the TP Wallet version (2.1.1 or more) and click on the first icon in the upper right corner, select the network you want to create wallet. Take the Ethereum wallet as an example.
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 2. SinSince it is the first time using the Passphrase feature, you need to "create a wallet." It is important to note that TP Wallet uses a unified password. This means that if you have created a wallet before, the passwords for subsequent wallet addresses will be the same as the first one.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (22).png" alt=""><figcaption></figcaption></figure>
 
 3. You can see the **\[Advanced Settings]** at the bottom of the interface. When opened, you can set up a Passphrase. Please carefully review the introduction and familiarize yourself with the features and precautions of the Passphrase.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 4. After creating a wallet, click on "Receive" to see the wallet address created through the passphrase method.
 
