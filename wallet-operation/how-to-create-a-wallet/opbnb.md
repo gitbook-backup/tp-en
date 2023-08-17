@@ -1,33 +1,39 @@
 # opBNB Use Guide
 
-### <mark style="color:orange;">**How to create a opBNB wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
+### <mark style="color:orange;">**How to create an opBNB wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1. Open TokenPocket APP, click ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MMJyYRLFVRsMrfcXuRV%2Fuploads%2FirO5jMjruPh19549ag1R%2Fimage.png?alt=media\&token=db14329a-ece4-4e2a-bb3e-c64d39cc084e) on the upper right corner, and select opBNB;
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (57).png>) on the upper right corner, and select **opBNB**;
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 en (2).png" alt=""><figcaption></figcaption></figure>
 
-2. Fill in the data in the custom network editing interface.
+2\. Click **\[Create Wallet]**  and click **\[Create Wallet]** again;
 
-* Name: opBN TESTNET （自定义）
-* RPC URL: https://opbnb-testnet-rpc.bnbchain.org
-* Chain ID: 5611
-* Currency symbol: tcBNB
-* Block Explorer URL: https://opbnbscan.com
+<figure><img src="../../.gitbook/assets/组 103.png" alt=""><figcaption></figcaption></figure>
 
-Clicking "Confirm" will complete the operation of adding a new custom network. Once added, you will be able to see it at the end of the list of available networks.
+3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 en (2).png" alt=""><figcaption></figcaption></figure>
 
-3. After clicking on the newly added opBNB public chain, you can choose to either "Create Wallet" or "Import Wallet" to create a wallet. Once the creation is complete, you will be able to access the main wallet interface.
+4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:orange;">How to add opBNB on TokenPocket  Extension Wallet?</mark>
+5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created an **opBNB** wallet.
 
-1. Click on the upper-left corner to switch networks, and then click on "Custom RPC."
+<mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 en (2).png" alt=""><figcaption></figcaption></figure>
 
-2. Input the following content in the custom network parameters, and after completion, click "Save" to successfully create the custom opBNB network.
+### <mark style="color:orange;">**How to import an opBNB wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
-<figure><img src="../../.gitbook/assets/2 (29).png" alt=""><figcaption></figcaption></figure>
+1. Open TokenPocket APP, click![](<../../.gitbook/assets/image (8).png>) on the upper right corner, and select **opBNB;**
+
+<figure><img src="../../.gitbook/assets/1 en (2).png" alt=""><figcaption></figcaption></figure>
+
+2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
+
+<figure><img src="../../.gitbook/assets/组 106.png" alt=""><figcaption></figcaption></figure>
+
+3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported an **opBNB** wallet.​​&#x20;
+
+<figure><img src="../../.gitbook/assets/4 en (2).png" alt=""><figcaption></figcaption></figure>
