@@ -360,6 +360,7 @@
   * [Dec 2nd, 2021. EOS node is being maintained.](announcement/announcement/dec-2nd-2021.-eos-node-is-being-maintained..md)
 * [App Update](announcement/update/README.md)
   * [🆕 Version Update Logs (All)](announcement/update/version-update.md)
+  * [Version Update (Aug 20th, 2023)](announcement/update/version-update-20230820.md)
   * [Version Update (Jul 19th, 2023)](announcement/update/version-update-20230719.md)
   * [Version Update (Jul 15th, 2023)](announcement/update/version-update-20230715.md)
   * [Version Update (Jul 1th, 2023)](announcement/update/version-update-20230701.md)
