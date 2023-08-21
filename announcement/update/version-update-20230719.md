@@ -6,7 +6,7 @@ Android: 1.8.1
 
 
 
-【**iOS Version Update】**
+【**Android Version Update】**
 
 1. Fix the signing issue of the DApps in landscape mode.
 2. Fix the TRON address display issue.
