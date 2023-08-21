@@ -6,7 +6,7 @@
 
 
 
-【**Version Update】**
+【**Android** **Version Update】**
 
 1. Support TRON MultiSig wallet.
 2. Support EIP-6963.
