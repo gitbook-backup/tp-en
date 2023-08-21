@@ -2,13 +2,18 @@
 
 【**The Latest Version】**
 
-Android: 1.8.4
+&#x20;  Android: 1.8.4
 
 
 
-【**iOS Version Update】**
+【**Version Update】**
 
-1. Fix GasLimit update issue.
+1. Support TRON MultiSig wallet.
+2. Support EIP-6963.
+3. Upgrade EVM-based MultiSig wallets’ functions.
+4. Enhance the entry display of switching Bitcoin address formats.
+5. Support Portuguese.&#x20;
+6. 6.Fix GasLimit update issue.
 
 
 
