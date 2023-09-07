@@ -10,6 +10,7 @@
 * [What Is the Miner Fee?](blockchain-basics/what-is-the-miner-fee.md)
 * [What Is DeFi ?](defi-tutorial/what-is-defi.md)
 * [What Is DEX ?](defi-tutorial/what-is-dex.md)
+* [What is keystore](blockchain-basics/what-is-keystore.md)
 * [What is a cold wallet](blockchain-basics/Cold-Wallet.md)
 * [What is a hot wallet](blockchain-basics/Hot-Wallet.md)
 * [What is a watch wallet?](blockchain-basics/Watch-the-wallet.md)
