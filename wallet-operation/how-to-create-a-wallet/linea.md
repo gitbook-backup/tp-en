@@ -4,7 +4,7 @@
 
 1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1).png>) on the upper right corner, and select **Linea**;
 
-<figure><img src="../../.gitbook/assets/1 en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 en (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click **\[Create Wallet]**  and click **\[Create Wallet]** again;
 
@@ -12,7 +12,7 @@
 
 3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-<figure><img src="../../.gitbook/assets/2 en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 en (2).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
@@ -24,13 +24,13 @@
 
 
 
-<figure><img src="../../.gitbook/assets/3 en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 en (2).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**How to import a Linea wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
 1. Open TokenPocket APP, click![](<../../.gitbook/assets/image (8).png>) on the upper right corner, and select **Linea;**
 
-<figure><img src="../../.gitbook/assets/1 en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 en (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 

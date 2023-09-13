@@ -4,7 +4,7 @@
 
 1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1).png>) on the upper right corner, and select **Base**;
 
-<figure><img src="../../.gitbook/assets/1 en (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 en (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click **\[Create Wallet]**  and click **\[Create Wallet]** again;
 
@@ -24,13 +24,13 @@
 
 
 
-<figure><img src="../../.gitbook/assets/3 en (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 en (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**How to import a Base wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
 1. Open TokenPocket APP, click![](<../../.gitbook/assets/image (8).png>) on the upper right corner, and select **Base;**
 
-<figure><img src="../../.gitbook/assets/1 en (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 en (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
