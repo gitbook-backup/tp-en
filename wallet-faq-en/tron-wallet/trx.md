@@ -6,7 +6,7 @@ Any on-chain operation performed on the TRON (TRX) network requires the payment 
 
 Open TokenPocket and tap on the top right corner 【Swap】 button.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 In the open interface, set the token (e.g., USDT) that needs to be exchanged, select the token TRX to be exchanged into, and then select an Ethereum wallet as the receiving address. Please do not use an exchange address as the receiving address.&#x20;
 
