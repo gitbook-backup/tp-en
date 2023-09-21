@@ -1,32 +1,39 @@
-# Core Blockchain Use Guide
+# Core Use Guide
 
-### How to add Core Blockchain on TokenPocket Moblie Wallet?
+### <mark style="color:orange;">**How to create a Core wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1、Open TokenPocket, click Add Wallet in the top right corner, and click【Add Custom Network】.
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (57).png>) on the upper right corner, and select **Core**;
 
-<figure><img src="../../.gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 85 (1).png" alt=""><figcaption></figcaption></figure>
 
-2\. Open the custom network interface, and click 【Easy Add】 in the upper right corner, TokenPocket will list the popular public chains, and you can easily search for the public chains you need to add through this entrance.
+2\. Click **\[Create Wallet]**  and click **\[Create Wallet]** again;
 
-Fill in 【Core】  in the search bar, and you can see the search results below, click it and be ready to add Core Blockchain.
+<figure><img src="../../.gitbook/assets/组 103.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
+3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-3\. Double-check the information and click “Confirm”. Go back to the “Select Network” interface and pull down to the bottom to see the Core Blockchain.
+<figure><img src="../../.gitbook/assets/cn 12.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
+4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
-4\. Click on the Core Blockchain, and you can choose “Create” or “Import” to use the Core wallet.&#x20;
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
+5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a **Core** wallet.
 
-### How to add Core Blockchain on TokenPocket  Extension Wallet?
+<mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
-1. Click the upper left corner to switch networks, click  【Custom RPC】, and click 【Easy Add】.
+<figure><img src="../../.gitbook/assets/3 en 1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/组 1.png" alt=""><figcaption></figcaption></figure>
+### <mark style="color:orange;">**How to import a Core wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
-2. Fill in 【Core】  in the search bar, and you can see the search results below, click it and be ready to add Core Blockchain. Click 【Connect Wallet】 and choose a wallet you want to sync up as a Core Blockchain wallet, click【Add to TokenPocket】.
+1. Open TokenPocket APP, click![](<../../.gitbook/assets/image (8).png>) on the upper right corner, and select **Core;**
 
-<figure><img src="../../.gitbook/assets/组 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 85 (1).png" alt=""><figcaption></figcaption></figure>
 
+2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
+
+<figure><img src="../../.gitbook/assets/组 106.png" alt=""><figcaption></figcaption></figure>
+
+3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a **Core** wallet.​​&#x20;
+
+<figure><img src="../../.gitbook/assets/组 83.png" alt=""><figcaption></figcaption></figure>
