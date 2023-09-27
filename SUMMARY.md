@@ -341,7 +341,8 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🔥 July 3rd, Polygon node is being maintained.](announcement/announcement/polygon-matic.md)
+  * [🆕 Sept 27th, Notice of the Suspension of Self-built KCC Mainnet Nodes and On-chain Data Services](announcement/announcement/sept-27th-notice-of-the-suspension-of-self-built-kcc-mainnet-nodes-and-on-chain-data-services.md)
+  * [July 3rd, Polygon node is being maintained.](announcement/announcement/polygon-matic.md)
   * [Jun 7th, Optimism node is being maintained.](announcement/announcement/jun-7-optimism.md)
   * [Oct 11th, TokenPocket Official Website Maintenance Notice](announcement/announcement/website.md)
   * [Oct 7th, BNB Chain's maintenance has been completed.](announcement/announcement/oct-7-bnb-completed.md)

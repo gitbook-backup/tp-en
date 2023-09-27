@@ -1,4 +1,4 @@
-# 🔥 July 3rd, Polygon node is being maintained.
+# July 3rd, Polygon node is being maintained.
 
 Dear TokenPocket users,
 
