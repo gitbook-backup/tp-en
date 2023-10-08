@@ -26,5 +26,5 @@
 
 **Follow us**
 
-&#x20;[Website 1 ](https://tokenpocket.pro/)| [Website 2](https://tpwallet.io/) |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com/)  |  [Twitter](https://medium.com/@tokenpocket.gm)  |  [Github](https://help.tokenpocket.pro/en/) | [YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) |
+&#x20;[Website 1 ](https://tokenpocket.pro/)| [Website 2](https://tpwallet.io/) |  [Telegram](https://t.me/tokenPocket\_en)  |  [Medium](https://tokenpocket-gm.medium.com/)  |  [Twitter](https://medium.com/@tokenpocket.gm)[ ](https://twitter.com/TokenPocket\_TP) |  [Github](https://github.com/TP-Lab) | [YouTube](https://www.youtube.com/channel/UCudaS5hcbqUaMtOGHmQ2e0A) |
 
