@@ -52,7 +52,7 @@
 
 <figure><img src="../../.gitbook/assets/组 116 (2).png" alt=""><figcaption></figcaption></figure>
 
-2. Select the network you want to sync and click**【Synchronize】**, you can view your wallet on **HAQQ Network.**
+3. Select the network you want to sync and click**【Synchronize】**, you can view your wallet on **HAQQ Network.**
 
 <figure><img src="../../.gitbook/assets/组 117 (2).png" alt=""><figcaption></figcaption></figure>
 
