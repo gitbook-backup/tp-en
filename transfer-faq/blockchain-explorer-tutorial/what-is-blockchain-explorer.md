@@ -74,3 +74,11 @@ HALO: [https://browser.halo.land/](https://browser.halo.land/)
 
 Filecoin FVM: [https://filscan.io/](https://filscan.io/)
 
+HAQQ Network：[https://explorer.haqq.network/](https://explorer.haqq.network/)
+
+Core DAO：[https://scan.coredao.org/](https://scan.coredao.org/)
+
+ZetaChain：[https://explorer.zetachain.com/](https://explorer.zetachain.com/)
+
+Polygon zkEVM：[https://zkevm.polygonscan.com/](https://zkevm.polygonscan.com/)
+
