@@ -342,7 +342,8 @@
 ## 🪧 announcement
 
 * [Announcement](announcement/announcement/README.md)
-  * [🆕 Sept 27th, Notice of the Suspension of Self-built KCC Mainnet Nodes and On-chain Data Services](announcement/announcement/sept-27th-notice-of-the-suspension-of-self-built-kcc-mainnet-nodes-and-on-chain-data-services.md)
+  * [🆕 Oct 16th, Ordinals Data Maintenance Notice](announcement/announcement/20231016-ordinals.md)
+  * [Sept 27th, Notice of the Suspension of Self-built KCC Mainnet Nodes and On-chain Data Services](announcement/announcement/sept-27th-notice-of-the-suspension-of-self-built-kcc-mainnet-nodes-and-on-chain-data-services.md)
   * [July 3rd, Polygon node is being maintained.](announcement/announcement/polygon-matic.md)
   * [Jun 7th, Optimism node is being maintained.](announcement/announcement/jun-7-optimism.md)
   * [Oct 11th, TokenPocket Official Website Maintenance Notice](announcement/announcement/website.md)
