@@ -1,4 +1,4 @@
-# 🆕 Sept 27th, Notice of the Suspension of Self-built KCC Mainnet Nodes and On-chain Data Services
+# Sept 27th, Notice of the Suspension of Self-built KCC Mainnet Nodes and On-chain Data Services
 
 Dear TokenPocket users,
 
