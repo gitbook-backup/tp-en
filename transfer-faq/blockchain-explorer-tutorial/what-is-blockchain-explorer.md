@@ -82,3 +82,5 @@ ZetaChain：[https://explorer.zetachain.com/](https://explorer.zetachain.com/)
 
 Polygon zkEVM：[https://zkevm.polygonscan.com/](https://zkevm.polygonscan.com/)
 
+Scroll: https://blockscout.scroll.io/
+
