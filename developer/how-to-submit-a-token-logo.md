@@ -42,6 +42,8 @@ zkSync Era ∎：[https://github.com/TP-Lab/tokens/tree/master/zksync](https://g
 
 Aptos：[https://github.com/TP-Lab/tokens/tree/master/apt](https://github.com/TP-Lab/tokens/tree/master/apt)
 
+Scroll：[https://github.com/TP-Lab/tokens/tree/master/scroll](https://github.com/TP-Lab/tokens/tree/master/scroll)
+
 
 
 ### <mark style="color:blue;">Attentions:</mark>&#x20;
