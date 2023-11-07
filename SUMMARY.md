@@ -253,6 +253,8 @@
 ## 🛠 Wallet Management
 
 * [Token Management](wallet-management/token-management/README.md)
+  * [How to buy crypto in TokenPocket (Web version)](wallet-management/token-management/transit-buy-web.md)
+  * [How to buy crypto in TokenPocket](wallet-management/token-management/transit-buy.md)
   * [How to Search Tokens?](token-management/how-to-search-and-add-tokens.md)
   * [How to Add Tokens?](token-management/how-to-add-tokens.md)
   * [How to Delete Tokens?](token-management/how-to-delete-tokens.md)
