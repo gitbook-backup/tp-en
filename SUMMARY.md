@@ -135,6 +135,7 @@
   * [Binance Smart Chain (BSC) wallet registration](tutorial-series/bsc/binance-smart-chain-bsc-wallet-registration.md)
   * [Master the authorization management authority of DApp (BSC)](tutorial-series/bsc/master-the-authorization-management-authority-of-dapp-bsc.md)
 * [TRON Wallet](wallet-faq-en/tron-wallet/README.md)
+  * [How to transfer USDT to save more on gas.](wallet-faq-en/tron-wallet/how-to-transfer-usdt-to-save-more-on-gas..md)
   * [TokenPocket Energy Rental Service](wallet-faq-en/tron-wallet/energy.md)
   * [How to create TRON wallets in bulk](wallet-faq-en/tron-wallet/batch.md)
   * [How to Use TRON Stake 2.0](wallet-faq-en/tron-wallet/tron2.0.md)
