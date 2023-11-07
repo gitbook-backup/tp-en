@@ -49,7 +49,7 @@ For more detailed tutorials, please read:
 
 2\. TokenPocket Tron Energy Rental
 
-With TokenPocket, experience the energy leasing service with a single transfer of USDT for only 4.24 TRX. Save 68% (\~$0.86 ).For those interested, please refer directly to the third part of this post: TokenPocket's Energy Rental Guide.
+With TokenPocket, experience the energy leasing service with a single transfer of USDT for only 4.24 TRX. Save 68% (\~$0.86 ). For those interested, please refer directly to the third part of this article: TokenPocket's Energy Rental Guide.
 
 3\. Energy Subsidy: A tailor-made "Zero Gas" transfer campaign for TokenPocket users, offering a total of 2,300 transfers per day.
 
@@ -68,9 +68,7 @@ In contrast, the second method, energy rental, is simpler and more direct, contr
 
 Presently, the primary rental options in the market include the official TRON rental platform, the TRON energy rental platform, and Telegram's energy rental community.
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-07 14.33.29.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/截屏2023-11-07 14.34.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截屏2023-11-07 16.28.49.png" alt=""><figcaption></figcaption></figure>
 
 **Thirdly, TokenPocket's Energy Rental Guide.**
 
@@ -125,7 +123,7 @@ Method 1: Start by clicking on【 Discover】at the bottom of the screen and the
 
 <figure><img src="../../.gitbook/assets/英文省钱9.png" alt=""><figcaption></figcaption></figure>
 
-Method 2: Begin by clicking on【 Discover】 at the bottom of the screen, tfollowed by selecting the function to scan the QR code in the upper right corner of the screen. Scan the QR code of【 Tron Energy Rental】 displayed in the image below to avail the rental service and minimize transfer gas fees.
+Method 2: Begin by clicking on【 Discover】 at the bottom of the screen, followed by selecting the function to scan the QR code in the upper right corner of the screen. Scan the QR code of【 Tron Energy Rental】 displayed in the image below to avail the rental service and minimize transfer gas fees.
 
 <figure><img src="../../.gitbook/assets/英文省钱10.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -138,7 +136,9 @@ Using Tron Energy Rental  through TokenPocket can significantly reduce fees. A s
 &#x20;          [https://www.tokenpocket.pro/](https://www.tokenpocket.pro/)
 
 * Twitter: [https://twitter.com/TokenPocket\_TP](https://twitter.com/TokenPocket\_TP)
-* TokenPocket English community: https://t.me/tokenpocket\_cn
+* TokenPocket English community: [https://t.me/tokenpocket\_cn](https://t.me/tokenpocket\_channel)
+
+
 
 
 
