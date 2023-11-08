@@ -1,4 +1,4 @@
-# How to transfer USDT to save more on gas.
+# How to transfer USDT to save gas
 
 Transactions on the Bitcoin and Ethereum networks require the payment of a certain amount of Bitcoin (BTC) or Ether (ETH) as a gas fee.Transfers on TRON consume bandwidth and energy, and when energy and bandwidth are insufficient, TRX is burned. For most users, the gas deduction rates are often confusing during TRON transfer operations, and it may not be clear what options are available to minimize gas consumption.
 
@@ -13,11 +13,11 @@ Energy and Bandwidth Point of Tron is a resource system for processing and execu
 
 When transferring TRX, only bandwidth is consumed, not energy. Transferring a certain amount of TRX results in the burning of 268 bandwidth. On the other hand, transferring TRC20-USDT requires a fee of 13.74 TRX (\~ $1.23) or 27.6 TRX (\~$2.51). However, if you possess sufficient TRON energy and bandwidth, TRX won't be burned as a gas fee; instead, it will consume both bandwidth and energy. Each USDT transfer results in the burning of 345 bandwidth, and the energy burned varies depending on the TRON chain.
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-07 14.26.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截屏2023-11-08 15.55.50.png" alt=""><figcaption></figcaption></figure>
 
 Based on the provided example, we can deduce the following points:
 
-1. If the sender possesses sufficient energy and bandwidth, the transfer process will consume energy and bandwidth as gas.
+1. If the Payer possesses sufficient energy and bandwidth, the transfer process will consume energy and bandwidth as gas.
 2. The quantity of energy and bandwidth consumed is closely linked to the availability of USDT in the recipient's account.
 
 It is important to note that when transferring USDT, energy and bandwidth are primarily consumed. If the account lacks energy, TRX will be deducted as a transaction fee. Due to the blockchain's execution mechanism, the TRX fee will not be refunded if the transaction fails. To prevent this scenario, ensure that your account contains an adequate amount of TRX.
@@ -30,19 +30,19 @@ Energy is not a free resource, therefore to get energy there are three ways you 
 
 1\) Download TokenPocket, please recognize TokenPocket official website to download:
 
-&#x20;[https://www.tpwallet.io/](https://www.tpwallet.io/)
+[tokenpocket.pro](https://www.tokenpocket.pro/)
 
 2\) Open TokenPocket, create or import【TRON Wallet】.
 
-How to create or import \[TRON Wallet]:&#x20;
+How to create or import \[TRON Wallet]: &#x20;
 
-[https://help.tokenpocket.pro/cn/faq/tron-wallet/create](https://help.tokenpocket.pro/cn/faq/tron-wallet/create)
+[https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create](https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create)
 
 3\) Click on【 Resources】on the home page of assets, click on【Staking Management】, you can choose【Frozen】an【Unfreeze】 according to your actual bandwidth/energy needs.
 
 For more detailed tutorials, please read:
 
-[https://help.tokenpocket.pro/cn/faq/tron-wallet/energy-1](https://help.tokenpocket.pro/cn/faq/tron-wallet/energy-1)\
+[https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/tron2.0](https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/tron2.0)\
 
 
 <figure><img src="../../.gitbook/assets/英文省钱1.png" alt=""><figcaption></figcaption></figure>
@@ -55,7 +55,7 @@ With TokenPocket, experience the energy leasing service with a single transfer o
 
 1\) Open TokenPocket, create or import a【TRON Wallet】.
 
-How to create or import a 【TRON Wallet】: [https://help.tokenpocket.pro/cn/faq/tron-wallet/create](https://help.tokenpocket.pro/cn/faq/tron-wallet/create)
+How to create or import a 【TRON Wallet】:  [https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create](https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create)
 
 2）Click【Rent Energy】to receive the transfer subsidy.\
 
@@ -68,7 +68,7 @@ In contrast, the second method, energy rental, is simpler and more direct, contr
 
 Presently, the primary rental options in the market include the official TRON rental platform, the TRON energy rental platform, and Telegram's energy rental community.
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-07 16.28.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截屏2023-11-08 16.34.03.png" alt=""><figcaption></figcaption></figure>
 
 **Thirdly, TokenPocket's Energy Rental Guide.**
 
@@ -76,9 +76,7 @@ Tip: TokenPocket's energy rental  service is customized for TokenPocket users, s
 
 1. To download TokenPocket, please visit the official website of TokenPocket:
 
-&#x20;        [      https://www.tpwallet.io/](https://www.tpwallet.io/)
-
-[               https://www.tokenpocket.pro/](https://www.tokenpocket.pro/)
+&#x20;       [tokenpocket.pro](https://www.tokenpocket.pro/)
 
 2. To create a TRON Wallet.
 
@@ -88,7 +86,7 @@ Open TokenPocket and click on the icon【![](https://lh7-us.googleusercontent.co
 
 <figure><img src="../../.gitbook/assets/英文省钱3.png" alt=""><figcaption></figcaption></figure>
 
-3\. Getting Energy&#x20;
+3\. To get Energy&#x20;
 
 The 1st entry :&#x20;
 
@@ -129,12 +127,7 @@ Method 2: Begin by clicking on【 Discover】 at the bottom of the screen, follo
 
 Using Tron Energy Rental  through TokenPocket can significantly reduce fees. A single USDT transfer only necessitates 4.24 TRX, resulting in a 68% saving (\~ $0.86), while ensuring the security and convenience of the transfer process. Additionally, TokenPocket provides "zero-fee" transfer activities for TokenPocket users, limited to 2300 users daily on a first-come, first-served basis.
 
-* For downloads, please visit the official TokenPocket website:
-
-&#x20;        [  https://www.tpwallet.io/](https://www.tpwallet.io/)
-
-&#x20;          [https://www.tokenpocket.pro/](https://www.tokenpocket.pro/)
-
+* For downloads, please visit the official TokenPocket website:  [tokenpocket.pro](https://www.tokenpocket.pro/)
 * Twitter: [https://twitter.com/TokenPocket\_TP](https://twitter.com/TokenPocket\_TP)
 * TokenPocket English community: [https://t.me/tokenpocket\_cn](https://t.me/tokenpocket\_channel)
 
