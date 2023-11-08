@@ -28,7 +28,7 @@ Energy is not a free resource, therefore to get energy there are three ways you 
 
 1. Get energy by freezing TRX:
 
-1\) Download TokenPocket, please recognize TokenPocket official website :
+1\) Download TokenPocket, please recognize TokenPocket official website:
 
 [tokenpocket.pro](https://www.tokenpocket.pro/)
 
@@ -49,7 +49,7 @@ For more detailed tutorials, please read:
 
 2\. TokenPocket Tron Energy Rental
 
-With TokenPocket, experience the energy leasing service with a single transfer of USDT for only 4.24 TRX. Save 68% (\~$0.86). For those interested, please refer directly to the third part of this article: TokenPocket's Energy Rental Guide.
+With TokenPocket, experience the energy leasing service with a single transfer of USDT for only 4.24 TRX. Save 68% (\~$0.86). For those interested, please refer directly to the third part of this article: TokenPocket Energy Rental Guide.
 
 3\. Energy Subsidy: A tailor-made "Zero Gas" transfer campaign for TokenPocket users, offering a total of 2,300 transfers per day.
 
