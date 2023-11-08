@@ -131,7 +131,7 @@ Using TokenPocket Tron Energy Rental can significantly reduce fees. A single USD
 
 * For downloads, please visit the official TokenPocket website:  [tokenpocket.pro](https://www.tokenpocket.pro/)
 * Twitter: [https://twitter.com/TokenPocket\_TP](https://twitter.com/TokenPocket\_TP)
-* TokenPocket English community: [https://t.me/tokenpocket\_cn](https://t.me/tokenpocket\_channel)
+* TokenPocket English community: [https://t.me/tokenpocket\_channel](https://t.me/tokenpocket\_channel)
 
 
 
