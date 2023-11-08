@@ -250,6 +250,7 @@
   * [Transit Swap 2.0 Guide](wallet-operation/how-to-trade-on-dex/transit-swap.md)
 * [About Protocol](wallet-operation/protocol/README.md)
   * [About Nostr](wallet-operation/protocol/nostr.md)
+* [Give encouragement and feedback to TP Wallet on the App Store.](wallet-operation/comment.md)
 
 ## 🛠 Wallet Management
 

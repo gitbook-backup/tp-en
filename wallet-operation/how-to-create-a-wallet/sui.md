@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">**How to create a Sui wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1).png>) on the upper right corner, and select **Sui**;
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1) (2).png>) on the upper right corner, and select **Sui**;
 
 <figure><img src="../../.gitbook/assets/组 102.png" alt=""><figcaption></figcaption></figure>
 

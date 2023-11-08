@@ -2,7 +2,7 @@
 
 ### <mark style="color:orange;">**How to create a Filecoin FVM wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1).png>) on the upper right corner, and select **Filecoin FVM**;
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (2) (1) (2).png>) on the upper right corner, and select **Filecoin FVM**;
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@
 
 3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
@@ -32,7 +32,7 @@
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a Filecoin FVM wallet.​​
 

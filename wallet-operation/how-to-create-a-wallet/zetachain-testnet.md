@@ -22,7 +22,7 @@
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper and store it in a safe place. Click **\[Completed backup, verify now]** .
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a **ZetaChain Testnet** wallet.
 
@@ -38,7 +38,7 @@
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a **ZetaChain Testnet** wallet.​​&#x20;
 
