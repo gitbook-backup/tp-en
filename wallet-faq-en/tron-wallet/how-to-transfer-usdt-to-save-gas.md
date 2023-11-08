@@ -13,7 +13,7 @@ Energy and Bandwidth Point of Tron is a resource system for processing and execu
 
 When transferring TRX, only bandwidth is consumed, not energy. Transferring a certain amount of TRX results in the burning of 268 bandwidth. On the other hand, transferring TRC20-USDT requires a fee of 13.74 TRX (\~ $1.23) or 27.6 TRX (\~$2.51). However, if you possess sufficient TRON energy and bandwidth, TRX won't be burned as a gas fee; instead, it will consume both bandwidth and energy. Each USDT transfer results in the burning of 345 bandwidth, and the energy burned varies depending on the TRON chain.
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-08 15.55.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截屏2023-11-08 16.41.43 (2).png" alt=""><figcaption></figcaption></figure>
 
 Based on the provided example, we can deduce the following points:
 
@@ -28,13 +28,13 @@ Energy is not a free resource, therefore to get energy there are three ways you 
 
 1. Get energy by freezing TRX:
 
-1\) Download TokenPocket, please recognize TokenPocket official website to download:
+1\) Download TokenPocket, please recognize TokenPocket official website :
 
 [tokenpocket.pro](https://www.tokenpocket.pro/)
 
 2\) Open TokenPocket, create or import【TRON Wallet】.
 
-How to create or import \[TRON Wallet]: &#x20;
+How to create or import【TRON Wallet】: &#x20;
 
 [https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create](https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create)
 
@@ -49,13 +49,15 @@ For more detailed tutorials, please read:
 
 2\. TokenPocket Tron Energy Rental
 
-With TokenPocket, experience the energy leasing service with a single transfer of USDT for only 4.24 TRX. Save 68% (\~$0.86 ). For those interested, please refer directly to the third part of this article: TokenPocket's Energy Rental Guide.
+With TokenPocket, experience the energy leasing service with a single transfer of USDT for only 4.24 TRX. Save 68% (\~$0.86). For those interested, please refer directly to the third part of this article: TokenPocket's Energy Rental Guide.
 
 3\. Energy Subsidy: A tailor-made "Zero Gas" transfer campaign for TokenPocket users, offering a total of 2,300 transfers per day.
 
 1\) Open TokenPocket, create or import a【TRON Wallet】.
 
-How to create or import a 【TRON Wallet】:  [https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create](https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create)
+How to create or import a 【TRON Wallet】:&#x20;
+
+&#x20;[https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create](https://help.tokenpocket.pro/en/wallet-faq-en/tron-wallet/create)
 
 2）Click【Rent Energy】to receive the transfer subsidy.\
 
@@ -66,13 +68,13 @@ The first option involves freezing a minimum of 1980 TRX (\~ $194.5) for 32890 E
 
 In contrast, the second method, energy rental, is simpler and more direct, contributing to savings on TRX gas fees. Hence, leasing energy through energy platforms proves to be a more cost-effective choice.
 
-Presently, the primary rental options in the market include the official TRON rental platform, the TRON energy rental platform, and Telegram's energy rental community.
+Presently, the primary rental options in the market include the official TRON Energy Rental, TokenPocket Tron Energy Rental, and Telegram's Energy Rental Community.
 
 <figure><img src="../../.gitbook/assets/截屏2023-11-08 16.34.03.png" alt=""><figcaption></figcaption></figure>
 
-**Thirdly, TokenPocket's Energy Rental Guide.**
+**Thirdly, TokenPocket Energy Rental Guide.**
 
-Tip: TokenPocket's energy rental  service is customized for TokenPocket users, so you need to download the TokenPocket mobile application.
+Tip: TokenPocket Tron Energy rental  service is customized for TokenPocket users, so you need to download the TokenPocket mobile application.
 
 1. To download TokenPocket, please visit the official website of TokenPocket:
 
@@ -125,7 +127,7 @@ Method 2: Begin by clicking on【 Discover】 at the bottom of the screen, follo
 
 <figure><img src="../../.gitbook/assets/英文省钱10.jpg" alt=""><figcaption></figcaption></figure>
 
-Using Tron Energy Rental  through TokenPocket can significantly reduce fees. A single USDT transfer only necessitates 4.24 TRX, resulting in a 68% saving (\~ $0.86), while ensuring the security and convenience of the transfer process. Additionally, TokenPocket provides "zero-fee" transfer activities for TokenPocket users, limited to 2300 users daily on a first-come, first-served basis.
+Using TokenPocket Tron Energy Rental can significantly reduce fees. A single USDT transfer only necessitates 4.24 TRX, resulting in a 68% saving (\~ $0.86), while ensuring the security and convenience of the transfer process. Additionally, TokenPocket provides "zero-fee" transfer activities for TokenPocket users, limited to 2300 users daily on a first-come, first-served basis.
 
 * For downloads, please visit the official TokenPocket website:  [tokenpocket.pro](https://www.tokenpocket.pro/)
 * Twitter: [https://twitter.com/TokenPocket\_TP](https://twitter.com/TokenPocket\_TP)
