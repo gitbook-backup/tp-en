@@ -70,9 +70,9 @@ In contrast, the second method, energy rental, is simpler and more direct, contr
 
 Presently, the primary rental options in the market include the official TRON Energy Rental, TokenPocket Tron Energy Rental, and Telegram's Energy Rental Community.
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-09 06.48.03.png" alt=""><figcaption></figcaption></figure>
 
 
+<figure><img src="../../.gitbook/assets/截屏2023-11-10 21.42.35.png" alt=""><figcaption></figcaption></figure>
 
 **Thirdly, TokenPocket Energy Rental Guide.**
 
