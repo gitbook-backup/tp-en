@@ -54,6 +54,7 @@
 ## 📨 Wallet FAQ <a href="#wallet-faq-en" id="wallet-faq-en"></a>
 
 * [BTC Wallet](faq-en/btc-wallet/README.md)
+  * [How to use BTC Acceleration](wallet-faq-en/btc-wallet/how-to-use-btc-acceleration.md)
   * [What is a Partially Signed Bitcoin Transaction (PSBT)](wallet-faq-en/btc-wallet/psbt.md)
   * [What are Bitcoin ordinals?](wallet-faq-en/btc-wallet/ordinals.md)
   * [Why is the fee so high for bitcoin transfer?](faq-en/btc-wallet/why-is-the-fee-so-high-for-bitcoin-transfer.md)
