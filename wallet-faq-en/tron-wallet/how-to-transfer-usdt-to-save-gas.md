@@ -70,9 +70,11 @@ In contrast, the second method, energy rental, is simpler and more direct, contr
 
 Presently, the primary rental options in the market include the official TRON Energy Rental, TokenPocket Tron Energy Rental, and Telegram's Energy Rental Community.
 
+Let's take the example of renting 32,000 energy to cover one transfer fee:
 
+<figure><img src="../../.gitbook/assets/截屏2023-11-13 10.27.01 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-10 21.42.35.png" alt=""><figcaption></figcaption></figure>
+With TokenPocket's Rental Energy service, you can save a lot of money on fees, with a single USDT transfer costing only 4.24 TRX (\~$0.45). The savings can be as much as 68%, while at the same time ensuring the security and convenience of the transfer process.
 
 **Thirdly, TokenPocket Energy Rental Guide.**
 
