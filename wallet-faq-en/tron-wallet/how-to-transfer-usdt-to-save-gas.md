@@ -11,9 +11,9 @@ Energy and Bandwidth Point of Tron is a resource system for processing and execu
 * Energy: Energy represents the processor resources that are consumed during the running of a smart contract. Like bandwidth, it can be obtained by staking TRX, but no free energy is allocated to each account every day.
 * Bandwidth: Primarily utilized for ordinary transactions such as transfers, staking, and unlocks. Each account is allocated 600 free bandwidth credits per day.
 
-When transferring TRX, only bandwidth is consumed, not energy. Transferring a certain amount of TRX results in the burning of 268 bandwidth. On the other hand, transferring TRC20-USDT requires a fee of 13.74 TRX (\~ $1.23) or 27.6 TRX (\~$2.51). However, if you possess sufficient TRON energy and bandwidth, TRX won't be burned as a gas fee; instead, it will consume both bandwidth and energy. Each USDT transfer results in the burning of 345 bandwidth, and the energy burned varies depending on the TRON chain.
+When transferring TRX, only bandwidth is consumed, not energy. Transferring a certain amount of TRX results in the burning of 268 bandwidth. On the other hand, transferring TRC20-USDT requires a fee of 13.74 TRX (≈ $1.23) or 27.6 TRX (≈$2.51). However, if you possess sufficient TRON energy and bandwidth, TRX won't be burned as a gas fee; instead, it will consume both bandwidth and energy. Each USDT transfer results in the burning of 345 bandwidth, and the energy burned varies depending on the TRON chain.
 
-<figure><img src="../../.gitbook/assets/截屏2023-11-08 16.41.43 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截屏2023-11-13 12.08.26.png" alt=""><figcaption></figcaption></figure>
 
 Based on the provided example, we can deduce the following points:
 
@@ -64,7 +64,7 @@ How to create or import a 【TRON Wallet】:&#x20;
 
 <figure><img src="../../.gitbook/assets/英文省钱2.png" alt=""><figcaption></figcaption></figure>
 
-The first option involves freezing a minimum of 1980 TRX (\~ $194.5) for 32890 Energy, which remains inaccessible for 14 days following the thawing process. No TRX is lost during the freezing period, and it allows the acquisition of voting rights. However, this approach demands a substantial amount of TRX for freezing.
+The first option involves freezing a minimum of 1980 TRX (≈ $194.5) for 32890 Energy, which remains inaccessible for 14 days following the thawing process. No TRX is lost during the freezing period, and it allows the acquisition of voting rights. However, this approach demands a substantial amount of TRX for freezing.
 
 In contrast, the second method, energy rental, is simpler and more direct, contributing to savings on TRX gas fees. Hence, leasing energy through energy platforms proves to be a more cost-effective choice.
 
@@ -133,7 +133,7 @@ Method 2: Begin by clicking on【 Discover】 at the bottom of the screen, follo
 
 <figure><img src="../../.gitbook/assets/英文省钱10.jpg" alt=""><figcaption></figcaption></figure>
 
-Using TokenPocket Tron Energy Rental can significantly reduce fees. A single USDT transfer only necessitates 4.24 TRX, resulting in a 68% saving (\~ $0.86), while ensuring the security and convenience of the transfer process. Additionally, TokenPocket provides "zero-fee" transfer activities for TokenPocket users, limited to 2300 users daily on a first-come, first-served basis.
+Using TokenPocket Tron Energy Rental can significantly reduce fees. A single USDT transfer only necessitates 4.24 TRX, resulting in a 68% saving (≈ $0.86), while ensuring the security and convenience of the transfer process. Additionally, TokenPocket provides "zero-fee" transfer activities for TokenPocket users, limited to 2300 users daily on a first-come, first-served basis.
 
 * For downloads, please visit the official TokenPocket website:  [tokenpocket.pro](https://www.tokenpocket.pro/)
 * Twitter:
