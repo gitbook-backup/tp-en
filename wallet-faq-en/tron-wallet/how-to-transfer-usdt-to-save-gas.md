@@ -68,7 +68,9 @@ The first option involves freezing a minimum of 1980 TRX (≈ $194.5) for 32890 
 
 In contrast, the second method, energy rental, is simpler and more direct, contributing to savings on TRX gas fees. Hence, leasing energy through energy platforms proves to be a more cost-effective choice.
 
-Presently, the primary rental options in the market include the official TRON Energy Rental, TokenPocket Tron Energy Rental, and Telegram's Energy Rental Community.
+Presently, the primary rental options in the market include the official TRON Energy Rental, TokenPocket Tron Energy Rental, and Telegram's Energy Rental Community
+
+We can compare three different ways to rent energy in terms of transfer fees, security, convenience, purchase flexibility, and responsiveness.
 
 Let's take the example of renting 32,000 energy to cover one transfer fee:
 
