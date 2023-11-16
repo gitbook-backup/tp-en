@@ -72,9 +72,7 @@ Presently, the primary rental options in the market include the official TRON En
 
 Let's take the example of renting 32,000 energy to cover one transfer fee:
 
-
-
-<figure><img src="../../.gitbook/assets/截屏2023-11-13 14.08.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/英文最终版波场转账手续费比较  拷贝 5 (1).png" alt=""><figcaption></figcaption></figure>
 
 **With TokenPocket's Rental Energy service, you can save a lot of money on fees, with a single USDT transfer costing only 4.24 TRX (\~$0.45). The savings can be as much as 68%, while at the same time ensuring the security and convenience of the transfer process.**
 
