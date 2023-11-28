@@ -121,6 +121,7 @@
   * [Manage the unpackaged transactions](faq-en/eth-wallet/unpackaged.md)
   * [What is Token Approval and How to Grant Token Approval?](faq-en/eth-wallet/token-approval.md)
   * [What is Permit2](wallet-faq-en/eth-wallet/permit2.md)
+  * [What is Permit](wallet-faq-en/eth-wallet/permit.md)
 * [BSC Wallet](defi-series/bsc/README.md)
   * [How to create BSC wallets in bulk](wallet-faq-en/bsc/batch.md)
   * [Beefy.finance Tutorial (BSC)](defi-series/bsc/beefy.finance-tutorial-bsc.md)
