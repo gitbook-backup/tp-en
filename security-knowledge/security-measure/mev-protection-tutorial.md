@@ -2,7 +2,7 @@
 
 **What is an MEV attack?**
 
-MEV attackers realize arbitrage through a "sandwich attack" (commonly known as clip), i.e., buying before the user and selling after the user buys.&#x20;
+MEV, in a sandwich attack, involves front-running. A user's transaction triggers a bot to strategically execute a buy before and sell after profiting from price differences and the front-running tactic.
 
 **How to prevent MEV?**
 
