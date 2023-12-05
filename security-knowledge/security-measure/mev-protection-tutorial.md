@@ -22,9 +22,6 @@ Take the BSC Chain as an example.
 
 1. Select the  BSC Chain and click \[Swap] or \[Market].
 
-\
-
-
 <figure><img src="https://lh7-us.googleusercontent.com/2qAKawxxM15nr0hRwaQNQS4NatkQtLpQnu9dTBEilgDf11sE9PsszNzg86QMxw_Pc9OWnbXhlOpSISVYtRnk9uKDgc8qN_yPYQ5hOhKcK8LuDcmFqgEb1XPjrTJacHaei4GGmtn4GaZeIehSg4Cq3fY" alt=""><figcaption></figcaption></figure>
 
 2. Click the \[Settings] icon on the upper right and select \[MEV Protection].
