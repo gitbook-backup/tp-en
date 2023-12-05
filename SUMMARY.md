@@ -22,6 +22,7 @@
 ## 🔐 Security Knowledge
 
 * [Security Measure](security-knowledge/security-measure/README.md)
+  * [MEV Protection Tutorial](security-knowledge/security-measure/mev-protection-tutorial.md)
   * [Use the Passphrase feature to create a "Secure Wallet"](security-knowledge/security-measure/passphrase.md)
   * [Hide small transaction records](security-knowledge/security-measure/hide.md)
   * [TokenPocket Approval Detector Use Guide](security-knowledge/security-measure/TP-Approve.md)
