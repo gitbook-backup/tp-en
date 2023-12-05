@@ -13,7 +13,7 @@ To avoid MEV attacks, you can send your transactions to some private nodes (e.g.
 **Note:**
 
 1. MEV Protection is available in the "Swap" function.
-2. MEV Protection does not support smart wallets and multi-sig wallets wallets at this time.
+2. MEV Protection does not support smart wallets and multi-sig wallets.
 3. Ethereum Chain and BSC Chain are supported.
 
 ## Tutorial
