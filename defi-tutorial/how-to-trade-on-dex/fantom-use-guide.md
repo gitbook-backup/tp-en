@@ -28,7 +28,7 @@
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Keystore import];
 
-![](<../../.gitbook/assets/6 (2).png>)
+![](<../../.gitbook/assets/6 (2) (1).png>)
 
 3\. Take mnemonic import as an example, enter the backup \[mnemonic words], \[wallet name], \[password], and click \[Service Regulations and Privacy clause];
 

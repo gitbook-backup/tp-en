@@ -1,4 +1,4 @@
-# How to use Widgets
+# How to use Widgets?
 
 ### <mark style="color:orange;">**What is Widget?**</mark>
 
@@ -14,7 +14,7 @@ The new version of TokenPocket supports the Widgets function, which can put the 
 
 2、Click “Widgets” in the skin setting interface, select the picture in the NFT skin you hold, and click “Confirm” to complete the settings
 
-![](<../../.gitbook/assets/2 (2) (1).png>)
+![](<../../.gitbook/assets/2 (2) (1) (2).png>)
 
 3、Go back to the mobile phone desktop, select the “Plug-ins” function at the bottom with a long press, and pull down the details list to find the plug-in of TokenPocket.
 

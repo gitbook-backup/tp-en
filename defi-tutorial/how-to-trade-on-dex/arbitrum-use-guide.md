@@ -28,7 +28,7 @@ TokenPocket supports the highly anticipated Ethereum layer 2 platform, Arbitrum 
 
 1. Open the TokenPocket App, click the upper left corner to switch the wallet, then select Arbitrum, and click \[Add Wallet];
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (4) (1).png>)
 
 2\. Click \[Import Wallet], and continue to click \[Mnemonic import] or \[Keystore import];
 

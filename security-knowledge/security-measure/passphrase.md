@@ -24,7 +24,7 @@ The purpose of a passphrase is to increase the security of the wallet, ensuring 
 
 1. Open the TP Wallet version (2.1.1 or more) and click on the first icon in the upper right corner, select the network you want to create wallet. Take the Ethereum wallet as an example.
 
-<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. SinSince it is the first time using the Passphrase feature, you need to "create a wallet." It is important to note that TP Wallet uses a unified password. This means that if you have created a wallet before, the passwords for subsequent wallet addresses will be the same as the first one.
 
@@ -36,7 +36,7 @@ The purpose of a passphrase is to increase the security of the wallet, ensuring 
 
 4. After creating a wallet, click on "Receive" to see the wallet address created through the passphrase method.
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (14).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">Importing Wallet Using Passphrase</mark>
 
@@ -44,8 +44,8 @@ In this demonstration, we will compare the regular mnemonic import method with t
 
 1. Default secret recovery phrases import: This method is the same as the usual import process. Simply enter the mnemonic and click "Import" to proceed. After importing, the wallet address can be viewed as shown in the following image.
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on "Advanced Mode" in the mnemonic import interface to access the Passphrase setting iClick on "Advanced Mode" in the secret recovery phrases import interface to access the Passphrase setting interface. After entering the correct content, click on "Import" to proceed. At this point, the wallet's receiving address will be the same as the address generated when using Passphrase to create the wallet. (Importing the wallet with an incorrect Passphrase will result in a different address.)
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>

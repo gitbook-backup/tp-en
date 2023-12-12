@@ -17,7 +17,7 @@ Open TokenPocket MultiSig wallet, select the token/NFT you want to transfer, tak
 2\. The contract address detection function is built in TokenPocket, so you can view a reminder here, after you’ve double-checked the receiving address and confirmed, you can click \[Know and Continue]. Also, you can customize nonce in \[Advanced mode].\
 
 
-****[**Know more about Nonce.**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/nonce)****
+[**Know more about Nonce.**](https://help.tokenpocket.pro/en/wallet-faq-en/Multisig-Wallet/nonce)
 
 <figure><img src="../../.gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,7 +49,7 @@ Then you just need to select another owner's address and confirm the transaction
 
 You need to share the QR Code of MultiSig transaction with the other owners, after they executed the signatures, click \[Execute], then the transaction would be executed on-chain.
 
-<figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7 (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 4\. You need to pay the gas fee for the transaction, and you can select a wallet on the list which has enough gas fees.
 

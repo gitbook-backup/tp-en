@@ -16,7 +16,7 @@ Click on the Self-Custodial Staking entrance, and you can see relevant data abou
 
 After viewing and selecting the \[Staking Service Agreement], click on "Pay" to bring up the transaction details page where you can adjust the miner's fee according to your actual situation. Finally, click \[Confirm Payment] and sign to complete self-hosted staking.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Joint Stake
 
