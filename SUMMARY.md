@@ -261,7 +261,7 @@
   * [About Nostr](wallet-operation/protocol/nostr.md)
 * [TPtool](wallet-operation/tptool/README.md)
   * [Easy Inscription User Guide](wallet-operation/tptool/inscription.md)
-  * [Using the TP Wallet to trade cryptographic assets on Magic Eden.](wallet-operation/tptool/magic-eden.md)
+  * [Magic Eden User Guide (Inscription)](wallet-operation/tptool/magic-eden.md)
 * [Give encouragement and feedback to TP Wallet on the App Store.](wallet-operation/comment.md)
 
 ## 🛠 Wallet Management
