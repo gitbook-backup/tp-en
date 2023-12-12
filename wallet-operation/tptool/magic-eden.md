@@ -10,7 +10,7 @@ Magic Eden is an NFT marketplace built on Solana, now supporting NFT transaction
 
 <figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-2. After opening Magic Eden, click on the top-right 'Connect Wallet' button, choose the 'Bitcoin' blockchain, and click on the 'Unisat' method to connect the wallet.
+2. After opening Magic Eden, click on the top-right 'Connect Wallet' button, choose the 'Bitcoin' blockchain, and click on the 'TokenPocket' method to connect the wallet.
 
 <figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
