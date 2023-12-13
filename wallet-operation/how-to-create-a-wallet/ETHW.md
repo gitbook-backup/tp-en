@@ -4,7 +4,7 @@
 
 1、Open TokenPocket, click Add Wallet in the top right corner, and click Add Custom Network at the bottom of the \[Select Network] screen
 
-<figure><img src="../../.gitbook/assets/1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2、Open the custom network interface, click “Easy Entry” in the upper right corner, TokenPocket will list the popular public chains, and you can easily search for the public chains you need to add through the easy entry
 
@@ -22,4 +22,4 @@ Fill in the ETHW abbreviation in the search bar, and you can see the search resu
 
 5、After adding the ETHW public chain, you can use the wallet address holding ETH to synchronize, open TokenPocket, click 【Details】, select 【Wallet Synchronization】, select ETHW public chain synchronization and switch to ETHW wallet.
 
-<figure><img src="../../.gitbook/assets/5 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

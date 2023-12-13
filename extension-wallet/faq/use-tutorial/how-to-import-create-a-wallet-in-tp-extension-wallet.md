@@ -32,7 +32,7 @@
 
 4\. Click <mark style="color:orange;">**\[CLICK HERE TO REVEAL SECRET WORDS]**</mark>, and back up the secret recovery phrase, click <mark style="color:orange;">**\[Create]**</mark>, enter the recovery phrase correctly, and then click <mark style="color:orange;">**\[Confirm]**</mark>;&#x20;
 
-![](<../../../.gitbook/assets/7 (1).png>)
+![](<../../../.gitbook/assets/7 (1) (1).png>)
 
 5\. At this point, you have successfully created a new wallet account.
 

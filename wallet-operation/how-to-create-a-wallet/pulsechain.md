@@ -18,7 +18,7 @@ Fill in 【Pulse】  in the search bar, and you can see the search results below
 
 4\. Click on the PulseChain, and you can choose “Create” or “Import” to use the Pulse wallet.&#x20;
 
-<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### How to add PulseChain on TokenPocket  Extension Wallet?
 

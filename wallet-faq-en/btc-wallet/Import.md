@@ -2,7 +2,7 @@
 
 Step 1: click "add wallet"
 
-![mceclip0.png](<../../.gitbook/assets/6 (1).png>)
+![mceclip0.png](<../../.gitbook/assets/6 (1) (2).png>)
 
 Step 2: click "Private Key" enter the private key and wallet password, click "I agree" and "Import it".
 

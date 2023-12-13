@@ -204,6 +204,7 @@
   * [How to collect DAPP and TIP-001 protocol?](wallet-operation/how-to-collect-dapp-and-tip-001-protocol-ios.md)
 * [How to Create a Wallet?](defi-tutorial/how-to-trade-on-dex/README.md)
   * [How to create sub-wallets in batches](wallet-operation/how-to-create-a-wallet/batch.md)
+  * [IOST Use Guide（ Assist in creating）](wallet-operation/how-to-create-a-wallet/iost.md)
   * [ZKFair Use Guide](wallet-operation/how-to-create-a-wallet/zkfair.md)
   * [Scroll Use Guide](wallet-operation/how-to-create-a-wallet/scroll.md)
   * [HAQQ Use Guide](wallet-operation/how-to-create-a-wallet/haqq.md)
