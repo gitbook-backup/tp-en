@@ -8,11 +8,11 @@ Magic Eden is an NFT marketplace built on Solana, now supporting NFT transaction
 
 1. Open TokenPocket, tap on the 'Discover' menu at the bottom. In the details interface, you can enter 'Magic Eden' in the address bar for searching and opening. Once opened, click on the top-right menu in the DApp, and after bookmarking, it will be added to the Discover interface for convenient and quick access in the future.
 
-<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. After opening Magic Eden, click on the top-right 'Connect Wallet' button, choose the 'Bitcoin' blockchain, and click on the 'TokenPocket' method to connect the wallet.
 
-<figure><img src="../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. During the wallet connection process, you need to perform the 'Sign In' login operation. After entering the password normally, you can complete the sign-in process without incurring any on-chain gas fees.
 

@@ -2,9 +2,11 @@
 
 Currently, TokenPocket only supports IOST on the Android platform. TP Wallet has not yet added support for the IOST network, and it is not possible to create an IOST wallet through custom network settings at the moment.
 
+### <mark style="color:orange;">How to create an IOST wallet.</mark> <a href="#0" id="0"></a>
+
 1. Open TokenPocket and click on the first icon in the upper right corner, which is labeled "Add Wallet." In the search bar for single-network wallets, type in "IOST" for a quick search.
 
-<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on the IOST public chain, and depending on your specific situation, you can either "Create Wallet" or "Import Wallet." For the purposes of this tutorial, let's choose to create a wallet. Click on "Create Wallet" and select " Create by Friend"
 
@@ -29,4 +31,14 @@ Currently, TokenPocket only supports IOST on the Android platform. TP Wallet has
 7. After completing the assisted creation in the previous step, you can use the import function in the TokenPocket IOST wallet to start using the account. Alternatively, you can re-enter the wallet creation interface. If there is an unfinished order, you will see a prompt message. Clicking on "Confirm" and returning to the friend creation interface, you can click on "Active Account" to complete the entire registration process.
 
 <figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:orange;">How to acquire IOST</mark> <a href="#1" id="1"></a>
+
+1. Open TokenPocket and select a wallet address that holds tokens, for example, choose the BSC wallet. On the wallet's homepage, click on "Swap," then use USDT on the BSC chain to exchange for IOST. Simply choose the desired tokens for exchange, meet the minimum exchange quantity, select a non-exchange receiving address, and finally click on "Confirm Swap."
+
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+
+2. On the transaction details page, after verifying that the information is correct, click on "Confirm," enter your password, and patiently wait for the cross-chain exchange to complete. The process shouldn't take too long.
+
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
