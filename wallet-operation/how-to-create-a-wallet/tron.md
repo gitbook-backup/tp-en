@@ -16,7 +16,7 @@
 
 3\. The core of blockchain asset security tips is the private key and Secret Recovery phase, which can be exported and backed up after creating a wallet. The Recovery phrase and private key must be backed up and stored in an offline manner to prevent loss or leakage. After reading or observing the relevant content, check a few points to be cautious about, and then click on the next step.
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. TokenPocket provides Recovery phrase backup and verification functions. Please make sure to check and verify the Recovery phrase words recorded offline. After completing the verification, click \[Confirm] to finish creating the TRON wallet.
 

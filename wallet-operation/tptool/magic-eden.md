@@ -16,7 +16,7 @@ Magic Eden is an NFT marketplace built on Solana, now supporting NFT transaction
 
 3. During the wallet connection process, you need to perform the 'Sign In' login operation. After entering the password normally, you can complete the sign-in process without incurring any on-chain gas fees.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 4. After the wallet connection is complete, the menu bars are located in the top-left and top-right corners of the interface. Click on the menu in the top-right corner, where you can view held tokens in the wallet address, personal address settings, collections, wallet information, Magic Eden VIP, and other details. You can choose based on your individual preferences.
 
