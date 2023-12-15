@@ -1,6 +1,6 @@
 # Nostr Assets Batch Transfer Tool
 
-1. Open TokenPocket, click on "Discover," and in the top "Address Bar," open the link: [https://tp-lab.tokenpocket.pro/nostr/index.html#/](https://tp-lab.tokenpocket.pro/nostr/index.html#/) or use the Nostr Assets batch transfer tool in the "Hot DApps."
+1. Open TokenPocket, click on "Discover," and in the top "Address Bar," open the link: [https://tp-lab.tokenpocket.pro/nostr/index.html#/](https://tp-lab.tokenpocket.pro/nostr/index.html#/) or use the Nostr Assets batch transfer tool in the "New" section.
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
