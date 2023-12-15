@@ -6,7 +6,7 @@ Currently, TokenPocket only supports IOST on the Android platform. TP Wallet has
 
 1. Open TokenPocket and click on the first icon in the upper right corner, which is labeled "Add Wallet." In the search bar for single-network wallets, type in "IOST" for a quick search.
 
-<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click on the IOST public chain, and depending on your specific situation, you can either "Create Wallet" or "Import Wallet." For the purposes of this tutorial, let's choose to create a wallet. Click on "Create Wallet" and select " Create by Friend"
 
@@ -14,11 +14,11 @@ Currently, TokenPocket only supports IOST on the Android platform. TP Wallet has
 
 3. The IOST account consists of 5 to 11 characters, including lowercase letters, numbers, and \_. You can set it according to your preferences or click on the "Random Account" button on the interface. After setting the account, enter the password and click on the "Create Wallet" menu. In the prompt for the backup mnemonic phrase, you can click on "Advanced Settings" to create a wallet using the Passphrase method. In simple terms, a Passphrase wallet requires both the correct mnemonic phrase and the correct password for management, and both are necessary.
 
-<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. After successfully backing up and verifying the mnemonic phrase, you will reach the sharing interface for creating the IOST account. Here, you can click on "Invite Friends to Create" to share it with friends through social channels.
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Users with an IOST wallet can open TokenPocket, click on the second icon in the upper right corner for the "Scan" function, scan the QR code created by a friend, and then enter the creation assistant interface. Advanced users can flexibly set the parameters for staking here, or simply click on "Register Now."
 
@@ -36,9 +36,9 @@ Currently, TokenPocket only supports IOST on the Android platform. TP Wallet has
 
 1. Open TokenPocket and select a wallet address that holds tokens, for example, choose the BSC wallet. On the wallet's homepage, click on "Swap," then use USDT on the BSC chain to exchange for IOST. Simply choose the desired tokens for exchange, meet the minimum exchange quantity, select a non-exchange receiving address, and finally click on "Confirm Swap."
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. On the transaction details page, after verifying that the information is correct, click on "Confirm," enter your password, and patiently wait for the cross-chain exchange to complete. The process shouldn't take too long.
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 

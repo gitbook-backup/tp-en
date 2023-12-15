@@ -263,6 +263,7 @@
 * [About Protocol](wallet-operation/protocol/README.md)
   * [About Nostr](wallet-operation/protocol/nostr.md)
 * [TPtool](wallet-operation/tptool/README.md)
+  * [Nostr Assets Batch Transfer Tool](wallet-operation/tptool/nostr-assets.md)
   * [Easy Inscription User Guide](wallet-operation/tptool/inscription.md)
   * [Magic Eden User Guide (Inscription)](wallet-operation/tptool/magic-eden.md)
 * [Give encouragement and feedback to TP Wallet on the App Store.](wallet-operation/comment.md)
