@@ -6,6 +6,8 @@ description: Tutorial of a token logo submission in GitHub
 
 Please select the corresponding link on [GitHub ](https://github.com/TP-Lab/tokens)according to the token type when submitting a token logo/info. It will be regarded as invalid if the token information file is not included.
 
+Bitcoin：[https://github.com/TP-Lab/tokens/tree/master/bitcoin](https://github.com/TP-Lab/tokens/tree/master/bitcoin)
+
 Ethereum：[https://github.com/TP-Lab/tokens/tree/master/eth](https://github.com/TP-Lab/tokens/tree/master/eth)​‌
 
 BSC：[https://github.com/TP-Lab/tokens/tree/master/bsc](https://github.com/TP-Lab/tokens/tree/master/bsc)​‌
@@ -44,7 +46,13 @@ Aptos：[https://github.com/TP-Lab/tokens/tree/master/apt](https://github.com/TP
 
 Scroll：[https://github.com/TP-Lab/tokens/tree/master/scroll](https://github.com/TP-Lab/tokens/tree/master/scroll)
 
+Base：[https://github.com/TP-Lab/tokens/tree/master/base](https://github.com/TP-Lab/tokens/tree/master/base)
 
+Opbnb：[https://github.com/TP-Lab/tokens/tree/master/opBNB](https://github.com/TP-Lab/tokens/tree/master/opBNB)
+
+Cfx-espace：[https://github.com/TP-Lab/tokens/tree/master/cfx-espace](https://github.com/TP-Lab/tokens/tree/master/cfx-espace)
+
+Bttc：[https://github.com/TP-Lab/tokens/tree/master/bttc](https://github.com/TP-Lab/tokens/tree/master/bttc)
 
 ### <mark style="color:blue;">Attentions:</mark>&#x20;
 
