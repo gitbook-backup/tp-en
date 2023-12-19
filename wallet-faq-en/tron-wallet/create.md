@@ -24,4 +24,4 @@
 
 5\. After successfully creating the wallet, you can familiarize yourself with its features first. You can also click on the "Learn" option at the bottom to understand and learn about common security and anti-fraud issues. The "Discover" option at the bottom allows you to view and use various DApp tools. (Please note that the iOS version of TP Wallet currently does not provide additional available content on the Discover interface due to App Store regulations.)
 
-<figure><img src="../../.gitbook/assets/5 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

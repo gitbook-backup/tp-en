@@ -22,4 +22,4 @@ Fill in 【fon】  in the search bar, and you can see the search results below, 
 
 5、After adding the FON Smart Chain, click 【Details】, and select 【Wallet Sync】to select the wallet you want to sync.
 
-<figure><img src="../../.gitbook/assets/5 (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
