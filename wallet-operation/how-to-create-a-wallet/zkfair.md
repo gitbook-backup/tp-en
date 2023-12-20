@@ -1,49 +1,67 @@
 # ZKFair Use Guide
 
-### How to add ZKFair network on TokenPocket mobile app <a href="#0" id="0"></a>
+**TokenPocket** [**Chrome Extension**](https://extension.tokenpocket.pro/#/) **and** [**Mobile Wallet**](https://www.tokenpocket.pro/en/download/app) **support ZKFair Network.**
 
-1. Open TokenPocket, click Add Wallet in the top right corner, and click【Add Custom Network】.
+## **Mobile Wallet Use Guide** <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3qtItoZih7cEdFc6kPNk%2Fuploads%2F0PvVfE7RJRNB76dElHZ8%2F1.png?alt=media&#x26;token=ef3fbc73-867d-4e68-a4ae-f0c8585cf74a" alt=""><figcaption></figcaption></figure>
+### <mark style="color:orange;">**How to create a ZKFair wallet in TokenPocket?**</mark> <a href="#how-to-create-an-etc-wallet-in-tokenpocket" id="how-to-create-an-etc-wallet-in-tokenpocket"></a>
 
-2. Enter the following information in the custom network editing interface:
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (57).png>) on the upper right corner, and select **ZKFair**;
 
-Network name: ZKFair Testnet
+<figure><img src="../../.gitbook/assets/组 85 (5).png" alt=""><figcaption></figcaption></figure>
 
-New RPC URL: https://testnet-rpc.zkfair.io
+2\. Click **\[Create Wallet]**  and click **\[Create Wallet]** again;
 
-Chain ID: 43851
+<figure><img src="../../.gitbook/assets/组 103.png" alt=""><figcaption></figcaption></figure>
 
-Currency symbol: USDC
+3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[Understood].**
 
-Block explorer URL: [https://testnet-scan.zkfair.io](https://testnet-scan.zkfair.io)
+<figure><img src="../../.gitbook/assets/cn 12 (4).png" alt=""><figcaption></figcaption></figure>
 
-After filling in the information, click the "Save" button at the bottom. You will see a successful addition prompt in the network selection interface. Now click on the newly added "ZKFair Testnet" public chain.
+4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3qtItoZih7cEdFc6kPNk%2Fuploads%2FqQlsgbDrju6Yndk8efAH%2F2.png?alt=media&#x26;token=795144f6-310e-41fb-baa6-b63c5770985b" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-3. After clicking on ZKFair Testnet, you will see two options: "Create Wallet" and "Import Wallet". You can create or import a ZKFair wallet according to your actual needs.
+5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a **ZKFair**wallet.
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3qtItoZih7cEdFc6kPNk%2Fuploads%2F9kikaOrUMQb59MCVIx6v%2F3.png?alt=media&#x26;token=3c339e91-433b-49ff-be28-9e8a74953652" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
-### How to add PulseChain on TokenPocket  Extension Wallet?
+<figure><img src="../../.gitbook/assets/3 en 1 (4).png" alt=""><figcaption></figcaption></figure>
 
-1. Click the top left corner to switch networks, then click the "Custom RPC" menu at the bottom.
+### <mark style="color:orange;">**How to import a ZKFair wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3qtItoZih7cEdFc6kPNk%2Fuploads%2Fj5IQmY8Ot07rOft5XV1R%2F1.png?alt=media&#x26;token=571d509e-a86a-468e-b172-6e6b26666b29" alt=""><figcaption></figcaption></figure>
+1. Open TokenPocket APP, click![](<../../.gitbook/assets/image (8).png>) on the upper right corner, and select **ZKFair;**
 
-2.  Enter the following information in the custom network editing interface:
+<figure><img src="../../.gitbook/assets/组 85 (5).png" alt=""><figcaption></figcaption></figure>
 
-    Network name: ZKFair Testnet
+2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
-    New RPC URL: https://testnet-rpc.zkfair.io
+<figure><img src="../../.gitbook/assets/组 106.png" alt=""><figcaption></figcaption></figure>
 
-    Chain ID: 43851
+3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a **ZKFair** wallet.​​&#x20;
 
-    Currency symbol: USDC
+<figure><img src="../../.gitbook/assets/组 83 (3).png" alt=""><figcaption></figcaption></figure>
 
-    Block explorer URL: [https://testnet-scan.zkfair.io](https://testnet-scan.zkfair.io)
+### <mark style="color:orange;">**How to sync a ZKFair wallet on TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
-After completing the information, click the "Save" button at the bottom. You can now see the newly created ZKFair wallet and also import it into the ZKFair Testnet public chain using the plugin.
+1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (57).png>) on the upper right corner, and select **ZKFair**;
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 85 (5).png" alt=""><figcaption></figcaption></figure>
+
+2. Click**【Create Wallet】**, click**【One-Step Sync】.**
+
+<figure><img src="../../.gitbook/assets/组 116 (2).png" alt=""><figcaption></figcaption></figure>
+
+3. Select the network you want to sync and click**【Synchronize】**, you can view your wallet on **ZKFair Network.**
+
+<figure><img src="../../.gitbook/assets/组 117 (4).png" alt=""><figcaption></figcaption></figure>
+
+## Chrome Extention Use Guide
+
+1. Open TokenPocket Chrome Extension, click the upper left corner to select the **ZKFair Network**.
+
+<figure><img src="../../.gitbook/assets/组 112 (2).png" alt=""><figcaption></figcaption></figure>
+
+2. After you selected, you can view your **ZKFair Wallet** on the Assets page, click the upper right corner to access the management page, you can switch your wallet, create/import wallet on this page.
+
+<figure><img src="../../.gitbook/assets/组 113 (2).png" alt=""><figcaption></figcaption></figure>
