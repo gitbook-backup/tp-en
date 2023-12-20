@@ -209,6 +209,7 @@
   * [IOST Use Guide（ Assist in creating）](wallet-operation/how-to-create-a-wallet/iost.md)
   * [ZKFair Use Guide](wallet-operation/how-to-create-a-wallet/zkfair.md)
   * [Scroll Use Guide](wallet-operation/how-to-create-a-wallet/scroll.md)
+  * [ZKFair Use Guide](wallet-operation/how-to-create-a-wallet/scroll-1.md)
   * [HAQQ Use Guide](wallet-operation/how-to-create-a-wallet/haqq.md)
   * [Core Use Guide](wallet-operation/how-to-create-a-wallet/core.md)
   * [ZetaChain Testnet Use Guide](wallet-operation/how-to-create-a-wallet/zetachain-testnet.md)
