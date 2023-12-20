@@ -22,7 +22,7 @@
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a **ZKFair**wallet.
+5\. Enter your secret recovery phrase, and click **\[Confirm].** At this point, you have successfully created a **ZKFair** wallet.
 
 <mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
@@ -62,6 +62,6 @@
 
 <figure><img src="../../.gitbook/assets/组 112 (2).png" alt=""><figcaption></figcaption></figure>
 
-2. After you selected, you can view your **ZKFair Wallet** on the Assets page, click the upper right corner to access the management page, you can switch your wallet, create/import wallet on this page.
+2. After you select, you can view your **ZKFair Wallet** on the Assets page, click the upper right corner to access the management page, and you can switch your wallet, and create/import your wallet on this page.
 
 <figure><img src="../../.gitbook/assets/组 113 (2).png" alt=""><figcaption></figcaption></figure>
