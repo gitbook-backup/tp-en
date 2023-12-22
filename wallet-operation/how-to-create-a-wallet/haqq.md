@@ -8,7 +8,7 @@
 
 1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (57).png>) on the upper right corner, and select **HAQQ**;
 
-<figure><img src="../../.gitbook/assets/组 85.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 85 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click **\[Create Wallet]**  and click **\[Create Wallet]** again;
 
@@ -16,7 +16,7 @@
 
 3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[Understood].**
 
-<figure><img src="../../.gitbook/assets/cn 12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 12 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
@@ -26,13 +26,13 @@
 
 <mark style="color:red;">**Attention: Do not disclose the private key or secret recovery phrase to the third party!**</mark>
 
-<figure><img src="../../.gitbook/assets/3 en 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 en 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**How to import a HAQQ wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
 1. Open TokenPocket APP, click![](<../../.gitbook/assets/image (8).png>) on the upper right corner, and select **HAQQ;**
 
-<figure><img src="../../.gitbook/assets/组 85.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 85 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click **\[Import Wallet]**, and select the way you want to import your wallet.
 
@@ -40,13 +40,13 @@
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a **HAQQ** wallet.​​&#x20;
 
-<figure><img src="../../.gitbook/assets/组 83.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 83 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**How to sync a HAQQ wallet on TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
 1. Open TokenPocket APP, click ![](<../../.gitbook/assets/image (57).png>) on the upper right corner, and select **HAQQ**;
 
-<figure><img src="../../.gitbook/assets/组 85.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 85 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click**【Create Wallet】**, click**【One-Step Sync】.**
 
@@ -62,8 +62,8 @@
 
 1. Open TokenPocket Chrome Extension, click the upper left corner to select the **HAQQ Network**.
 
-<figure><img src="../../.gitbook/assets/组 112.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 112 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. After you selected, you can view your HAQQ Wallet on the Assets page, click the upper right corner to access the management page, you can switch your wallet, create/import wallet on this page.
 
-<figure><img src="../../.gitbook/assets/组 113.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 113 (1).png" alt=""><figcaption></figcaption></figure>

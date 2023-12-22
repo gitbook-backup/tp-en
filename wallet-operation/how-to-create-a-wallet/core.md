@@ -12,7 +12,7 @@
 
 3\. Set the wallet name and password, click the User Agreement, and click **\[Create Wallet].** Watch and learn the video content, click **\[I got it].**
 
-<figure><img src="../../.gitbook/assets/cn 12 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cn 12 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Select the security tips, and click **\[Next Step]**. Back up the secret recovery phrase on the paper or on the [**KeyPal**](https://www.keypal.pro/en/), and store it in a safe place. Click **\[Completed backup, verify now]** .
 
@@ -24,7 +24,7 @@
 
 <mark style="color:red;">**ima**</mark>
 
-<figure><img src="../../.gitbook/assets/3 en 1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 en 1 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">**How to import a Core wallet into TokenPocket?**</mark> <a href="#how-to-import-an-etc-wallet-into-tokenpocket" id="how-to-import-an-etc-wallet-into-tokenpocket"></a>
 
@@ -38,4 +38,4 @@
 
 3\. Take **\[Recovery Phrase import]** as an example, enter your secret recovery phrase, wallet name, and password, click the User Agreement, and click **\[Import Wallet]**. At this point, you have successfully imported a **Core** wallet.​​&#x20;
 
-<figure><img src="../../.gitbook/assets/组 83 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 83 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

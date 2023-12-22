@@ -208,6 +208,7 @@
   * [IOST Use Guide（ Activation Code Creation）](wallet-operation/how-to-create-a-wallet/code.md)
   * [IOST Use Guide（ Assist in creating）](wallet-operation/how-to-create-a-wallet/iost.md)
   * [Scroll Use Guide](wallet-operation/how-to-create-a-wallet/scroll.md)
+  * [Manta Use Guide](wallet-operation/how-to-create-a-wallet/manta.md)
   * [ZKFair Use Guide](wallet-operation/how-to-create-a-wallet/zkfair.md)
   * [HAQQ Use Guide](wallet-operation/how-to-create-a-wallet/haqq.md)
   * [Core Use Guide](wallet-operation/how-to-create-a-wallet/core.md)

@@ -60,8 +60,8 @@
 
 1. Open TokenPocket Chrome Extension, click the upper left corner to select the **Scroll Network**.
 
-<figure><img src="../../.gitbook/assets/组 112 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 112 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. After you selected, you can view your **Scroll** **Wallet** on the Assets page, click the upper right corner to access the management page, you can switch your wallet, create/import wallet on this page.
 
-<figure><img src="../../.gitbook/assets/组 113 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/组 113 (1) (1).png" alt=""><figcaption></figcaption></figure>
