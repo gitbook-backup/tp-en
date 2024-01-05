@@ -55,6 +55,7 @@
 ## 📨 Wallet FAQ <a href="#wallet-faq-en" id="wallet-faq-en"></a>
 
 * [BTC Wallet](faq-en/btc-wallet/README.md)
+  * [Quick Overview: Bitcoin Ecosystem Protocols](wallet-faq-en/btc-wallet/quick-overview-bitcoin-ecosystem-protocols.md)
   * [The fastest way to transfer BRC-20 assets.](wallet-faq-en/btc-wallet/brc20.md)
   * [How to use BTC Acceleration](wallet-faq-en/btc-wallet/how-to-use-btc-acceleration.md)
   * [What is a Partially Signed Bitcoin Transaction (PSBT)](wallet-faq-en/btc-wallet/psbt.md)
